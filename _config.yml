@@ -1,21 +1,12 @@
 title: MXHECTORVEGA
 url: "https://mxhectorvega.github.io"
 theme: jekyll-theme-minimal
-  # generate social links in footer
   social_links:
     twitter: mxhectorvega
     github:  mxhectorvega
-    # devto: jekyll
-    # dribbble: jekyll
     facebook: mxhectorvega
-    # flickr:   jekyll
     instagram: mxhectorvega
-    # linkedin: jekyll
-    # pinterest: jekyll
     youtube: mxhectorvega
     youtube_channel: mxhectorvega
     youtube_channel_name: mxhectorvega
     telegram: mxhectorvega
-    # googleplus: +jekyll
-    # microdotblog: jekyll
-    # keybase: jekyll
