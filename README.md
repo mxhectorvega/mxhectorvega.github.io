@@ -113,7 +113,7 @@ Clonar y copiar los archivos de configuracion:
 ```
 git clone https://github.com/mxhectorvega/dotfiles
 
-cp -R ~/dotfiles/* ~/
+cp -R ~/dotfiles/.config/* ~/.config
 ```
 
 Otorgar permisos de ejecucion a los archivos:
@@ -132,7 +132,6 @@ permisos de ejecucion con `chmod +x`).
 sudo pacman -S gvfs devmon devilspie xcompmgr ueberzug youtube-dl ffmpegthumbnailer gst-plugins-good gst-libav feh mpd mpc ncmpcpp slock firefox telegram-desktop htop xarchiver neofetch leafpad ranger pcmanfm lxappearance dunst maim xclip sxiv xdotool calcurse zathura zathura-pdf-mupdf neovim mpv screenkey
 
 yay -S transset-df
-
 ```
 
 **Fuentes y temas**
