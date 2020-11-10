@@ -48,7 +48,7 @@ pip install pywal
 **Temas**
 
 ```
-pkg install papirus-icon-theme materia-gtk-theme
+sudo dnf install papirus-icon-theme materia-gtk-theme
 ```
 
 
