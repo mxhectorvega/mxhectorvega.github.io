@@ -28,9 +28,9 @@ Clonar y copiar los archivos de configuracion:
 ```
 git clone https://github.com/mxhectorvega/dotfilesfreebsd
 
-cp -R ~/dotfiles/.config/* ~/.config
+cp -R ~/dotfilesfreebsd/.config/* ~/.config
 
-cp ~/dotfiles/.config/.Xresources ~/.Xresources
+cp ~/dotfilesfreebsd/.Xresources ~/.Xresources
 ```
 
 
