@@ -1,3 +1,125 @@
+# DOTFILES ARCH LINUX
+Configuraciones personales
+
+BSPwm, polybar, rofi y un par de scripts que facilitan el uso diario, sin sacrificar el rendimiento.
+
+<img src="https://raw.githubusercontent.com/mxhectorvega/dotfilesarchlinux/main/screenshot.png" />
+
+
+**Importante:**
+
+Puede probar esta configuracion en una Maquina Virtual QEMU, VirtualBox, etc., instalando con mi script de instalacion rapida de ArchLinux, donde solo instala lo basico hasta el servidor X y asi probar sin afectar a su SO ppal.
+https://raw.githubusercontent.com/mxhectorvega/installarch/main/qemuxorg
+
+**Instalacion**
+
+Instalar BSPwm, Sxhkd y Rofi (para que funcione rofi con los temas debe instalar pywal desde pip3 `pip install pywal`).
+
+```
+sudo pacman -S bspwm sxhkd rofi
+```
+
+Instalar polybar.
+
+```
+yay -S polybar-git
+```
+
+Clonar e instalar el repositorio `make && sudo make install` a travez de la terminal.
+
+```
+git clone https://github.com/mxhectorvega/st
+```
+
+**Configuracion**
+
+Clonar y copiar los archivos de configuracion:
+
+```
+git clone https://github.com/mxhectorvega/dotfilesarchlinux
+
+mkdir .local
+mkdir .local/share
+
+cp -R ~/dotfilesarchlinux/.config/* ~/.config
+cp -R ~/dotfilesarchlinux/.local/* ~/.local
+
+chmod + x ~/.config/bspwm/*
+chmod + x ~/.local/bin*
+```
+
+En caso de no tener pantalla de inicio de sesion, agregar en la linea 1: `sxhkd &` y en la linea 2: `exec bspwm` al
+archivo **~/.xinitrc, .xprofile o zprofile** (si no cuenta con el archivo, cree uno nuevo y asigne
+permisos de ejecucion con `chmod +x`).
+
+**Dependencias**
+
+```
+sudo pacman -S bc tmux imagemagick ueberzug ffmpegthumbnailer feh mpd mpc ncmpcpp slock telegram-desktop htop xarchiver neofetch leafpad ranger pcmanfm lxappearance dunst maim xclip sxiv xdotool calcurse zathura zathura-pdf-mupdf neovim mpv screenkey --noconfirm --needed
+```
+
+**Temas**
+
+```
+sudo pacman -S materia-gtk-theme materia-kde papirus-icon-theme --noconfirm --needed
+```
+
+**Bordes de ventanas redondeados (opcional)**
+
+```
+yay -S picom-ibhagwan-git --noconfirm --needed
+```
+
+**Cosas que se ven en la terminal**
+
+```
+yay -S cava-git cmatrix unimatrix pfetch tty-clock --noconfirm --needed
+```
+
+**Software de uso personal (opcional)**
+
+```
+sudo pacman -S geany python-pip obs-studio libreoffice-fresh-es kdenlive audacity gimp inkscape --noconfirm --needed
+
+yay -S spotify spotify-adblock-linux --noeditmenu --noconfirm --needed
+```
+
+**En caso de no tener instalado YAY:**
+
+```
+git clone https://aur.archlinux.org/yay.git ; cd yay ; makepkg -si ; cd ~ ; rm -rf yay
+```
+
+**NOTA:**
+Los scripts esta en el directorio `.local/bin` donde podra modificarlos o tomar parte del codigo.
+
+**NOTA:**
+Para agregar o quitar modulos de polybar, debera modificar la linea 47 de `.config/polybar/config` segun el nombre asignado ejemplo [module/fecha] el modulo es: fecha
+
+
+**Grupo telegram:**
+https://t.me/wmesp
+
+
+**Canal de tips:**
+https://t.me/mxhectorvega
+
+
+**Creditos:**
+@mxhectorvega @tenshalito @bourne_again @darch7 @codeassault
+
+
+
+
+
+
+-
+
+
+
+
+
+
 # DOTFILES FEDORA
 
 Configuraciones personales en Fedora 33
@@ -65,6 +187,11 @@ https://t.me/fedora_tips
 @mxhectorvega @DonatelloSanz 
 
 
+
+
+
+
+-
 
 
 
@@ -148,104 +275,3 @@ https://t.me/bsd_tips
 **Creditos:**
 
 @mxhectorvega @DtxdF @ozunalexis @AlexHMusique @Lunatic_101
-
-
-
-
-
-
-
-
-
-# DOTFILES ARCH LINUX
-Configuraciones personales
-
-BSPwm con Lemonbar personalizados e integrados con Dmenu y un par de scripts que facilitan el uso diario, sin sacrificar el rendimiento.
-
-<img src="https://raw.githubusercontent.com/mxhectorvega/mxhectorvega.github.io/master/archivos/screen3.png" />
-
-<img src="https://raw.githubusercontent.com/mxhectorvega/mxhectorvega.github.io/master/archivos/screen2.png" />
-
-<img src="https://raw.githubusercontent.com/mxhectorvega/mxhectorvega.github.io/master/archivos/screen1.png" />
-
-**Instalacion**
-
-Clonar e instalar los repositorios `make && sudo make install` a travez de la terminal.
-
-```
-git clone https://github.com/baskerville/bspwm
-git clone https://github.com/baskerville/sxhkd
-git clone https://github.com/baskerville/xdo
-git clone https://github.com/baskerville/sutils
-git clone https://github.com/baskerville/xtitle
-git clone https://github.com/mxhectorvega/dmenu
-git clone https://github.com/mxhectorvega/tabbed
-git clone https://github.com/mxhectorvega/surf
-git clone https://github.com/mxhectorvega/st
-git clone https://github.com/krypt-n/bar
-```
-**Configuracion**
-
-Clonar y copiar los archivos de configuracion:
-
-```
-git clone https://github.com/mxhectorvega/dotfiles
-
-cp -R ~/dotfiles/.config/* ~/.config
-```
-
-Otorgar permisos de ejecucion a los archivos:
-
-```
-chmod -R +x ~/.config/{bspwm,lemonbar,ranger}
-```
-
-En caso de no tener pantalla de inicio de sesion, agregar `exec bspwm` al
-archivo **~/.xinitrc, .xprofile o start.sh** (si no cuenta con el archivo, cree uno nuevo y asigne
-permisos de ejecucion con `chmod +x`).
-
-**Dependencias**
-
-```
-sudo pacman -S gvfs devmon devilspie xcompmgr ueberzug youtube-dl ffmpegthumbnailer gst-plugins-good gst-libav feh mpd mpc ncmpcpp slock firefox telegram-desktop htop xarchiver neofetch leafpad ranger pcmanfm lxappearance dunst maim xclip sxiv xdotool calcurse zathura zathura-pdf-mupdf neovim mpv screenkey
-
-yay -S transset-df
-```
-
-**Fuentes y temas**
-
-```
-yay -S otf-sfmono nerd-fonts-mononoki ttf-joypixel sotf-font-awesome-5-free awesome-terminal-fonts ttf-menlo-powerline-git otf-san-francisco-compact nerd-fonts-sf-mono materia-gtk-theme materia-kde papirus-icon-theme
-```
-
-**Bordes de ventanas redondeados (opcional)**
-
-```
-picom-ibhagwan-git
-```
-
-**Drives de Pulseaudio (opcional)**
-
-```
-sudo pacman -S pulseaudio pulseaudio-alsa pulseaudio-bluetooth alsa-utils alsa-plugins
-```
-
-**Software de uso personal (opcional)**
-
-```
-sudo pacman -S libreoffice-fresh-es kdenlive audacity gimp inkscape
-
-yay -S spotify spotify-adblock-linux --noeditmenu --noconfirm --needed
-```
-
-**Grupo telegram:**
-
-https://t.me/wmesp
-
-**Canal de tips:**
-
-https://t.me/mxhectorvega
-
-**Creditos:**
-
-@mxhectorvega @tenshalito @bourne_again @darch7 @codeassault
