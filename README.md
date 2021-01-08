@@ -207,10 +207,6 @@ BSPwm con Polybar y Rofi menu.
 
 <img src="https://raw.githubusercontent.com/mxhectorvega/mxhectorvega.github.io/master/archivos/photo_2020-10-31_21-12-07.jpg" />
 
-<img src="https://raw.githubusercontent.com/mxhectorvega/mxhectorvega.github.io/master/archivos/photo_2020-10-31_21-12-08.jpg" />
-
-<img src="https://raw.githubusercontent.com/mxhectorvega/mxhectorvega.github.io/master/archivos/photo_2020-10-31_21-15-52.jpg" />
-
 
 **Crear directorios**
 
