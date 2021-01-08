@@ -33,9 +33,7 @@ https://t.me/mxhectorvega
 
 
 
-
 -
-
 
 
 
@@ -155,9 +153,7 @@ https://t.me/mxhectorvega
 
 
 
-
 -
-
 
 
 
@@ -233,9 +229,7 @@ https://t.me/fedora_tips
 
 
 
-
 -
-
 
 
 
