@@ -347,6 +347,8 @@ arch-chroot /mnt /bin/bash -c "pacman -S iw wireless_tools wpa_supplicant dialog
 
 #INSTALACION DE DRIVERS BLUETOOTH
 arch-chroot /mnt /bin/bash -c "pacman -S bluez bluez-libs bluez-utils pulseaudio-bluetooth --noconfirm"
+#ACTIVAR BLUETOOTH
+arch-chroot /mnt /bin/bash -c "systemctl enable bluetooth.service"
 
 #SHELL
 #arch-chroot /mnt /bin/bash -c "pacman -S zsh zsh-completions zsh-syntax-highlighting zsh-autosuggestions --noconfirm"
@@ -448,6 +450,6 @@ umount -R /mnt
 swapoff -a
       clear
       echo ""
-      echo "                                          youtube/mxhectorvega"
+      echo "                                youtube/mxhectorvega"
       sleep 7
 reboot
