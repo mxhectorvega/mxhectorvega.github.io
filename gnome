@@ -283,7 +283,7 @@ clear
 #INSTALACION DEL KERNEL
 arch-chroot /mnt /bin/bash -c "pacman -S linux-firmware linux linux-headers mkinitcpio --noconfirm"
 
-arch-chroot /mnt /bin/bash -c "pacman -S gnome-shell gdm gnome-control-center gnome-terminal nautilus gnome-terminal-nautilus --noconfirm"
+arch-chroot /mnt /bin/bash -c "pacman -S gnome-shell gdm gnome-control-center gnome-terminal nautilus chrome-gnome-shell --noconfirm"
 arch-chroot /mnt /bin/bash -c "systemctl enable gdm"
 
 uefi=$( ls /sys/firmware/efi/ | grep -ic efivars )
