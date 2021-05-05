@@ -37,19 +37,19 @@ echo "Discos Disponibles :"
 echo ""
 echo "print devices" | parted | grep /dev/ | awk '{if (NR!=1) {print}}' | sed '/sr/d'
 echo ''
-read -p "Introduce tu disco a instalar Arch: " disco
+read -p "En que unidad de almacenamiento se instalara ArchLinux? " disco
 echo ""
-read -p "Introduce la clave Root: " rootpasswd
+read -p "Nueva clave root: " rootpasswd
 echo ""
-read -p "Introduce Nombre usuario Nuevo: " user
+read -p "Nuevo usuario: " user
 echo ""
-read -p "Introduce la clave de $user: " userpasswd
+read -p "Contraseña de $user: " userpasswd
 echo ""
-read -p "Introduce Nombre del Equipo (host): " hostname
+read -p "Nombre del Equipo (host): " hostname
 echo ""
-read -p "Introduce tu ubicación, Ejemplo (es_PE.UTF-8 / es_MX.UTF-8 / es_AR.UTF-8): " userpais
+read -p "Ubicacion (es_PE.UTF-8 / es_MX.UTF-8 / es_AR.UTF-8): " userpais
 echo ""
-read -p "Introduce la distribucion de tu teclado, Ejemplo (es / latam / us): " teclado
+read -p "Coloca la distribucion de tu teclado (es / latam / us): " teclado
 echo ""
 echo "Selección de Disco: $disco"
 echo ''
@@ -103,11 +103,11 @@ then
 	echo ""
 	echo "Formateando Particiones"
 	echo ""
-	mkfs.btrfs -f -L "root" -n 32k $(cat root-efi) 
+	mkfs.btrfs -f -L root -n 32k $(cat root-efi) 
 	mount $(cat root-efi) /mnt 
 
 	mkdir -p /mnt/home
-	mkfs.btrfs -f -L "root" -n 32k $(cat home-efi) 
+	mkfs.btrfs -f -L home -n 32k $(cat home-efi) 
 	mount $(cat home-efi) /mnt/home
 
 	mkdir -p /mnt/efi 
@@ -162,11 +162,11 @@ else
 	echo ""
 	echo "Formateando Particiones"
 	echo ""
-	mkfs.btrfs -f -L "root" -n 32k $(cat root-bios) 
+	mkfs.btrfs -f -L root -n 32k $(cat root-bios) 
 	mount $(cat root-bios) /mnt 
 
 	mkdir -p /mnt/boot
-	mkfs.btrfs -f -L "root" -n 32k $(cat boot-bios) 
+	mkfs.ext4 $(cat boot-bios) 
 	mount $(cat boot-bios) /mnt/boot
 
 #	mkswap $(cat swap-bios) 
@@ -359,7 +359,7 @@ arch-chroot /mnt /bin/bash -c "pacman -S bluez bluez-libs bluez-utils pulseaudio
 #arch-chroot /mnt /bin/bash -c "pacman -S xorg xorg-apps xorg-xinit xorg-twm xorg-xclock --noconfirm"
 
 #UTILIDADESY SOFTWARE PERSONAL REVISAR BIEN BIEN PARA NO INSTALAR ALGO QUE NO LE PARESCA UTIL
-arch-chroot /mnt /bin/bash -c "pacman -S p7zip unrar zip unzip gzip bzip2 arj lzop git wget neofetch lsb-release xdg-user-dirs msmtp libmtp libcddb gvfs gvfs-afc gvfs-smb gvfs-gphoto2 gvfs-mtp gvfs-goa gvfs-nfs gvfs-google dosfstools jfsutils f2fs-tools btrfs-progs exfat-utils ntfs-3g reiserfsprogs udftools xfsprogs nilfs-utils polkit gpart mtools ffmpeg aom libde265 x265 x264 libmpeg2 xvidcore libtheora libvpx schroedinger sdl gstreamer gst-plugins-bad gst-plugins-base gst-plugins-base-libs gst-plugins-good gst-plugins-ugly xine-lib libdvdcss libdvdread dvd+rw-tools lame python-pip --noconfirm"
+arch-chroot /mnt /bin/bash -c "pacman -S p7zip unrar zip unzip gzip bzip2 arj lzop git wget neofetch lsb-release xdg-user-dirs msmtp libmtp libcddb gvfs gvfs-afc gvfs-smb gvfs-gphoto2 gvfs-mtp gvfs-goa gvfs-nfs gvfs-google dosfstools jfsutils f2fs-tools btrfs-progs exfat-utils ntfs-3g reiserfsprogs udftools xfsprogs nilfs-utils polkit gpart mtools ffmpeg aom libde265 x265 x264 libmpeg2 xvidcore libtheora libvpx schroedinger sdl gstreamer gst-plugins-bad gst-plugins-base gst-plugins-base-libs gst-plugins-good gst-plugins-ugly xine-lib libdvdcss libdvdread dvd+rw-tools lame --noconfirm"
 arch-chroot /mnt /bin/bash -c "xdg-user-dirs-update"
 clear
 echo ""
@@ -448,6 +448,6 @@ umount -R /mnt
 swapoff -a
       clear
       echo ""
-      echo "                        youtube/mxhectorvega"
+      echo "                                          youtube/mxhectorvega"
       sleep 7
 reboot
