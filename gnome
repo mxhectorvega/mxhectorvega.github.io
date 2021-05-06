@@ -2,6 +2,7 @@
 
 #CAMBIO AUTOMATICO DE FUENTE A UNA MAS GRANDE
 setfont Lat2-Terminus16
+#setfont ter-132n
 
 #CAMBIAR EL LIVEUB A ESPAÑOL
 clear
@@ -45,7 +46,7 @@ read -p "Nuevo usuario: " user
 echo ""
 read -p "Contraseña de $user: " userpasswd
 echo ""
-read -p "Nombre del Equipo (host): " hostname
+read -p "Nombre del computador (host): " hostname
 echo ""
 read -p "Ubicacion (es_PE.UTF-8 / es_MX.UTF-8 / es_AR.UTF-8): " userpais
 echo ""
@@ -103,11 +104,11 @@ then
 	echo ""
 	echo "Formateando Particiones"
 	echo ""
-	mkfs.btrfs -f -L root -n 32k $(cat root-efi) 
+	mkfs.ext4 $(cat root-efi) 
 	mount $(cat root-efi) /mnt 
 
 	mkdir -p /mnt/home
-	mkfs.btrfs -f -L home -n 32k $(cat home-efi) 
+	mkfs.ext4 $(cat home-efi) 
 	mount $(cat home-efi) /mnt/home
 
 	mkdir -p /mnt/efi 
@@ -162,7 +163,7 @@ else
 	echo ""
 	echo "Formateando Particiones"
 	echo ""
-	mkfs.btrfs -f -L root -n 32k $(cat root-bios) 
+	mkfs.ext4 $(cat root-bios) 
 	mount $(cat root-bios) /mnt 
 
 	mkdir -p /mnt/boot
@@ -450,6 +451,6 @@ umount -R /mnt
 swapoff -a
       clear
       echo ""
-      echo "                                youtube/mxhectorvega"
+      echo "                                              youtube/mxhectorvega"
       sleep 7
 reboot
