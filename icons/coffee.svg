@@ -1,1 +1,59 @@
-<?xml version="1.0" ?><svg data-name="Layer 13" id="Layer_13" viewBox="0 0 50 50" xmlns="http://www.w3.org/2000/svg"><defs><style>.cls-1{fill:#010101;}</style></defs><title/><path class="cls-1" d="M37.7,21l-1.7.2V18a2,2,0,0,0-2-2H4a2,2,0,0,0-2,2V36.8A11.2,11.2,0,0,0,13.2,48H24.8a11.2,11.2,0,0,0,10.5-7.3L37.7,41A10,10,0,1,0,37.7,21ZM32,36.8A7.2,7.2,0,0,1,24.8,44H13.2A7.2,7.2,0,0,1,6,36.8V20H32V36.8ZM37.7,37L36,36.8V25.2l1.7-.2A6,6,0,1,1,37.7,37Z"/><path class="cls-1" d="M10,14a2,2,0,0,0,2-2V4A2,2,0,0,0,8,4v8A2,2,0,0,0,10,14Z"/><path class="cls-1" d="M19,14a2,2,0,0,0,2-2V4a2,2,0,0,0-4,0v8A2,2,0,0,0,19,14Z"/><path class="cls-1" d="M28,14a2,2,0,0,0,2-2V4a2,2,0,0,0-4,0v8A2,2,0,0,0,28,14Z"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   data-name="Layer 13"
+   id="Layer_13"
+   viewBox="0 0 50 50"
+   version="1.1"
+   sodipodi:docname="coffee.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview17"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="14.86"
+     inkscape:cx="24.966353"
+     inkscape:cy="24.966353"
+     inkscape:window-width="1920"
+     inkscape:window-height="1007"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Layer_13" />
+  <defs
+     id="defs4">
+    <style
+       id="style2">.cls-1{fill:#010101;}</style>
+  </defs>
+  <title
+     id="title6" />
+  <path
+     class="cls-1"
+     d="M37.7,21l-1.7.2V18a2,2,0,0,0-2-2H4a2,2,0,0,0-2,2V36.8A11.2,11.2,0,0,0,13.2,48H24.8a11.2,11.2,0,0,0,10.5-7.3L37.7,41A10,10,0,1,0,37.7,21ZM32,36.8A7.2,7.2,0,0,1,24.8,44H13.2A7.2,7.2,0,0,1,6,36.8V20H32V36.8ZM37.7,37L36,36.8V25.2l1.7-.2A6,6,0,1,1,37.7,37Z"
+     id="path8"
+     style="fill:#ffffff;fill-opacity:1" />
+  <path
+     class="cls-1"
+     d="M10,14a2,2,0,0,0,2-2V4A2,2,0,0,0,8,4v8A2,2,0,0,0,10,14Z"
+     id="path10"
+     style="fill:#ffffff;fill-opacity:1" />
+  <path
+     class="cls-1"
+     d="M19,14a2,2,0,0,0,2-2V4a2,2,0,0,0-4,0v8A2,2,0,0,0,19,14Z"
+     id="path12"
+     style="fill:#ffffff;fill-opacity:1" />
+  <path
+     class="cls-1"
+     d="M28,14a2,2,0,0,0,2-2V4a2,2,0,0,0-4,0v8A2,2,0,0,0,28,14Z"
+     id="path14"
+     style="fill:#ffffff;fill-opacity:1" />
+</svg>
