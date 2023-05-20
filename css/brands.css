@@ -295,7 +295,7 @@ button:hover,
 /* Jellyfin */
 .button.button-jellyfin {
   color: #ffffff;
-  background-color: #2867b2;
+  background-color: #AA5CC3;
 }
 .button.button-jellyfin:hover,
 .button.button-jellyfin:focus {
