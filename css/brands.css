@@ -295,15 +295,7 @@ button:hover,
 /* Jellyfin */
 .button.button-jellyfin {
   color: #ffffff;
-  background-image: linear-gradient(
-    25deg,
-    #0099ff,
-    #5f5dff,
-    #a033ff,
-    #c740cc,
-    #ff5280,
-    #ff7061
-  );
+  background-color: #405DE6;
 }
 .button.button-jellyfin:hover,
 .button.button-jellyfin:focus {
