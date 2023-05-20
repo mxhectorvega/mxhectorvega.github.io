@@ -292,13 +292,13 @@ button:hover,
   filter: brightness(90%);
 }
 
-/* LinkedIn */
-.button.button-linked {
+/* Jellyfin */
+.button.button-jellyfin {
   color: #ffffff;
   background-color: #2867b2;
 }
-.button.button-linked:hover,
-.button.button-linked:focus {
+.button.button-jellyfin:hover,
+.button.button-jellyfin:focus {
   filter: brightness(90%);
 }
 
