@@ -8,39 +8,39 @@
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
     <style>
         body {
-            font-family: 'Roboto', sans-serif; /* Cambiar la fuente principal del sitio */
-            font-size: 14px; /* Aumentar más el tamaño de la fuente general */
+            font-family: 'Roboto', sans-serif;
+            font-size: 14px;
             margin: 0;
             padding: 0;
-            background-color: #181a1b; /* Cambiar el color de fondo */
+            background-color: #181a1b;
             color: #fff;
-            max-width: 600px; /* Ancho por defecto */
-            margin: auto; /* Centrar en la pantalla */
+            max-width: 600px;
+            margin: auto;
         }
         header {
-            background-color: #181a1b; /* Mismo color que el fondo de la web */
+            background-color: #181a1b;
             color: white;
             padding: 20px 0;
             text-align: center;
         }
         .profile-pic {
             border-radius: 50%;
-            width: 80px; /* Reducir aún más el tamaño de la foto de perfil */
+            width: 80px;
             height: 80px;
             object-fit: cover;
             margin-top: 20px;
         }
         h1 {
-            font-size: 32px; /* Aumentar el tamaño del texto "MXHECTORVEGA" */
+            font-size: 32px;
         }
         .content {
             text-align: center;
             padding: 20px;
-            background-color: #181a1b; /* Mismo color que el fondo de la web */
+            background-color: #181a1b;
         }
         p.justify {
-            text-align: justify; /* Justificar el texto */
-            margin-bottom: 0; /* Eliminar el margen inferior para ajustar con los botones */
+            text-align: justify;
+            margin-bottom: 0;
         }
         .social-icons {
             display: flex;
@@ -48,23 +48,23 @@
             align-items: center;
         }
         .social-icons a {
-            margin: 5px 0; /* Reducir el espacio entre los botones verticalmente */
+            margin: 5px 0;
             text-decoration: none;
-            font-size: 1em; /* Ajustar tamaño de la fuente para que se vea bien con la nueva fuente */
+            font-size: 1em;
             display: flex;
             align-items: center;
             color: #fff;
-            padding: 5px 10px; /* Reducir la altura de los botones */
+            padding: 5px 10px;
             border-radius: 5px;
-            width: 180px; /* Reducir el ancho de los botones */
+            width: 180px;
             justify-content: center;
         }
         .social-icons i {
-            margin-right: 10px; /* Añadir espacio después del icono */
-            font-size: 1.5em; /* Aumentar el tamaño de los iconos */
+            margin-right: 10px;
+            font-size: 1.5em;
         }
         .social-icons .github { background-color: #333; }
-        .social-icons .jellyfin { background-color: #007fff; } /* Color azul proporcionado */
+        .social-icons .jellyfin { background-color: #007fff; }
         .social-icons .telegram { background-color: #0088CC; }
         .social-icons .youtube { background-color: #FF0000; }
         .social-icons .twitter { background-color: #1DA1F2; }
@@ -77,7 +77,7 @@
         .social-icons .buymeacoffee { background-color: #FFDD00; color: #333; }
         .social-icons .onlyfans { background-color: #00AFF0; }
         footer {
-            background-color: #181a1b; /* Mismo color que el fondo de la web */
+            background-color: #181a1b;
             color: white;
             padding: 20px 0;
             text-align: center;
@@ -85,9 +85,8 @@
             width: 100%;
             bottom: 0;
         }
-        /* Excluir la sección debajo de la imagen de perfil */
         .profile-description {
-            font-family: 'Press Start 2P', cursive; /* Mantener la fuente original */
+            font-family: 'Press Start 2P', cursive;
         }
     </style>
 </head>
@@ -101,7 +100,10 @@
         <br>
         <div class="social-icons">
             <a href="http://github.com/mxhectorvega" target="_blank" class="github"><i class="fab fa-github"></i> GitHub</a>
-            <a href="http://mxhectorvega.tplinkdns.com" target="_blank" class="jellyfin"><i class="fab fa-jellyfin"></i> Jellyfin Server</a>
+            <a href="http://mxhectorvega.tplinkdns.com" target="_blank" class="jellyfin">
+                <img src="URL_DEL_ICONO_DE_JELLYFIN" alt="Jellyfin" style="width: 24px; height: 24px; margin-right: 10px;">
+                Jellyfin Server
+            </a>
             <a href="https://t.me/s/mxhectorvega" target="_blank" class="telegram"><i class="fab fa-telegram"></i> Telegram Blog</a>
             <a href="https://youtube.com/@mxhectorvega" target="_blank" class="youtube"><i class="fab fa-youtube"></i> YouTube</a>
             <a href="https://twitter.com/mxhectorvega" target="_blank" class="twitter"><i class="fab fa-twitter"></i> Twitter</a>
@@ -112,7 +114,10 @@
             <a href="https://open.spotify.com/user/3163q7qxsi5frxzqwanxkk7dqroq?si=5312b046b24d4599" target="_blank" class="spotify"><i class="fab fa-spotify"></i> Spotify Playlist</a>
             <a href="https://www.paypal.me/mxhectorvega" target="_blank" class="paypal"><i class="fab fa-paypal"></i> PayPal Donaciones</a>
             <a href="https://www.buymeacoffee.com/mxhectorvega" target="_blank" class="buymeacoffee"><i class="fas fa-coffee"></i> Buy Me a Coffee</a>
-            <a href="https://onlyfans.com/#" target="_blank" class="onlyfans"><i class="fab fa-onlyfans"></i> OnlyFans</a>
+            <a href="https://onlyfans.com/#" target="_blank" class="onlyfans">
+                <img src="URL_DEL_ICONO_DE_ONLYFANS" alt="OnlyFans" style="width: 24px; height: 24px; margin-right: 10px;">
+                OnlyFans
+            </a>
         </div>
     </header>
     <div class="content">
