@@ -99,36 +99,29 @@
             position: relative;
             transition: background-color 0.3s;
         }
-        .toggle-switch label::before {
+        .toggle-switch label::after {
             content: '\f185'; /* Icono de sol */
             font-family: 'Font Awesome 5 Free';
             font-weight: 900;
-            color: #ffcc00;
-            position: absolute;
-            left: 5px;
-            font-size: 1em;
-        }
-        .toggle-switch input[type="checkbox"]:checked + label::before {
-            content: '\f186'; /* Icono de luna */
-            left: calc(100% - 25px);
-            color: #fff;
-        }
-        .toggle-switch label::after {
-            content: '';
+            color: #888; /* Gris más oscuro */
             width: 20px;
             height: 20px;
-            background-color: white;
             border-radius: 50%;
             position: absolute;
             top: 2.5px;
             left: 2.5px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
             transition: left 0.3s;
+        }
+        .toggle-switch input[type="checkbox"]:checked + label::after {
+            content: '\f186'; /* Icono de luna */
+            left: 27.5px;
+            color: #fff;
         }
         .toggle-switch input[type="checkbox"]:checked + label {
             background-color: #333;
-        }
-        .toggle-switch input[type="checkbox"]:checked + label::after {
-            left: 27.5px;
         }
         @media (max-width: 768px) {
             .profile-pic {
@@ -203,4 +196,8 @@
         const body = document.body;
 
         toggleSwitch.addEventListener('change', () => {
-            body.classList.toggle('dark[_{{{CITATION{{{_1{](https://github.com/la9una/web/tree/ba1073ae044ebb7b538a3b13f0f9598f7c410bb6/docs%2Fbootstrap%2Falignci.md)[_{{{CITATION{{{_2{](https://github.com/CLONATORE/markdowns/tree/82cfb03683ceb807a7091de48045e6a7485acd72/webpack.md)[_{{{CITATION{{{_3{](https://github.com/datsfilipe/projetoCadastro/tree/3022e14b8f9c22533ae1c2d189e2ae8381b4a10c/resources%2Fviews%2Fmenu.blade.php)
+            body.classList.toggle('dark-mode');
+        });
+    </script>
+</body>
+</html>
