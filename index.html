@@ -9,80 +9,77 @@
     <style>
         body {
             font-family: 'Roboto', sans-serif;
-            font-size: 16.2px; /* Aumentado un 15% en total */
+            font-size: 16.2px;
             margin: 0;
             padding: 0;
-            color: #000; /* Cambiado el color de texto a negro por defecto */
-            max-width: 693px; /* Aumentado un 15% en total */
+            color: #000;
+            max-width: 693px;
             margin: auto;
+            background-color: #f5f5f5; /* Fondo claro para mejor contraste */
         }
         header {
-            padding: 23.1px 0; /* Aumentado un 15% en total */
+            padding: 23.1px 0;
             text-align: center;
+            background-color: #ffffff; /* Fondo blanco para encabezado */
+            box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); /* Sombra ligera */
         }
         .profile-pic {
             border-radius: 50%;
-            width: 92.4px; /* Aumentado un 15% en total */
-            height: 92.4px; /* Aumentado un 15% en total */
+            width: 92.4px;
+            height: 92.4px;
             object-fit: cover;
-            margin-top: 23.1px; /* Aumentado un 15% en total */
+            margin-top: 23.1px;
+            border: 2px solid #ddd; /* Borde fino para imagen */
         }
         h1 {
-            font-size: 36.96px; /* Aumentado un 15% en total */
-            margin-bottom: 2px; /* Reducido el espacio inferior */
+            font-size: 36.96px;
+            margin-bottom: 5px;
+        }
+        .profile-description p {
+            font-size: 1.2em;
+            color: #666; /* Color gris para el eslogan */
         }
         .content {
             text-align: center;
-            padding: 23.1px; /* Aumentado un 15% en total */
-        }
-        p.justify {
-            text-align: center; /* Centramos el eslogan */
-            margin-top: 2px; /* Reducido el espacio superior */
-            margin-bottom: 20px; /* Aumentado el espacio inferior */
+            padding: 23.1px;
+            background-color: #ffffff; /* Fondo blanco para contenido */
+            box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); /* Sombra ligera */
+            margin: 20px 0;
         }
         .social-icons {
             display: flex;
-            flex-direction: column;
-            align-items: center;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 10px;
         }
         .social-icons a {
-            margin: 5px 0;
             text-decoration: none;
             font-size: 1em;
             display: flex;
             align-items: center;
-            color: #000; /* Cambiado el color de texto a negro por defecto */
-            padding: 5px 10px;
+            color: #000;
+            padding: 10px 15px;
             border-radius: 5px;
-            width: 180px;
-            justify-content: center;
+            background-color: #ffffff; /* Fondo blanco para iconos */
+            box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); /* Sombra ligera */
+            transition: background-color 0.3s, box-shadow 0.3s; /* Transición suave */
+        }
+        .social-icons a:hover {
+            background-color: #f0f0f0; /* Cambio de fondo al pasar el mouse */
+            box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.15); /* Sombra más intensa */
         }
         .social-icons i {
             margin-right: 10px;
-            font-size: 1.5em; /* No cambiado */
+            font-size: 1.5em;
         }
-        .social-icons .github { background-color: #f0f0f0; } /* Fondo claro para mejor contraste en modo oscuro */
-        .social-icons .jellyfin { background-color: #f0f0f0; }
-        .social-icons .telegram { background-color: #f0f0f0; }
-        .social-icons .youtube { background-color: #f0f0f0; }
-        .social-icons .twitter { background-color: #f0f0f0; }
-        .social-icons .instagram { background-color: #f0f0f0; }
-        .social-icons .facebook { background-color: #f0f0f0; }
-        .social-icons .tiktok { background-color: #f0f0f0; }
-        .social-icons .twitch { background-color: #f0f0f0; }
-        .social-icons .spotify { background-color: #f0f0f0; }
-        .social-icons .paypal { background-color: #f0f0f0; }
-        .social-icons .buymeacoffee { background-color: #f0f0f0; color: #000; }
-        .social-icons .onlyfans { background-color: #f0f0f0; }
         footer {
-            padding: 23.1px 0; /* Aumentado un 15% en total */
+            padding: 23.1px 0;
             text-align: center;
+            background-color: #ffffff; /* Fondo blanco para pie de página */
+            box-shadow: 0px -4px 8px rgba(0, 0, 0, 0.1); /* Sombra ligera superior */
             position: relative;
             width: 100%;
             bottom: 0;
-        }
-        .profile-description {
-            font-family: 'Press Start 2P', cursive;
         }
     </style>
 </head>
@@ -91,9 +88,10 @@
         <img src="https://github.com/mxhectorvega.png" alt="Foto de perfil" class="profile-pic">
         <h1>MXHECTORVEGA</h1>
         <div class="profile-description">
-            <p class="justify">Conecta con el geek que todos llevamos dentro</p> <!-- Eslogan centrado -->
+            <p>Conecta con el geek que todos llevamos dentro</p>
         </div>
-        <br>
+    </header>
+    <div class="content">
         <div class="social-icons">
             <a href="http://github.com/mxhectorvega" target="_blank" class="github" aria-label="GitHub"><i class="fab fa-github"></i> GitHub</a>
             <a href="http://mxhectorvega.tplinkdns.com" target="_blank" class="jellyfin" aria-label="Jellyfin Server"><i class="fab fa-jellyfin"></i> Jellyfin Server</a>
@@ -109,9 +107,9 @@
             <a href="https://www.buymeacoffee.com/mxhectorvega" target="_blank" class="buymeacoffee" aria-label="Buy Me a Coffee"><i class="fas fa-coffee"></i> Buy Me a Coffee</a>
             <a href="https://onlyfans.com/#" target="_blank" class="onlyfans" aria-label="OnlyFans"><i class="fab fa-onlyfans"></i> OnlyFans</a>
         </div>
-    </header>
-    <div class="content">
-        <p>© 2024 MXHECTORVEGA. Todos los derechos reservados.</p>
     </div>
+    <footer>
+        <p>© 2024 MXHECTORVEGA. Todos los derechos reservados.</p>
+    </footer>
 </body>
 </html>
