@@ -6,20 +6,30 @@
     <title>MXHECTORVEGA</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://cdnjs.cloudflare.com">
     <style>
+        :root {
+            --background-light: #f9f9f9;
+            --background-dark: #1a1a1a;
+            --text-light: #333;
+            --text-dark: #f9f9f9;
+            --social-light: #f0f0f0;
+            --social-dark: #444;
+        }
         body {
             font-family: 'Roboto', sans-serif;
             margin: 0;
             padding: 0;
-            color: #333;
-            background-color: #f9f9f9;
+            color: var(--text-light);
+            background-color: var(--background-light);
             max-width: 750px;
             margin: auto;
             transition: background-color 0.3s, color 0.3s;
         }
         body.dark-mode {
-            background-color: #1a1a1a;
-            color: #f9f9f9;
+            background-color: var(--background-dark);
+            color: var(--text-dark);
         }
         header {
             padding: 20px 0;
@@ -32,10 +42,10 @@
             height: 100px;
             object-fit: cover;
             margin-top: 20px;
-            border: 3px solid #fff;
+            border: 3px solid var(--background-light);
         }
         h1 {
-            font-size: 36px;
+            font-size: 2.25rem;
             margin: 10px 0 5px 0;
         }
         .profile-description p {
@@ -55,22 +65,22 @@
         }
         .social-icons a {
             text-decoration: none;
-            font-size: 1em;
+            font-size: 1.2em; /* Aumentar el tamaño de la fuente */
             display: flex;
             align-items: center;
             justify-content: center;
             color: inherit;
-            padding: 15px 20px;
+            padding: 18px 24px; /* Aumentar el padding */
             border-radius: 10px;
-            background-color: #f0f0f0;
+            background-color: var(--social-light);
             transition: background-color 0.3s, box-shadow 0.3s;
         }
         .social-icons a:hover {
             background-color: #e0e0e0;
         }
         body.dark-mode .social-icons a {
-            background-color: #444;
-            color: #f9f9f9;
+            background-color: var(--social-dark);
+            color: var(--text-dark);
         }
         body.dark-mode .social-icons a:hover {
             background-color: #555;
@@ -103,7 +113,7 @@
             content: '\f185'; /* Icono de sol */
             font-family: 'Font Awesome 5 Free';
             font-weight: 900;
-            color: #888; /* Gris más oscuro */
+            color: #888;
             width: 20px;
             height: 20px;
             border-radius: 50%;
@@ -124,7 +134,7 @@
             background-color: #333;
         }
         .social-icons i {
-            margin-right: 8px; /* Ajusta este valor según tus necesidades */
+            margin-right: 0.5em;
         }
         @media (max-width: 768px) {
             .profile-pic {
@@ -132,15 +142,15 @@
                 height: 80px;
             }
             h1 {
-                font-size: 30px;
+                font-size: 1.875rem;
             }
             .content {
                 padding: 15px;
                 margin: 15px 0;
             }
             .social-icons a {
-                padding: 10px 15px;
-                font-size: 0.9em;
+                padding: 15px 20px; /* Aumentar el padding */
+                font-size: 1.2em; /* Aumentar el tamaño de la fuente */
             }
         }
         @media (max-width: 480px) {
@@ -149,15 +159,15 @@
                 height: 60px;
             }
             h1 {
-                font-size: 24px;
+                font-size: 1.5rem;
             }
             .content {
                 padding: 10px;
                 margin: 10px 0;
             }
             .social-icons a {
-                padding: 8px 10px;
-                font-size: 0.8em;
+                padding: 12px 15px; /* Aumentar el padding */
+                font-size: 1.1em; /* Aumentar el tamaño de la fuente */
             }
         }
     </style>
@@ -174,7 +184,7 @@
             <p>Conecta con el geek que todos llevamos dentro</p>
         </div>
     </header>
-    <div class="content">
+    <main class="content">
         <div class="social-icons">
             <a href="http://github.com/mxhectorvega" target="_blank" class="github" aria-label="GitHub"><i class="fab fa-github"></i> GitHub</a>
             <a href="http://mxhectorvega.tplinkdns.com" target="_blank" class="jellyfin" aria-label="Jellyfin Server"><i class="fab fa-jellyfin"></i> Jellyfin Server</a>
@@ -190,17 +200,15 @@
             <a href="https://www.buymeacoffee.com/mxhectorvega" target="_blank" class="buymeacoffee" aria-label="Buy Me a Coffee"><i class="fas fa-coffee"></i> Buy Me a Coffee</a>
             <a href="https://onlyfans.com/#" target="_blank" class="onlyfans" aria-label="OnlyFans"><i class="fab fa-onlyfans"></i> OnlyFans</a>
         </div>
-    </div>
+    </main>
     <footer>
         <p>© 2024 MXHECTORVEGA. Todos los derechos reservados.</p>
     </footer>
     <script>
-        const toggleSwitch = document.getElementById('darkModeSwitch');
-        const body = document.body;
+          const toggleSwitch = document.getElementById('darkModeSwitch');
+          const body = document.body;
 
-        toggleSwitch.addEventListener('change', () => {
-            body.classList.toggle('dark-mode');
-        });
-    </script>
-</body>
-</html>
+          toggleSwitch.addEventListener('change', () => {
+              body.classList.toggle('dark-mode');
+          });
+      </script>
