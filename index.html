@@ -15,10 +15,16 @@
             background-color: #f9f9f9;
             max-width: 750px;
             margin: auto;
+            transition: background-color 0.3s, color 0.3s;
+        }
+        body.dark-mode {
+            background-color: #1a1a1a;
+            color: #f9f9f9;
         }
         header {
             padding: 20px 0;
             text-align: center;
+            position: relative;
         }
         .profile-pic {
             border-radius: 50%;
@@ -31,11 +37,9 @@
         h1 {
             font-size: 36px;
             margin: 10px 0 5px 0;
-            color: #333;
         }
         .profile-description p {
             font-size: 1.2em;
-            color: #666;
             margin: 5px 0;
         }
         .content {
@@ -55,7 +59,7 @@
             display: flex;
             align-items: center;
             justify-content: center;
-            color: #333;
+            color: inherit;
             padding: 15px 20px;
             border-radius: 10px;
             background-color: #f0f0f0;
@@ -64,14 +68,67 @@
         .social-icons a:hover {
             background-color: #e0e0e0;
         }
-        .social-icons i {
-            margin-right: 10px;
-            font-size: 1.5em;
+        body.dark-mode .social-icons a {
+            background-color: #444;
+            color: #f9f9f9;
+        }
+        body.dark-mode .social-icons a:hover {
+            background-color: #555;
         }
         footer {
             padding: 20px 0;
             text-align: center;
             margin-top: 20px;
+        }
+        .toggle-switch {
+            position: absolute;
+            top: 20px;
+            right: 20px;
+        }
+        .toggle-switch input[type="checkbox"] {
+            display: none;
+        }
+        .toggle-switch label {
+            cursor: pointer;
+            width: 50px;
+            height: 25px;
+            background-color: #ccc;
+            display: flex;
+            align-items: center;
+            border-radius: 25px;
+            position: relative;
+            transition: background-color 0.3s;
+        }
+        .toggle-switch label::before {
+            content: '\f185'; /* Icono de sol */
+            font-family: 'Font Awesome 5 Free';
+            font-weight: 900;
+            color: #ffcc00;
+            position: absolute;
+            left: 5px;
+            font-size: 1em;
+        }
+        .toggle-switch input[type="checkbox"]:checked + label::before {
+            content: '\f186'; /* Icono de luna */
+            left: calc(100% - 25px);
+            color: #fff;
+        }
+        .toggle-switch label::after {
+            content: '';
+            width: 20px;
+            height: 20px;
+            background-color: white;
+            border-radius: 50%;
+            position: absolute;
+            top: 2.5px;
+            left: 2.5px;
+            transition: left 0.3s;
+        }
+        .toggle-switch input[type="checkbox"]:checked + label {
+            background-color: #333;
+        }
+        .toggle-switch input[type="checkbox"]:checked + label::after {
+            left: 27.5px;
         }
         @media (max-width: 768px) {
             .profile-pic {
@@ -111,6 +168,10 @@
 </head>
 <body>
     <header>
+        <div class="toggle-switch">
+            <input type="checkbox" id="darkModeSwitch">
+            <label for="darkModeSwitch"></label>
+        </div>
         <img src="https://github.com/mxhectorvega.png" alt="Foto de perfil" class="profile-pic">
         <h1>MXHECTORVEGA</h1>
         <div class="profile-description">
@@ -137,5 +198,9 @@
     <footer>
         <p>© 2024 MXHECTORVEGA. Todos los derechos reservados.</p>
     </footer>
-</body>
-</html>
+    <script>
+        const toggleSwitch = document.getElementById('darkModeSwitch');
+        const body = document.body;
+
+        toggleSwitch.addEventListener('change', () => {
+            body.classList.toggle('dark[_{{{CITATION{{{_1{](https://github.com/la9una/web/tree/ba1073ae044ebb7b538a3b13f0f9598f7c410bb6/docs%2Fbootstrap%2Falignci.md)[_{{{CITATION{{{_2{](https://github.com/CLONATORE/markdowns/tree/82cfb03683ceb807a7091de48045e6a7485acd72/webpack.md)[_{{{CITATION{{{_3{](https://github.com/datsfilipe/projetoCadastro/tree/3022e14b8f9c22533ae1c2d189e2ae8381b4a10c/resources%2Fviews%2Fmenu.blade.php)
