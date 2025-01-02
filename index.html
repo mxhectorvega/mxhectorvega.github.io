@@ -9,63 +9,67 @@
     <style>
         body {
             font-family: 'Roboto', sans-serif;
-            font-size: 16.2px;
             margin: 0;
             padding: 0;
-            color: #000;
-            max-width: 693px;
+            color: #333;
+            background-color: #f9f9f9; /* Fondo claro */
+            max-width: 750px; /* Ancho máximo ligeramente mayor */
             margin: auto;
-            background-color: #f5f5f5; /* Fondo claro para mejor contraste */
         }
         header {
-            padding: 23.1px 0;
+            padding: 20px 0;
             text-align: center;
-            background-color: #ffffff; /* Fondo blanco para encabezado */
-            box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); /* Sombra ligera */
+            background-color: #fff;
+            box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1); /* Sombra suave */
+            border-bottom: 1px solid #e0e0e0;
         }
         .profile-pic {
             border-radius: 50%;
-            width: 92.4px;
-            height: 92.4px;
+            width: 90px;
+            height: 90px;
             object-fit: cover;
-            margin-top: 23.1px;
-            border: 2px solid #ddd; /* Borde fino para imagen */
+            margin-top: 20px;
+            border: 3px solid #fff; /* Borde blanco */
+            box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1); /* Sombra suave */
         }
         h1 {
-            font-size: 36.96px;
-            margin-bottom: 5px;
+            font-size: 34px;
+            margin: 10px 0 5px 0;
+            color: #333; /* Color de texto más oscuro */
         }
         .profile-description p {
             font-size: 1.2em;
-            color: #666; /* Color gris para el eslogan */
+            color: #666; /* Color gris */
+            margin: 5px 0;
         }
         .content {
             text-align: center;
-            padding: 23.1px;
-            background-color: #ffffff; /* Fondo blanco para contenido */
-            box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); /* Sombra ligera */
+            padding: 20px;
+            background-color: #fff;
+            box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1); /* Sombra suave */
             margin: 20px 0;
+            border-radius: 10px; /* Bordes redondeados */
         }
         .social-icons {
             display: flex;
             flex-wrap: wrap;
             justify-content: center;
             gap: 10px;
+            margin: 20px 0;
         }
         .social-icons a {
             text-decoration: none;
             font-size: 1em;
             display: flex;
             align-items: center;
-            color: #000;
+            color: #333; /* Color de texto más oscuro */
             padding: 10px 15px;
-            border-radius: 5px;
-            background-color: #ffffff; /* Fondo blanco para iconos */
-            box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); /* Sombra ligera */
+            border-radius: 8px;
+            background-color: #f0f0f0; /* Fondo claro para iconos */
             transition: background-color 0.3s, box-shadow 0.3s; /* Transición suave */
         }
         .social-icons a:hover {
-            background-color: #f0f0f0; /* Cambio de fondo al pasar el mouse */
+            background-color: #e0e0e0; /* Cambio de fondo al pasar el mouse */
             box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.15); /* Sombra más intensa */
         }
         .social-icons i {
@@ -73,13 +77,12 @@
             font-size: 1.5em;
         }
         footer {
-            padding: 23.1px 0;
+            padding: 20px 0;
             text-align: center;
-            background-color: #ffffff; /* Fondo blanco para pie de página */
-            box-shadow: 0px -4px 8px rgba(0, 0, 0, 0.1); /* Sombra ligera superior */
-            position: relative;
-            width: 100%;
-            bottom: 0;
+            background-color: #fff;
+            box-shadow: 0px -4px 10px rgba(0, 0, 0, 0.1); /* Sombra suave superior */
+            border-top: 1px solid #e0e0e0;
+            margin-top: 20px;
         }
     </style>
 </head>
