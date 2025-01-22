@@ -7,6 +7,12 @@
         <priority>1.0</priority>
     </url>
     <url>
+        <loc>https://mxhectorvega.github.io/</loc>
+        <lastmod>2024-01-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+    </url>    
+    <url>
         <loc>https://github.com/mxhectorvega</loc>
         <lastmod>2024-01-01</lastmod>
         <changefreq>monthly</changefreq>
