@@ -7,6 +7,12 @@
     <meta name="keywords" content="geek, tecnología, desarrollador, programación, mxhectorvega">
     <meta name="google-site-verification" content="EVrKU5_A63C-ViyFr5-66g2jNbr1llNtRLL7Lw5R9AQ" />
     <meta name="google-site-verification" content="XUk6hd4UOqyNqwH1gTd_oSrj8fVlRfsUrgGwYrOO6sU" />
+    <!-- Meta tags para redes sociales -->
+    <meta property="og:title" content="MXHECTORVEGA">
+    <meta property="og:description" content="Conecta con el geek que todos llevamos dentro">
+    <meta property="og:image" content="https://github.com/mxhectorvega.png">
+    <meta property="og:url" content="https://mxhectorvega.com">
+    <meta name="twitter:card" content="summary_large_image">
     <title>MXHECTORVEGA</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
@@ -20,6 +26,7 @@
             --text-dark: #f9f9f9;
             --social-light: #f0f0f0;
             --social-dark: #444;
+            --transition-speed: 0.3s;
         }
         body {
             font-family: 'Roboto', sans-serif;
@@ -29,7 +36,7 @@
             background-color: var(--background-light);
             max-width: 750px;
             margin: auto;
-            transition: background-color 0.3s, color 0.3s;
+            transition: background-color var(--transition-speed), color var(--transition-speed);
         }
         body.dark-mode {
             background-color: var(--background-dark);
@@ -47,14 +54,17 @@
             object-fit: cover;
             margin-top: 20px;
             border: 3px solid var(--background-light);
+            transition: border-color var(--transition-speed);
         }
         h1 {
             font-size: 2.5rem;
             margin: 10px 0 5px 0;
+            font-weight: 700;
         }
         .profile-description p {
             font-size: 1.2em;
             margin: 5px 0;
+            color: inherit;
         }
         .content {
             text-align: center;
@@ -69,18 +79,19 @@
         }
         .social-icons a {
             text-decoration: none;
-            font-size: 1.2em; /* Aumentar el tamaño de la fuente */
+            font-size: 1.2em;
             display: flex;
             align-items: center;
             justify-content: center;
             color: inherit;
-            padding: 18px 24px; /* Aumentar el padding */
+            padding: 18px 24px;
             border-radius: 10px;
             background-color: var(--social-light);
-            transition: background-color 0.3s, box-shadow 0.3s;
+            transition: background-color var(--transition-speed), box-shadow var(--transition-speed);
         }
         .social-icons a:hover {
             background-color: #e0e0e0;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
         }
         body.dark-mode .social-icons a {
             background-color: var(--social-dark);
@@ -93,6 +104,8 @@
             padding: 20px 0;
             text-align: center;
             margin-top: 20px;
+            font-size: 0.9em;
+            color: inherit;
         }
         .toggle-switch {
             position: absolute;
@@ -111,7 +124,7 @@
             align-items: center;
             border-radius: 25px;
             position: relative;
-            transition: background-color 0.3s;
+            transition: background-color var(--transition-speed);
         }
         .toggle-switch label::after {
             content: '\f185'; /* Icono de sol */
@@ -127,7 +140,7 @@
             display: flex;
             align-items: center;
             justify-content: center;
-            transition: left 0.3s;
+            transition: left var(--transition-speed);
         }
         .toggle-switch input[type="checkbox"]:checked + label::after {
             content: '\f186'; /* Icono de luna */
@@ -153,8 +166,8 @@
                 margin: 15px 0;
             }
             .social-icons a {
-                padding: 15px 20px; /* Aumentar el padding */
-                font-size: 1.2em; /* Aumentar el tamaño de la fuente */
+                padding: 15px 20px;
+                font-size: 1.2em;
             }
         }
         @media (max-width: 480px) {
@@ -170,8 +183,8 @@
                 margin: 10px 0;
             }
             .social-icons a {
-                padding: 12px 15px; /* Aumentar el padding */
-                font-size: 1.1em; /* Aumentar el tamaño de la fuente */
+                padding: 12px 15px;
+                font-size: 1.1em;
             }
         }
     </style>
@@ -182,7 +195,7 @@
             <input type="checkbox" id="darkModeSwitch" checked>
             <label for="darkModeSwitch"></label>
         </div>
-        <img src="https://github.com/mxhectorvega.png" alt="Foto de perfil de MXHECTORVEGA" class="profile-pic">
+        <img src="https://github.com/mxhectorvega.png" alt="Foto de perfil de MXHECTORVEGA" class="profile-pic" loading="lazy">
         <h1><a href="index.html" style="color: inherit; text-decoration: none;">MXHECTORVEGA</a></h1>
         <div class="profile-description">
             <p>Conecta con el geek que todos llevamos dentro</p>
@@ -209,10 +222,24 @@
         <p>© 2024 MXHECTORVEGA. Todos los derechos reservados.</p>
     </footer>
     <script>
-          const toggleSwitch = document.getElementById('darkModeSwitch');
-          const body = document.body;
+        const toggleSwitch = document.getElementById('darkModeSwitch');
+        const body = document.body;
 
-          toggleSwitch.addEventListener('change', () => {
-              body.classList.toggle('dark-mode');
-          });
-      </script>
+        // Cargar preferencia del modo oscuro desde localStorage
+        if (localStorage.getItem('dark-mode') === 'enabled') {
+            body.classList.add('dark-mode');
+            toggleSwitch.checked = true;
+        }
+
+        toggleSwitch.addEventListener('change', () => {
+            body.classList.toggle('dark-mode');
+            // Guardar preferencia en localStorage
+            if (body.classList.contains('dark-mode')) {
+                localStorage.setItem('dark-mode', 'enabled');
+            } else {
+                localStorage.setItem('dark-mode', 'disabled');
+            }
+        });
+    </script>
+</body>
+</html>
