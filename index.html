@@ -50,7 +50,7 @@
         .profile-pic {
             width: 180px;
             height: 180px;
-            margin-top: 20px;
+            margin-top: 10px;
             border: 0px solid var(--background-light);
             transition: border-color var(--transition-speed);
         }
@@ -121,7 +121,7 @@
             content: '\f185'; /* Icono de sol */
             font-family: 'Font Awesome 5 Free';
             font-weight: 900;
-            color: #888;
+            color: #444;
             width: 20px;
             height: 20px;
             border-radius: 50%;
@@ -149,7 +149,7 @@
 
         /* Filtros para los iconos SVG en modo claro */
         body:not(.dark-mode) .social-icons img {
-            filter: grayscale(1%); /* Iconos en tono gris */
+            filter: opacity(0.8); /* Iconos con opacidad reducida */
         }
 
         /* Filtros para los iconos SVG en modo oscuro */
@@ -160,14 +160,14 @@
         /* Estilos para el footer */
         footer {
             text-align: center;
-            margin-top: 0px; /* Espacio adicional */
+            margin-top: 40px; /* Espacio adicional */
             padding: 20px 0;
         }
 
         @media (max-width: 768px) {
             .profile-pic {
-                width: 100px;
-                height: 100px;
+                width: 140px;
+                height: 140px;
             }
             h1 {
                 font-size: 2.3rem;
@@ -183,8 +183,8 @@
         }
         @media (max-width: 480px) {
             .profile-pic {
-                width: 90px;
-                height: 90px;
+                width: 110px;
+                height: 110px;
             }
             h1 {
                 font-size: 2.0rem;
