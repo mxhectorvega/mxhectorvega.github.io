@@ -43,17 +43,15 @@
             color: var(--text-dark);
         }
         header {
-            padding: 20px 0;
+            padding: 40px 0;
             text-align: center;
             position: relative;
         }
         .profile-pic {
-            border-radius: 50%;
-            width: 110px;
-            height: 110px;
-            object-fit: cover;
+            width: 180px;
+            height: 180px;
             margin-top: 20px;
-            border: 3px solid var(--background-light);
+            border: 0px solid var(--background-light);
             transition: border-color var(--transition-speed);
         }
         h1 {
@@ -63,7 +61,7 @@
         }
         .profile-description p {
             font-size: 1.2em;
-            margin: 5px 0;
+            margin: 0px 0;
             color: inherit;
         }
         .content {
@@ -145,12 +143,27 @@
         }
         .social-icons i, .social-icons img {
             margin-right: 0.5em;
+            width: 24px; /* Tamaño fijo para todos los iconos */
+            height: 24px; /* Tamaño fijo para todos los iconos */
         }
-        .social-icons img {
-            width: 24px;
-            height: 24px;
+
+        /* Filtros para los iconos SVG en modo claro */
+        body:not(.dark-mode) .social-icons img {
+            filter: grayscale(1%); /* Iconos en tono gris */
+        }
+
+        /* Filtros para los iconos SVG en modo oscuro */
+        body.dark-mode .social-icons img {
             filter: brightness(0) invert(1); /* Iconos en blanco */
         }
+
+        /* Estilos para el footer */
+        footer {
+            text-align: center;
+            margin-top: 0px; /* Espacio adicional */
+            padding: 20px 0;
+        }
+
         @media (max-width: 768px) {
             .profile-pic {
                 width: 100px;
@@ -193,10 +206,10 @@
             <input type="checkbox" id="darkModeSwitch" checked>
             <label for="darkModeSwitch"></label>
         </div>
-        <img src="https://github.com/mxhectorvega.png" alt="Foto de perfil de MXHECTORVEGA" class="profile-pic" loading="lazy">
+        <img src="logo.svg" alt="Foto de perfil de MXHECTORVEGA" class="profile-pic" loading="lazy">
         <h1><a href="index.html" style="color: inherit; text-decoration: none;">MXHECTORVEGA</a></h1>
         <div class="profile-description">
-            <p>Conecta con el geek que todos llevamos dentro</p>
+            <p>Retro Geek</p>
         </div>
     </header>
     <main class="content">
