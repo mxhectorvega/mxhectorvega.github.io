@@ -100,13 +100,6 @@
         body.dark-mode .social-icons a:hover {
             background-color: #555;
         }
-        footer {
-            padding: 20px 0;
-            text-align: center;
-            margin-top: 20px;
-            font-size: 0.9em;
-            color: inherit;
-        }
         .toggle-switch {
             position: absolute;
             top: 20px;
@@ -150,8 +143,13 @@
         .toggle-switch input[type="checkbox"]:checked + label {
             background-color: #333;
         }
-        .social-icons i {
+        .social-icons i, .social-icons img {
             margin-right: 0.5em;
+        }
+        .social-icons img {
+            width: 24px;
+            height: 24px;
+            filter: brightness(0) invert(1); /* Iconos en blanco */
         }
         @media (max-width: 768px) {
             .profile-pic {
@@ -203,19 +201,45 @@
     </header>
     <main class="content">
         <div class="social-icons">
-            <a href="http://github.com/mxhectorvega" target="_blank" class="github" aria-label="GitHub"><i class="fab fa-github"></i> GitHub</a>
-            <a href="http://mxhectorvega.tplinkdns.com" target="_blank" class="jellyfin" aria-label="Jellyfin Server"><i class="fab fa-jellyfin"></i> Jellyfin Server</a>
-            <a href="https://t.me/s/mxhectorvega" target="_blank" class="telegram" aria-label="Telegram Blog"><i class="fab fa-telegram"></i> Telegram Blog</a>
-            <a href="https://youtube.com/@mxhectorvega" target="_blank" class="youtube" aria-label="YouTube"><i class="fab fa-youtube"></i> YouTube</a>
-            <a href="https://twitter.com/mxhectorvega" target="_blank" class="twitter" aria-label="Twitter"><i class="fab fa-twitter"></i> Twitter</a>
-            <a href="https://instagram.com/mxhectorvega" target="_blank" class="instagram" aria-label="Instagram"><i class="fab fa-instagram"></i> Instagram</a>
-            <a href="https://www.facebook.com/mxhectorvega.web" target="_blank" class="facebook" aria-label="Facebook"><i class="fab fa-facebook"></i> Facebook</a>
-            <a href="https://tiktok.com/@mxhectorvega" target="_blank" class="tiktok" aria-label="TikTok"><i class="fab fa-tiktok"></i> TikTok</a>
-            <a href="https://twitch.com/mxhectorvega" target="_blank" class="twitch" aria-label="Twitch"><i class="fab fa-twitch"></i> Twitch</a>
-            <a href="https://open.spotify.com/user/3163q7qxsi5frxzqwanxkk7dqroq?si=5312b046b24d4599" target="_blank" class="spotify" aria-label="Spotify Playlist"><i class="fab fa-spotify"></i> Spotify Playlist</a>
-            <a href="https://www.paypal.me/mxhectorvega" target="_blank" class="paypal" aria-label="PayPal Donaciones"><i class="fab fa-paypal"></i> PayPal Donaciones</a>
-            <a href="https://www.buymeacoffee.com/mxhectorvega" target="_blank" class="buymeacoffee" aria-label="Buy Me a Coffee"><i class="fas fa-coffee"></i> Buy Me a Coffee</a>
-            <a href="https://onlyfans.com/#" target="_blank" class="onlyfans" aria-label="OnlyFans"><i class="fab fa-onlyfans"></i> OnlyFans</a>
+            <a href="http://github.com/mxhectorvega" target="_blank" class="github" aria-label="GitHub">
+                <i class="fab fa-github"></i> GitHub
+            </a>
+            <a href="http://mxhectorvega.tplinkdns.com" target="_blank" class="jellyfin" aria-label="Jellyfin Server">
+                <img src="https://www.svgrepo.com/download/330736/jellyfin.svg" alt="Jellyfin"> Jellyfin Server
+            </a>
+            <a href="https://t.me/s/mxhectorvega" target="_blank" class="telegram" aria-label="Telegram Blog">
+                <i class="fab fa-telegram"></i> Telegram Blog
+            </a>
+            <a href="https://youtube.com/@mxhectorvega" target="_blank" class="youtube" aria-label="YouTube">
+                <i class="fab fa-youtube"></i> YouTube
+            </a>
+            <a href="https://twitter.com/mxhectorvega" target="_blank" class="twitter" aria-label="Twitter">
+                <i class="fab fa-twitter"></i> Twitter
+            </a>
+            <a href="https://instagram.com/mxhectorvega" target="_blank" class="instagram" aria-label="Instagram">
+                <i class="fab fa-instagram"></i> Instagram
+            </a>
+            <a href="https://www.facebook.com/mxhectorvega.web" target="_blank" class="facebook" aria-label="Facebook">
+                <i class="fab fa-facebook"></i> Facebook
+            </a>
+            <a href="https://tiktok.com/@mxhectorvega" target="_blank" class="tiktok" aria-label="TikTok">
+                <i class="fab fa-tiktok"></i> TikTok
+            </a>
+            <a href="https://twitch.com/mxhectorvega" target="_blank" class="twitch" aria-label="Twitch">
+                <i class="fab fa-twitch"></i> Twitch
+            </a>
+            <a href="https://open.spotify.com/user/3163q7qxsi5frxzqwanxkk7dqroq?si=5312b046b24d4599" target="_blank" class="spotify" aria-label="Spotify Playlist">
+                <i class="fab fa-spotify"></i> Spotify Playlist
+            </a>
+            <a href="https://www.paypal.me/mxhectorvega" target="_blank" class="paypal" aria-label="PayPal Donaciones">
+                <i class="fab fa-paypal"></i> PayPal Donaciones
+            </a>
+            <a href="https://www.buymeacoffee.com/mxhectorvega" target="_blank" class="buymeacoffee" aria-label="Buy Me a Coffee">
+                <i class="fas fa-coffee"></i> Buy Me a Coffee
+            </a>
+            <a href="https://onlyfans.com/" target="_blank" class="onlyfans" aria-label="OnlyFans">
+                <img src="https://www.svgrepo.com/download/473738/onlyfans.svg" alt="OnlyFans"> OnlyFans
+            </a>
         </div>
     </main>
     <footer>
