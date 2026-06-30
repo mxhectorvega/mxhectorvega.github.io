@@ -1,0 +1,294 @@
+#EXTM3U
+#PLAYLIST: MUNDIAL 2026 - DSports & Latam
+
+# ============================================
+# 🏆 DSPORTS - MUNDIAL 2026
+# ============================================
+#EXTINF:-1 tvg-id="dsports" tvg-name="DSports" tvg-logo="https://i.imgur.com/dsports.png" group-title="🏆 DSports",DSports
+https://streamvidex.qzz.io/videx/dsports/index.m3u8
+#EXTINF:-1 tvg-id="dsportsar" tvg-name="DSports AR" tvg-logo="https://i.imgur.com/dsportsar.png" group-title="🏆 DSports",DSports AR
+https://streamvidex.qzz.io/videx/dsportsar/index.m3u8
+#EXTINF:-1 tvg-id="dsports2" tvg-name="DSports 2" tvg-logo="https://i.imgur.com/dsports2.png" group-title="🏆 DSports",DSports 2
+https://streamvidex.qzz.io/videx/dsports2/index.m3u8
+#EXTINF:-1 tvg-id="dsportsplus" tvg-name="DSports Plus" tvg-logo="https://i.imgur.com/dsportsplus.png" group-title="🏆 DSports",DSports Plus
+https://streamvidex.qzz.io/videx/dsportsplus/index.m3u8
+
+# ============================================
+# 🌎 SEÑALES MUNDIAL 2026 USA/MX
+# ============================================
+#EXTINF:-1 tvg-id="fox1usa" tvg-name="FOX Sports USA" tvg-logo="" group-title="🌎 USA/MX Mundial",FOX Sports USA
+https://streamvidex.qzz.io/videx/fox1usa/index.m3u8
+#EXTINF:-1 tvg-id="universo" tvg-name="Universo" tvg-logo="" group-title="🌎 USA/MX Mundial",Universo
+https://streamvidex.qzz.io/videx/universo/index.m3u8
+#EXTINF:-1 tvg-id="telemundo" tvg-name="Telemundo" tvg-logo="" group-title="🌎 USA/MX Mundial",Telemundo
+https://streamvidex.qzz.io/videx/telemundo/index.m3u8
+#EXTINF:-1 tvg-id="azteca7" tvg-name="Azteca 7" tvg-logo="" group-title="🌎 USA/MX Mundial",Azteca 7
+https://streamvidex.qzz.io/videx/azteca7/index.m3u8
+#EXTINF:-1 tvg-id="canal5mx" tvg-name="Canal 5 MX" tvg-logo="" group-title="🌎 USA/MX Mundial",Canal 5 MX
+https://streamvidex.qzz.io/videx/canal5mx/index.m3u8
+#EXTINF:-1 tvg-id="tudnmx" tvg-name="TUDN MX" tvg-logo="" group-title="🌎 USA/MX Mundial",TUDN MX
+https://streamvidex.qzz.io/videx/tudnmx/index.m3u8
+#EXTINF:-1 tvg-id="chilevision" tvg-name="Chile Visión" tvg-logo="" group-title="🌎 USA/MX Mundial",Chile Visión
+https://streamvidex.qzz.io/videx/chilevision/index.m3u8
+
+# ============================================
+# 🎯 DAZN - MUNDIAL 2026
+# ============================================
+#EXTINF:-1 tvg-id="dazn1" tvg-name="DAZN Mundial" tvg-logo="" group-title="🎯 DAZN Mundial",DAZN Mundial
+https://000963.videx.lol/daddy1/918/index.m3u8
+#EXTINF:-1 tvg-id="dazn2" tvg-name="DAZN Mundial OP2" tvg-logo="" group-title="🎯 DAZN Mundial",DAZN Mundial OP2
+https://live.plplayer.com/play/Xi9AvEyR-b0SNQXSq4-UE-..
+
+# ============================================
+# 📺 TYC SPORTS
+# ============================================
+#EXTINF:-1 tvg-id="tyc" tvg-name="TyC Sports" tvg-logo="" group-title="📺 Deportes AR",TyC Sports
+https://streamvidex.qzz.io/videx/tyc/index.m3u8
+
+# ============================================
+# ⚽ CAZÉ TV
+# ============================================
+#EXTINF:-1 tvg-id="cazetv" tvg-name="Cazé TV" tvg-logo="" group-title="⚽ Cazé TV",Cazé TV
+https://streamvidex.qzz.io/latamplay/cazetv/index.m3u8
+#EXTINF:-1 tvg-id="cazetv2" tvg-name="Cazé TV 2" tvg-logo="" group-title="⚽ Cazé TV",Cazé TV 2
+https://streamvidex.qzz.io/latamplay/cazetv2/index.m3u8
+
+# ============================================
+# 🇵🇾 CANALES PARAGUAY
+# ============================================
+#EXTINF:-1 tvg-id="unicanalpy" tvg-name="Unicanal PY" tvg-logo="" group-title="🇵🇾 Paraguay",Unicanal PY
+https://streamvidex.qzz.io/latamplay/unicanalpy/index.m3u8
+#EXTINF:-1 tvg-id="genpy" tvg-name="GEN PY" tvg-logo="" group-title="🇵🇾 Paraguay",GEN PY
+https://streamvidex.qzz.io/latamplay/genpy/index.m3u8
+#EXTINF:-1 tvg-id="trecepy" tvg-name="Trece PY" tvg-logo="" group-title="🇵🇾 Paraguay",Trece PY
+https://streamvidex.qzz.io/latamplay/trecepy/index.m3u8
+
+# ============================================
+# 🇪🇸 ESPAÑA
+# ============================================
+#EXTINF:-1 tvg-id="la1es" tvg-name="La 1 España" tvg-logo="" group-title="🇪🇸 España",La 1 España
+https://streamvidex.qzz.io/latamplay/la1es/index.m3u8
+
+# ============================================
+# 🇦🇷 CANALES ARGENTINA
+# ============================================
+#EXTINF:-1 tvg-id="telefe" tvg-name="Telefe" tvg-logo="" group-title="🇦🇷 Argentina",Telefe
+https://streamvidex.qzz.io/latamplay/telefe/index.m3u8
+#EXTINF:-1 tvg-id="tvpublica" tvg-name="TV Pública" tvg-logo="" group-title="🇦🇷 Argentina",TV Pública
+https://streamvidex.qzz.io/videx/tvpublica/index.m3u8
+#EXTINF:-1 tvg-id="eltrece" tvg-name="El Trece" tvg-logo="" group-title="🇦🇷 Argentina",El Trece
+https://streamvidex.qzz.io/videx/eltrece/index.m3u8
+#EXTINF:-1 tvg-id="america" tvg-name="América" tvg-logo="" group-title="🇦🇷 Argentina",América
+https://streamvidex.qzz.io/videx/america/index.m3u8
+#EXTINF:-1 tvg-id="canal9" tvg-name="Canal 9" tvg-logo="" group-title="🇦🇷 Argentina",Canal 9
+https://streamvidex.qzz.io/videx/canal9/index.m3u8
+#EXTINF:-1 tvg-id="canal26" tvg-name="Canal 26" tvg-logo="" group-title="🇦🇷 Argentina",Canal 26
+https://streamvidex.qzz.io/videx/canal26/index.m3u8
+#EXTINF:-1 tvg-id="a24" tvg-name="A24" tvg-logo="" group-title="🇦🇷 Argentina",A24
+https://streamvidex.qzz.io/videx/a24/index.m3u8
+#EXTINF:-1 tvg-id="c5n" tvg-name="C5N" tvg-logo="" group-title="🇦🇷 Argentina",C5N
+https://streamvidex.qzz.io/videx/c5n/index.m3u8
+#EXTINF:-1 tvg-id="cronicatv" tvg-name="Crónica TV" tvg-logo="" group-title="🇦🇷 Argentina",Crónica TV
+https://streamvidex.qzz.io/videx/cronicatv/index.m3u8
+#EXTINF:-1 tvg-id="lnmas" tvg-name="LN+" tvg-logo="" group-title="🇦🇷 Argentina",LN+
+https://streamvidex.qzz.io/videx/lnmas/index.m3u8
+#EXTINF:-1 tvg-id="tn" tvg-name="TN" tvg-logo="" group-title="🇦🇷 Argentina",TN
+https://streamvidex.qzz.io/videx/tn/index.m3u8
+#EXTINF:-1 tvg-id="ip" tvg-name="IP" tvg-logo="" group-title="🇦🇷 Argentina",IP
+https://streamvidex.qzz.io/videx/ip/index.m3u8
+#EXTINF:-1 tvg-id="nettv" tvg-name="Net TV" tvg-logo="" group-title="🇦🇷 Argentina",Net TV
+https://streamvidex.qzz.io/videx/nettv/index.m3u8
+
+# ============================================
+# ⚽ DEPORTES ESPN / FOX / TNT
+# ============================================
+#EXTINF:-1 tvg-id="espn" tvg-name="ESPN" tvg-logo="" group-title="⚽ Deportes",ESPN
+https://streamvidex.qzz.io/videx/espn/index.m3u8
+#EXTINF:-1 tvg-id="espn2" tvg-name="ESPN 2" tvg-logo="" group-title="⚽ Deportes",ESPN 2
+https://streamvidex.qzz.io/videx/espn2/index.m3u8
+#EXTINF:-1 tvg-id="espn3" tvg-name="ESPN 3" tvg-logo="" group-title="⚽ Deportes",ESPN 3
+https://streamvidex.qzz.io/videx/espn3/index.m3u8
+#EXTINF:-1 tvg-id="espnpremium" tvg-name="ESPN Premium" tvg-logo="" group-title="⚽ Deportes",ESPN Premium
+https://streamvidex.qzz.io/videx/espnpremium/index.m3u8
+#EXTINF:-1 tvg-id="foxsports" tvg-name="Fox Sports" tvg-logo="" group-title="⚽ Deportes",Fox Sports
+https://streamvidex.qzz.io/videx/foxsports/index.m3u8
+#EXTINF:-1 tvg-id="foxsports2" tvg-name="Fox Sports 2" tvg-logo="" group-title="⚽ Deportes",Fox Sports 2
+https://streamvidex.qzz.io/videx/foxsports2/index.m3u8
+#EXTINF:-1 tvg-id="foxsports3" tvg-name="Fox Sports 3" tvg-logo="" group-title="⚽ Deportes",Fox Sports 3
+https://streamvidex.qzz.io/videx/foxsports3/index.m3u8
+#EXTINF:-1 tvg-id="tycsports" tvg-name="TyC Sports" tvg-logo="" group-title="⚽ Deportes",TyC Sports
+https://streamvidex.qzz.io/videx/tycsports/index.m3u8
+#EXTINF:-1 tvg-id="tntsports" tvg-name="TNT Sports" tvg-logo="" group-title="⚽ Deportes",TNT Sports
+https://streamvidex.qzz.io/videx/tntsports/index.m3u8
+#EXTINF:-1 tvg-id="directvsports" tvg-name="DIRECTV Sports" tvg-logo="" group-title="⚽ Deportes",DIRECTV Sports
+https://streamvidex.qzz.io/videx/directvsports/index.m3u8
+
+# ============================================
+# 🇧🇴 BOLIVIA
+# ============================================
+#EXTINF:-1 tvg-id="tigobol" tvg-name="Tigo Sports Bolivia" tvg-logo="" group-title="🇧🇴 Bolivia",Tigo Sports Bolivia
+https://master.tucableip.com/Amistoso/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="tigovidex" tvg-name="Tigo Sports (Videx)" tvg-logo="" group-title="🇧🇴 Bolivia",Tigo Sports (Videx)
+https://000963.videx.lol/tvtvhd/even2/index.m3u8
+
+# ============================================
+# 🎬 DISNEY EVENTOS
+# ============================================
+#EXTINF:-1 tvg-id="disney1" tvg-name="Disney 1" tvg-logo="" group-title="🎬 Disney Eventos",Disney 1
+https://streamvidex.qzz.io/videx/disney1/index.m3u8
+#EXTINF:-1 tvg-id="disney2" tvg-name="Disney 2" tvg-logo="" group-title="🎬 Disney Eventos",Disney 2
+https://streamvidex.qzz.io/videx/disney2/index.m3u8
+#EXTINF:-1 tvg-id="disney3" tvg-name="Disney 3" tvg-logo="" group-title="🎬 Disney Eventos",Disney 3
+https://streamvidex.qzz.io/videx/disney3/index.m3u8
+#EXTINF:-1 tvg-id="disney4" tvg-name="Disney 4" tvg-logo="" group-title="🎬 Disney Eventos",Disney 4
+https://streamvidex.qzz.io/videx/disney4/index.m3u8
+
+# ============================================
+# ▶️ VIX EVENTOS
+# ============================================
+#EXTINF:-1 tvg-id="vix1" tvg-name="VIX 1" tvg-logo="" group-title="▶️ VIX Eventos",VIX 1
+https://streamvidex.qzz.io/videx/vix1/index.m3u8
+#EXTINF:-1 tvg-id="vix2" tvg-name="VIX 2" tvg-logo="" group-title="▶️ VIX Eventos",VIX 2
+https://streamvidex.qzz.io/videx/vix2/index.m3u8
+#EXTINF:-1 tvg-id="vix3" tvg-name="VIX 3" tvg-logo="" group-title="▶️ VIX Eventos",VIX 3
+https://streamvidex.qzz.io/videx/vix3/index.m3u8
+#EXTINF:-1 tvg-id="vix4" tvg-name="VIX 4" tvg-logo="" group-title="▶️ VIX Eventos",VIX 4
+https://streamvidex.qzz.io/videx/vix4/index.m3u8
+
+# ============================================
+# 🎞️ HBO / MAX / CINE
+# ============================================
+#EXTINF:-1 tvg-id="hbo" tvg-name="HBO" tvg-logo="" group-title="🎞️ HBO & Cine",HBO
+https://streamvidex.qzz.io/videx/hbo/index.m3u8
+#EXTINF:-1 tvg-id="hbo2" tvg-name="HBO 2" tvg-logo="" group-title="🎞️ HBO & Cine",HBO 2
+https://streamvidex.qzz.io/videx/hbo2/index.m3u8
+#EXTINF:-1 tvg-id="hboplus" tvg-name="HBO Plus" tvg-logo="" group-title="🎞️ HBO & Cine",HBO Plus
+https://streamvidex.qzz.io/videx/hboplus/index.m3u8
+#EXTINF:-1 tvg-id="hbosignature" tvg-name="HBO Signature" tvg-logo="" group-title="🎞️ HBO & Cine",HBO Signature
+https://streamvidex.qzz.io/videx/hbosignature/index.m3u8
+#EXTINF:-1 tvg-id="hbofamily" tvg-name="HBO Family" tvg-logo="" group-title="🎞️ HBO & Cine",HBO Family
+https://streamvidex.qzz.io/videx/hbofamily/index.m3u8
+#EXTINF:-1 tvg-id="hbomundi" tvg-name="HBO Mundi" tvg-logo="" group-title="🎞️ HBO & Cine",HBO Mundi
+https://streamvidex.qzz.io/videx/hbomundi/index.m3u8
+#EXTINF:-1 tvg-id="hboxtreme" tvg-name="HBO Xtreme" tvg-logo="" group-title="🎞️ HBO & Cine",HBO Xtreme
+https://streamvidex.qzz.io/videx/hboxtreme/index.m3u8
+#EXTINF:-1 tvg-id="hbopop" tvg-name="HBO Pop" tvg-logo="" group-title="🎞️ HBO & Cine",HBO Pop
+https://streamvidex.qzz.io/videx/hbopop/index.m3u8
+#EXTINF:-1 tvg-id="maxup" tvg-name="Max Up" tvg-logo="" group-title="🎞️ HBO & Cine",Max Up
+https://streamvidex.qzz.io/videx/maxup/index.m3u8
+#EXTINF:-1 tvg-id="golden" tvg-name="Golden" tvg-logo="" group-title="🎞️ HBO & Cine",Golden
+https://streamvidex.qzz.io/videx/golden/index.m3u8
+#EXTINF:-1 tvg-id="goldenedge" tvg-name="Golden Edge" tvg-logo="" group-title="🎞️ HBO & Cine",Golden Edge
+https://streamvidex.qzz.io/videx/goldenedge/index.m3u8
+#EXTINF:-1 tvg-id="cinemax" tvg-name="Cinemax" tvg-logo="" group-title="🎞️ HBO & Cine",Cinemax
+https://streamvidex.qzz.io/videx/cinemax/index.m3u8
+#EXTINF:-1 tvg-id="cinecanal" tvg-name="Cinecanal" tvg-logo="" group-title="🎞️ HBO & Cine",Cinecanal
+https://streamvidex.qzz.io/videx/cinecanal/index.m3u8
+
+# ============================================
+# 📺 CANALES MX
+# ============================================
+#EXTINF:-1 tvg-id="canal5" tvg-name="Canal 5" tvg-logo="" group-title="📺 México",Canal 5
+https://streamvidex.qzz.io/videx/canal5/index.m3u8
+#EXTINF:-1 tvg-id="azteca7mx" tvg-name="Azteca 7" tvg-logo="" group-title="📺 México",Azteca 7
+https://streamvidex.qzz.io/videx/azteca7/index.m3u8
+#EXTINF:-1 tvg-id="aztecauno" tvg-name="Azteca Uno" tvg-logo="" group-title="📺 México",Azteca Uno
+https://streamvidex.qzz.io/videx/aztecauno/index.m3u8
+#EXTINF:-1 tvg-id="imagentv" tvg-name="Imagen TV" tvg-logo="" group-title="📺 México",Imagen TV
+https://streamvidex.qzz.io/videx/imagentv/index.m3u8
+#EXTINF:-1 tvg-id="milenio" tvg-name="Milenio" tvg-logo="" group-title="📺 México",Milenio
+https://streamvidex.qzz.io/videx/milenio/index.m3u8
+
+# ============================================
+# 🎭 ENTRETENIMIENTO
+# ============================================
+#EXTINF:-1 tvg-id="tnt" tvg-name="TNT" tvg-logo="" group-title="🎭 Entretenimiento",TNT
+https://streamvidex.qzz.io/videx/tnt/index.m3u8
+#EXTINF:-1 tvg-id="tntseries" tvg-name="TNT Series" tvg-logo="" group-title="🎭 Entretenimiento",TNT Series
+https://streamvidex.qzz.io/videx/tntseries/index.m3u8
+#EXTINF:-1 tvg-id="space" tvg-name="Space" tvg-logo="" group-title="🎭 Entretenimiento",Space
+https://streamvidex.qzz.io/videx/space/index.m3u8
+#EXTINF:-1 tvg-id="warner" tvg-name="Warner Channel" tvg-logo="" group-title="🎭 Entretenimiento",Warner Channel
+https://streamvidex.qzz.io/videx/warner/index.m3u8
+#EXTINF:-1 tvg-id="axn" tvg-name="AXN" tvg-logo="" group-title="🎭 Entretenimiento",AXN
+https://streamvidex.qzz.io/videx/axn/index.m3u8
+#EXTINF:-1 tvg-id="comedycentral" tvg-name="Comedy Central" tvg-logo="" group-title="🎭 Entretenimiento",Comedy Central
+https://streamvidex.qzz.io/videx/comedycentral/index.m3u8
+
+# ============================================
+# 🧒 INFANTIL
+# ============================================
+#EXTINF:-1 tvg-id="nick" tvg-name="Nickelodeon" tvg-logo="" group-title="🧒 Infantil",Nickelodeon
+https://streamvidex.qzz.io/videx/nick/index.m3u8
+#EXTINF:-1 tvg-id="cartoonnetwork" tvg-name="Cartoon Network" tvg-logo="" group-title="🧒 Infantil",Cartoon Network
+https://streamvidex.qzz.io/videx/cartoonnetwork/index.m3u8
+#EXTINF:-1 tvg-id="disneychannel" tvg-name="Disney Channel" tvg-logo="" group-title="🧒 Infantil",Disney Channel
+https://streamvidex.qzz.io/videx/disneychannel/index.m3u8
+#EXTINF:-1 tvg-id="discoverykids" tvg-name="Discovery Kids" tvg-logo="" group-title="🧒 Infantil",Discovery Kids
+https://streamvidex.qzz.io/videx/discoverykids/index.m3u8
+#EXTINF:-1 tvg-id="dckids" tvg-name="DC Kids" tvg-logo="" group-title="🧒 Infantil",DC Kids
+https://streamvidex.qzz.io/videx/dckids/index.m3u8
+
+# ============================================
+# 🌍 DOCUMENTALES
+# ============================================
+#EXTINF:-1 tvg-id="discovery" tvg-name="Discovery Channel" tvg-logo="" group-title="🌍 Documentales",Discovery Channel
+https://streamvidex.qzz.io/videx/discovery/index.m3u8
+#EXTINF:-1 tvg-id="discoveryhh" tvg-name="Discovery H&H" tvg-logo="" group-title="🌍 Documentales",Discovery H&H
+https://streamvidex.qzz.io/videx/discoveryh%26h/index.m3u8
+#EXTINF:-1 tvg-id="discoveryturbo" tvg-name="Discovery Turbo" tvg-logo="" group-title="🌍 Documentales",Discovery Turbo
+https://streamvidex.qzz.io/videx/discoveryturbo/index.m3u8
+#EXTINF:-1 tvg-id="discoveryscience" tvg-name="Discovery Science" tvg-logo="" group-title="🌍 Documentales",Discovery Science
+https://streamvidex.qzz.io/videx/discoveryscience/index.m3u8
+#EXTINF:-1 tvg-id="animalplanet" tvg-name="Animal Planet" tvg-logo="" group-title="🌍 Documentales",Animal Planet
+https://streamvidex.qzz.io/videx/animalplanet/index.m3u8
+#EXTINF:-1 tvg-id="natgeo" tvg-name="National Geographic" tvg-logo="" group-title="🌍 Documentales",National Geographic
+https://streamvidex.qzz.io/videx/natgeo/index.m3u8
+#EXTINF:-1 tvg-id="history" tvg-name="History Channel" tvg-logo="" group-title="🌍 Documentales",History Channel
+https://streamvidex.qzz.io/videx/history/index.m3u8
+#EXTINF:-1 tvg-id="ae" tvg-name="A&E" tvg-logo="" group-title="🌍 Documentales",A&E
+https://streamvidex.qzz.io/videx/ae/index.m3u8
+#EXTINF:-1 tvg-id="lifetime" tvg-name="Lifetime" tvg-logo="" group-title="🌍 Documentales",Lifetime
+https://streamvidex.qzz.io/videx/lifetime/index.m3u8
+
+# ============================================
+# 🎵 MÚSICA
+# ============================================
+#EXTINF:-1 tvg-id="mtv" tvg-name="MTV" tvg-logo="" group-title="🎵 Música",MTV
+https://streamvidex.qzz.io/videx/mtv/index.m3u8
+#EXTINF:-1 tvg-id="mtvlive" tvg-name="MTV Live" tvg-logo="" group-title="🎵 Música",MTV Live
+https://streamvidex.qzz.io/videx/mtvlive/index.m3u8
+#EXTINF:-1 tvg-id="vh1" tvg-name="VH1" tvg-logo="" group-title="🎵 Música",VH1
+https://streamvidex.qzz.io/videx/vh1/index.m3u8
+#EXTINF:-1 tvg-id="vh1classics" tvg-name="VH1 Classics" tvg-logo="" group-title="🎵 Música",VH1 Classics
+https://streamvidex.qzz.io/videx/vh1classics/index.m3u8
+#EXTINF:-1 tvg-id="muchmusic" tvg-name="Much Music" tvg-logo="" group-title="🎵 Música",Much Music
+https://streamvidex.qzz.io/videx/muchmusic/index.m3u8
+#EXTINF:-1 tvg-id="cmt" tvg-name="CMT" tvg-logo="" group-title="🎵 Música",CMT
+https://streamvidex.qzz.io/videx/cmt/index.m3u8
+
+# ============================================
+# 🇺🇸 USA / INTERNACIONAL
+# ============================================
+#EXTINF:-1 tvg-id="abchd" tvg-name="ABC HD" tvg-logo="" group-title="🇺🇸 USA/Internacional",ABC HD
+https://streamvidex.qzz.io/videx/abchd/index.m3u8
+#EXTINF:-1 tvg-id="cnn" tvg-name="CNN" tvg-logo="" group-title="🇺🇸 USA/Internacional",CNN
+https://streamvidex.qzz.io/videx/cnn/index.m3u8
+#EXTINF:-1 tvg-id="cnnespanol" tvg-name="CNN Español" tvg-logo="" group-title="🇺🇸 USA/Internacional",CNN Español
+https://streamvidex.qzz.io/videx/cnnespanol/index.m3u8
+#EXTINF:-1 tvg-id="foxnews" tvg-name="Fox News" tvg-logo="" group-title="🇺🇸 USA/Internacional",Fox News
+https://streamvidex.qzz.io/videx/foxnews/index.m3u8
+#EXTINF:-1 tvg-id="univision" tvg-name="Univisión" tvg-logo="" group-title="🇺🇸 USA/Internacional",Univisión
+https://streamvidex.qzz.io/videx/univision/index.m3u8
+#EXTINF:-1 tvg-id="unimas" tvg-name="UniMás" tvg-logo="" group-title="🇺🇸 USA/Internacional",UniMás
+https://streamvidex.qzz.io/videx/unimas/index.m3u8
+#EXTINF:-1 tvg-id="dw" tvg-name="DW" tvg-logo="" group-title="🇺🇸 USA/Internacional",DW
+https://streamvidex.qzz.io/videx/dw/index.m3u8
+#EXTINF:-1 tvg-id="france24" tvg-name="France 24" tvg-logo="" group-title="🇺🇸 USA/Internacional",France 24
+https://streamvidex.qzz.io/videx/france24/index.m3u8
+#EXTINF:-1 tvg-id="rt" tvg-name="RT" tvg-logo="" group-title="🇺🇸 USA/Internacional",RT
+https://streamvidex.qzz.io/videx/rt/index.m3u8
+#EXTINF:-1 tvg-id="rtespanol" tvg-name="RT Español" tvg-logo="" group-title="🇺🇸 USA/Internacional",RT Español
+https://streamvidex.qzz.io/videx/rtespanol/index.m3u8
+#EXTINF:-1 tvg-id="ntn24" tvg-name="NTN24" tvg-logo="" group-title="🇺🇸 USA/Internacional",NTN24
+https://streamvidex.qzz.io/videx/ntn24/index.m3u8
