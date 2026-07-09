@@ -1,0 +1,1013 @@
+[
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁL ES EL OBJETIVO PRINCIPAL DE LA GESTIÓN DOCUMENTAL Y ADMINISTRACIÓN DE ARCHIVOS SEGÚN LA LEY GENERAL DE ARCHIVOS?",
+    "opciones": {
+      "a": "ORGANIZAR Y CONSERVAR LOS DOCUMENTOS DE MANERA EFICIENTE",
+      "b": "ELIMINAR DOCUMENTOS OBSOLETOS PARA LIBERAR ESPACIO",
+      "c": "GARANTIZAR LA SEGURIDAD DE LOS DOCUMENTOS CLASIFICADOS",
+      "d": "FACILITAR EL ACCESO A LA INFORMACIÓN PÚBLICA"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Temario_Conocimientos_Especificos, Ley General de Archivos, Libro I, Título Segundo"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿QUÉ TÍTULO DE LA LEY GENERAL DE ARCHIVOS REGULA LA VALORACIÓN Y CONSERVACIÓN DE LOS ARCHIVOS?",
+    "opciones": {
+      "a": "TÍTULO PRIMERO",
+      "b": "TÍTULO SEGUNDO",
+      "c": "TÍTULO TERCERO",
+      "d": "TÍTULO CUARTO"
+    },
+    "respuesta_correcta": "c",
+    "fuente": "Temario_Conocimientos_Especificos, Ley General de Archivos, Libro I, Título Tercero"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "verdadero_falso",
+    "pregunta": "LA LEY GENERAL DE ARCHIVOS ESTABLECE EN SU LIBRO I LA ORGANIZACIÓN Y ADMINISTRACIÓN HOMOGÉNEA DE LOS ARCHIVOS.",
+    "respuesta_correcta": "a",
+    "fuente": "Temario_Conocimientos_Especificos, Ley General de Archivos, Libro I"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁL ES EL LIBRO DE LA LEY GENERAL DE ARCHIVOS QUE SE REFIERE A LA ORGANIZACIÓN Y ADMINISTRACIÓN HOMOGÉNEA DE LOS ARCHIVOS?",
+    "opciones": {
+      "a": "LIBRO I",
+      "b": "LIBRO II",
+      "c": "LIBRO III",
+      "d": "LIBRO IV"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Temario_Conocimientos_Especificos, Ley General de Archivos, Libro I"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "verdadero_falso",
+    "pregunta": "EL TÍTULO SEGUNDO DE LA LEY GENERAL DE ARCHIVOS REGULA LA GESTIÓN DOCUMENTAL Y ADMINISTRACIÓN DE ARCHIVOS.",
+    "respuesta_correcta": "a",
+    "fuente": "Temario_Conocimientos_Especificos, Ley General de Archivos, Libro I, Título Segundo"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "verdadero_falso",
+    "pregunta": "EL TÍTULO TERCERO DE LA LEY GENERAL DE ARCHIVOS REGULA LA VALORACIÓN Y CONSERVACIÓN DE LOS ARCHIVOS.",
+    "respuesta_correcta": "a",
+    "fuente": "Temario_Conocimientos_Especificos, Ley General de Archivos, Libro I, Título Tercero"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁL ES EL OBJETIVO PRINCIPAL DE LA ADMINISTRACIÓN DE ARCHIVOS EN LA SECRETARÍA DE MARINA?",
+    "opciones": {
+      "a": "GARANTIZAR LA SEGURIDAD DE LOS DOCUMENTOS CLASIFICADOS",
+      "b": "FACILITAR EL ACCESO A LA INFORMACIÓN PÚBLICA GUBERNAMENTAL",
+      "c": "ORGANIZAR Y CONSERVAR LA DOCUMENTACIÓN DE MANERA EFICIENTE",
+      "d": "ELIMINAR DOCUMENTOS OBSOLETOS PARA LIBERAR ESPACIO"
+    },
+    "respuesta_correcta": "c",
+    "fuente": "Manual_de_administracion_archivistica.pdf, sección 1: Objetivos de la administración de archivos"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿QUÉ TIPO DE INFORMACIÓN SE CONSIDERA COMO DATOS PERSONALES SENSIBLES SEGÚN LA LEY FEDERAL DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA GUBERNAMENTAL?",
+    "opciones": {
+      "a": "DOMICILIO Y NÚMERO TELEFÓNICO",
+      "b": "ESTRUCTURA ORGÁNICA DE LA INSTITUCIÓN",
+      "c": "DIRECTORIO DE SERVIDORES PÚBLICOS",
+      "d": "FACULTADES DE CADA UNIDAD ADMINISTRATIVA"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Manual_de_administracion_archivistica.pdf, página 66: Ley Federal de Transparencia"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁL DE LOS SIGUIENTES ES UN EJEMPLO DE INFORMACIÓN PÚBLICA SEGÚN LA LEY FEDERAL DE TRANSPARENCIA?",
+    "opciones": {
+      "a": "ORIGEN ÉTNICO O RACIAL",
+      "b": "ESTADO DE SALUD FÍSICA",
+      "c": "ESTRUCTURA ORGÁNICA DE LA INSTITUCIÓN",
+      "d": "PREFERENCIA SEXUAL"
+    },
+    "respuesta_correcta": "c",
+    "fuente": "Manual_de_administracion_archivistica.pdf, página 66: Ley Federal de Transparencia"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "verdadero_falso",
+    "pregunta": "LOS DATOS PERSONALES SENSIBLES INCLUYEN INFORMACIÓN SOBRE EL ORIGEN ÉTNICO O RACIAL DE UNA PERSONA.",
+    "respuesta_correcta": "a",
+    "fuente": "Manual_de_administracion_archivistica.pdf, página 66: Ley Federal de Transparencia"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "verdadero_falso",
+    "pregunta": "LA ESTRUCTURA ORGÁNICA DE UNA INSTITUCIÓN SE CONSIDERA INFORMACIÓN CONFIDENCIAL SEGÚN LA LEY FEDERAL DE TRANSPARENCIA.",
+    "respuesta_correcta": "b",
+    "fuente": "Manual_de_administracion_archivistica.pdf, página 66: Ley Federal de Transparencia"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁL DE LOS SIGUIENTES DATOS SE CLASIFICA COMO INFORMACIÓN PÚBLICA SEGÚN LA LEY FEDERAL DE TRANSPARENCIA?",
+    "opciones": {
+      "a": "VIDA AFECTIVA",
+      "b": "DIRECTORIO DE SERVIDORES PÚBLICOS",
+      "c": "CREENCIA RELIGIOSA",
+      "d": "PATRIMONIO"
+    },
+    "respuesta_correcta": "b",
+    "fuente": "Manual_de_administracion_archivistica.pdf, página 66: Ley Federal de Transparencia"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿QUÉ TIPO DE INFORMACIÓN SE CONSIDERA COMO DATOS PERSONALES SENSIBLES?",
+    "opciones": {
+      "a": "FACULTADES DE CADA UNIDAD ADMINISTRATIVA",
+      "b": "ESTADO DE SALUD MENTAL",
+      "c": "ESTRUCTURA ORGÁNICA",
+      "d": "DIRECTORIO DE SERVIDORES PÚBLICOS"
+    },
+    "respuesta_correcta": "b",
+    "fuente": "Manual_de_administracion_archivistica.pdf, página 66: Ley Federal de Transparencia"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "verdadero_falso",
+    "pregunta": "EL DOMICILIO DE UNA PERSONA FÍSICA SE CONSIDERA UN DATO PERSONAL SENSIBLE SEGÚN LA LEY FEDERAL DE TRANSPARENCIA.",
+    "respuesta_correcta": "a",
+    "fuente": "Manual_de_administracion_archivistica.pdf, página 66: Ley Federal de Transparencia"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁL DE LOS SIGUIENTES ES UN EJEMPLO DE DATO PERSONAL SENSIBLE?",
+    "opciones": {
+      "a": "NÚMERO TELEFÓNICO",
+      "b": "ESTRUCTURA ORGÁNICA",
+      "c": "FACULTADES ADMINISTRATIVAS",
+      "d": "DIRECTORIO DE SERVIDORES PÚBLICOS"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Manual_de_administracion_archivistica.pdf, página 66: Ley Federal de Transparencia"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "verdadero_falso",
+    "pregunta": "LA INFORMACIÓN SOBRE LA VIDA FAMILIAR DE UNA PERSONA SE CLASIFICA COMO DATO PERSONAL SENSIBLE.",
+    "respuesta_correcta": "a",
+    "fuente": "Manual_de_administracion_archivistica.pdf, página 66: Ley Federal de Transparencia"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿QUÉ TIPO DE INFORMACIÓN SE CONSIDERA PÚBLICA SEGÚN LA LEY FEDERAL DE TRANSPARENCIA?",
+    "opciones": {
+      "a": "CARACTERÍSTICAS FÍSICAS",
+      "b": "OPINIÓN POLÍTICA",
+      "c": "FACULTADES DE CADA UNIDAD ADMINISTRATIVA",
+      "d": "ESTADO DE SALUD FÍSICA"
+    },
+    "respuesta_correcta": "c",
+    "fuente": "Manual_de_administracion_archivistica.pdf, página 66: Ley Federal de Transparencia"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "verdadero_falso",
+    "pregunta": "LA INFORMACIÓN SOBRE LA IDEOLOGÍA DE UNA PERSONA SE CONSIDERA UN DATO PERSONAL SENSIBLE.",
+    "respuesta_correcta": "a",
+    "fuente": "Manual_de_administracion_archivistica.pdf, página 66: Ley Federal de Transparencia"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁL DE LOS SIGUIENTES DATOS SE CLASIFICA COMO INFORMACIÓN PÚBLICA?",
+    "opciones": {
+      "a": "CARACTERÍSTICAS MORALES",
+      "b": "DIRECTORIO DE SERVIDORES PÚBLICOS",
+      "c": "VIDA AFECTIVA",
+      "d": "CREENCIA FILOSÓFICA"
+    },
+    "respuesta_correcta": "b",
+    "fuente": "Manual_de_administracion_archivistica.pdf, página 66: Ley Federal de Transparencia"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "verdadero_falso",
+    "pregunta": "EL PATRIMONIO DE UNA PERSONA SE CONSIDERA UN DATO PERSONAL SENSIBLE SEGÚN LA LEY FEDERAL DE TRANSPARENCIA.",
+    "respuesta_correcta": "a",
+    "fuente": "Manual_de_administracion_archivistica.pdf, página 66: Ley Federal de Transparencia"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "SEGÚN EL MANUAL DE ADMINISTRACIÓN ARCHIVÍSTICA, ¿QUÉ SE ENTIENDE POR VALORACIÓN DOCUMENTAL?",
+    "opciones": {
+      "a": "EL PROCESO DE ELIMINACIÓN DE DOCUMENTOS",
+      "b": "EL PROCESO DE DETERMINAR EL VALOR DE LOS DOCUMENTOS",
+      "c": "EL PROCESO DE ORGANIZACIÓN DE DOCUMENTOS",
+      "d": "EL PROCESO DE DIGITALIZACIÓN DE DOCUMENTOS"
+    },
+    "respuesta_correcta": "b",
+    "fuente": "Temario_Conocimientos_Especificos, Manual de Administración Archivística, Valoración documental"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "verdadero_falso",
+    "pregunta": "EL MANUAL DE ADMINISTRACIÓN ARCHIVÍSTICA INCLUYE LA DEFINICIÓN DE LOS PROCESOS TÉCNICOS ARCHIVÍSTICOS.",
+    "respuesta_correcta": "a",
+    "fuente": "Temario_Conocimientos_Especificos, Manual de Administración Archivística, Definición de los procesos técnicos archivísticos"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁL ES EL DOCUMENTO QUE ESTABLECE LAS DIRECTRICES PARA LA ADMINISTRACIÓN DE ARCHIVOS EN LA SECRETARÍA DE MARINA?",
+    "opciones": {
+      "a": "MANUAL DE ADMINISTRACIÓN ARCHIVÍSTICA",
+      "b": "LEY FEDERAL DE TRANSPARENCIA",
+      "c": "REGLAMENTO GENERAL DE DEBERES NAVALES",
+      "d": "CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE MARINA"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Temario_Conocimientos_Especificos, Manual de Administración Archivística"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "verdadero_falso",
+    "pregunta": "LA VALORACIÓN DOCUMENTAL ES UN PROCESO TÉCNICO ARCHIVÍSTICO QUE DETERMINA EL VALOR DE LOS DOCUMENTOS.",
+    "respuesta_correcta": "a",
+    "fuente": "Temario_Conocimientos_Especificos, Manual de Administración Archivística, Valoración documental"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "SEGÚN EL MANUAL DE ADMINISTRACIÓN ARCHIVÍSTICA, ¿CUÁL ES UNO DE LOS PROCESOS TÉCNICOS ARCHIVÍSTICOS?",
+    "opciones": {
+      "a": "VALORACIÓN DOCUMENTAL",
+      "b": "ACUÑACIÓN DE MONEDA",
+      "c": "FABRICACIÓN DE PAPEL",
+      "d": "IMPRESIÓN DE DOCUMENTOS"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Temario_Conocimientos_Especificos, Manual de Administración Archivística, Definición de los procesos técnicos archivísticos"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "verdadero_falso",
+    "pregunta": "LA LEY FEDERAL DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA GUBERNAMENTAL CLASIFICA LA INFORMACIÓN EN PÚBLICA, CONFIDENCIAL Y RESERVADA.",
+    "respuesta_correcta": "a",
+    "fuente": "Manual_de_administracion_archivistica.pdf, página 66: Ley Federal de Transparencia"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "SEGÚN EL MANUAL DE GESTIÓN DE LA INFORMACIÓN DE LA SECRETARÍA DE MARINA, ¿QUÉ ASPECTO REGULA LA GESTIÓN DE LA INFORMACIÓN AL INTERIOR DE LA INSTITUCIÓN?",
+    "opciones": {
+      "a": "EL MANEJO INTERNO DE LA INFORMACIÓN",
+      "b": "LA DIFUSIÓN EXTERNA DE LA INFORMACIÓN",
+      "c": "LA ELIMINACIÓN DE DOCUMENTOS",
+      "d": "LA DIGITALIZACIÓN DE ARCHIVOS"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Temario_Conocimientos_Especificos, Manual de Gestión de la Información de la SEMAR"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "verdadero_falso",
+    "pregunta": "EL MANUAL DE GESTIÓN DE LA INFORMACIÓN DE LA SECRETARÍA DE MARINA REGULA LA SOCIALIZACIÓN DE LA INFORMACIÓN DE LA INSTITUCIÓN.",
+    "respuesta_correcta": "a",
+    "fuente": "Temario_Conocimientos_Especificos, Manual de Gestión de la Información de la SEMAR"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁL DE LOS SIGUIENTES ES UN TIPO DE DOCUMENTO QUE SE GENERA EN LAS UNIDADES Y DEPENDENCIAS DE LA ARMADA DE MÉXICO SEGÚN DOCUMENTACIÓN NAVAL I?",
+    "opciones": {
+      "a": "PARTES RADIOTELEGRÁFICOS",
+      "b": "MANUALES DE PROCEDIMIENTOS",
+      "c": "REGLAMENTOS INTERNOS",
+      "d": "PLANES ESTRATÉGICOS"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Temario_Conocimientos_Especificos, Documentación Naval I"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "SEGÚN DOCUMENTACIÓN NAVAL I, ¿CUÁL DE LOS SIGUIENTES ES UN DOCUMENTO QUE SE GENERA EN LAS UNIDADES Y DEPENDENCIAS DE LA ARMADA DE MÉXICO?",
+    "opciones": {
+      "a": "CERTIFICADO",
+      "b": "FACTURA",
+      "c": "CONTRATO",
+      "d": "RECIBO"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Temario_Conocimientos_Especificos, Documentación Naval I"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁL DE LOS SIGUIENTES DOCUMENTOS SE GENERA EN LAS UNIDADES Y DEPENDENCIAS DE LA ARMADA DE MÉXICO SEGÚN DOCUMENTACIÓN NAVAL I?",
+    "opciones": {
+      "a": "CERTIFICACIÓN",
+      "b": "PEDIDO",
+      "c": "ORDEN DE COMPRA",
+      "d": "FACTURA"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Temario_Conocimientos_Especificos, Documentación Naval I"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "SEGÚN DOCUMENTACIÓN NAVAL I, ¿CUÁL DE LOS SIGUIENTES ES UN DOCUMENTO OFICIAL GENERADO EN LA ARMADA DE MÉXICO?",
+    "opciones": {
+      "a": "COPIAS CERTIFICADAS",
+      "b": "BALANCE GENERAL",
+      "c": "ESTADO DE RESULTADOS",
+      "d": "FLUJO DE EFECTIVO"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Temario_Conocimientos_Especificos, Documentación Naval I"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁL DE LOS SIGUIENTES DOCUMENTOS SE GENERA EN LAS UNIDADES Y DEPENDENCIAS DE LA ARMADA DE MÉXICO SEGÚN DOCUMENTACIÓN NAVAL I?",
+    "opciones": {
+      "a": "ACTAS",
+      "b": "INVENTARIOS",
+      "c": "CATÁLOGOS",
+      "d": "DIRECTORIOS"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Temario_Conocimientos_Especificos, Documentación Naval I"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "verdadero_falso",
+    "pregunta": "SEGÚN DOCUMENTACIÓN NAVAL I, LOS PARTES RADIOTELEGRÁFICOS SON UN TIPO DE DOCUMENTO QUE SE GENERA EN LAS UNIDADES Y DEPENDENCIAS DE LA ARMADA DE MÉXICO.",
+    "respuesta_correcta": "a",
+    "fuente": "Temario_Conocimientos_Especificos, Documentación Naval I"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "verdadero_falso",
+    "pregunta": "SEGÚN DOCUMENTACIÓN NAVAL I, LOS CERTIFICADOS SON UN TIPO DE DOCUMENTO QUE SE GENERA EN LAS UNIDADES Y DEPENDENCIAS DE LA ARMADA DE MÉXICO.",
+    "respuesta_correcta": "a",
+    "fuente": "Temario_Conocimientos_Especificos, Documentación Naval I"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "verdadero_falso",
+    "pregunta": "SEGÚN DOCUMENTACIÓN NAVAL I, LAS CERTIFICACIONES SON UN TIPO DE DOCUMENTO QUE SE GENERA EN LAS UNIDADES Y DEPENDENCIAS DE LA ARMADA DE MÉXICO.",
+    "respuesta_correcta": "a",
+    "fuente": "Temario_Conocimientos_Especificos, Documentación Naval I"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "verdadero_falso",
+    "pregunta": "SEGÚN DOCUMENTACIÓN NAVAL I, LAS COPIAS CERTIFICADAS SON UN TIPO DE DOCUMENTO QUE SE GENERA EN LAS UNIDADES Y DEPENDENCIAS DE LA ARMADA DE MÉXICO.",
+    "respuesta_correcta": "a",
+    "fuente": "Temario_Conocimientos_Especificos, Documentación Naval I"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "verdadero_falso",
+    "pregunta": "SEGÚN DOCUMENTACIÓN NAVAL I, LAS ACTAS SON UN TIPO DE DOCUMENTO QUE SE GENERA EN LAS UNIDADES Y DEPENDENCIAS DE LA ARMADA DE MÉXICO.",
+    "respuesta_correcta": "a",
+    "fuente": "Temario_Conocimientos_Especificos, Documentación Naval I"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "SEGÚN LA ORTOGRAFÍA DEL IDIOMA ESPAÑOL, ¿CUÁL DE LOS SIGUIENTES TEMAS SE ESTUDIA EN LA ACENTUACIÓN?",
+    "opciones": {
+      "a": "LAS REGLAS DE TILDACIÓN",
+      "b": "LOS SIGNOS DE PUNTUACIÓN",
+      "c": "LA CONJUGACIÓN VERBAL",
+      "d": "EL USO DE LAS LETRAS"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Temario_Conocimientos_Especificos, La Ortografía del Idioma Español"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "SEGÚN LA ORTOGRAFÍA DEL IDIOMA ESPAÑOL, ¿CUÁL DE LOS SIGUIENTES TEMAS SE ESTUDIA EN LOS SIGNOS DE PUNTUACIÓN?",
+    "opciones": {
+      "a": "LA COMA, EL PUNTO Y EL PUNTO Y COMA",
+      "b": "LAS REGLAS DE TILDACIÓN",
+      "c": "LA CONJUGACIÓN VERBAL",
+      "d": "EL USO DE LAS LETRAS"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Temario_Conocimientos_Especificos, La Ortografía del Idioma Español"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "SEGÚN LA ORTOGRAFÍA DEL IDIOMA ESPAÑOL, ¿CUÁL DE LOS SIGUIENTES TEMAS SE ESTUDIA EN EL VERBO?",
+    "opciones": {
+      "a": "LA CONJUGACIÓN VERBAL",
+      "b": "LAS REGLAS DE TILDACIÓN",
+      "c": "LOS SIGNOS DE PUNTUACIÓN",
+      "d": "EL USO DE LAS LETRAS"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Temario_Conocimientos_Especificos, La Ortografía del Idioma Español"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "SEGÚN LA ORTOGRAFÍA DEL IDIOMA ESPAÑOL, ¿CUÁL DE LOS SIGUIENTES TEMAS SE ESTUDIA EN LA ORTOGRAFÍA DE LAS LETRAS?",
+    "opciones": {
+      "a": "EL USO DE LA B Y LA V",
+      "b": "LAS REGLAS DE TILDACIÓN",
+      "c": "LOS SIGNOS DE PUNTUACIÓN",
+      "d": "LA CONJUGACIÓN VERBAL"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Temario_Conocimientos_Especificos, La Ortografía del Idioma Español"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "verdadero_falso",
+    "pregunta": "LA ORTOGRAFÍA DEL IDIOMA ESPAÑOL INCLUYE EL ESTUDIO DE LA ACENTUACIÓN, LOS SIGNOS DE PUNTUACIÓN, EL VERBO Y LA ORTOGRAFÍA DE LAS LETRAS.",
+    "respuesta_correcta": "a",
+    "fuente": "Temario_Conocimientos_Especificos, La Ortografía del Idioma Español"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "verdadero_falso",
+    "pregunta": "LOS SIGNOS AUXILIARES SON PARTE DEL ESTUDIO DE LOS SIGNOS DE PUNTUACIÓN SEGÚN LA ORTOGRAFÍA DEL IDIOMA ESPAÑOL.",
+    "respuesta_correcta": "a",
+    "fuente": "Temario_Conocimientos_Especificos, La Ortografía del Idioma Español"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "SEGÚN MICROSOFT WORD 2016, ¿CUÁL ES UNO DE LOS TEMAS PRINCIPALES DEL MANUAL PRÁCTICO?",
+    "opciones": {
+      "a": "GRÁFICOS",
+      "b": "FÓRMULAS",
+      "c": "MACROS",
+      "d": "BASES DE DATOS"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Temario_Conocimientos_Especificos, Microsoft Word 2016"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "verdadero_falso",
+    "pregunta": "EL MANUAL PRÁCTICO DE MICROSOFT WORD 2016 INCLUYE EL TEMA DE GRÁFICOS.",
+    "respuesta_correcta": "a",
+    "fuente": "Temario_Conocimientos_Especificos, Microsoft Word 2016"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "SEGÚN EL MANUAL DE EXCEL BÁSICO, ¿CUÁL ES UNO DE LOS TEMAS PRINCIPALES?",
+    "opciones": {
+      "a": "EDICIÓN DE UNA HOJA DE CÁLCULO",
+      "b": "CREACIÓN DE MACROS",
+      "c": "DISEÑO DE BASES DE DATOS",
+      "d": "PROGRAMACIÓN EN VBA"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Temario_Conocimientos_Especificos, Manual de Excel Básico"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "SEGÚN EL MANUAL DE EXCEL BÁSICO, ¿CUÁL ES UNO DE LOS TEMAS PRINCIPALES?",
+    "opciones": {
+      "a": "USO DE FÓRMULAS",
+      "b": "CREACIÓN DE MACROS",
+      "c": "DISEÑO DE BASES DE DATOS",
+      "d": "PROGRAMACIÓN EN VBA"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Temario_Conocimientos_Especificos, Manual de Excel Básico"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "SEGÚN EL MANUAL DE EXCEL BÁSICO, ¿CUÁL ES UNO DE LOS TEMAS PRINCIPALES?",
+    "opciones": {
+      "a": "GRÁFICOS",
+      "b": "MACROS",
+      "c": "BASES DE DATOS",
+      "d": "PROGRAMACIÓN"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Temario_Conocimientos_Especificos, Manual de Excel Básico"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "SEGÚN EL MANUAL DE EXCEL BÁSICO, ¿CUÁL ES UNO DE LOS TEMAS PRINCIPALES?",
+    "opciones": {
+      "a": "LISTAS DE DATOS",
+      "b": "MACROS AVANZADAS",
+      "c": "BASES DE DATOS RELACIONALES",
+      "d": "PROGRAMACIÓN EN VBA"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Temario_Conocimientos_Especificos, Manual de Excel Básico"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "verdadero_falso",
+    "pregunta": "EL MANUAL DE EXCEL BÁSICO INCLUYE EL TEMA DE EDICIÓN DE UNA HOJA DE CÁLCULO.",
+    "respuesta_correcta": "a",
+    "fuente": "Temario_Conocimientos_Especificos, Manual de Excel Básico"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "verdadero_falso",
+    "pregunta": "EL MANUAL DE EXCEL BÁSICO INCLUYE EL TEMA DE USO DE FÓRMULAS.",
+    "respuesta_correcta": "a",
+    "fuente": "Temario_Conocimientos_Especificos, Manual de Excel Básico"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "verdadero_falso",
+    "pregunta": "EL MANUAL DE EXCEL BÁSICO INCLUYE EL TEMA DE GRÁFICOS.",
+    "respuesta_correcta": "a",
+    "fuente": "Temario_Conocimientos_Especificos, Manual de Excel Básico"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "verdadero_falso",
+    "pregunta": "EL MANUAL DE EXCEL BÁSICO INCLUYE EL TEMA DE LISTAS DE DATOS.",
+    "respuesta_correcta": "a",
+    "fuente": "Temario_Conocimientos_Especificos, Manual de Excel Básico"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "SEGÚN POWER POINT BÁSICO 2016, ¿CUÁL ES UNO DE LOS TEMAS PRINCIPALES?",
+    "opciones": {
+      "a": "LAS VISTAS",
+      "b": "LAS MACROS",
+      "c": "LAS BASES DE DATOS",
+      "d": "LAS FÓRMULAS"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Temario_Conocimientos_Especificos, Power Point Básico 2016"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "SEGÚN POWER POINT BÁSICO 2016, ¿CUÁL ES UNO DE LOS TEMAS PRINCIPALES?",
+    "opciones": {
+      "a": "TRABAJAR CON DIAPOSITIVAS",
+      "b": "CREAR MACROS",
+      "c": "DISEÑAR BASES DE DATOS",
+      "d": "PROGRAMAR EN VBA"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Temario_Conocimientos_Especificos, Power Point Básico 2016"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "SEGÚN POWER POINT BÁSICO 2016, ¿CUÁL ES UNO DE LOS TEMAS PRINCIPALES?",
+    "opciones": {
+      "a": "MANEJAR OBJETOS",
+      "b": "CREAR MACROS",
+      "c": "DISEÑAR BASES DE DATOS",
+      "d": "PROGRAMAR EN VBA"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Temario_Conocimientos_Especificos, Power Point Básico 2016"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "verdadero_falso",
+    "pregunta": "POWER POINT BÁSICO 2016 INCLUYE EL TEMA DE LAS VISTAS.",
+    "respuesta_correcta": "a",
+    "fuente": "Temario_Conocimientos_Especificos, Power Point Básico 2016"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "verdadero_falso",
+    "pregunta": "POWER POINT BÁSICO 2016 INCLUYE EL TEMA DE TRABAJAR CON DIAPOSITIVAS.",
+    "respuesta_correcta": "a",
+    "fuente": "Temario_Conocimientos_Especificos, Power Point Básico 2016"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "verdadero_falso",
+    "pregunta": "POWER POINT BÁSICO 2016 INCLUYE EL TEMA DE MANEJAR OBJETOS.",
+    "respuesta_correcta": "a",
+    "fuente": "Temario_Conocimientos_Especificos, Power Point Básico 2016"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "SEGÚN LA DAM 1.9 SEGURIDAD DE LA INFORMACIÓN, ¿CUÁL ES UNO DE LOS TEMAS PRINCIPALES?",
+    "opciones": {
+      "a": "CONCEPTUALIZACIÓN DE LA SEGURIDAD DE LA INFORMACIÓN",
+      "b": "GESTIÓN DE RECURSOS HUMANOS",
+      "c": "ADMINISTRACIÓN DE ARCHIVOS",
+      "d": "CONTROL DE INVENTARIOS"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Temario_Conocimientos_Especificos, DAM 1.9 Seguridad de la Información"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "SEGÚN LA DAM 1.9 SEGURIDAD DE LA INFORMACIÓN, ¿CUÁL ES UNO DE LOS TEMAS PRINCIPALES?",
+    "opciones": {
+      "a": "MODELO DOCTRINARIO DE SEGURIDAD DE LA INFORMACIÓN",
+      "b": "GESTIÓN DE RECURSOS HUMANOS",
+      "c": "ADMINISTRACIÓN DE ARCHIVOS",
+      "d": "CONTROL DE INVENTARIOS"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Temario_Conocimientos_Especificos, DAM 1.9 Seguridad de la Información"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "SEGÚN LA DAM 1.9 SEGURIDAD DE LA INFORMACIÓN, ¿QUÉ INCLUYE EL ANEXO A?",
+    "opciones": {
+      "a": "GLOSARIO DE TÉRMINOS",
+      "b": "LISTADO DE LEYES",
+      "c": "DIRECTORIO DE PERSONAL",
+      "d": "CATÁLOGO DE ARCHIVOS"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Temario_Conocimientos_Especificos, DAM 1.9 Seguridad de la Información"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "verdadero_falso",
+    "pregunta": "LA DAM 1.9 SEGURIDAD DE LA INFORMACIÓN INCLUYE LA CONCEPTUALIZACIÓN DE LA SEGURIDAD DE LA INFORMACIÓN EN LA SECRETARÍA DE MARINA.",
+    "respuesta_correcta": "a",
+    "fuente": "Temario_Conocimientos_Especificos, DAM 1.9 Seguridad de la Información"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "verdadero_falso",
+    "pregunta": "LA DAM 1.9 SEGURIDAD DE LA INFORMACIÓN INCLUYE EL MODELO DOCTRINARIO DE SEGURIDAD DE LA INFORMACIÓN.",
+    "respuesta_correcta": "a",
+    "fuente": "Temario_Conocimientos_Especificos, DAM 1.9 Seguridad de la Información"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "verdadero_falso",
+    "pregunta": "LA DAM 1.9 SEGURIDAD DE LA INFORMACIÓN INCLUYE UN ANEXO A CON GLOSARIO DE TÉRMINOS.",
+    "respuesta_correcta": "a",
+    "fuente": "Temario_Conocimientos_Especificos, DAM 1.9 Seguridad de la Información"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁL ES EL OBJETIVO DEL MANUAL DE GESTIÓN DE LA INFORMACIÓN DE LA SECRETARÍA DE MARINA?",
+    "opciones": {
+      "a": "REGULAR LA GESTIÓN DE LA INFORMACIÓN AL INTERIOR DE LA INSTITUCIÓN",
+      "b": "REGULAR LA ADMINISTRACIÓN DE ARCHIVOS",
+      "c": "REGULAR LA SEGURIDAD DE LA INFORMACIÓN",
+      "d": "REGULAR LA DISCIPLINA NAVAL"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Temario_Conocimientos_Especificos, Manual de Gestión de la Información de la SEMAR"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "SEGÚN LA DIRECTIVA PARA LA ASIGNACIÓN DE RECURSOS FINANCIEROS DE PASAJES Y VIÁTICOS, ¿CUÁL ES SU OBJETIVO PRINCIPAL?",
+    "opciones": {
+      "a": "REGULAR LA ASIGNACIÓN DE RECURSOS PARA PASAJES Y VIÁTICOS",
+      "b": "REGULAR LA ADMINISTRACIÓN DE ARCHIVOS",
+      "c": "REGULAR LA SEGURIDAD DE LA INFORMACIÓN",
+      "d": "REGULAR LA DISCIPLINA NAVAL"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Temario_Conocimientos_Especificos, Directiva DIGADMON-DEP-SCC-DPV-001/2023"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "verdadero_falso",
+    "pregunta": "LA DIRECTIVA DIGADMON-DEP-SCC-DPV-001/2023 REGULA LA ASIGNACIÓN DE RECURSOS FINANCIEROS DE PASAJES Y VIÁTICOS DE LA SECRETARÍA DE MARINA.",
+    "respuesta_correcta": "a",
+    "fuente": "Temario_Conocimientos_Especificos, Directiva DIGADMON-DEP-SCC-DPV-001/2023"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "verdadero_falso",
+    "pregunta": "EL MANUAL DE GESTIÓN DE LA INFORMACIÓN DE LA SECRETARÍA DE MARINA REGULA LA GESTIÓN DE LA INFORMACIÓN AL INTERIOR DE LA INSTITUCIÓN.",
+    "respuesta_correcta": "a",
+    "fuente": "Temario_Conocimientos_Especificos, Manual de Gestión de la Información de la SEMAR"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "verdadero_falso",
+    "pregunta": "EL MANUAL DE GESTIÓN DE LA INFORMACIÓN DE LA SECRETARÍA DE MARINA REGULA LA GESTIÓN DE SOCIALIZACIÓN DE LA INFORMACIÓN DE LA INSTITUCIÓN.",
+    "respuesta_correcta": "a",
+    "fuente": "Temario_Conocimientos_Especificos, Manual de Gestión de la Información de la SEMAR"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "SEGÚN LA ORTOGRAFÍA DEL IDIOMA ESPAÑOL, ¿CUÁL DE LOS SIGUIENTES TEMAS INCLUYE EL ESTUDIO DE LOS SIGNOS AUXILIARES?",
+    "opciones": {
+      "a": "SIGNOS DE PUNTUACIÓN Y SIGNOS AUXILIARES",
+      "b": "LA ACENTUACIÓN",
+      "c": "EL VERBO",
+      "d": "ORTOGRAFÍA DE LAS LETRAS"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Temario_Conocimientos_Especificos, La Ortografía del Idioma Español"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "SEGÚN DOCUMENTACIÓN NAVAL I, ¿CUÁNTOS TIPOS DE DOCUMENTOS SE MENCIONAN ESPECÍFICAMENTE?",
+    "opciones": {
+      "a": "CINCO",
+      "b": "TRES",
+      "c": "CUATRO",
+      "d": "SEIS"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Temario_Conocimientos_Especificos, Documentación Naval I"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "verdadero_falso",
+    "pregunta": "LA LEY GENERAL DE ARCHIVOS FUE PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL 19 DE ENERO DE 2023.",
+    "respuesta_correcta": "a",
+    "fuente": "Temario_Conocimientos_Especificos, Ley General de Archivos (2023)"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁL ES EL FUNDAMENTO LEGAL QUE REGULA LA ORGANIZACIÓN Y ADMINISTRACIÓN HOMOGÉNEA DE LOS ARCHIVOS?",
+    "opciones": {
+      "a": "LEY GENERAL DE ARCHIVOS",
+      "b": "LEY FEDERAL DE TRANSPARENCIA",
+      "c": "MANUAL DE ADMINISTRACIÓN ARCHIVÍSTICA",
+      "d": "CÓDIGO DE CONDUCTA DE LA SEMAR"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Temario_Conocimientos_Especificos, Ley General de Archivos"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "SEGÚN EL MANUAL DE ADMINISTRACIÓN ARCHIVÍSTICA, ¿CUÁLES SON LOS PROCESOS TÉCNICOS ARCHIVÍSTICOS?",
+    "opciones": {
+      "a": "PRODUCCIÓN, ORGANIZACIÓN, VALORACIÓN Y CONSERVACIÓN",
+      "b": "PRODUCCIÓN, DISTRIBUCIÓN, VENTA Y CONSUMO",
+      "c": "ADQUISICIÓN, ALMACENAMIENTO, DISTRIBUCIÓN Y VENTA",
+      "d": "PLANIFICACIÓN, ORGANIZACIÓN, DIRECCIÓN Y CONTROL"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Temario_Conocimientos_Especificos, Manual de Administración Archivística"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "verdadero_falso",
+    "pregunta": "LA DIRECTIVA DIGADMON-DEP-SCC-DPV-001/2023 FUE EMITIDA POR LA SECRETARÍA DE MARINA EN 2023.",
+    "respuesta_correcta": "a",
+    "fuente": "Temario_Conocimientos_Especificos, Directiva DIGADMON-DEP-SCC-DPV-001/2023"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁL ES UNO DE LOS TEMAS DEL MANUAL DE EXCEL BÁSICO RELACIONADO CON LA ORGANIZACIÓN DE DATOS?",
+    "opciones": {
+      "a": "LISTAS DE DATOS",
+      "b": "MACROS AVANZADAS",
+      "c": "BASES DE DATOS RELACIONALES",
+      "d": "PROGRAMACIÓN EN VBA"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Temario_Conocimientos_Especificos, Manual de Excel Básico"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "SEGÚN EL MANUAL DE EXCEL BÁSICO, ¿CUÁL ES EL TEMA RELACIONADO CON LA REPRESENTACIÓN VISUAL DE DATOS?",
+    "opciones": {
+      "a": "GRÁFICOS",
+      "b": "FÓRMULAS",
+      "c": "LISTAS DE DATOS",
+      "d": "EDICIÓN DE HOJA DE CÁLCULO"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Temario_Conocimientos_Especificos, Manual de Excel Básico"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "verdadero_falso",
+    "pregunta": "EL MANUAL DE ADMINISTRACIÓN ARCHIVÍSTICA FUE PUBLICADO POR LA SECRETARÍA DE MARINA EN 2011.",
+    "respuesta_correcta": "a",
+    "fuente": "Temario_Conocimientos_Especificos, Manual de Administración Archivística (2011)"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "SEGÚN LA LEY GENERAL DE ARCHIVOS, ¿QUÉ ASPECTO REGULA EL TÍTULO SEGUNDO DEL LIBRO I?",
+    "opciones": {
+      "a": "LA GESTIÓN DOCUMENTAL Y ADMINISTRACIÓN DE ARCHIVOS",
+      "b": "LA VALORACIÓN Y CONSERVACIÓN DE LOS ARCHIVOS",
+      "c": "LA ORGANIZACIÓN DE LOS ARCHIVOS",
+      "d": "LA ELIMINACIÓN DE DOCUMENTOS"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Temario_Conocimientos_Especificos, Ley General de Archivos, Libro I, Título Segundo"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "SEGÚN LA LEY GENERAL DE ARCHIVOS, ¿QUÉ ASPECTO REGULA EL TÍTULO TERCERO DEL LIBRO I?",
+    "opciones": {
+      "a": "LA VALORACIÓN Y CONSERVACIÓN DE LOS ARCHIVOS",
+      "b": "LA GESTIÓN DOCUMENTAL Y ADMINISTRACIÓN DE ARCHIVOS",
+      "c": "LA ORGANIZACIÓN DE LOS ARCHIVOS",
+      "d": "LA ELIMINACIÓN DE DOCUMENTOS"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Temario_Conocimientos_Especificos, Ley General de Archivos, Libro I, Título Tercero"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "verdadero_falso",
+    "pregunta": "EL MANUAL DE GESTIÓN DE LA INFORMACIÓN DE LA SECRETARÍA DE MARINA FUE PUBLICADO EN 2023.",
+    "respuesta_correcta": "a",
+    "fuente": "Temario_Conocimientos_Especificos, Manual de Gestión de la Información de la SEMAR (2023)"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "SEGÚN LA DAM 1.9 SEGURIDAD DE LA INFORMACIÓN, ¿EN QUÉ AÑO FUE PUBLICADA?",
+    "opciones": {
+      "a": "2019",
+      "b": "2020",
+      "c": "2021",
+      "d": "2022"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Temario_Conocimientos_Especificos, DAM 1.9 Seguridad de la Información (2019)"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "verdadero_falso",
+    "pregunta": "LA DAM 1.9 SEGURIDAD DE LA INFORMACIÓN FUE PUBLICADA POR EL CENTRO DE ESTUDIOS SUPERIORES NAVALES.",
+    "respuesta_correcta": "a",
+    "fuente": "Temario_Conocimientos_Especificos, DAM 1.9 Seguridad de la Información"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "SEGÚN DOCUMENTACIÓN NAVAL I, ¿CUÁL DE LOS SIGUIENTES DOCUMENTOS SE UTILIZA PARA COMUNICACIONES POR RADIO?",
+    "opciones": {
+      "a": "PARTES RADIOTELEGRÁFICOS",
+      "b": "CERTIFICADOS",
+      "c": "ACTAS",
+      "d": "COPIAS CERTIFICADAS"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Temario_Conocimientos_Especificos, Documentación Naval I"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "verdadero_falso",
+    "pregunta": "EL MANUAL DE EXCEL BÁSICO FUE PUBLICADO POR LA SECRETARÍA DE EDUCACIÓN PÚBLICA.",
+    "respuesta_correcta": "a",
+    "fuente": "Temario_Conocimientos_Especificos, Manual de Excel Básico"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "verdadero_falso",
+    "pregunta": "POWER POINT BÁSICO 2016 FUE PUBLICADO POR LA DIRECCIÓN DE ACTUALIZACIÓN TECNOLÓGICA EN LAS ESCUELAS.",
+    "respuesta_correcta": "a",
+    "fuente": "Temario_Conocimientos_Especificos, Power Point Básico 2016"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "SEGÚN LA ORTOGRAFÍA DEL IDIOMA ESPAÑOL, ¿CUÁL ES EL TEMA QUE ESTUDIA LAS REGLAS DE TILDACIÓN?",
+    "opciones": {
+      "a": "LA ACENTUACIÓN",
+      "b": "LOS SIGNOS DE PUNTUACIÓN",
+      "c": "EL VERBO",
+      "d": "ORTOGRAFÍA DE LAS LETRAS"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Temario_Conocimientos_Especificos, La Ortografía del Idioma Español"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "SEGÚN LA ORTOGRAFÍA DEL IDIOMA ESPAÑOL, ¿CUÁL ES EL TEMA QUE ESTUDIA LA CONJUGACIÓN VERBAL?",
+    "opciones": {
+      "a": "EL VERBO",
+      "b": "LA ACENTUACIÓN",
+      "c": "LOS SIGNOS DE PUNTUACIÓN",
+      "d": "ORTOGRAFÍA DE LAS LETRAS"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Temario_Conocimientos_Especificos, La Ortografía del Idioma Español"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "verdadero_falso",
+    "pregunta": "EL LIBRO DE ORTOGRAFÍA DEL IDIOMA ESPAÑOL FUE ESCRITO POR E. ROJAS EN SU OCTAVA EDICIÓN.",
+    "respuesta_correcta": "a",
+    "fuente": "Temario_Conocimientos_Especificos, La Ortografía del Idioma Español"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "SEGÚN EL MANUAL DE ADMINISTRACIÓN ARCHIVÍSTICA, ¿QUÉ TIPO DE INFORMACIÓN SE CONSIDERA PÚBLICA?",
+    "opciones": {
+      "a": "LA ESTRUCTURA ORGÁNICA DE LA INSTITUCIÓN",
+      "b": "EL DOMICILIO DE UNA PERSONA",
+      "c": "EL ESTADO DE SALUD DE UNA PERSONA",
+      "d": "LA IDEOLOGÍA DE UNA PERSONA"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Manual_de_administracion_archivistica.pdf, página 66: Ley Federal de Transparencia"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "verdadero_falso",
+    "pregunta": "LA LEY GENERAL DE ARCHIVOS REGULA LA ORGANIZACIÓN Y ADMINISTRACIÓN HOMOGÉNEA DE LOS ARCHIVOS EN MÉXICO.",
+    "respuesta_correcta": "a",
+    "fuente": "Temario_Conocimientos_Especificos, Ley General de Archivos"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "SEGÚN EL MANUAL DE ADMINISTRACIÓN ARCHIVÍSTICA, ¿CUÁL ES EL OBJETIVO DE LA ADMINISTRACIÓN DE ARCHIVOS?",
+    "opciones": {
+      "a": "ORGANIZAR Y CONSERVAR LA DOCUMENTACIÓN DE MANERA EFICIENTE",
+      "b": "ELIMINAR DOCUMENTOS OBSOLETOS",
+      "c": "GARANTIZAR LA SEGURIDAD DE LOS DOCUMENTOS",
+      "d": "FACILITAR EL ACCESO A LA INFORMACIÓN"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Manual_de_administracion_archivistica.pdf, sección 1"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "verdadero_falso",
+    "pregunta": "SEGÚN DOCUMENTACIÓN NAVAL I, LOS PARTES RADIOTELEGRÁFICOS SON DOCUMENTOS UTILIZADOS PARA COMUNICACIONES POR RADIO.",
+    "respuesta_correcta": "a",
+    "fuente": "Temario_Conocimientos_Especificos, Documentación Naval I"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "verdadero_falso",
+    "pregunta": "SEGÚN DOCUMENTACIÓN NAVAL I, LOS CERTIFICADOS SON DOCUMENTOS QUE ACREDITAN UN HECHO O UNA SITUACIÓN.",
+    "respuesta_correcta": "a",
+    "fuente": "Temario_Conocimientos_Especificos, Documentación Naval I"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "SEGÚN DOCUMENTACIÓN NAVAL I, ¿CUÁL DE LOS SIGUIENTES DOCUMENTOS SE UTILIZA PARA DEJAR CONSTANCIA DE UN HECHO?",
+    "opciones": {
+      "a": "ACTA",
+      "b": "CERTIFICADO",
+      "c": "CERTIFICACIÓN",
+      "d": "COPIA CERTIFICADA"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Temario_Conocimientos_Especificos, Documentación Naval I"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "SEGÚN DOCUMENTACIÓN NAVAL I, ¿CUÁL DE LOS SIGUIENTES DOCUMENTOS ES UNA REPRODUCCIÓN FIEL DE UN DOCUMENTO ORIGINAL?",
+    "opciones": {
+      "a": "COPIA CERTIFICADA",
+      "b": "ACTA",
+      "c": "CERTIFICADO",
+      "d": "PARTE RADIOTELEGRÁFICO"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Temario_Conocimientos_Especificos, Documentación Naval I"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "verdadero_falso",
+    "pregunta": "SEGÚN DOCUMENTACIÓN NAVAL I, LAS COPIAS CERTIFICADAS SON REPRODUCCIONES FIELES DE UN DOCUMENTO ORIGINAL.",
+    "respuesta_correcta": "a",
+    "fuente": "Temario_Conocimientos_Especificos, Documentación Naval I"
+  }
+]
