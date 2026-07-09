@@ -1,0 +1,197 @@
+[
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁL ES EL NOMBRE DE LA PIEZA ESTRUCTURAL QUE FORMA LA PARTE MÁS BAJA DEL CASCO Y SIRVE COMO COLUMNA VERTEBRAL DEL BUQUE?",
+    "opciones": {
+      "a": "RODA",
+      "b": "QUILLA",
+      "c": "CODASTE",
+      "d": "VARENGA"
+    },
+    "respuesta_correcta": "b",
+    "fuente": "Temario_Conocimientos_Marineros, Capítulo 1: Estructura del buque - Quilla"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CÓMO SE DENOMINA LA PIEZA QUE CIERRA LA PROA POR LA PARTE INFERIOR Y SOBRE LA CUAL SE APOYAN LOS EXTREMOS DE LAS CUADERNAS?",
+    "opciones": {
+      "a": "CODASTE",
+      "b": "BAO",
+      "c": "RODA",
+      "d": "VAGRA"
+    },
+    "respuesta_correcta": "c",
+    "fuente": "Temario_Conocimientos_Marineros, Capítulo 1: Estructura del buque - Roda"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿QUÉ PARTE DEL BUQUE SE DEFINE COMO LA PIEZA QUE CIERRA LA POPA POR LA PARTE INFERIOR?",
+    "opciones": {
+      "a": "RODA",
+      "b": "QUILLA",
+      "c": "CODASTE",
+      "d": "PUNTAL"
+    },
+    "respuesta_correcta": "c",
+    "fuente": "Temario_Conocimientos_Marineros, Capítulo 1: Estructura del buque - Codaste"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CÓMO SE LLAMA CADA UNO DE LOS MIEMBROS TRANSVERSALES QUE DAN FORMA AL CASCO Y SIRVEN DE SOPORTE AL FORRO?",
+    "opciones": {
+      "a": "BAOS",
+      "b": "CUADERNAS",
+      "c": "VARENGAS",
+      "d": "PALMEJARES"
+    },
+    "respuesta_correcta": "b",
+    "fuente": "Temario_Conocimientos_Marineros, Capítulo 1: Estructura del buque - Cuaderna"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿QUÉ ELEMENTO ESTRUCTURAL SE COLOCA EN LA PARTE INFERIOR DE LAS CUADERNAS PARA REFORZAR EL FONDO DEL BUQUE?",
+    "opciones": {
+      "a": "BAO",
+      "b": "VAGRA",
+      "c": "VARENGA",
+      "d": "PUNTAL"
+    },
+    "respuesta_correcta": "c",
+    "fuente": "Temario_Conocimientos_Marineros, Capítulo 1: Estructura del buque - Varenga"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CÓMO SE DENOMINA LA PIEZA TRANSVERSAL QUE SIRVE PARA SOSTENER LAS CUBIERTAS Y DAR RIGIDEZ AL BUQUE?",
+    "opciones": {
+      "a": "BAO",
+      "b": "VAGRA",
+      "c": "PUNTAL",
+      "d": "PALMEJAR"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Temario_Conocimientos_Marineros, Capítulo 1: Estructura del buque - Bao"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿QUÉ ELEMENTO LONGITUDINAL REFUERZA EL CASCO EN SENTIDO PROA-POPA Y SE APOYA SOBRE LAS CUADERNAS?",
+    "opciones": {
+      "a": "VAGRA",
+      "b": "PUNTAL",
+      "c": "BAO",
+      "d": "VARENGA"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Temario_Conocimientos_Marineros, Capítulo 1: Estructura del buque - Vagra"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CÓMO SE LLAMA EL ELEMENTO VERTICAL QUE SOSTIENE LOS BAOS Y LAS CUBIERTAS?",
+    "opciones": {
+      "a": "PUNTAL",
+      "b": "PALMEJAR",
+      "c": "FORRO",
+      "d": "MAMPARO"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Temario_Conocimientos_Marineros, Capítulo 1: Estructura del buque - Puntal"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿QUÉ PARTE DEL BUQUE SE REFIERE A LA SUPERFICIE EXTERIOR QUE CUBRE LAS CUADERNAS Y CIERRA EL CASCO?",
+    "opciones": {
+      "a": "FORRO",
+      "b": "MAMPARO",
+      "c": "DOBLE FONDO",
+      "d": "CUBIERTA"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Temario_Conocimientos_Marineros, Capítulo 1: Estructura del buque - Forro"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CÓMO SE DENOMINA LA DIVISIÓN VERTICAL INTERIOR QUE SEPARA LOS ESPACIOS DENTRO DEL BUQUE?",
+    "opciones": {
+      "a": "MAMPARO",
+      "b": "CUBIERTA",
+      "c": "ESCOTILLA",
+      "d": "PORTA"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Temario_Conocimientos_Marineros, Capítulo 1: Estructura del buque - Mamparo"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿QUÉ ESTRUCTURA SE UBICA ENTRE EL FONDO DEL CASCO Y LA PRIMERA CUBIERTA PARA PROPORCIONAR FLOTABILIDAD Y RESISTENCIA?",
+    "opciones": {
+      "a": "DOBLE FONDO",
+      "b": "SUPERESTRUCTURA",
+      "c": "CUBIERTA",
+      "d": "ESCOTILLA"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Temario_Conocimientos_Marineros, Capítulo 1: Estructura del buque - Doble fondo"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CÓMO SE LLAMA LA ABERTURA EN LA CUBIERTA QUE PERMITE EL ACCESO A LOS COMPARTIMENTOS INFERIORES?",
+    "opciones": {
+      "a": "ESCOTILLA",
+      "b": "PORTA",
+      "c": "PORTILLO",
+      "d": "GATERA"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Temario_Conocimientos_Marineros, Capítulo 1: Estructura del buque - Escotilla"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿QUÉ ABERTURA EN EL COSTADO DEL BUQUE SIRVE PARA EMBARCAR Y DESEMBARCAR PERSONAL O CARGA?",
+    "opciones": {
+      "a": "PORTA",
+      "b": "PORTILLO",
+      "c": "IMBORNAL",
+      "d": "FOGONADURA"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Temario_Conocimientos_Marineros, Capítulo 1: Estructura del buque - Porta"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CÓMO SE DENOMINA LA ABERTURA CIRCULAR EN EL COSTADO DEL BUQUE QUE PROPORCIONA LUZ Y VENTILACIÓN?",
+    "opciones": {
+      "a": "PORTILLO",
+      "b": "GATERA",
+      "c": "IMBORNAL",
+      "d": "PORTALÓN"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Temario_Conocimientos_Marineros, Capítulo 1: Estructura del buque - Portillo"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿QUÉ ELEMENTO SIRVE PARA AMARRAR CABOS EN EL BUQUE Y SE COMPONE DE DOS COLUMNAS VERTICALES?",
+    "opciones": {
+      "a": "BITA",
+      "b": "CORNAMUSA",
+      "c": "PASAMANOS",
+      "d": "DEFENSA"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Temario_Conocimientos_Marineros, Capítulo 1: Estructura del buque - Bita y cornamusa"
+  }
+]
