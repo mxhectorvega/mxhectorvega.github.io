@@ -2,2068 +2,1268 @@
   {
     "tema": "Conocimientos Marineros",
     "tipo": "opcion_multiple",
-    "pregunta": "¿CUÁL ES LA PIEZA ESTRUCTURAL QUE FORMA LA PARTE MÁS BAJA DEL CASCO Y SIRVE COMO COLUMNA VERTEBRAL DEL BUQUE?",
+    "pregunta": "EL CUERPO DEL BUQUE SIN SUPERESTRUCTURAS NI ARBOLADURA, QUE CONSTITUYE SU ESTRUCTURA ESENCIAL Y LE PERMITE NAVEGAR, SE DENOMINA:",
     "opciones": {
-      "a": "RODA",
+      "a": "CASCO",
       "b": "QUILLA",
-      "c": "CODASTE",
-      "d": "VARENGA"
+      "c": "OBRA VIVA",
+      "d": "CUBIERTA"
     },
+    "respuesta_correcta": "a",
+    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1 Estructura del buque"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "verdadero_falso",
+    "pregunta": "LA PROA ES LA PARTE POSTERIOR DEL BUQUE, MIENTRAS QUE LA POPA ES LA PARTE DELANTERA.",
     "respuesta_correcta": "b",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 1: Estructura del buque - Quilla"
+    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
   },
   {
     "tema": "Conocimientos Marineros",
     "tipo": "opcion_multiple",
-    "pregunta": "¿CÓMO SE DENOMINA LA PIEZA QUE CIERRA LA PROA POR LA PARTE INFERIOR Y SOBRE LA CUAL SE APOYAN LOS EXTREMOS DE LAS CUADERNAS?",
+    "pregunta": "MIRANDO HACIA LA PROA DESDE LA POPA, EL COSTADO QUE QUEDA A NUESTRA DERECHA SE LLAMA:",
     "opciones": {
-      "a": "CODASTE",
-      "b": "RODA",
-      "c": "QUILLA",
-      "d": "VARENGA"
+      "a": "BABOR",
+      "b": "ESTRIBOR",
+      "c": "AMURA",
+      "d": "ALETA"
     },
     "respuesta_correcta": "b",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 1: Estructura del buque - Roda"
+    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
   },
   {
     "tema": "Conocimientos Marineros",
     "tipo": "opcion_multiple",
-    "pregunta": "¿QUÉ PIEZA CIERRA LA POPA DEL BUQUE POR LA PARTE INFERIOR?",
+    "pregunta": "LA PARTE DEL CASCO QUE ESTÁ POR DEBAJO DE LA LÍNEA DE FLOTACIÓN Y, POR TANTO, SIEMPRE SUMERGIDA, SE CONOCE COMO:",
+    "opciones": {
+      "a": "OBRA MUERTA",
+      "b": "OBRA VIVA",
+      "c": "FORRO",
+      "d": "DOBLE FONDO"
+    },
+    "respuesta_correcta": "b",
+    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "verdadero_falso",
+    "pregunta": "LA OBRA MUERTA ES LA PARTE SUMERGIDA DEL CASCO, MIENTRAS QUE LA OBRA VIVA ES LA PARTE QUE SOBRESALE POR ENCIMA DEL AGUA.",
+    "respuesta_correcta": "b",
+    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "opcion_multiple",
+    "pregunta": "LA PIEZA LONGITUDINAL QUE RECORRE EL FONDO DEL BUQUE DE PROA A POPA FORMANDO SU ESPINA DORSAL Y SOBRE LA QUE SE ASIENTAN LAS CUADERNAS, RECIBE EL NOMBRE DE:",
     "opciones": {
       "a": "RODA",
       "b": "CODASTE",
       "c": "QUILLA",
-      "d": "VARENGA"
+      "d": "PALMEJAR"
     },
-    "respuesta_correcta": "b",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 1: Estructura del buque - Codaste"
+    "respuesta_correcta": "c",
+    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
   },
   {
     "tema": "Conocimientos Marineros",
     "tipo": "opcion_multiple",
-    "pregunta": "¿CÓMO SE DENOMINA CADA UNO DE LOS MIEMBROS TRANSVERSALES QUE DAN FORMA AL CASCO Y SIRVEN DE SOPORTE AL FORRO?",
+    "pregunta": "LA PIEZA ESTRUCTURAL QUE CONSTITUYE LA PROLONGACIÓN DE LA QUILLA EN LA PROA, CERRANDO LA ESTRUCTURA HASTA LA CUBIERTA, ES LA:",
     "opciones": {
-      "a": "BAOS",
-      "b": "CUADERNAS",
-      "c": "VARENGAS",
-      "d": "PALMEJARES"
+      "a": "CODASTE",
+      "b": "RODA",
+      "c": "VARENGA",
+      "d": "BAO"
     },
     "respuesta_correcta": "b",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 1: Estructura del buque - Cuaderna"
+    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "verdadero_falso",
+    "pregunta": "EL CODASTE ES LA PIEZA QUE PROLONGA LA QUILLA EN LA POPA Y SIRVE DE APOYO A LOS EJES DE LA HÉLICE Y AL TIMÓN.",
+    "respuesta_correcta": "a",
+    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
   },
   {
     "tema": "Conocimientos Marineros",
     "tipo": "opcion_multiple",
-    "pregunta": "¿QUÉ ELEMENTO ESTRUCTURAL SE COLOCA EN LA PARTE INFERIOR DE LAS CUADERNAS PARA REFORZAR EL FONDO DEL BUQUE?",
+    "pregunta": "LAS PIEZAS TRANSVERSALES QUE, COMO COSTILLAS DEL BUQUE, SE FIJAN A LA QUILLA Y DAN FORMA Y SOSTÉN AL FORRO SE LLAMAN:",
+    "opciones": {
+      "a": "VARENGAS",
+      "b": "BAOS",
+      "c": "CUADERNAS",
+      "d": "VAGRAS"
+    },
+    "respuesta_correcta": "c",
+    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "opcion_multiple",
+    "pregunta": "LA PIEZA TRANSVERSAL INFERIOR QUE UNE LAS RAMAS DE UNA CUADERNA SOBRE LA QUILLA, EN LA PARTE MÁS BAJA DEL BUQUE, ES LA:",
     "opciones": {
       "a": "BAO",
       "b": "VARENGA",
-      "c": "VAGRA",
-      "d": "PUNTAL"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 1: Estructura del buque - Varenga"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CÓMO SE DENOMINA LA PIEZA TRANSVERSAL QUE SIRVE PARA SOSTENER LAS CUBIERTAS Y DAR RIGIDEZ AL BUQUE?",
-    "opciones": {
-      "a": "BAO",
-      "b": "VAGRA",
       "c": "PUNTAL",
       "d": "PALMEJAR"
     },
-    "respuesta_correcta": "a",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 1: Estructura del buque - Bao"
+    "respuesta_correcta": "b",
+    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "verdadero_falso",
+    "pregunta": "EL BAO ES UNA PIEZA LONGITUDINAL QUE CORRE A LO LARGO DEL COSTADO DEL BUQUE Y REFUERZA LAS CUADERNAS.",
+    "respuesta_correcta": "b",
+    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
   },
   {
     "tema": "Conocimientos Marineros",
     "tipo": "opcion_multiple",
-    "pregunta": "¿QUÉ ELEMENTO LONGITUDINAL REFUERZA EL CASCO EN SENTIDO PROA-POPA Y SE APOYA SOBRE LAS CUADERNAS?",
+    "pregunta": "LAS VIGAS TRANSVERSALES QUE SE COLOCAN DE BAND A BAND PARA SOSTENER LAS CUBIERTAS Y ENLAZAR LAS CUADERNAS SE DENOMINAN:",
     "opciones": {
-      "a": "VAGRA",
-      "b": "PUNTAL",
-      "c": "BAO",
-      "d": "VARENGA"
+      "a": "VAGRAS",
+      "b": "PALMEJARES",
+      "c": "BAOS",
+      "d": "PUNTALES"
+    },
+    "respuesta_correcta": "c",
+    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "opcion_multiple",
+    "pregunta": "LOS REFUERZOS LONGITUDINALES QUE SE COLOCAN SOBRE LAS CUADERNAS, PARALELOS A LA QUILLA, Y QUE CONTRIBUYEN A LA RIGIDEZ DEL CASCO SON LAS:",
+    "opciones": {
+      "a": "MAMPAROS",
+      "b": "VAGRAS",
+      "c": "PALMEJARES",
+      "d": "B Y C SON CORRECTAS"
+    },
+    "respuesta_correcta": "d",
+    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "verdadero_falso",
+    "pregunta": "EL PUNTAL ES LA ALTURA INTERIOR DEL BUQUE MEDIDA DESDE LA CARA SUPERIOR DE LA QUILLA HASTA EL CANTO INTERIOR DE LA CUBIERTA PRINCIPAL.",
+    "respuesta_correcta": "b",
+    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 2 Medidas del buque"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "opcion_multiple",
+    "pregunta": "EL ELEMENTO ESTRUCTURAL QUE REFUERZA INTERIORMENTE EL FORRO Y CONSISTE EN UN LISTÓN DE MADERA O PERFIL METÁLICO QUE CORRE LONGITUDINALMENTE EN EL INTERIOR SE LLAMA:",
+    "opciones": {
+      "a": "PALMEJAR",
+      "b": "FORRO",
+      "c": "MAMPARO",
+      "d": "DOBLE FONDO"
     },
     "respuesta_correcta": "a",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 1: Estructura del buque - Vagra"
+    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
   },
   {
     "tema": "Conocimientos Marineros",
     "tipo": "opcion_multiple",
-    "pregunta": "¿CÓMO SE LLAMA EL ELEMENTO VERTICAL QUE SOSTIENE LOS BAOS Y LAS CUBIERTAS?",
-    "opciones": {
-      "a": "PUNTAL",
-      "b": "PALMEJAR",
-      "c": "FORRO",
-      "d": "MAMPARO"
-    },
-    "respuesta_correcta": "a",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 1: Estructura del buque - Puntal"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿QUÉ PARTE DEL BUQUE SE REFIERE A LA SUPERFICIE EXTERIOR QUE CUBRE LAS CUADERNAS Y CIERRA EL CASCO?",
-    "opciones": {
-      "a": "FORRO",
-      "b": "MAMPARO",
-      "c": "DOBLE FONDO",
-      "d": "CUBIERTA"
-    },
-    "respuesta_correcta": "a",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 1: Estructura del buque - Forro"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CÓMO SE DENOMINA LA DIVISIÓN VERTICAL INTERIOR QUE SEPARA LOS ESPACIOS DENTRO DEL BUQUE?",
-    "opciones": {
-      "a": "MAMPARO",
-      "b": "CUBIERTA",
-      "c": "ESCOTILLA",
-      "d": "PORTA"
-    },
-    "respuesta_correcta": "a",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 1: Estructura del buque - Mamparo"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿QUÉ ESTRUCTURA SE UBICA ENTRE EL FONDO DEL CASCO Y LA PRIMERA CUBIERTA PARA PROPORCIONAR FLOTABILIDAD Y RESISTENCIA?",
+    "pregunta": "EL REVESTIMIENTO EXTERIOR DEL CASCO QUE ASEGURA LA ESTANQUEIDAD Y LA PROTECCIÓN DE LA ESTRUCTURA SE CONOCE COMO:",
     "opciones": {
       "a": "DOBLE FONDO",
-      "b": "SUPERESTRUCTURA",
+      "b": "FORRO",
       "c": "CUBIERTA",
-      "d": "ESCOTILLA"
+      "d": "SUPERESTRUCTURA"
     },
+    "respuesta_correcta": "b",
+    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "verdadero_falso",
+    "pregunta": "UN MAMPARO ES UNA DIVISIÓN VERTICAL, LONGITUDINAL O TRANSVERSAL, QUE SUBDIVIDE EL INTERIOR DEL BUQUE EN COMPARTIMENTOS PARA MAYOR SEGURIDAD Y ORDEN.",
     "respuesta_correcta": "a",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 1: Estructura del buque - Doble fondo"
+    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
   },
   {
     "tema": "Conocimientos Marineros",
     "tipo": "opcion_multiple",
-    "pregunta": "¿CÓMO SE LLAMA LA ABERTURA EN LA CUBIERTA QUE PERMITE EL ACCESO A LOS COMPARTIMENTOS INFERIORES?",
+    "pregunta": "EL ESPACIO ESTANCO SITUADO EN LA PARTE MÁS BAJA DEL BUQUE, COMPRENDIDO ENTRE EL FORRO INTERIOR Y EL EXTERIOR, QUE AUMENTA LA SEGURIDAD EN CASO DE VARADA O ABORDAJE, ES EL:",
+    "opciones": {
+      "a": "PICOS DE PROA Y POPA",
+      "b": "DOBLE FONDO",
+      "c": "SENTINA",
+      "d": "IMBORNAL"
+    },
+    "respuesta_correcta": "b",
+    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "opcion_multiple",
+    "pregunta": "LOS PISOS O SUELOS HORIZONTALES QUE DIVIDEN EL BUQUE EN ALTURA SE DENOMINAN:",
+    "opciones": {
+      "a": "CUBIERTAS",
+      "b": "PLATAFORMAS",
+      "c": "ENTREPUENTES",
+      "d": "TODAS LAS ANTERIORES PUEDEN CONSIDERARSE COMO TAL"
+    },
+    "respuesta_correcta": "d",
+    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "verdadero_falso",
+    "pregunta": "LAS SUPERESTRUCTURAS SON CONSTRUCCIONES SITUADAS SOBRE LA CUBIERTA PRINCIPAL QUE SE EXTIENDEN DE BAND A BAND DEL BUQUE, COMO EL CASTILLO O LA TOLDA.",
+    "respuesta_correcta": "a",
+    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "opcion_multiple",
+    "pregunta": "LAS ABERTURAS RECTANGULARES PRACTICADAS EN LAS CUBIERTAS PARA PROPORCIONAR ACCESO, VENTILACIÓN E ILUMINACIÓN, Y QUE SE CIERRAN CON UNA TAPA ESTANCA, SON LAS:",
+    "opciones": {
+      "a": "PORTAS",
+      "b": "PORTILLOS",
+      "c": "ESCOTILLAS",
+      "d": "GATERAS"
+    },
+    "respuesta_correcta": "c",
+    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "opcion_multiple",
+    "pregunta": "LAS ABERTURAS PRACTICADAS EN EL COSTADO O EN LA OBRA MUERTA DEL BUQUE, DESTINADAS AL PASO DE EMBARCACIONES MENORES, MANGUERAS O PARA LA CARGA, SE LLAMAN:",
+    "opciones": {
+      "a": "PORTAS",
+      "b": "PORTILLOS",
+      "c": "IMBORNALES",
+      "d": "PORTALONES"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "verdadero_falso",
+    "pregunta": "LOS PORTILLOS SON ABERTURAS CIRCULARES GENERALMENTE PEQUEÑAS QUE SE UTILIZAN PARA DAR LUZ Y VENTILACIÓN A LOS COMPARTIMIENTOS DEL BUQUE.",
+    "respuesta_correcta": "a",
+    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "opcion_multiple",
+    "pregunta": "LA ABERTURA PEQUEÑA, NORMALMENTE CIRCULAR, QUE SE ENCUENTRA EN LA AMURA O EN LA ALETA Y QUE PERMITE EL PASO DE CABLES O CADENAS DE FONDEO RECIBE EL NOMBRE DE:",
     "opciones": {
       "a": "ESCOTILLA",
-      "b": "PORTA",
-      "c": "PORTILLO",
-      "d": "GATERA"
-    },
-    "respuesta_correcta": "a",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 1: Estructura del buque - Escotilla"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿QUÉ ABERTURA EN EL COSTADO DEL BUQUE SIRVE PARA EMBARCAR Y DESEMBARCAR PERSONAL O CARGA?",
-    "opciones": {
-      "a": "PORTA",
-      "b": "PORTILLO",
-      "c": "IMBORNAL",
-      "d": "FOGONADURA"
-    },
-    "respuesta_correcta": "a",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 1: Estructura del buque - Porta"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CÓMO SE DENOMINA LA ABERTURA CIRCULAR EN EL COSTADO DEL BUQUE QUE PROPORCIONA LUZ Y VENTILACIÓN?",
-    "opciones": {
-      "a": "PORTILLO",
       "b": "GATERA",
-      "c": "IMBORNAL",
-      "d": "PORTALÓN"
-    },
-    "respuesta_correcta": "a",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 1: Estructura del buque - Portillo"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿QUÉ ELEMENTO SIRVE PARA AMARRAR CABOS EN EL BUQUE Y SE COMPONE DE DOS COLUMNAS VERTICALES?",
-    "opciones": {
-      "a": "BITA",
-      "b": "CORNAMUSA",
-      "c": "PASAMANOS",
-      "d": "DEFENSA"
-    },
-    "respuesta_correcta": "a",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 1: Estructura del buque - Bita y cornamusa"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CÓMO SE DENOMINA LA PIEZA QUE SIRVE PARA AMARRAR CABOS Y TIENE FORMA DE CUERNO?",
-    "opciones": {
-      "a": "BITA",
-      "b": "CORNAMUSA",
-      "c": "PASAMANOS",
-      "d": "DEFENSA"
+      "c": "FOGONADURA",
+      "d": "PORTILLO"
     },
     "respuesta_correcta": "b",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 1: Estructura del buque - Bita y cornamusa"
+    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
   },
   {
     "tema": "Conocimientos Marineros",
     "tipo": "opcion_multiple",
-    "pregunta": "¿CÓMO SE DENOMINA LA ABERTURA EN LA CUBIERTA POR DONDE PASA EL PALO DE UN BUQUE?",
-    "opciones": {
-      "a": "FOGONADURA",
-      "b": "CARLINGA",
-      "c": "GATERA",
-      "d": "IMBORNAL"
-    },
-    "respuesta_correcta": "a",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 1: Estructura del buque - Fogonadura y carlinga"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CÓMO SE DENOMINA EL HUECO EN LA CUBIERTA DONDE SE APOYA EL PIE DEL PALO?",
-    "opciones": {
-      "a": "FOGONADURA",
-      "b": "CARLINGA",
-      "c": "GATERA",
-      "d": "IMBORNAL"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 1: Estructura del buque - Fogonadura y carlinga"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CÓMO SE DENOMINA EL ORIFICIO EN LA CUBIERTA POR DONDE PASA UN CABLE O CADENA?",
-    "opciones": {
-      "a": "GATERA",
-      "b": "IMBORNAL",
-      "c": "PORTALÓN",
-      "d": "FOGONADURA"
-    },
-    "respuesta_correcta": "a",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 1: Estructura del buque - Gatera"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CÓMO SE DENOMINA EL ORIFICIO EN LA CUBIERTA POR DONDE SE EVACUA EL AGUA DE LLUVIA?",
-    "opciones": {
-      "a": "IMBORNAL",
-      "b": "GATERA",
-      "c": "PORTALÓN",
-      "d": "FOGONADURA"
-    },
-    "respuesta_correcta": "a",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 1: Estructura del buque - Imbornal"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CÓMO SE DENOMINA LA ABERTURA EN EL COSTADO DEL BUQUE QUE SIRVE COMO PUERTA DE ACCESO AL EXTERIOR?",
+    "pregunta": "EL ACCESO LATERAL AMPLIO, A LA ALTURA DE LA CUBIERTA PRINCIPAL, QUE PERMITE EL EMBARQUE Y DESEMBARQUE DE PERSONAL Y CARGAMENTO DIRECTO AL MUELLE SE LLAMA:",
     "opciones": {
       "a": "PORTALÓN",
       "b": "PORTA",
-      "c": "PORTILLO",
-      "d": "GATERA"
+      "c": "GATERA",
+      "d": "IMBORNAL"
     },
     "respuesta_correcta": "a",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 1: Estructura del buque - Portalón"
+    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "verdadero_falso",
+    "pregunta": "LOS IMBORNALES SON ORIFICIOS EN LA AMURAY O EN LAS FOGONADURAS QUE PERMITEN LA SALIDA DEL AGUA ALMACENADA EN CUBIERTA.",
+    "respuesta_correcta": "b",
+    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
   },
   {
     "tema": "Conocimientos Marineros",
     "tipo": "opcion_multiple",
-    "pregunta": "¿CÓMO SE DENOMINA EL ELEMENTO QUE SIRVE PARA PROTEGER EL COSTADO DEL BUQUE CONTRA GOLPES Y ROZAMIENTOS?",
+    "pregunta": "EL REFUERZO DE LA CUBIERTA POR DONDE ATRAVIESAN LOS PALOS, MACHINAS O EL CABRESTANTE, FORMADO POR UNA ABERTURA CON BOCINA, ES LA:",
     "opciones": {
-      "a": "DEFENSA",
-      "b": "AMURA",
-      "c": "ALETA",
+      "a": "GATERA",
+      "b": "FOGONADURA Y CARLINGA",
+      "c": "BITON",
+      "d": "CORNAMUSA"
+    },
+    "respuesta_correcta": "b",
+    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "opcion_multiple",
+    "pregunta": "EL ELEMENTO METÁLICO EN FORMA DE COLUMNA CORTA QUE, FIJADO A LA CUBIERTA, SIRVE PARA AMARRAR CABOS O ESTACHAS SE CONOCE COMO:",
+    "opciones": {
+      "a": "CORNAMUSA",
+      "b": "BITON",
+      "c": "BITA",
       "d": "PASAMANOS"
     },
+    "respuesta_correcta": "c",
+    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "verdadero_falso",
+    "pregunta": "LA CORNAMUSA ES UNA PIEZA METÁLICA O DE MADERA, CON DOS BRAZOS CORTOS, QUE SE EMPLEA PARA AMARRAR CABOS PEQUEÑOS DE MANERA RÁPIDA.",
     "respuesta_correcta": "a",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 1: Estructura del buque - Defensa"
+    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
   },
   {
     "tema": "Conocimientos Marineros",
     "tipo": "opcion_multiple",
-    "pregunta": "¿CÓMO SE DENOMINA LA PARTE DEL BUQUE COMPRENDIDA ENTRE LA PROA Y EL CENTRO DEL COSTADO?",
+    "pregunta": "LOS ELEMENTOS VERTICALES O INCLINADOS QUE SIRVEN DE APOYO Y PROTECCIÓN PARA EL TRÁNSITO DE PERSONAS A LO LARGO DE LAS CUBIERTAS SE DENOMINAN:",
     "opciones": {
-      "a": "AMURA",
-      "b": "ALETA",
-      "c": "POPA",
-      "d": "PROA"
-    },
-    "respuesta_correcta": "a",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 1: Estructura del buque - Amura"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CÓMO SE DENOMINA LA PARTE DEL COSTADO DEL BUQUE COMPRENDIDA ENTRE EL CENTRO Y LA POPA?",
-    "opciones": {
-      "a": "AMURA",
-      "b": "ALETA",
-      "c": "PROA",
-      "d": "POPA"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 1: Estructura del buque - Aleta"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CÓMO SE DENOMINA LA PARTE DEL BUQUE COMPRENDIDA ENTRE LA PROA Y LA POPA EN EL COSTADO?",
-    "opciones": {
-      "a": "AMURA",
-      "b": "ALETA",
-      "c": "COSTADO",
-      "d": "CUBIERTA"
+      "a": "ENJARETADOS",
+      "b": "DEFENSAS",
+      "c": "PASAMANOS Y ESCALAS",
+      "d": "IMBORNALES"
     },
     "respuesta_correcta": "c",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 1: Estructura del buque - Generalidades"
+    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
   },
   {
     "tema": "Conocimientos Marineros",
     "tipo": "opcion_multiple",
-    "pregunta": "¿CÓMO SE DENOMINA LA PARTE DEL BUQUE QUE VA DESDE LA LÍNEA DE FLOTACIÓN HACIA ABAJO?",
+    "pregunta": "EL ENREJILLADO DE MADERA O PLÁSTICO QUE SE COLOCA SOBRE CUBIERTA PARA PERMITIR EL PASO DEL AGUA Y EVITAR RESBALONES ES EL:",
     "opciones": {
-      "a": "OBRA VIVA",
-      "b": "OBRA MUERTA",
-      "c": "CASCO",
-      "d": "CUBIERTA"
-    },
-    "respuesta_correcta": "a",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 1: Estructura del buque - Obra viva y Obra muerta"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CÓMO SE DENOMINA LA PARTE DEL BUQUE QUE VA DESDE LA LÍNEA DE FLOTACIÓN HACIA ARRIBA?",
-    "opciones": {
-      "a": "OBRA VIVA",
-      "b": "OBRA MUERTA",
-      "c": "CASCO",
-      "d": "CUBIERTA"
+      "a": "DEFENSA",
+      "b": "ENJARETADO",
+      "c": "PASAMANOS",
+      "d": "IMBORNAL"
     },
     "respuesta_correcta": "b",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 1: Estructura del buque - Obra viva y Obra muerta"
+    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "verdadero_falso",
+    "pregunta": "LAS DEFENSAS SON ELEMENTOS COLOCADOS EN LOS COSTADOS DEL BUQUE PARA AMORTIGUAR LOS CHOQUES CONTRA OTROS BUQUES O EL MUELLE.",
+    "respuesta_correcta": "a",
+    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
   },
   {
     "tema": "Conocimientos Marineros",
     "tipo": "opcion_multiple",
-    "pregunta": "¿CÓMO SE DENOMINA LA ESTRUCTURA QUE SE ENCUENTRA POR ENCIMA DE LA CUBIERTA PRINCIPAL?",
+    "pregunta": "LA PARTE DEL COSTADO DE UN BUQUE COMPRENDIDA ENTRE LA PROA Y LA SECCIÓN MÁS ANCHA, DONDE EL CASCO EMPIEZA A ESTRECHARSE, SE LLAMA:",
+    "opciones": {
+      "a": "ALETA",
+      "b": "AMURA",
+      "c": "TRAVÉS",
+      "d": "OBRA MUERTA"
+    },
+    "respuesta_correcta": "b",
+    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "opcion_multiple",
+    "pregunta": "LA ZONA DEL COSTADO CERCANA A LA POPA Y QUE, SIMÉTRICAMENTE A LA AMURA, CONSTITUYE LA PARTE TRASERA Y CURVA DEL BUQUE SE CONOCE COMO:",
+    "opciones": {
+      "a": "AMURA",
+      "b": "ALETA",
+      "c": "ESPEJO DE POPA",
+      "d": "CODASTE"
+    },
+    "respuesta_correcta": "b",
+    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "verdadero_falso",
+    "pregunta": "LA ESLORA ES LA ANCHURA MÁXIMA DEL BUQUE MEDIDA EN LA CUADERNA MAESTRA, DE FORRO A FORRO.",
+    "respuesta_correcta": "b",
+    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 2 Medidas del buque"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "opcion_multiple",
+    "pregunta": "LA MAYOR ANCHURA DE UN BUQUE, MEDIDA EN LA SECCIÓN TRANSVERSAL MÁS ANCHA Y A LA ALTURA DE LA FLOTACIÓN, SE DENOMINA:",
+    "opciones": {
+      "a": "PUNTAL",
+      "b": "CALADO",
+      "c": "MANGA",
+      "d": "ARUFO"
+    },
+    "respuesta_correcta": "c",
+    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 2 Medidas del buque"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "opcion_multiple",
+    "pregunta": "LA DISTANCIA VERTICAL MEDIDA DESDE EL PLANO DE LA QUILLA HASTA LA CUBIERTA PRINCIPAL O DE RESISTENCIA RECIBE EL NOMBRE DE:",
+    "opciones": {
+      "a": "PUNTAL",
+      "b": "CALADO",
+      "c": "FRANCOBORDO",
+      "d": "ALTURA DE OBRA MUERTA"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 2 Medidas del buque"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "verdadero_falso",
+    "pregunta": "EL CALADO ES LA DIFERENCIA ENTRE LA ESLORA TOTAL Y LA ESLORA EN FLOTACIÓN.",
+    "respuesta_correcta": "b",
+    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 2 Medidas del buque"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "opcion_multiple",
+    "pregunta": "LA PROFUNDIDAD HASTA LA CUAL SE SUMERGE LA QUILLA DE UN BUQUE EN EL AGUA, MEDIDA DESDE LA SUPERFICIE HASTA EL CANTO INFERIOR DE LA QUILLA, ES EL:",
+    "opciones": {
+      "a": "PUNTAL",
+      "b": "CALADO",
+      "c": "FRANCOBORDO",
+      "d": "DESPLAZAMIENTO"
+    },
+    "respuesta_correcta": "b",
+    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 2 Medidas del buque"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "opcion_multiple",
+    "pregunta": "CUANDO UN BUQUE PRESENTA LA PROA Y LA POPA MÁS ALTAS QUE EL CENTRO, ES DECIR, CON UNA CURVATURA CÓNCAVA VISTA DE PERFIL, SE DICE QUE TIENE:",
+    "opciones": {
+      "a": "QUEBRANTO",
+      "b": "ARUFO",
+      "c": "ASIENTO POSITIVO",
+      "d": "ESCORA"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 2"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "verdadero_falso",
+    "pregunta": "EL ARUFO ES LA CURVATURA LONGITUDINAL DEL BUQUE EN LA QUE LA PROA Y LA POPA QUEDAN MÁS BAJAS RESPECTO DEL CENTRO.",
+    "respuesta_correcta": "b",
+    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 2"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "opcion_multiple",
+    "pregunta": "LA CAPACIDAD DE CARGA O DE TRANSPORTE DE UN BUQUE, EXPRESADA EN TONELADAS DE VOLUMEN O PESO, SE CONOCE COMO:",
+    "opciones": {
+      "a": "DESPLAZAMIENTO",
+      "b": "PORTE",
+      "c": "ESLORA",
+      "d": "MANGA"
+    },
+    "respuesta_correcta": "b",
+    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 2"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "verdadero_falso",
+    "pregunta": "LA FORMA DE UN BUQUE SE DEFINE PRINCIPALMENTE POR SU ESLORA, MANGA Y PUNTAL, ASÍ COMO POR LAS FORMAS DE PROA Y POPA.",
+    "respuesta_correcta": "a",
+    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 2"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "opcion_multiple",
+    "pregunta": "DE LOS SIGUIENTES TÉRMINOS, AQUEL QUE NO ES UNA PARTE DE LA ESTRUCTURA TÍPICA DEL BUQUE ES:",
+    "opciones": {
+      "a": "BAO",
+      "b": "VARENGA",
+      "c": "BORDA",
+      "d": "PALMEJAR"
+    },
+    "respuesta_correcta": "c",
+    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "verdadero_falso",
+    "pregunta": "LOS IMBORNALES SON CONDUCTOS O ABERTURAS QUE PERMITEN LA EVACUACIÓN DEL AGUA DE LAS CUBIERTAS HACIA EL EXTERIOR.",
+    "respuesta_correcta": "a",
+    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "opcion_multiple",
+    "pregunta": "LA PIEZA QUE, EN LA PROA, SIRVE DE REMATE A LA RODA Y A MENUDO SE DECORA CON UN MASCARÓN O FIGURA, SE LLAMA:",
+    "opciones": {
+      "a": "ESPEJO DE PROA",
+      "b": "TAJAMAR",
+      "c": "RODA",
+      "d": "BOTALÓN"
+    },
+    "respuesta_correcta": "b",
+    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "opcion_multiple",
+    "pregunta": "CUANDO EL BUQUE TIENE UNA FORMA DE POPA QUE TERMINA EN UN PLANO VERTICAL, GENERALMENTE SOBRE LA LÍNEA DE CRUJÍA, SE HABLA DE:",
+    "opciones": {
+      "a": "POPA DE CULATA",
+      "b": "POPA DE ESPEJO",
+      "c": "POPA DE CRUCERO",
+      "d": "POPA DE CUCHARA"
+    },
+    "respuesta_correcta": "b",
+    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "verdadero_falso",
+    "pregunta": "EL BABOR ES EL COSTADO IZQUIERDO DEL BUQUE MIRANDO DESDE LA POPA HACIA LA PROA.",
+    "respuesta_correcta": "b",
+    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "opcion_multiple",
+    "pregunta": "EN LA CONSTRUCCIÓN NAVAL, EL CONJUNTO DE PIEZAS LONGITUDINALES Y TRANSVERSALES QUE FORMAN EL ARMAZÓN DEL BUQUE SE LLAMA:",
+    "opciones": {
+      "a": "CASCO",
+      "b": "ESTRUCTURA",
+      "c": "FORRO",
+      "d": "SUPERESTRUCTURA"
+    },
+    "respuesta_correcta": "b",
+    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "opcion_multiple",
+    "pregunta": "EL FRANCOBORDO ES LA DISTANCIA VERTICAL MEDIDA EN EL CENTRO DEL BUQUE DESDE LA LÍNEA DE FLOTACIÓN HASTA:",
+    "opciones": {
+      "a": "EL CANTO SUPERIOR DE LA QUILLA",
+      "b": "EL CANTO SUPERIOR DE LA CUBIERTA PRINCIPAL",
+      "c": "EL PUNTO MÁS ALTO DE LA SUPERESTRUCTURA",
+      "d": "EL FONDO DEL DOBLE FONDO"
+    },
+    "respuesta_correcta": "b",
+    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 2"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "verdadero_falso",
+    "pregunta": "EL PORTE DE UN BUQUE SE MIDE EN TONELADAS DE REGISTRO Y PUEDE SER BRUTO O NETO.",
+    "respuesta_correcta": "a",
+    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 2"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "opcion_multiple",
+    "pregunta": "SI UN BUQUE TIENE UN CALADO A PROA DE 4 METROS Y A POPA DE 6 METROS, SE DICE QUE TIENE UN ASIENTO:",
+    "opciones": {
+      "a": "NEUTRO",
+      "b": "APOPADO O POSITIVO",
+      "c": "APROADO O NEGATIVO",
+      "d": "ESCORADO"
+    },
+    "respuesta_correcta": "b",
+    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 2"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "verdadero_falso",
+    "pregunta": "LA ESCORA ES LA INCLINACIÓN LONGITUDINAL DEL BUQUE CAUSADA POR LA MALA DISTRIBUCIÓN DE LA CARGA.",
+    "respuesta_correcta": "b",
+    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 2"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "opcion_multiple",
+    "pregunta": "LAS ABERTURAS DE FORMA OVALADA O REDONDA EN LA AMPURADA O EN EL COSTADO PARA DEJAR PASO A LOS CABLES, ESPECIALMENTE DURANTE EL REMOLQUE, SE LLAMAN:",
+    "opciones": {
+      "a": "PORTILLOS",
+      "b": "GATERAS",
+      "c": "IMBORNALES",
+      "d": "FOGONADURAS"
+    },
+    "respuesta_correcta": "b",
+    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "verdadero_falso",
+    "pregunta": "LA CARLINGA ES UN REFUERZO DE LA CUBIERTA QUE RODEA LA BASE DE LOS PALOS O DE LA MAQUINARIA DE CUBIERTA.",
+    "respuesta_correcta": "a",
+    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "opcion_multiple",
+    "pregunta": "EL TÉRMINO 'BITA' SE REFIERE A UN TIPO DE:",
+    "opciones": {
+      "a": "REFUERZO ESTRUCTURAL",
+      "b": "PIEZA PARA AMARRAR CABOS",
+      "c": "ABERTURA EN LA CUBIERTA",
+      "d": "ELEMENTO PARA EL FONDEO"
+    },
+    "respuesta_correcta": "b",
+    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "verdadero_falso",
+    "pregunta": "LAS ESCALAS NAVALES, COMO LA 'ESCALA REAL', SE UTILIZAN SOLO PARA EL ACCESO DE LA DOTACIÓN AL BUQUE.",
+    "respuesta_correcta": "b",
+    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "opcion_multiple",
+    "pregunta": "LA DISTANCIA HORIZONTAL MEDIDA ENTRE LAS PERPENDICULARES DE PROA Y POPA, QUE SIRVE COMO BASE PARA LAS CURVAS Y PLANOS, ES LA:",
+    "opciones": {
+      "a": "ESLORA TOTAL",
+      "b": "ESLORA ENTRE PERPENDICULARES",
+      "c": "ESLORA DE ARQUEO",
+      "d": "ESLORA MÁXIMA"
+    },
+    "respuesta_correcta": "b",
+    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 2"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "opcion_multiple",
+    "pregunta": "EN UN BUQUE, LA SUPERFICIE SUPERIOR DE LA CUBIERTA PRINCIPAL, QUE CONSTITUYE EL CIERRE ESTANCO POR LA PARTE DE ARRIBA, SE LLAMA:",
+    "opciones": {
+      "a": "TRONERA",
+      "b": "TRONCO",
+      "c": "TRANCANIL",
+      "d": "REGALA"
+    },
+    "respuesta_correcta": "c",
+    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "verdadero_falso",
+    "pregunta": "LA ESTRUCTURA LONGITUDINAL QUE REMATA LA OBRA MUERTA EN SU PARTE SUPERIOR, A MODO DE PRETIL, ES LA BORDA.",
+    "respuesta_correcta": "a",
+    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "opcion_multiple",
+    "pregunta": "LOS AGUJEROS DE PEQUEÑO DIÁMETRO PRACTICADOS EN LA OBRA VIVA PARA EL PASO DE TUBERÍAS, COMO LAS DE REFRIGERACIÓN O DESAGÜE DE SENTINAS, SE DENOMINAN:",
+    "opciones": {
+      "a": "PORTILLOS SUMERGIDOS",
+      "b": "TOMAS DE AGUA DE MAR",
+      "c": "LIMERAS",
+      "d": "IMBORNALES DE FONDO"
+    },
+    "respuesta_correcta": "b",
+    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "verdadero_falso",
+    "pregunta": "EL DOBLE FONDO, ADEMÁS DE PROTEGER EN CASO DE VARADA, PUEDE UTILIZARSE COMO TANQUE DE LASTRE O DE COMBUSTIBLE.",
+    "respuesta_correcta": "a",
+    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "opcion_multiple",
+    "pregunta": "LA MANGA DE UN BUQUE SE MIDE EN SU PUNTO MÁS ANCHO, GENERALMENTE A LA ALTURA DE LA:",
+    "opciones": {
+      "a": "LÍNEA DE FLOTACIÓN",
+      "b": "CUBIERTA PRINCIPAL",
+      "c": "CUADERNA MAESTRA",
+      "d": "SUPERESTRUCTURA"
+    },
+    "respuesta_correcta": "c",
+    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 2"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "verdadero_falso",
+    "pregunta": "EL ARUFO ES BENEFICIOSO PORQUE MEJORA EL COMPORTAMIENTO MARINERO DEL BUQUE AL EVITAR QUE EMBARQUE AGUA POR LA PROA.",
+    "respuesta_correcta": "a",
+    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 2"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "opcion_multiple",
+    "pregunta": "EL TÉRMINO 'PUNTAL' EN MEDIDAS NAVALES SE REFIERE A LA ALTURA MÁXIMA DESDE LA QUILLA HASTA:",
+    "opciones": {
+      "a": "LA LÍNEA DE FLOTACIÓN",
+      "b": "LA CUBIERTA SUPERIOR CONTINUA",
+      "c": "EL EXTREMO DE LA CHIMENEA",
+      "d": "EL PALO MAYOR"
+    },
+    "respuesta_correcta": "b",
+    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 2"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "opcion_multiple",
+    "pregunta": "LA ESTRUCTURA QUE, SOBRE LA CUBIERTA PRINCIPAL, NO SE EXTIENDE DE BAND A BAND, COMO UNA CASETA O UN PUENTE DE MANDO, SE CLASIFICA COMO:",
     "opciones": {
       "a": "SUPERESTRUCTURA",
+      "b": "CASETA O GUARDACALOR",
+      "c": "CASTILLO",
+      "d": "TOLDA"
+    },
+    "respuesta_correcta": "b",
+    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "verdadero_falso",
+    "pregunta": "LAS PORTAS SON ABERTURAS PRACTICADAS EN LA OBRA MUERTA O EN EL COSTADO DEL BUQUE, USADAS GENERALMENTE PARA LA CARGA O PARA SITUAR LA ARTILLERÍA EN BUQUES DE GUERRA ANTIGUOS.",
+    "respuesta_correcta": "a",
+    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "opcion_multiple",
+    "pregunta": "EL PLANO HORIZONTAL QUE CIERRA LA PARTE SUPERIOR DE LA CÁMARA DE MÁQUINAS O DE OTRO COMPARTIMENTO Y QUE SIRVE DE PISO SE CONOCE COMO:",
+    "opciones": {
+      "a": "CUBIERTA",
+      "b": "ENTARIMADO",
+      "c": "PLANCHUELA DE FONDO",
+      "d": "DOBLE FONDO SUPERIOR"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "verdadero_falso",
+    "pregunta": "LAS DEFENSAS PUEDEN SER FIJAS, COMO LAS BANDAS DE HULE EN LOS REMOLCADORES, O MÓVILES, COMO LAS DEFENSAS DE CABO O NEUMÁTICOS.",
+    "respuesta_correcta": "a",
+    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "opcion_multiple",
+    "pregunta": "LA PARTE DE LA POPA QUE QUEDA POR ENCIMA DE LA FLOTACIÓN Y QUE A MENUDO ES PLANA EN LOS BUQUES MODERNOS, ADEMÁS DEL ESPEJO, SE CONOCE COMO:",
+    "opciones": {
+      "a": "BÓVEDA",
+      "b": "ALETA",
+      "c": "CODASTE",
+      "d": "CUBIERTA DE POPA"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "verdadero_falso",
+    "pregunta": "EL QUEBRANTO, ONDULACIÓN CON LA CONCAVIDAD HACIA ABAJO, ES UNA SITUACIÓN PELIGROSA QUE INDICA QUE EL BUQUE ESTÁ DEMASIADO CARGADO EN LOS EXTREMOS Y PUEDE PARTIRSE.",
+    "respuesta_correcta": "a",
+    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 2"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "opcion_multiple",
+    "pregunta": "EL DESPLAZAMIENTO DE UN BUQUE SE DEFINE COMO EL PESO DEL VOLUMEN DE AGUA QUE DESALOJA SU OBRA VIVA, Y SE MIDE EN:",
+    "opciones": {
+      "a": "METROS CÚBICOS",
+      "b": "TONELADAS MÉTRICAS O TONELADAS DE DESPLAZAMIENTO",
+      "c": "LITROS",
+      "d": "KILOGRAMOS FUERZA"
+    },
+    "respuesta_correcta": "b",
+    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 2"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "verdadero_falso",
+    "pregunta": "LA QUILLA DE BALANCE ES UNA PIEZA LONGITUDINAL SITUADA EN EL COSTADO PARA REDUCIR EL BALANCE DEL BUQUE.",
+    "respuesta_correcta": "a",
+    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "opcion_multiple",
+    "pregunta": "EL CONJUNTO DE ELEMENTOS ESTRUCTURALES QUE FORMAN LA TERMINACIÓN DE LA PROA POR DEBAJO DE LA FLOTACIÓN, INCLUYENDO LA RODA Y LOS REFUERZOS, SE LLAMA:",
+    "opciones": {
+      "a": "TAJAMAR",
+      "b": "BULBO DE PROA",
+      "c": "CASCO DE PROA",
+      "d": "AMURA"
+    },
+    "respuesta_correcta": "b",
+    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "verdadero_falso",
+    "pregunta": "LAS ESCOTILLAS ESTANCAS CUENTAN CON EMPAQUES Y CIERRES HERMÉTICOS PARA GARANTIZAR LA COMPARTIMENTACIÓN EN CASO DE INUNDACIÓN.",
+    "respuesta_correcta": "a",
+    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "opcion_multiple",
+    "pregunta": "LA DISTANCIA VERTICAL DESDE LA LÍNEA DE FLOTACIÓN HASTA LA CUBIERTA PRINCIPAL, QUE DETERMINA EN GRAN MEDIDA LA RESERVA DE FLOTABILIDAD, ES EL:",
+    "opciones": {
+      "a": "PUNTAL",
+      "b": "CALADO",
+      "c": "FRANCOBORDO",
+      "d": "OBRA MUERTA"
+    },
+    "respuesta_correcta": "c",
+    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 2"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "verdadero_falso",
+    "pregunta": "EL ENJARETADO, ADEMÁS DE EVITAR RESBALONES, PERMITE EL PASO DEL AIRE Y DE LA LUZ HACIA COMPARTIMENTOS INFERIORES.",
+    "respuesta_correcta": "a",
+    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "opcion_multiple",
+    "pregunta": "EN LA NOMENCLATURA MARINERA, LAS 'ALETAS' SON LAS PARTES DEL COSTADO QUE SE SITÚAN:",
+    "opciones": {
+      "a": "ENTRE LA PROA Y LA AMURA",
+      "b": "ENTRE LA POPA Y LA SECCIÓN MAESTRA, HACIA LA POPA",
+      "c": "EN EL FONDO DEL BUQUE",
+      "d": "EXCLUSIVAMENTE SOBRE LA CUBIERTA PRINCIPAL"
+    },
+    "respuesta_correcta": "b",
+    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "verdadero_falso",
+    "pregunta": "EL CODASTE ES UNA PIEZA EXCLUSIVA DE LOS BUQUES DE MADERA, PUES LOS METÁLICOS USAN UNA PIEZA FUNDIDA DENOMINADA ‘BRANDASTE’.",
+    "respuesta_correcta": "b",
+    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "opcion_multiple",
+    "pregunta": "EL TÉRMINO 'CALADO' SE REFIERE A LA PROFUNDIDAD DEL BUQUE, PERO CUANDO ESTE ES MAYOR EN LA POPA QUE EN LA PROA, SE DICE QUE EL BUQUE ESTÁ:",
+    "opciones": {
+      "a": "APROADO",
+      "b": "APOPADO",
+      "c": "EN LASTRE",
+      "d": "ADRIZADO"
+    },
+    "respuesta_correcta": "b",
+    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 2"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "opcion_multiple",
+    "pregunta": "LA PIEZA LONGITUDINAL QUE, COLOCADA SOBRE LOS BAOS EN SENTIDO PROA-POPA, SIRVE DE BASE AL ENTARIMADO DE LA CUBIERTA SE CONOCE COMO:",
+    "opciones": {
+      "a": "VAGRA",
+      "b": "PALMEJAR",
+      "c": "TRANCANIL",
+      "d": "DORMIDO"
+    },
+    "respuesta_correcta": "d",
+    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "verdadero_falso",
+    "pregunta": "EL DOBLE FONDO SE EXTIENDE SIEMPRE DESDE EL PICO DE PROA HASTA EL PICO DE POPA, SIN INTERRUPCIÓN, EN TODOS LOS BUQUES.",
+    "respuesta_correcta": "b",
+    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "opcion_multiple",
+    "pregunta": "LA LÍNEA IMAGINARIA QUE RECORRE EL BUQUE DE PROA A POPA POR SU CENTRO, SIRVIENDO DE REFERENCIA PARA LA DISTRIBUCIÓN DE PESOS Y LA ESTRUCTURA, ES LA:",
+    "opciones": {
+      "a": "LÍNEA DE FLOTACIÓN",
+      "b": "LÍNEA DE CRUJÍA",
+      "c": "LÍNEA BASE",
+      "d": "LÍNEA DE TRAZADO"
+    },
+    "respuesta_correcta": "b",
+    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "verdadero_falso",
+    "pregunta": "LA OBRA VIVA SE RECUBRE CON PATENTE O PINTURA ANTIINCRUSTANTE PARA EVITAR LA ADHERENCIA DE ORGANISMOS MARINOS.",
+    "respuesta_correcta": "a",
+    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "opcion_multiple",
+    "pregunta": "LOS REFUERZOS VERTICALES DEL FORRO, QUE SE COLOCAN SOBRE LAS CUADERNAS PARA AUMENTAR LA RIGIDEZ, SE LLAMAN:",
+    "opciones": {
+      "a": "VAGRAS",
+      "b": "BAOS",
+      "c": "BULARCAMAS",
+      "d": "PALMEJARES"
+    },
+    "respuesta_correcta": "c",
+    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "verdadero_falso",
+    "pregunta": "EL DESPLAZAMIENTO EN ROSCA ES EL PESO DEL BUQUE LISTO PARA NAVEGAR, CON TODA SU DOTACIÓN, PERTRECHOS Y PROVISIONES, PERO SIN COMBUSTIBLE NI CARGA.",
+    "respuesta_correcta": "b",
+    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 2"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "opcion_multiple",
+    "pregunta": "EL CONJUNTO DE MAMPAROS LONGITUDINALES Y TRANSVERSALES QUE SUBDIVIDEN EL INTERIOR DEL BUQUE PARA AUMENTAR SU SEGURIDAD SE DENOMINA:",
+    "opciones": {
+      "a": "COMPARTIMENTACIÓN ESTANCA",
       "b": "DOBLE FONDO",
-      "c": "CUBIERTA",
-      "d": "MAMPARO"
+      "c": "CUADERNAJE",
+      "d": "FORRO INTERIOR"
     },
     "respuesta_correcta": "a",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 1: Estructura del buque - Superestructura"
+    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "verdadero_falso",
+    "pregunta": "EL PORTALÓN ES UNA ABERTURA PEQUEÑA EN LA CUBIERTA PARA EL PASO DE CABLES Y CABOS.",
+    "respuesta_correcta": "b",
+    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
   },
   {
     "tema": "Conocimientos Marineros",
     "tipo": "opcion_multiple",
-    "pregunta": "¿CÓMO SE DENOMINA LA BARANDILLA QUE RODEA LA CUBIERTA PARA PROTECCIÓN DEL PERSONAL?",
+    "pregunta": "EL TIPO DE POPA CARACTERIZADA POR UNA FORMA REDONDA Y SUAVE, MUY COMÚN EN YATES Y BUQUES MODERNOS, ES LA POPA DE:",
     "opciones": {
-      "a": "PASAMANOS",
-      "b": "ESCALA",
-      "c": "ENJARETADO",
-      "d": "DEFENSA"
-    },
-    "respuesta_correcta": "a",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 1: Estructura del buque - Pasamanos, escalas"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CÓMO SE DENOMINA LA ESTRUCTURA QUE PERMITE EL ACCESO DE UN NIVEL A OTRO DENTRO DEL BUQUE?",
-    "opciones": {
-      "a": "ESCALA",
-      "b": "PASAMANOS",
-      "c": "ENJARETADO",
-      "d": "DEFENSA"
-    },
-    "respuesta_correcta": "a",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 1: Estructura del buque - Pasamanos, escalas"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CÓMO SE DENOMINA EL PISO DE REJILLA QUE SE COLOCA EN ALGUNAS ÁREAS DEL BUQUE PARA PERMITIR EL DRENAJE?",
-    "opciones": {
-      "a": "ENJARETADO",
-      "b": "CUBIERTA",
-      "c": "FORRO",
-      "d": "MAMPARO"
-    },
-    "respuesta_correcta": "a",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 1: Estructura del buque - Enjaretado"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CÓMO SE DENOMINA LA MEDIDA DEL BUQUE EN SENTIDO LONGITUDINAL DE PROA A POPA?",
-    "opciones": {
-      "a": "ESLORA",
-      "b": "MANGA",
-      "c": "PUNTAL",
-      "d": "CALADO"
-    },
-    "respuesta_correcta": "a",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 2: Medidas del buque - Eslora"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CÓMO SE DENOMINA LA MEDIDA DEL BUQUE EN SENTIDO TRANSVERSAL DE UN COSTADO A OTRO?",
-    "opciones": {
-      "a": "ESLORA",
-      "b": "MANGA",
-      "c": "PUNTAL",
-      "d": "CALADO"
+      "a": "ESPEJO",
+      "b": "CRUCERO",
+      "c": "CULATA",
+      "d": "CAÍDA"
     },
     "respuesta_correcta": "b",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 2: Medidas del buque - Manga"
+    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "verdadero_falso",
+    "pregunta": "EL ARUFO Y EL QUEBRANTO SON DEFORMACIONES LONGITUDINALES DE LA ESTRUCTURA DEL BUQUE QUE PUEDEN MEDIRSE CON LA AYUDA DE MARCAS DE CALADO.",
+    "respuesta_correcta": "a",
+    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 2"
   },
   {
     "tema": "Conocimientos Marineros",
     "tipo": "opcion_multiple",
-    "pregunta": "¿CÓMO SE DENOMINA LA MEDIDA VERTICAL DEL BUQUE DESDE LA QUILLA HASTA LA CUBIERTA PRINCIPAL?",
+    "pregunta": "LA PIEZA QUE CONSTITUYE EL REMATE SUPERIOR DE LA CUADERNA EN LA CUBIERTA, UNIENDO ESTA CON EL COSTADO, SE CONOCE COMO:",
     "opciones": {
-      "a": "ESLORA",
-      "b": "MANGA",
-      "c": "PUNTAL",
-      "d": "CALADO"
+      "a": "REGALA",
+      "b": "TRANCANIL",
+      "c": "CURVATON",
+      "d": "ESCUADRA"
     },
     "respuesta_correcta": "c",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 2: Medidas del buque - Puntal"
+    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "verdadero_falso",
+    "pregunta": "LOS IMBORNALES SE ENCUENTRAN EXCLUSIVAMENTE EN LA CUBIERTA PRINCIPAL Y NO EXISTEN EN CUBIERTAS INFERIORES.",
+    "respuesta_correcta": "b",
+    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
   },
   {
     "tema": "Conocimientos Marineros",
     "tipo": "opcion_multiple",
-    "pregunta": "¿CÓMO SE DENOMINA LA PROFUNDIDAD QUE ALCANZA EL BUQUE DESDE LA LÍNEA DE FLOTACIÓN HASTA LA QUILLA?",
+    "pregunta": "EL CONJUNTO DE OPERACIONES PARA DETERMINAR EL CALADO MEDIO DE UN BUQUE, A PARTIR DE LAS LECTURAS EN PROA, POPA Y CENTRO, SE LLAMA:",
     "opciones": {
-      "a": "ESLORA",
-      "b": "MANGA",
-      "c": "PUNTAL",
-      "d": "CALADO"
+      "a": "ARQUEO",
+      "b": "SONDEO",
+      "c": "CÁLCULO DE ASIENTO",
+      "d": "AVERÍA DE CALADOS"
     },
     "respuesta_correcta": "d",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 2: Medidas del buque - Calado"
+    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 2"
   },
   {
     "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CÓMO SE DENOMINA LA DEFORMACIÓN LONGITUDINAL DEL BUQUE EN LA QUE LA PROA Y LA POPA QUEDAN MÁS ALTAS QUE EL CENTRO?",
-    "opciones": {
-      "a": "ARRUFO",
-      "b": "QUEBRANTO",
-      "c": "PORTE",
-      "d": "CALADO"
-    },
+    "tipo": "verdadero_falso",
+    "pregunta": "LA BITON ES UNA PIEZA DE MENOR TAMAÑO QUE LA BITA, PERO CON LA MISMA FUNCIÓN DE SUJECIÓN DE CABOS.",
     "respuesta_correcta": "a",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 2: Medidas del buque - Arrufo y quebranto"
+    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
   },
   {
     "tema": "Conocimientos Marineros",
     "tipo": "opcion_multiple",
-    "pregunta": "¿CÓMO SE DENOMINA LA DEFORMACIÓN LONGITUDINAL DEL BUQUE EN LA QUE EL CENTRO QUEDA MÁS ALTO QUE LA PROA Y LA POPA?",
+    "pregunta": "LA ESLORA MÁXIMA DE UN BUQUE INCLUYE:",
     "opciones": {
-      "a": "ARRUFO",
-      "b": "QUEBRANTO",
-      "c": "PORTE",
-      "d": "CALADO"
+      "a": "SOLO EL CASCO HASTA LAS PERPENDICULARES",
+      "b": "LA DISTANCIA TOTAL ENTRE LOS PUNTOS MÁS SALIENTES DE PROA Y POPA, INCLUYENDO APÉNDICES",
+      "c": "LA DISTANCIA ENTRE LA RODA Y EL CODASTE",
+      "d": "LA LONGITUD DE LA CUBIERTA PRINCIPAL ÚNICAMENTE"
     },
     "respuesta_correcta": "b",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 2: Medidas del buque - Arrufo y quebranto"
+    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 2"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "verdadero_falso",
+    "pregunta": "EL FORRO INTERIOR DEL DOBLE FONDO RECIBE EL NOMBRE DE VAGRA DEL FONDO O PLANCHUELA DE MARGEN.",
+    "respuesta_correcta": "b",
+    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
   },
   {
     "tema": "Conocimientos Marineros",
     "tipo": "opcion_multiple",
-    "pregunta": "¿CÓMO SE DENOMINA LA CAPACIDAD DE CARGA DE UN BUQUE EXPRESADA EN TONELADAS?",
+    "pregunta": "LA SUPERFICIE PLANA O LIGERAMENTE CURVA QUE CIERRA LA POPA POR ENCIMA DEL AGUA EN MUCHOS BUQUES, ESPECIALMENTE LOS DE PESCA, SE CONOCE COMO:",
     "opciones": {
-      "a": "PORTE",
-      "b": "CALADO",
-      "c": "ESLORA",
-      "d": "MANGA"
+      "a": "CODASTE",
+      "b": "ESPEJO DE POPA",
+      "c": "BÓVEDA",
+      "d": "ALETA"
     },
-    "respuesta_correcta": "a",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 2: Medidas del buque - Porte"
+    "respuesta_correcta": "b",
+    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "verdadero_falso",
+    "pregunta": "LAS GATERAS SON ABERTURAS QUE SE DISPONEN EN LA AMURA O EN LA ALETA Y TIENEN COMO FIN EXCLUSIVO EL PASO DE CABLES DEL REMOLQUE.",
+    "respuesta_correcta": "b",
+    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
   },
   {
     "tema": "Conocimientos Marineros",
     "tipo": "opcion_multiple",
-    "pregunta": "¿CÓMO SE DENOMINA LA FORMA DEL BUQUE EN RELACIÓN CON SU DISEÑO HIDRODINÁMICO?",
+    "pregunta": "LA RESERVA DE FLOTABILIDAD DE UN BUQUE DEPENDE DIRECTAMENTE DEL VOLUMEN DE SU:",
     "opciones": {
-      "a": "FORMAS DE LOS BUQUES",
-      "b": "ESTRUCTURA DEL BUQUE",
-      "c": "MEDIDAS DEL BUQUE",
-      "d": "PORTE DEL BUQUE"
+      "a": "OBRA VIVA",
+      "b": "OBRA MUERTA Y SUPERESTRUCTURAS ESTANCAS",
+      "c": "DOBLE FONDO",
+      "d": "CASCO SUMERGIDO"
     },
+    "respuesta_correcta": "b",
+    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "verdadero_falso",
+    "pregunta": "EL PUNTAL DE ARQUEO ES LA DISTANCIA ENTRE LA CARA SUPERIOR DE LA QUILLA Y LA CARA SUPERIOR DE LA CUBIERTA QUE SE TOMA COMO REFERENCIA PARA EL ARQUEO.",
     "respuesta_correcta": "a",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 2: Medidas del buque - Formas de los buques"
+    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 2"
   },
   {
     "tema": "Conocimientos Marineros",
     "tipo": "opcion_multiple",
-    "pregunta": "¿CÓMO SE DENOMINA LA MEDIDA DEL BUQUE QUE INDICA LA DISTANCIA VERTICAL DESDE LA QUILLA HASTA LA CUBIERTA PRINCIPAL?",
+    "pregunta": "EN UN BUQUE, LAS 'DEFENSAS' SE COLOCAN PRINCIPALMENTE PARA:",
     "opciones": {
-      "a": "ESLORA",
-      "b": "MANGA",
-      "c": "PUNTAL",
-      "d": "CALADO"
+      "a": "MEJORAR LA ESTÉTICA DEL BUQUE",
+      "b": "EVITAR QUE EL AGUA ENTRE POR LA CUBIERTA",
+      "c": "PROTEGER EL CASCO DE ROCES Y CHOQUES",
+      "d": "INDICAR LA ESLORA MÁXIMA"
     },
     "respuesta_correcta": "c",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 2: Medidas del buque - Puntal"
+    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "verdadero_falso",
+    "pregunta": "LA CORNAMUSA ES UNA PIEZA QUE, POR SU FORMA, PERMITE AMARRAR UN CABO SIN NECESIDAD DE HACER NUDOS, MEDIANTE VUELTAS CRUZADAS.",
+    "respuesta_correcta": "a",
+    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
   },
   {
     "tema": "Conocimientos Marineros",
     "tipo": "opcion_multiple",
-    "pregunta": "¿CÓMO SE DENOMINA LA MEDIDA DEL BUQUE QUE INDICA LA DISTANCIA VERTICAL DESDE LA LÍNEA DE FLOTACIÓN HASTA LA QUILLA?",
+    "pregunta": "LA PARTE DEL CASCO QUE VA DESDE LA QUILLA HASTA LA LÍNEA DE FLOTACIÓN Y QUE, POR TANTO, ESTÁ EN CONTACTO PERMANENTE CON EL AGUA, ES LA:",
     "opciones": {
-      "a": "ESLORA",
-      "b": "MANGA",
-      "c": "PUNTAL",
-      "d": "CALADO"
+      "a": "OBRA MUERTA",
+      "b": "OBRA VIVA",
+      "c": "CARENA",
+      "d": "B Y C SON EQUIVALENTES"
     },
     "respuesta_correcta": "d",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 2: Medidas del buque - Calado"
+    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
   },
   {
     "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CÓMO SE DENOMINA LA DEFORMACIÓN LONGITUDINAL DEL BUQUE EN LA QUE LA PROA Y LA POPA QUEDAN MÁS BAJAS QUE EL CENTRO?",
-    "opciones": {
-      "a": "ARRUFO",
-      "b": "QUEBRANTO",
-      "c": "PORTE",
-      "d": "CALADO"
-    },
+    "tipo": "verdadero_falso",
+    "pregunta": "LA MANGA DE TRAZADO ES LA MANGA MÁXIMA DEL BUQUE MEDIDA EN EL EXTERIOR DEL FORRO.",
     "respuesta_correcta": "b",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 2: Medidas del buque - Arrufo y quebranto"
+    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 2"
   },
   {
     "tema": "Conocimientos Marineros",
     "tipo": "opcion_multiple",
-    "pregunta": "¿CÓMO SE DENOMINA LA CAPACIDAD DE CARGA DE UN BUQUE EXPRESADA EN TONELADAS DE PESO MUERTO?",
+    "pregunta": "LAS ABERTURAS RECTANGULARES PRACTICADAS EN LA CUBIERTA, PROVISTAS DE UNA BRAZOLA Y UNA TAPA, SON LAS:",
     "opciones": {
-      "a": "PORTE",
-      "b": "CALADO",
-      "c": "ESLORA",
-      "d": "MANGA"
-    },
-    "respuesta_correcta": "a",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 2: Medidas del buque - Porte"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CÓMO SE DENOMINA LA MEDIDA DEL BUQUE QUE INDICA LA DISTANCIA ENTRE LA LÍNEA DE FLOTACIÓN Y LA CUBIERTA PRINCIPAL?",
-    "opciones": {
-      "a": "ESLORA",
-      "b": "MANGA",
-      "c": "PUNTAL",
-      "d": "CALADO"
+      "a": "PORTAS",
+      "b": "PORTILLOS",
+      "c": "ESCOTILLAS",
+      "d": "FOGONADURAS"
     },
     "respuesta_correcta": "c",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 2: Medidas del buque - Puntal"
+    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "verdadero_falso",
+    "pregunta": "EL BULBO DE PROA, AL AUMENTAR LA ESLORA EN LA FLOTACIÓN, DISMINUYE LA RESISTENCIA POR FORMACIÓN DE OLAS Y MEJORA EL RENDIMIENTO HIDRODINÁMICO.",
+    "respuesta_correcta": "a",
+    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
   },
   {
     "tema": "Conocimientos Marineros",
     "tipo": "opcion_multiple",
-    "pregunta": "¿CÓMO SE DENOMINA LA MEDIDA DEL BUQUE QUE INDICA LA DISTANCIA ENTRE LOS PUNTOS MÁS ANCHOS DEL CASCO?",
+    "pregunta": "EL ASIENTO DE UN BUQUE SE DEFINE COMO LA DIFERENCIA ENTRE LOS CALADOS DE:",
     "opciones": {
-      "a": "ESLORA",
-      "b": "MANGA",
-      "c": "PUNTAL",
-      "d": "CALADO"
+      "a": "BABOR Y ESTRIBOR",
+      "b": "PROA Y POPA",
+      "c": "VERANO E INVIERNO",
+      "d": "ROSES Y SALIDA"
     },
     "respuesta_correcta": "b",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 2: Medidas del buque - Manga"
+    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 2"
   },
   {
     "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CÓMO SE DENOMINA LA MEDIDA DEL BUQUE QUE INDICA LA DISTANCIA ENTRE LA PROA Y LA POPA?",
-    "opciones": {
-      "a": "ESLORA",
-      "b": "MANGA",
-      "c": "PUNTAL",
-      "d": "CALADO"
-    },
+    "tipo": "verdadero_falso",
+    "pregunta": "LOS PASAMANOS, SIEMPRE QUE SEA POSIBLE, DEBEN SER CONTINUOS Y ESTAR SITUADOS A UNA ALTURA REGLAMENTARIA PARA SERVIR DE APOYO EN CASO DE MAL TIEMPO.",
     "respuesta_correcta": "a",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 2: Medidas del buque - Eslora"
+    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
   },
   {
     "tema": "Conocimientos Marineros",
     "tipo": "opcion_multiple",
-    "pregunta": "¿CÓMO SE DENOMINA LA DEFORMACIÓN LONGITUDINAL DEL BUQUE EN LA QUE LA PROA Y LA POPA QUEDAN MÁS ALTAS QUE EL CENTRO?",
+    "pregunta": "EL ELEMENTO CURVO DE LA ESTRUCTURA QUE REFUERZA LA UNIÓN DEL BAO CON LA CUADERNA SE CONOCE COMO:",
     "opciones": {
-      "a": "ARRUFO",
-      "b": "QUEBRANTO",
-      "c": "PORTE",
-      "d": "CALADO"
-    },
-    "respuesta_correcta": "a",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 2: Medidas del buque - Arrufo y quebranto"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CÓMO SE DENOMINA LA DEFORMACIÓN LONGITUDINAL DEL BUQUE EN LA QUE EL CENTRO QUEDA MÁS BAJO QUE LA PROA Y LA POPA?",
-    "opciones": {
-      "a": "ARRUFO",
-      "b": "QUEBRANTO",
-      "c": "PORTE",
-      "d": "CALADO"
+      "a": "PUNTAL",
+      "b": "CURVATON",
+      "c": "TRANCA",
+      "d": "BULARCAMA"
     },
     "respuesta_correcta": "b",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 2: Medidas del buque - Arrufo y quebranto"
+    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "verdadero_falso",
+    "pregunta": "EL DESPLAZAMIENTO EN LASTRE ES EL PESO DEL BUQUE CUANDO TRANSPORTA SU CARGA MÁXIMA DE LÍQUIDOS EN LOS TANQUES DE DOBLE FONDO.",
+    "respuesta_correcta": "b",
+    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 2"
   },
   {
     "tema": "Conocimientos Marineros",
     "tipo": "opcion_multiple",
-    "pregunta": "¿CÓMO SE DENOMINA LA CAPACIDAD DE CARGA DE UN BUQUE EXPRESADA EN TONELADAS DE REGISTRO BRUTO?",
+    "pregunta": "EL CONJUNTO DE PLANCHAS O TABLONES QUE FORMAN EL CIERRE ESTANCO DEL FONDO Y LOS COSTADOS DEL BUQUE SE LLAMA:",
     "opciones": {
-      "a": "PORTE",
-      "b": "CALADO",
-      "c": "ESLORA",
-      "d": "MANGA"
-    },
-    "respuesta_correcta": "a",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 2: Medidas del buque - Porte"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CÓMO SE DENOMINA LA MEDIDA DEL BUQUE QUE INDICA LA DISTANCIA VERTICAL DESDE LA QUILLA HASTA LA LÍNEA DE FLOTACIÓN?",
-    "opciones": {
-      "a": "ESLORA",
-      "b": "MANGA",
-      "c": "PUNTAL",
-      "d": "CALADO"
-    },
-    "respuesta_correcta": "d",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 2: Medidas del buque - Calado"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CÓMO SE DENOMINA LA DEFORMACIÓN LONGITUDINAL DEL BUQUE EN LA QUE LA PROA Y LA POPA QUEDAN MÁS ALTAS QUE EL CENTRO?",
-    "opciones": {
-      "a": "ARRUFO",
-      "b": "QUEBRANTO",
-      "c": "PORTE",
-      "d": "CALADO"
-    },
-    "respuesta_correcta": "a",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 2: Medidas del buque - Arrufo y quebranto"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CÓMO SE DENOMINA LA DEFORMACIÓN LONGITUDINAL DEL BUQUE EN LA QUE EL CENTRO QUEDA MÁS ALTO QUE LA PROA Y LA POPA?",
-    "opciones": {
-      "a": "ARRUFO",
-      "b": "QUEBRANTO",
-      "c": "PORTE",
-      "d": "CALADO"
+      "a": "CUBIERTA",
+      "b": "FORRO",
+      "c": "MAMPARO",
+      "d": "DOBLE FONDO"
     },
     "respuesta_correcta": "b",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 2: Medidas del buque - Arrufo y quebranto"
+    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "verdadero_falso",
+    "pregunta": "EL PORTILLO ES UNA ABERTURA DE MAYOR TAMAÑO QUE LA PORTA, GENERALMENTE RECTANGULAR, Y SITUADA EN LA OBRA MUERTA.",
+    "respuesta_correcta": "b",
+    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
   },
   {
     "tema": "Conocimientos Marineros",
     "tipo": "opcion_multiple",
-    "pregunta": "¿CÓMO SE DENOMINA LA CAPACIDAD DE CARGA DE UN BUQUE EXPRESADA EN TONELADAS DE PESO MUERTO?",
+    "pregunta": "LA DIMENSIÓN VERTICAL MÁXIMA DEL BUQUE, DESDE EL FONDO DE LA QUILLA HASTA EL PUNTO MÁS ALTO DE LA SUPERESTRUCTURA, ES LA:",
     "opciones": {
-      "a": "PORTE",
-      "b": "CALADO",
-      "c": "ESLORA",
-      "d": "MANGA"
-    },
-    "respuesta_correcta": "a",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 2: Medidas del buque - Porte"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CÓMO SE DENOMINA LA MEDIDA DEL BUQUE QUE INDICA LA DISTANCIA ENTRE LA LÍNEA DE FLOTACIÓN Y LA CUBIERTA PRINCIPAL?",
-    "opciones": {
-      "a": "ESLORA",
-      "b": "MANGA",
-      "c": "PUNTAL",
-      "d": "CALADO"
-    },
-    "respuesta_correcta": "c",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 2: Medidas del buque - Puntal"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CÓMO SE DENOMINA LA MEDIDA DEL BUQUE QUE INDICA LA DISTANCIA VERTICAL DESDE LA QUILLA HASTA LA LÍNEA DE FLOTACIÓN?",
-    "opciones": {
-      "a": "ESLORA",
-      "b": "MANGA",
-      "c": "PUNTAL",
-      "d": "CALADO"
-    },
-    "respuesta_correcta": "d",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 2: Medidas del buque - Calado"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CÓMO SE DENOMINA LA DEFORMACIÓN LONGITUDINAL DEL BUQUE EN LA QUE LA PROA Y LA POPA QUEDAN MÁS ALTAS QUE EL CENTRO?",
-    "opciones": {
-      "a": "ARRUFO",
-      "b": "QUEBRANTO",
-      "c": "PORTE",
-      "d": "CALADO"
-    },
-    "respuesta_correcta": "a",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 2: Medidas del buque - Arrufo y quebranto"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CÓMO SE DENOMINA LA DEFORMACIÓN LONGITUDINAL DEL BUQUE EN LA QUE EL CENTRO QUEDA MÁS BAJO QUE LA PROA Y LA POPA?",
-    "opciones": {
-      "a": "ARRUFO",
-      "b": "QUEBRANTO",
-      "c": "PORTE",
-      "d": "CALADO"
+      "a": "PUNTAL DE TRAZADO",
+      "b": "ALTURA TOTAL O DE CONSTRUCCIÓN",
+      "c": "OBRA MUERTA",
+      "d": "FRANCOBORDO"
     },
     "respuesta_correcta": "b",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 2: Medidas del buque - Arrufo y quebranto"
+    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 2"
   },
   {
     "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CÓMO SE DENOMINA LA CAPACIDAD DE CARGA DE UN BUQUE EXPRESADA EN TONELADAS DE REGISTRO NETO?",
-    "opciones": {
-      "a": "PORTE",
-      "b": "CALADO",
-      "c": "ESLORA",
-      "d": "MANGA"
-    },
+    "tipo": "verdadero_falso",
+    "pregunta": "EN UN BUQUE, LAS AMURAS CORRESPONDEN A LA PARTE DEL COSTADO SITUADA HACIA LA PROA, MIENTRAS QUE LAS ALETAS ESTÁN HACIA LA POPA.",
     "respuesta_correcta": "a",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 2: Medidas del buque - Porte"
+    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
   },
   {
     "tema": "Conocimientos Marineros",
     "tipo": "opcion_multiple",
-    "pregunta": "¿CÓMO SE DENOMINA LA MEDIDA DEL BUQUE QUE INDICA LA DISTANCIA VERTICAL DESDE LA QUILLA HASTA LA CUBIERTA PRINCIPAL?",
+    "pregunta": "EL TÉRMINO 'PORTE BRUTO' SE REFIERE AL VOLUMEN TOTAL DE TODOS LOS ESPACIOS INTERIORES DEL BUQUE, Y SE MIDE EN:",
     "opciones": {
-      "a": "ESLORA",
-      "b": "MANGA",
-      "c": "PUNTAL",
-      "d": "CALADO"
-    },
-    "respuesta_correcta": "c",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 2: Medidas del buque - Puntal"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CÓMO SE DENOMINA LA MEDIDA DEL BUQUE QUE INDICA LA DISTANCIA VERTICAL DESDE LA LÍNEA DE FLOTACIÓN HASTA LA QUILLA?",
-    "opciones": {
-      "a": "ESLORA",
-      "b": "MANGA",
-      "c": "PUNTAL",
-      "d": "CALADO"
-    },
-    "respuesta_correcta": "d",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 2: Medidas del buque - Calado"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CÓMO SE DENOMINA LA DEFORMACIÓN LONGITUDINAL DEL BUQUE EN LA QUE LA PROA Y LA POPA QUEDAN MÁS ALTAS QUE EL CENTRO?",
-    "opciones": {
-      "a": "ARRUFO",
-      "b": "QUEBRANTO",
-      "c": "PORTE",
-      "d": "CALADO"
-    },
-    "respuesta_correcta": "a",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 2: Medidas del buque - Arrufo y quebranto"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CÓMO SE DENOMINA LA DEFORMACIÓN LONGITUDINAL DEL BUQUE EN LA QUE EL CENTRO QUEDA MÁS ALTO QUE LA PROA Y LA POPA?",
-    "opciones": {
-      "a": "ARRUFO",
-      "b": "QUEBRANTO",
-      "c": "PORTE",
-      "d": "CALADO"
+      "a": "TONELADAS DE PESO MUERTO",
+      "b": "TONELADAS DE REGISTRO BRUTO",
+      "c": "METROS CÚBICOS DE CARGA",
+      "d": "TONELADAS DE DESPLAZAMIENTO"
     },
     "respuesta_correcta": "b",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 2: Medidas del buque - Arrufo y quebranto"
+    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 2"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "verdadero_falso",
+    "pregunta": "LA FOGONADURA ES LA ABERTURA EN LA CUBIERTA POR DONDE ATRAVIESA UN PALO O UN MACHIN, Y SE REFUERZA CON LA CARLINGA.",
+    "respuesta_correcta": "a",
+    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
   },
   {
     "tema": "Conocimientos Marineros",
     "tipo": "opcion_multiple",
-    "pregunta": "¿CÓMO SE DENOMINA LA CAPACIDAD DE CARGA DE UN BUQUE EXPRESADA EN TONELADAS DE REGISTRO BRUTO?",
+    "pregunta": "EL ELEMENTO ESTRUCTURAL QUE FORMA EL BORDE SUPERIOR DEL CASCO, DONDE TERMINA EL FORRO Y COMIENZA LA CUBIERTA, ES:",
     "opciones": {
-      "a": "PORTE",
-      "b": "CALADO",
-      "c": "ESLORA",
-      "d": "MANGA"
+      "a": "REGALA",
+      "b": "TRANCANIL",
+      "c": "BORDA",
+      "d": "IMBORNAL"
     },
     "respuesta_correcta": "a",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 2: Medidas del buque - Porte"
+    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
   },
   {
     "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CÓMO SE DENOMINA LA MEDIDA DEL BUQUE QUE INDICA LA DISTANCIA VERTICAL DESDE LA QUILLA HASTA LA CUBIERTA PRINCIPAL?",
-    "opciones": {
-      "a": "ESLORA",
-      "b": "MANGA",
-      "c": "PUNTAL",
-      "d": "CALADO"
-    },
-    "respuesta_correcta": "c",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 2: Medidas del buque - Puntal"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CÓMO SE DENOMINA LA MEDIDA DEL BUQUE QUE INDICA LA DISTANCIA VERTICAL DESDE LA LÍNEA DE FLOTACIÓN HASTA LA QUILLA?",
-    "opciones": {
-      "a": "ESLORA",
-      "b": "MANGA",
-      "c": "PUNTAL",
-      "d": "CALADO"
-    },
-    "respuesta_correcta": "d",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 2: Medidas del buque - Calado"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CÓMO SE DENOMINA LA DEFORMACIÓN LONGITUDINAL DEL BUQUE EN LA QUE LA PROA Y LA POPA QUEDAN MÁS ALTAS QUE EL CENTRO?",
-    "opciones": {
-      "a": "ARRUFO",
-      "b": "QUEBRANTO",
-      "c": "PORTE",
-      "d": "CALADO"
-    },
+    "tipo": "verdadero_falso",
+    "pregunta": "LA QUILLA VERTICAL ES UNA PLACA SOLDADA LONGITUDINALMENTE EN EL PLANO DE CRUJÍA QUE, JUNTO CON LA QUILLA PLANA, FORMA LA ESPINA DORSAL EN BUQUES METÁLICOS.",
     "respuesta_correcta": "a",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 2: Medidas del buque - Arrufo y quebranto"
+    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
   },
   {
     "tema": "Conocimientos Marineros",
     "tipo": "opcion_multiple",
-    "pregunta": "¿CÓMO SE DENOMINA LA DEFORMACIÓN LONGITUDINAL DEL BUQUE EN LA QUE EL CENTRO QUEDA MÁS BAJO QUE LA PROA Y LA POPA?",
+    "pregunta": "EN NAVEGACIÓN, CUANDO SE DICE QUE UN BUQUE TIENE UN 'CALADO EN LASTRE', SIGNIFICA QUE:",
     "opciones": {
-      "a": "ARRUFO",
-      "b": "QUEBRANTO",
-      "c": "PORTE",
-      "d": "CALADO"
+      "a": "ESTÁ CARGADO A SU MÁXIMA CAPACIDAD",
+      "b": "NAVEGA SIN CARGA COMERCIAL, CON AGUA EN LOS TANQUES PARA ESTABILIDAD",
+      "c": "SU CALADO ES IGUAL EN PROA Y POPA",
+      "d": "NAVEGA CON LA CARGA MÍNIMA DE COMBUSTIBLE"
     },
     "respuesta_correcta": "b",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 2: Medidas del buque - Arrufo y quebranto"
+    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 2"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "verdadero_falso",
+    "pregunta": "EL DOBLE FONDO SE EXTIENDE LONGITUDINALMENTE DESDE EL MAMPARO DE PROA DE COLISIÓN HASTA EL MAMPARO DE POPA DE LA CÁMARA DE MÁQUINAS, GENERALMENTE.",
+    "respuesta_correcta": "a",
+    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
   },
   {
     "tema": "Conocimientos Marineros",
     "tipo": "opcion_multiple",
-    "pregunta": "¿CÓMO SE DENOMINA LA CAPACIDAD DE CARGA DE UN BUQUE EXPRESADA EN TONELADAS DE PESO MUERTO?",
+    "pregunta": "LA PIEZA LONGITUDINAL QUE CORRE POR EL FONDO DEL BUQUE Y SIRVE DE ASIENTO A LAS VARENGAS, SIENDO UN ELEMENTO FUNDAMENTAL EN LA ESTRUCTURA, ES LA:",
     "opciones": {
-      "a": "PORTE",
-      "b": "CALADO",
-      "c": "ESLORA",
-      "d": "MANGA"
+      "a": "VAGRA DEL FONDO",
+      "b": "SOBREQUILLA",
+      "c": "PALMEJAR DEL FONDO",
+      "d": "RODA"
     },
     "respuesta_correcta": "a",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 2: Medidas del buque - Porte"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CÓMO SE DENOMINA LA MEDIDA DEL BUQUE QUE INDICA LA DISTANCIA VERTICAL DESDE LA QUILLA HASTA LA CUBIERTA PRINCIPAL?",
-    "opciones": {
-      "a": "ESLORA",
-      "b": "MANGA",
-      "c": "PUNTAL",
-      "d": "CALADO"
-    },
-    "respuesta_correcta": "c",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 2: Medidas del buque - Puntal"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CÓMO SE DENOMINA LA MEDIDA DEL BUQUE QUE INDICA LA DISTANCIA VERTICAL DESDE LA LÍNEA DE FLOTACIÓN HASTA LA QUILLA?",
-    "opciones": {
-      "a": "ESLORA",
-      "b": "MANGA",
-      "c": "PUNTAL",
-      "d": "CALADO"
-    },
-    "respuesta_correcta": "d",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 2: Medidas del buque - Calado"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CÓMO SE DENOMINA LA DEFORMACIÓN LONGITUDINAL DEL BUQUE EN LA QUE LA PROA Y LA POPA QUEDAN MÁS ALTAS QUE EL CENTRO?",
-    "opciones": {
-      "a": "ARRUFO",
-      "b": "QUEBRANTO",
-      "c": "PORTE",
-      "d": "CALADO"
-    },
-    "respuesta_correcta": "a",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 2: Medidas del buque - Arrufo y quebranto"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CÓMO SE DENOMINA LA DEFORMACIÓN LONGITUDINAL DEL BUQUE EN LA QUE EL CENTRO QUEDA MÁS BAJO QUE LA PROA Y LA POPA?",
-    "opciones": {
-      "a": "ARRUFO",
-      "b": "QUEBRANTO",
-      "c": "PORTE",
-      "d": "CALADO"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 2: Medidas del buque - Arrufo y quebranto"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CÓMO SE DENOMINA LA CAPACIDAD DE CARGA DE UN BUQUE EXPRESADA EN TONELADAS DE REGISTRO BRUTO?",
-    "opciones": {
-      "a": "PORTE",
-      "b": "CALADO",
-      "c": "ESLORA",
-      "d": "MANGA"
-    },
-    "respuesta_correcta": "a",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 2: Medidas del buque - Porte"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CÓMO SE DENOMINA LA MEDIDA DEL BUQUE QUE INDICA LA DISTANCIA VERTICAL DESDE LA QUILLA HASTA LA CUBIERTA PRINCIPAL?",
-    "opciones": {
-      "a": "ESLORA",
-      "b": "MANGA",
-      "c": "PUNTAL",
-      "d": "CALADO"
-    },
-    "respuesta_correcta": "c",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 2: Medidas del buque - Puntal"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CÓMO SE DENOMINA LA MEDIDA DEL BUQUE QUE INDICA LA DISTANCIA VERTICAL DESDE LA LÍNEA DE FLOTACIÓN HASTA LA QUILLA?",
-    "opciones": {
-      "a": "ESLORA",
-      "b": "MANGA",
-      "c": "PUNTAL",
-      "d": "CALADO"
-    },
-    "respuesta_correcta": "d",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 2: Medidas del buque - Calado"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CÓMO SE DENOMINA LA DEFORMACIÓN LONGITUDINAL DEL BUQUE EN LA QUE LA PROA Y LA POPA QUEDAN MÁS ALTAS QUE EL CENTRO?",
-    "opciones": {
-      "a": "ARRUFO",
-      "b": "QUEBRANTO",
-      "c": "PORTE",
-      "d": "CALADO"
-    },
-    "respuesta_correcta": "a",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 2: Medidas del buque - Arrufo y quebranto"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CÓMO SE DENOMINA LA DEFORMACIÓN LONGITUDINAL DEL BUQUE EN LA QUE EL CENTRO QUEDA MÁS BAJO QUE LA PROA Y LA POPA?",
-    "opciones": {
-      "a": "ARRUFO",
-      "b": "QUEBRANTO",
-      "c": "PORTE",
-      "d": "CALADO"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 2: Medidas del buque - Arrufo y quebranto"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CÓMO SE DENOMINA LA CAPACIDAD DE CARGA DE UN BUQUE EXPRESADA EN TONELADAS DE REGISTRO BRUTO?",
-    "opciones": {
-      "a": "PORTE",
-      "b": "CALADO",
-      "c": "ESLORA",
-      "d": "MANGA"
-    },
-    "respuesta_correcta": "a",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 2: Medidas del buque - Porte"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CÓMO SE DENOMINA LA MEDIDA DEL BUQUE QUE INDICA LA DISTANCIA VERTICAL DESDE LA QUILLA HASTA LA CUBIERTA PRINCIPAL?",
-    "opciones": {
-      "a": "ESLORA",
-      "b": "MANGA",
-      "c": "PUNTAL",
-      "d": "CALADO"
-    },
-    "respuesta_correcta": "c",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 2: Medidas del buque - Puntal"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CÓMO SE DENOMINA LA MEDIDA DEL BUQUE QUE INDICA LA DISTANCIA VERTICAL DESDE LA LÍNEA DE FLOTACIÓN HASTA LA QUILLA?",
-    "opciones": {
-      "a": "ESLORA",
-      "b": "MANGA",
-      "c": "PUNTAL",
-      "d": "CALADO"
-    },
-    "respuesta_correcta": "d",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 2: Medidas del buque - Calado"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CÓMO SE DENOMINA LA DEFORMACIÓN LONGITUDINAL DEL BUQUE EN LA QUE LA PROA Y LA POPA QUEDAN MÁS ALTAS QUE EL CENTRO?",
-    "opciones": {
-      "a": "ARRUFO",
-      "b": "QUEBRANTO",
-      "c": "PORTE",
-      "d": "CALADO"
-    },
-    "respuesta_correcta": "a",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 2: Medidas del buque - Arrufo y quebranto"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CÓMO SE DENOMINA LA DEFORMACIÓN LONGITUDINAL DEL BUQUE EN LA QUE EL CENTRO QUEDA MÁS BAJO QUE LA PROA Y LA POPA?",
-    "opciones": {
-      "a": "ARRUFO",
-      "b": "QUEBRANTO",
-      "c": "PORTE",
-      "d": "CALADO"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 2: Medidas del buque - Arrufo y quebranto"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CÓMO SE DENOMINA LA CAPACIDAD DE CARGA DE UN BUQUE EXPRESADA EN TONELADAS DE REGISTRO BRUTO?",
-    "opciones": {
-      "a": "PORTE",
-      "b": "CALADO",
-      "c": "ESLORA",
-      "d": "MANGA"
-    },
-    "respuesta_correcta": "a",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 2: Medidas del buque - Porte"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CÓMO SE DENOMINA LA MEDIDA DEL BUQUE QUE INDICA LA DISTANCIA VERTICAL DESDE LA QUILLA HASTA LA CUBIERTA PRINCIPAL?",
-    "opciones": {
-      "a": "ESLORA",
-      "b": "MANGA",
-      "c": "PUNTAL",
-      "d": "CALADO"
-    },
-    "respuesta_correcta": "c",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 2: Medidas del buque - Puntal"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CÓMO SE DENOMINA LA MEDIDA DEL BUQUE QUE INDICA LA DISTANCIA VERTICAL DESDE LA LÍNEA DE FLOTACIÓN HASTA LA QUILLA?",
-    "opciones": {
-      "a": "ESLORA",
-      "b": "MANGA",
-      "c": "PUNTAL",
-      "d": "CALADO"
-    },
-    "respuesta_correcta": "d",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 2: Medidas del buque - Calado"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CÓMO SE DENOMINA LA DEFORMACIÓN LONGITUDINAL DEL BUQUE EN LA QUE LA PROA Y LA POPA QUEDAN MÁS ALTAS QUE EL CENTRO?",
-    "opciones": {
-      "a": "ARRUFO",
-      "b": "QUEBRANTO",
-      "c": "PORTE",
-      "d": "CALADO"
-    },
-    "respuesta_correcta": "a",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 2: Medidas del buque - Arrufo y quebranto"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CÓMO SE DENOMINA LA DEFORMACIÓN LONGITUDINAL DEL BUQUE EN LA QUE EL CENTRO QUEDA MÁS BAJO QUE LA PROA Y LA POPA?",
-    "opciones": {
-      "a": "ARRUFO",
-      "b": "QUEBRANTO",
-      "c": "PORTE",
-      "d": "CALADO"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 2: Medidas del buque - Arrufo y quebranto"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CÓMO SE DENOMINA LA CAPACIDAD DE CARGA DE UN BUQUE EXPRESADA EN TONELADAS DE REGISTRO BRUTO?",
-    "opciones": {
-      "a": "PORTE",
-      "b": "CALADO",
-      "c": "ESLORA",
-      "d": "MANGA"
-    },
-    "respuesta_correcta": "a",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 2: Medidas del buque - Porte"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CÓMO SE DENOMINA LA MEDIDA DEL BUQUE QUE INDICA LA DISTANCIA VERTICAL DESDE LA QUILLA HASTA LA CUBIERTA PRINCIPAL?",
-    "opciones": {
-      "a": "ESLORA",
-      "b": "MANGA",
-      "c": "PUNTAL",
-      "d": "CALADO"
-    },
-    "respuesta_correcta": "c",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 2: Medidas del buque - Puntal"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CÓMO SE DENOMINA LA MEDIDA DEL BUQUE QUE INDICA LA DISTANCIA VERTICAL DESDE LA LÍNEA DE FLOTACIÓN HASTA LA QUILLA?",
-    "opciones": {
-      "a": "ESLORA",
-      "b": "MANGA",
-      "c": "PUNTAL",
-      "d": "CALADO"
-    },
-    "respuesta_correcta": "d",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 2: Medidas del buque - Calado"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CÓMO SE DENOMINA LA DEFORMACIÓN LONGITUDINAL DEL BUQUE EN LA QUE LA PROA Y LA POPA QUEDAN MÁS ALTAS QUE EL CENTRO?",
-    "opciones": {
-      "a": "ARRUFO",
-      "b": "QUEBRANTO",
-      "c": "PORTE",
-      "d": "CALADO"
-    },
-    "respuesta_correcta": "a",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 2: Medidas del buque - Arrufo y quebranto"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CÓMO SE DENOMINA LA DEFORMACIÓN LONGITUDINAL DEL BUQUE EN LA QUE EL CENTRO QUEDA MÁS BAJO QUE LA PROA Y LA POPA?",
-    "opciones": {
-      "a": "ARRUFO",
-      "b": "QUEBRANTO",
-      "c": "PORTE",
-      "d": "CALADO"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 2: Medidas del buque - Arrufo y quebranto"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CÓMO SE DENOMINA LA CAPACIDAD DE CARGA DE UN BUQUE EXPRESADA EN TONELADAS DE REGISTRO BRUTO?",
-    "opciones": {
-      "a": "PORTE",
-      "b": "CALADO",
-      "c": "ESLORA",
-      "d": "MANGA"
-    },
-    "respuesta_correcta": "a",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 2: Medidas del buque - Porte"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CÓMO SE DENOMINA LA MEDIDA DEL BUQUE QUE INDICA LA DISTANCIA VERTICAL DESDE LA QUILLA HASTA LA CUBIERTA PRINCIPAL?",
-    "opciones": {
-      "a": "ESLORA",
-      "b": "MANGA",
-      "c": "PUNTAL",
-      "d": "CALADO"
-    },
-    "respuesta_correcta": "c",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 2: Medidas del buque - Puntal"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CÓMO SE DENOMINA LA MEDIDA DEL BUQUE QUE INDICA LA DISTANCIA VERTICAL DESDE LA LÍNEA DE FLOTACIÓN HASTA LA QUILLA?",
-    "opciones": {
-      "a": "ESLORA",
-      "b": "MANGA",
-      "c": "PUNTAL",
-      "d": "CALADO"
-    },
-    "respuesta_correcta": "d",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 2: Medidas del buque - Calado"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CÓMO SE DENOMINA LA DEFORMACIÓN LONGITUDINAL DEL BUQUE EN LA QUE LA PROA Y LA POPA QUEDAN MÁS ALTAS QUE EL CENTRO?",
-    "opciones": {
-      "a": "ARRUFO",
-      "b": "QUEBRANTO",
-      "c": "PORTE",
-      "d": "CALADO"
-    },
-    "respuesta_correcta": "a",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 2: Medidas del buque - Arrufo y quebranto"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CÓMO SE DENOMINA LA DEFORMACIÓN LONGITUDINAL DEL BUQUE EN LA QUE EL CENTRO QUEDA MÁS BAJO QUE LA PROA Y LA POPA?",
-    "opciones": {
-      "a": "ARRUFO",
-      "b": "QUEBRANTO",
-      "c": "PORTE",
-      "d": "CALADO"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 2: Medidas del buque - Arrufo y quebranto"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CÓMO SE DENOMINA LA CAPACIDAD DE CARGA DE UN BUQUE EXPRESADA EN TONELADAS DE REGISTRO BRUTO?",
-    "opciones": {
-      "a": "PORTE",
-      "b": "CALADO",
-      "c": "ESLORA",
-      "d": "MANGA"
-    },
-    "respuesta_correcta": "a",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 2: Medidas del buque - Porte"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CÓMO SE DENOMINA LA MEDIDA DEL BUQUE QUE INDICA LA DISTANCIA VERTICAL DESDE LA QUILLA HASTA LA CUBIERTA PRINCIPAL?",
-    "opciones": {
-      "a": "ESLORA",
-      "b": "MANGA",
-      "c": "PUNTAL",
-      "d": "CALADO"
-    },
-    "respuesta_correcta": "c",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 2: Medidas del buque - Puntal"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CÓMO SE DENOMINA LA MEDIDA DEL BUQUE QUE INDICA LA DISTANCIA VERTICAL DESDE LA LÍNEA DE FLOTACIÓN HASTA LA QUILLA?",
-    "opciones": {
-      "a": "ESLORA",
-      "b": "MANGA",
-      "c": "PUNTAL",
-      "d": "CALADO"
-    },
-    "respuesta_correcta": "d",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 2: Medidas del buque - Calado"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CÓMO SE DENOMINA LA DEFORMACIÓN LONGITUDINAL DEL BUQUE EN LA QUE LA PROA Y LA POPA QUEDAN MÁS ALTAS QUE EL CENTRO?",
-    "opciones": {
-      "a": "ARRUFO",
-      "b": "QUEBRANTO",
-      "c": "PORTE",
-      "d": "CALADO"
-    },
-    "respuesta_correcta": "a",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 2: Medidas del buque - Arrufo y quebranto"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CÓMO SE DENOMINA LA DEFORMACIÓN LONGITUDINAL DEL BUQUE EN LA QUE EL CENTRO QUEDA MÁS BAJO QUE LA PROA Y LA POPA?",
-    "opciones": {
-      "a": "ARRUFO",
-      "b": "QUEBRANTO",
-      "c": "PORTE",
-      "d": "CALADO"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 2: Medidas del buque - Arrufo y quebranto"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CÓMO SE DENOMINA LA CAPACIDAD DE CARGA DE UN BUQUE EXPRESADA EN TONELADAS DE REGISTRO BRUTO?",
-    "opciones": {
-      "a": "PORTE",
-      "b": "CALADO",
-      "c": "ESLORA",
-      "d": "MANGA"
-    },
-    "respuesta_correcta": "a",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 2: Medidas del buque - Porte"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CÓMO SE DENOMINA LA MEDIDA DEL BUQUE QUE INDICA LA DISTANCIA VERTICAL DESDE LA QUILLA HASTA LA CUBIERTA PRINCIPAL?",
-    "opciones": {
-      "a": "ESLORA",
-      "b": "MANGA",
-      "c": "PUNTAL",
-      "d": "CALADO"
-    },
-    "respuesta_correcta": "c",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 2: Medidas del buque - Puntal"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CÓMO SE DENOMINA LA MEDIDA DEL BUQUE QUE INDICA LA DISTANCIA VERTICAL DESDE LA LÍNEA DE FLOTACIÓN HASTA LA QUILLA?",
-    "opciones": {
-      "a": "ESLORA",
-      "b": "MANGA",
-      "c": "PUNTAL",
-      "d": "CALADO"
-    },
-    "respuesta_correcta": "d",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 2: Medidas del buque - Calado"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CÓMO SE DENOMINA LA DEFORMACIÓN LONGITUDINAL DEL BUQUE EN LA QUE LA PROA Y LA POPA QUEDAN MÁS ALTAS QUE EL CENTRO?",
-    "opciones": {
-      "a": "ARRUFO",
-      "b": "QUEBRANTO",
-      "c": "PORTE",
-      "d": "CALADO"
-    },
-    "respuesta_correcta": "a",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 2: Medidas del buque - Arrufo y quebranto"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CÓMO SE DENOMINA LA DEFORMACIÓN LONGITUDINAL DEL BUQUE EN LA QUE EL CENTRO QUEDA MÁS BAJO QUE LA PROA Y LA POPA?",
-    "opciones": {
-      "a": "ARRUFO",
-      "b": "QUEBRANTO",
-      "c": "PORTE",
-      "d": "CALADO"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 2: Medidas del buque - Arrufo y quebranto"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CÓMO SE DENOMINA LA CAPACIDAD DE CARGA DE UN BUQUE EXPRESADA EN TONELADAS DE REGISTRO BRUTO?",
-    "opciones": {
-      "a": "PORTE",
-      "b": "CALADO",
-      "c": "ESLORA",
-      "d": "MANGA"
-    },
-    "respuesta_correcta": "a",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 2: Medidas del buque - Porte"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CÓMO SE DENOMINA LA MEDIDA DEL BUQUE QUE INDICA LA DISTANCIA VERTICAL DESDE LA QUILLA HASTA LA CUBIERTA PRINCIPAL?",
-    "opciones": {
-      "a": "ESLORA",
-      "b": "MANGA",
-      "c": "PUNTAL",
-      "d": "CALADO"
-    },
-    "respuesta_correcta": "c",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 2: Medidas del buque - Puntal"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CÓMO SE DENOMINA LA MEDIDA DEL BUQUE QUE INDICA LA DISTANCIA VERTICAL DESDE LA LÍNEA DE FLOTACIÓN HASTA LA QUILLA?",
-    "opciones": {
-      "a": "ESLORA",
-      "b": "MANGA",
-      "c": "PUNTAL",
-      "d": "CALADO"
-    },
-    "respuesta_correcta": "d",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 2: Medidas del buque - Calado"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CÓMO SE DENOMINA LA DEFORMACIÓN LONGITUDINAL DEL BUQUE EN LA QUE LA PROA Y LA POPA QUEDAN MÁS ALTAS QUE EL CENTRO?",
-    "opciones": {
-      "a": "ARRUFO",
-      "b": "QUEBRANTO",
-      "c": "PORTE",
-      "d": "CALADO"
-    },
-    "respuesta_correcta": "a",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 2: Medidas del buque - Arrufo y quebranto"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CÓMO SE DENOMINA LA DEFORMACIÓN LONGITUDINAL DEL BUQUE EN LA QUE EL CENTRO QUEDA MÁS BAJO QUE LA PROA Y LA POPA?",
-    "opciones": {
-      "a": "ARRUFO",
-      "b": "QUEBRANTO",
-      "c": "PORTE",
-      "d": "CALADO"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 2: Medidas del buque - Arrufo y quebranto"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CÓMO SE DENOMINA LA CAPACIDAD DE CARGA DE UN BUQUE EXPRESADA EN TONELADAS DE REGISTRO BRUTO?",
-    "opciones": {
-      "a": "PORTE",
-      "b": "CALADO",
-      "c": "ESLORA",
-      "d": "MANGA"
-    },
-    "respuesta_correcta": "a",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 2: Medidas del buque - Porte"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CÓMO SE DENOMINA LA MEDIDA DEL BUQUE QUE INDICA LA DISTANCIA VERTICAL DESDE LA QUILLA HASTA LA CUBIERTA PRINCIPAL?",
-    "opciones": {
-      "a": "ESLORA",
-      "b": "MANGA",
-      "c": "PUNTAL",
-      "d": "CALADO"
-    },
-    "respuesta_correcta": "c",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 2: Medidas del buque - Puntal"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CÓMO SE DENOMINA LA MEDIDA DEL BUQUE QUE INDICA LA DISTANCIA VERTICAL DESDE LA LÍNEA DE FLOTACIÓN HASTA LA QUILLA?",
-    "opciones": {
-      "a": "ESLORA",
-      "b": "MANGA",
-      "c": "PUNTAL",
-      "d": "CALADO"
-    },
-    "respuesta_correcta": "d",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 2: Medidas del buque - Calado"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CÓMO SE DENOMINA LA DEFORMACIÓN LONGITUDINAL DEL BUQUE EN LA QUE LA PROA Y LA POPA QUEDAN MÁS ALTAS QUE EL CENTRO?",
-    "opciones": {
-      "a": "ARRUFO",
-      "b": "QUEBRANTO",
-      "c": "PORTE",
-      "d": "CALADO"
-    },
-    "respuesta_correcta": "a",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 2: Medidas del buque - Arrufo y quebranto"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CÓMO SE DENOMINA LA DEFORMACIÓN LONGITUDINAL DEL BUQUE EN LA QUE EL CENTRO QUEDA MÁS BAJO QUE LA PROA Y LA POPA?",
-    "opciones": {
-      "a": "ARRUFO",
-      "b": "QUEBRANTO",
-      "c": "PORTE",
-      "d": "CALADO"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 2: Medidas del buque - Arrufo y quebranto"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CÓMO SE DENOMINA LA CAPACIDAD DE CARGA DE UN BUQUE EXPRESADA EN TONELADAS DE REGISTRO BRUTO?",
-    "opciones": {
-      "a": "PORTE",
-      "b": "CALADO",
-      "c": "ESLORA",
-      "d": "MANGA"
-    },
-    "respuesta_correcta": "a",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 2: Medidas del buque - Porte"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CÓMO SE DENOMINA LA MEDIDA DEL BUQUE QUE INDICA LA DISTANCIA VERTICAL DESDE LA QUILLA HASTA LA CUBIERTA PRINCIPAL?",
-    "opciones": {
-      "a": "ESLORA",
-      "b": "MANGA",
-      "c": "PUNTAL",
-      "d": "CALADO"
-    },
-    "respuesta_correcta": "c",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 2: Medidas del buque - Puntal"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CÓMO SE DENOMINA LA MEDIDA DEL BUQUE QUE INDICA LA DISTANCIA VERTICAL DESDE LA LÍNEA DE FLOTACIÓN HASTA LA QUILLA?",
-    "opciones": {
-      "a": "ESLORA",
-      "b": "MANGA",
-      "c": "PUNTAL",
-      "d": "CALADO"
-    },
-    "respuesta_correcta": "d",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 2: Medidas del buque - Calado"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CÓMO SE DENOMINA LA DEFORMACIÓN LONGITUDINAL DEL BUQUE EN LA QUE LA PROA Y LA POPA QUEDAN MÁS ALTAS QUE EL CENTRO?",
-    "opciones": {
-      "a": "ARRUFO",
-      "b": "QUEBRANTO",
-      "c": "PORTE",
-      "d": "CALADO"
-    },
-    "respuesta_correcta": "a",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 2: Medidas del buque - Arrufo y quebranto"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CÓMO SE DENOMINA LA DEFORMACIÓN LONGITUDINAL DEL BUQUE EN LA QUE EL CENTRO QUEDA MÁS BAJO QUE LA PROA Y LA POPA?",
-    "opciones": {
-      "a": "ARRUFO",
-      "b": "QUEBRANTO",
-      "c": "PORTE",
-      "d": "CALADO"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 2: Medidas del buque - Arrufo y quebranto"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CÓMO SE DENOMINA LA CAPACIDAD DE CARGA DE UN BUQUE EXPRESADA EN TONELADAS DE REGISTRO BRUTO?",
-    "opciones": {
-      "a": "PORTE",
-      "b": "CALADO",
-      "c": "ESLORA",
-      "d": "MANGA"
-    },
-    "respuesta_correcta": "a",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 2: Medidas del buque - Porte"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CÓMO SE DENOMINA LA MEDIDA DEL BUQUE QUE INDICA LA DISTANCIA VERTICAL DESDE LA QUILLA HASTA LA CUBIERTA PRINCIPAL?",
-    "opciones": {
-      "a": "ESLORA",
-      "b": "MANGA",
-      "c": "PUNTAL",
-      "d": "CALADO"
-    },
-    "respuesta_correcta": "c",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 2: Medidas del buque - Puntal"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CÓMO SE DENOMINA LA MEDIDA DEL BUQUE QUE INDICA LA DISTANCIA VERTICAL DESDE LA LÍNEA DE FLOTACIÓN HASTA LA QUILLA?",
-    "opciones": {
-      "a": "ESLORA",
-      "b": "MANGA",
-      "c": "PUNTAL",
-      "d": "CALADO"
-    },
-    "respuesta_correcta": "d",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 2: Medidas del buque - Calado"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CÓMO SE DENOMINA LA DEFORMACIÓN LONGITUDINAL DEL BUQUE EN LA QUE LA PROA Y LA POPA QUEDAN MÁS ALTAS QUE EL CENTRO?",
-    "opciones": {
-      "a": "ARRUFO",
-      "b": "QUEBRANTO",
-      "c": "PORTE",
-      "d": "CALADO"
-    },
-    "respuesta_correcta": "a",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 2: Medidas del buque - Arrufo y quebranto"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CÓMO SE DENOMINA LA DEFORMACIÓN LONGITUDINAL DEL BUQUE EN LA QUE EL CENTRO QUEDA MÁS BAJO QUE LA PROA Y LA POPA?",
-    "opciones": {
-      "a": "ARRUFO",
-      "b": "QUEBRANTO",
-      "c": "PORTE",
-      "d": "CALADO"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 2: Medidas del buque - Arrufo y quebranto"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CÓMO SE DENOMINA LA CAPACIDAD DE CARGA DE UN BUQUE EXPRESADA EN TONELADAS DE REGISTRO BRUTO?",
-    "opciones": {
-      "a": "PORTE",
-      "b": "CALADO",
-      "c": "ESLORA",
-      "d": "MANGA"
-    },
-    "respuesta_correcta": "a",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 2: Medidas del buque - Porte"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CÓMO SE DENOMINA LA MEDIDA DEL BUQUE QUE INDICA LA DISTANCIA VERTICAL DESDE LA QUILLA HASTA LA CUBIERTA PRINCIPAL?",
-    "opciones": {
-      "a": "ESLORA",
-      "b": "MANGA",
-      "c": "PUNTAL",
-      "d": "CALADO"
-    },
-    "respuesta_correcta": "c",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 2: Medidas del buque - Puntal"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CÓMO SE DENOMINA LA MEDIDA DEL BUQUE QUE INDICA LA DISTANCIA VERTICAL DESDE LA LÍNEA DE FLOTACIÓN HASTA LA QUILLA?",
-    "opciones": {
-      "a": "ESLORA",
-      "b": "MANGA",
-      "c": "PUNTAL",
-      "d": "CALADO"
-    },
-    "respuesta_correcta": "d",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 2: Medidas del buque - Calado"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CÓMO SE DENOMINA LA DEFORMACIÓN LONGITUDINAL DEL BUQUE EN LA QUE LA PROA Y LA POPA QUEDAN MÁS ALTAS QUE EL CENTRO?",
-    "opciones": {
-      "a": "ARRUFO",
-      "b": "QUEBRANTO",
-      "c": "PORTE",
-      "d": "CALADO"
-    },
-    "respuesta_correcta": "a",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 2: Medidas del buque - Arrufo y quebranto"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CÓMO SE DENOMINA LA DEFORMACIÓN LONGITUDINAL DEL BUQUE EN LA QUE EL CENTRO QUEDA MÁS BAJO QUE LA PROA Y LA POPA?",
-    "opciones": {
-      "a": "ARRUFO",
-      "b": "QUEBRANTO",
-      "c": "PORTE",
-      "d": "CALADO"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 2: Medidas del buque - Arrufo y quebranto"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CÓMO SE DENOMINA LA CAPACIDAD DE CARGA DE UN BUQUE EXPRESADA EN TONELADAS DE REGISTRO BRUTO?",
-    "opciones": {
-      "a": "PORTE",
-      "b": "CALADO",
-      "c": "ESLORA",
-      "d": "MANGA"
-    },
-    "respuesta_correcta": "a",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 2: Medidas del buque - Porte"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CÓMO SE DENOMINA LA MEDIDA DEL BUQUE QUE INDICA LA DISTANCIA VERTICAL DESDE LA QUILLA HASTA LA CUBIERTA PRINCIPAL?",
-    "opciones": {
-      "a": "ESLORA",
-      "b": "MANGA",
-      "c": "PUNTAL",
-      "d": "CALADO"
-    },
-    "respuesta_correcta": "c",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 2: Medidas del buque - Puntal"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CÓMO SE DENOMINA LA MEDIDA DEL BUQUE QUE INDICA LA DISTANCIA VERTICAL DESDE LA LÍNEA DE FLOTACIÓN HASTA LA QUILLA?",
-    "opciones": {
-      "a": "ESLORA",
-      "b": "MANGA",
-      "c": "PUNTAL",
-      "d": "CALADO"
-    },
-    "respuesta_correcta": "d",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 2: Medidas del buque - Calado"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CÓMO SE DENOMINA LA DEFORMACIÓN LONGITUDINAL DEL BUQUE EN LA QUE LA PROA Y LA POPA QUEDAN MÁS ALTAS QUE EL CENTRO?",
-    "opciones": {
-      "a": "ARRUFO",
-      "b": "QUEBRANTO",
-      "c": "PORTE",
-      "d": "CALADO"
-    },
-    "respuesta_correcta": "a",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 2: Medidas del buque - Arrufo y quebranto"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CÓMO SE DENOMINA LA DEFORMACIÓN LONGITUDINAL DEL BUQUE EN LA QUE EL CENTRO QUEDA MÁS BAJO QUE LA PROA Y LA POPA?",
-    "opciones": {
-      "a": "ARRUFO",
-      "b": "QUEBRANTO",
-      "c": "PORTE",
-      "d": "CALADO"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 2: Medidas del buque - Arrufo y quebranto"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CÓMO SE DENOMINA LA CAPACIDAD DE CARGA DE UN BUQUE EXPRESADA EN TONELADAS DE REGISTRO BRUTO?",
-    "opciones": {
-      "a": "PORTE",
-      "b": "CALADO",
-      "c": "ESLORA",
-      "d": "MANGA"
-    },
-    "respuesta_correcta": "a",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 2: Medidas del buque - Porte"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CÓMO SE DENOMINA LA MEDIDA DEL BUQUE QUE INDICA LA DISTANCIA VERTICAL DESDE LA QUILLA HASTA LA CUBIERTA PRINCIPAL?",
-    "opciones": {
-      "a": "ESLORA",
-      "b": "MANGA",
-      "c": "PUNTAL",
-      "d": "CALADO"
-    },
-    "respuesta_correcta": "c",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 2: Medidas del buque - Puntal"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CÓMO SE DENOMINA LA MEDIDA DEL BUQUE QUE INDICA LA DISTANCIA VERTICAL DESDE LA LÍNEA DE FLOTACIÓN HASTA LA QUILLA?",
-    "opciones": {
-      "a": "ESLORA",
-      "b": "MANGA",
-      "c": "PUNTAL",
-      "d": "CALADO"
-    },
-    "respuesta_correcta": "d",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 2: Medidas del buque - Calado"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CÓMO SE DENOMINA LA DEFORMACIÓN LONGITUDINAL DEL BUQUE EN LA QUE LA PROA Y LA POPA QUEDAN MÁS ALTAS QUE EL CENTRO?",
-    "opciones": {
-      "a": "ARRUFO",
-      "b": "QUEBRANTO",
-      "c": "PORTE",
-      "d": "CALADO"
-    },
-    "respuesta_correcta": "a",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 2: Medidas del buque - Arrufo y quebranto"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CÓMO SE DENOMINA LA DEFORMACIÓN LONGITUDINAL DEL BUQUE EN LA QUE EL CENTRO QUEDA MÁS BAJO QUE LA PROA Y LA POPA?",
-    "opciones": {
-      "a": "ARRUFO",
-      "b": "QUEBRANTO",
-      "c": "PORTE",
-      "d": "CALADO"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 2: Medidas del buque - Arrufo y quebranto"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CÓMO SE DENOMINA LA CAPACIDAD DE CARGA DE UN BUQUE EXPRESADA EN TONELADAS DE REGISTRO BRUTO?",
-    "opciones": {
-      "a": "PORTE",
-      "b": "CALADO",
-      "c": "ESLORA",
-      "d": "MANGA"
-    },
-    "respuesta_correcta": "a",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 2: Medidas del buque - Porte"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CÓMO SE DENOMINA LA MEDIDA DEL BUQUE QUE INDICA LA DISTANCIA VERTICAL DESDE LA QUILLA HASTA LA CUBIERTA PRINCIPAL?",
-    "opciones": {
-      "a": "ESLORA",
-      "b": "MANGA",
-      "c": "PUNTAL",
-      "d": "CALADO"
-    },
-    "respuesta_correcta": "c",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 2: Medidas del buque - Puntal"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CÓMO SE DENOMINA LA MEDIDA DEL BUQUE QUE INDICA LA DISTANCIA VERTICAL DESDE LA LÍNEA DE FLOTACIÓN HASTA LA QUILLA?",
-    "opciones": {
-      "a": "ESLORA",
-      "b": "MANGA",
-      "c": "PUNTAL",
-      "d": "CALADO"
-    },
-    "respuesta_correcta": "d",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 2: Medidas del buque - Calado"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CÓMO SE DENOMINA LA DEFORMACIÓN LONGITUDINAL DEL BUQUE EN LA QUE LA PROA Y LA POPA QUEDAN MÁS ALTAS QUE EL CENTRO?",
-    "opciones": {
-      "a": "ARRUFO",
-      "b": "QUEBRANTO",
-      "c": "PORTE",
-      "d": "CALADO"
-    },
-    "respuesta_correcta": "a",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 2: Medidas del buque - Arrufo y quebranto"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CÓMO SE DENOMINA LA DEFORMACIÓN LONGITUDINAL DEL BUQUE EN LA QUE EL CENTRO QUEDA MÁS BAJO QUE LA PROA Y LA POPA?",
-    "opciones": {
-      "a": "ARRUFO",
-      "b": "QUEBRANTO",
-      "c": "PORTE",
-      "d": "CALADO"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 2: Medidas del buque - Arrufo y quebranto"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CÓMO SE DENOMINA LA CAPACIDAD DE CARGA DE UN BUQUE EXPRESADA EN TONELADAS DE REGISTRO BRUTO?",
-    "opciones": {
-      "a": "PORTE",
-      "b": "CALADO",
-      "c": "ESLORA",
-      "d": "MANGA"
-    },
-    "respuesta_correcta": "a",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 2: Medidas del buque - Porte"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CÓMO SE DENOMINA LA MEDIDA DEL BUQUE QUE INDICA LA DISTANCIA VERTICAL DESDE LA QUILLA HASTA LA CUBIERTA PRINCIPAL?",
-    "opciones": {
-      "a": "ESLORA",
-      "b": "MANGA",
-      "c": "PUNTAL",
-      "d": "CALADO"
-    },
-    "respuesta_correcta": "c",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 2: Medidas del buque - Puntal"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CÓMO SE DENOMINA LA MEDIDA DEL BUQUE QUE INDICA LA DISTANCIA VERTICAL DESDE LA LÍNEA DE FLOTACIÓN HASTA LA QUILLA?",
-    "opciones": {
-      "a": "ESLORA",
-      "b": "MANGA",
-      "c": "PUNTAL",
-      "d": "CALADO"
-    },
-    "respuesta_correcta": "d",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 2: Medidas del buque - Calado"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CÓMO SE DENOMINA LA DEFORMACIÓN LONGITUDINAL DEL BUQUE EN LA QUE LA PROA Y LA POPA QUEDAN MÁS ALTAS QUE EL CENTRO?",
-    "opciones": {
-      "a": "ARRUFO",
-      "b": "QUEBRANTO",
-      "c": "PORTE",
-      "d": "CALADO"
-    },
-    "respuesta_correcta": "a",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 2: Medidas del buque - Arrufo y quebranto"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CÓMO SE DENOMINA LA DEFORMACIÓN LONGITUDINAL DEL BUQUE EN LA QUE EL CENTRO QUEDA MÁS BAJO QUE LA PROA Y LA POPA?",
-    "opciones": {
-      "a": "ARRUFO",
-      "b": "QUEBRANTO",
-      "c": "PORTE",
-      "d": "CALADO"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 2: Medidas del buque - Arrufo y quebranto"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CÓMO SE DENOMINA LA CAPACIDAD DE CARGA DE UN BUQUE EXPRESADA EN TONELADAS DE REGISTRO BRUTO?",
-    "opciones": {
-      "a": "PORTE",
-      "b": "CALADO",
-      "c": "ESLORA",
-      "d": "MANGA"
-    },
-    "respuesta_correcta": "a",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 2: Medidas del buque - Porte"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CÓMO SE DENOMINA LA MEDIDA DEL BUQUE QUE INDICA LA DISTANCIA VERTICAL DESDE LA QUILLA HASTA LA CUBIERTA PRINCIPAL?",
-    "opciones": {
-      "a": "ESLORA",
-      "b": "MANGA",
-      "c": "PUNTAL",
-      "d": "CALADO"
-    },
-    "respuesta_correcta": "c",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 2: Medidas del buque - Puntal"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CÓMO SE DENOMINA LA MEDIDA DEL BUQUE QUE INDICA LA DISTANCIA VERTICAL DESDE LA LÍNEA DE FLOTACIÓN HASTA LA QUILLA?",
-    "opciones": {
-      "a": "ESLORA",
-      "b": "MANGA",
-      "c": "PUNTAL",
-      "d": "CALADO"
-    },
-    "respuesta_correcta": "d",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 2: Medidas del buque - Calado"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CÓMO SE DENOMINA LA DEFORMACIÓN LONGITUDINAL DEL BUQUE EN LA QUE LA PROA Y LA POPA QUEDAN MÁS ALTAS QUE EL CENTRO?",
-    "opciones": {
-      "a": "ARRUFO",
-      "b": "QUEBRANTO",
-      "c": "PORTE",
-      "d": "CALADO"
-    },
-    "respuesta_correcta": "a",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 2: Medidas del buque - Arrufo y quebranto"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CÓMO SE DENOMINA LA DEFORMACIÓN LONGITUDINAL DEL BUQUE EN LA QUE EL CENTRO QUEDA MÁS BAJO QUE LA PROA Y LA POPA?",
-    "opciones": {
-      "a": "ARRUFO",
-      "b": "QUEBRANTO",
-      "c": "PORTE",
-      "d": "CALADO"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 2: Medidas del buque - Arrufo y quebranto"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CÓMO SE DENOMINA LA CAPACIDAD DE CARGA DE UN BUQUE EXPRESADA EN TONELADAS DE REGISTRO BRUTO?",
-    "opciones": {
-      "a": "PORTE",
-      "b": "CALADO",
-      "c": "ESLORA",
-      "d": "MANGA"
-    },
-    "respuesta_correcta": "a",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 2: Medidas del buque - Porte"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CÓMO SE DENOMINA LA MEDIDA DEL BUQUE QUE INDICA LA DISTANCIA VERTICAL DESDE LA QUILLA HASTA LA CUBIERTA PRINCIPAL?",
-    "opciones": {
-      "a": "ESLORA",
-      "b": "MANGA",
-      "c": "PUNTAL",
-      "d": "CALADO"
-    },
-    "respuesta_correcta": "c",
-    "fuente": "Temario_Conocimientos_Marineros, Capítulo 2: Medidas del buque - Puntal"
+    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
   }
 ]
