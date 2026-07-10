@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Examen de Ascenso — PFAM-2026</title>
+<title>Examen de Ascenso — S.A.I.N.</title>
 <style>
 :root{
   --bg:#FFFFFF;
@@ -24,7 +24,7 @@
 body{margin:0;background:var(--bg);color:var(--ink);font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;}
 .wrap{width:100%;padding:clamp(16px,3vw,40px) clamp(16px,5vw,64px) 80px;}
 .topbar{display:flex;justify-content:space-between;align-items:flex-start;flex-wrap:wrap;gap:16px;border-bottom:1px solid var(--border);padding-bottom:18px;margin-bottom:22px;}
-.topbar h1{font-size:20px;font-weight:600;margin:0 0 2px;}
+.topbar h1{font-size:clamp(16px,3.6vw,20px);font-weight:600;margin:0 0 2px;line-height:1.3;}
 .topbar .sub{font-size:13px;color:var(--ink-soft);}
 .userbadge{background:var(--surface);border:1px solid var(--border);border-radius:8px;padding:10px 14px;font-size:12px;min-width:220px;}
 .userbadge .row{display:flex;justify-content:space-between;gap:10px;padding:2px 0;}
@@ -87,6 +87,28 @@ button.action:disabled{opacity:.4;cursor:not-allowed;}
 .timer-card{text-align:center;padding:14px;}
 .timer-box{font-size:52px;font-weight:800;font-variant-numeric:tabular-nums;color:var(--accent);letter-spacing:.02em;}
 .timer-box.tiempo-critico{color:var(--bad);}
+
+@media (max-width:640px){
+  .wrap{padding-left:14px;padding-right:14px;}
+  .topbar{flex-direction:column;align-items:stretch;}
+  .userbadge{width:100%;min-width:0;}
+  nav{gap:6px;}
+  nav button{flex:1;text-align:center;padding:10px 8px;}
+  .card{padding:16px;}
+  .qbox{padding:14px;}
+  .qbox .enun{font-size:14px;}
+  .qopt{padding:12px 14px;font-size:13px;}
+  .btn-row-right{flex-direction:column;align-items:stretch;}
+  .btn-row-right button{width:100%;font-size:13px;padding:12px 14px;}
+  #btnSig{order:1;}
+  #btnSaltar{order:2;}
+  #btnCancelar{order:3;}
+  .timer-box{font-size:38px;}
+  .otp-digit{max-width:44px;height:52px;font-size:20px;}
+  .stats-grid{grid-template-columns:repeat(2,1fr);}
+  .modules-row{flex-direction:column;}
+  .modules-row .card{flex:1 1 auto;}
+}
 </style>
 </head>
 <body>
@@ -94,7 +116,7 @@ button.action:disabled{opacity:.4;cursor:not-allowed;}
   <div class="topbar">
     <div>
       <h1>Examen de Ascenso — PFAM-2026</h1>
-      <div class="sub">Para el personal activo de la Secretaria de Marina - Armada de Mexico</div>
+      <div class="sub">Para el personal activo de la Secretaría de Marina - Armada de México</div>
     </div>
     <div class="userbadge" id="userbadge"></div>
   </div>
