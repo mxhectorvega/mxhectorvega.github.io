@@ -1,1485 +1,845 @@
 [
   {
     "tema": "Conocimientos Especificos",
-    "tipo": "opcion_multiple",
-    "pregunta": "DE ACUERDO CON LA LEY GENERAL DE ARCHIVOS, ¿CÓMO SE DEFINE AL TRASLADO CONTROLADO Y SISTEMÁTICO DE EXPEDIENTES DE CONSULTA ESPORÁDICA DE UN ARCHIVO DE TRÁMITE A UNO DE CONCENTRACIÓN Y DE AQUELLOS QUE DEBEN CONSERVARSE DE MANERA PERMANENTE AL ARCHIVO HISTÓRICO?",
-    "opciones": {
-      "a": "TRANSFERENCIA",
-      "b": "TRAZABILIDAD",
-      "c": "DESTRUCCIÓN CONTROLADA",
-      "d": "DEPURACIÓN"
-    },
+    "tipo": "verdadero_falso",
+    "pregunta": "el tetraedro del fuego incluye la reacción en cadena como el cuarto elemento necesario para mantener la combustión y producir la flama, a diferencia del triángulo del fuego que solo explica su inicio.",
     "respuesta_correcta": "a",
-    "fuente": "Ley General de Archivos, Artículo LVI"
+    "fuente": "DAM 1.3.1.3.5 Contraincendios para Establecimientos Navales, Cap. 1"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "opcion_multiple",
-    "pregunta": "LA CUALIDAD QUE PERMITE, A TRAVÉS DE UN SISTEMA AUTOMATIZADO, RASTREAR EL CICLO DE VIDA DE UN DOCUMENTO SE CONOCE EN EL ÁMBITO ARCHIVÍSTICO COMO:",
+    "pregunta": "SEGÚN EL DAM 1.3.1.3.5 CONTRAINCENDIOS PARA ESTABLECIMIENTOS NAVALES, ¿CUÁL ES EL CUARTO ELEMENTO QUE SE AGREGA AL TRIÁNGULO DEL FUEGO PARA FORMAR EL TETRAEDRO DEL FUEGO?\nESTE ELEMENTO PERMITE QUE LA COMBUSTIÓN SE MANTENGA Y SE PRODUZCA LA FLAMA.\nSELECCIONE LA OPCIÓN CORRECTA.",
     "opciones": {
-      "a": "TRANSFERENCIA",
-      "b": "TRAZABILIDAD",
-      "c": "CERTIFICACIÓN",
-      "d": "DIGITALIZACIÓN"
+      "a": "REACCIÓN EN CADENA",
+      "b": "COMBURENTE",
+      "c": "CALOR",
+      "d": "MATERIAL COMBUSTIBLE"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "DAM 1.3.1.3.5 Contraincendios para Establecimientos Navales, Cap. 1"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "verdadero_falso",
+    "pregunta": "LA TEORÍA DEL TRIÁNGULO DEL FUEGO ÚNICAMENTE INDICABA QUÉ ELEMENTOS SON NECESARIOS PARA QUE SE INICIE LA REACCIÓN DE LA COMBUSTIÓN, PERO NO EXPLICABA CÓMO SE MANTIENE DICHA COMBUSTIÓN.\nESTA AFIRMACIÓN CORRESPONDE AL CONTENIDO DEL DAM 1.3.1.3.5.\nDETERMINE SI ES VERDADERA O FALSA.",
+    "respuesta_correcta": "a",
+    "fuente": "DAM 1.3.1.3.5 Contraincendios para Establecimientos Navales, Cap. 1"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "DE ACUERDO CON EL DAM 1.3.1.3.5 CONTRAINCENDIOS PARA ESTABLECIMIENTOS NAVALES, ¿CUÁL ES LA RELACIÓN DE EXPANSIÓN CORRESPONDIENTE A LAS ESPUMAS DE BAJA EXPANSIÓN?\nESTAS ESPUMAS ESTÁN DISEÑADAS PARA COMBATIR INCENDIOS DE LÍQUIDOS INFLAMABLES.\nELIJA LA RESPUESTA CORRECTA.",
+    "opciones": {
+      "a": "20:1",
+      "b": "200:1",
+      "c": "20 A 200:1",
+      "d": "1:20"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "DAM 1.3.1.3.5 Contraincendios para Establecimientos Navales, Cap. 1"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "SEGÚN EL DAM 1.3.1.3.5 CONTRAINCENDIOS PARA ESTABLECIMIENTOS NAVALES, ¿QUÉ RELACIÓN DE EXPANSIÓN CORRESPONDE A LAS ESPUMAS DE MEDIA EXPANSIÓN?\nESTAS ESPUMAS ESTÁN DISEÑADAS PARA SUPRIMIR LA VAPORIZACIÓN DE QUÍMICOS PELIGROSOS.\nSELECCIONE LA OPCIÓN CORRECTA.",
+    "opciones": {
+      "a": "20:1",
+      "b": "20 A 200:1",
+      "c": "200 A 400:1",
+      "d": "1 A 20:1"
     },
     "respuesta_correcta": "b",
-    "fuente": "Ley General de Archivos, Artículo LVI"
+    "fuente": "DAM 1.3.1.3.5 Contraincendios para Establecimientos Navales, Cap. 1"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "verdadero_falso",
-    "pregunta": "DE ACUERDO CON LA LEY GENERAL DE ARCHIVOS, LOS SUJETOS OBLIGADOS INCLUYEN A PARTIDOS POLÍTICOS, FIDEICOMISOS Y FONDOS PÚBLICOS, ASÍ COMO A PERSONAS FÍSICAS O MORALES QUE CUENTEN CON ARCHIVOS PRIVADOS DE INTERÉS PÚBLICO.",
+    "pregunta": "LAS ESPUMAS DE BAJA EXPANSIÓN, CON RELACIÓN DE EXPANSIÓN DE 20:1, SON EFECTIVAS PARA CONTROLAR, EXTINGUIR Y CONFINAR LA MAYORÍA DE LOS FUEGOS CLASE B, Y TAMBIÉN SE HAN UTILIZADO CON ÉXITO EN FUEGOS CLASE A.\nESTA AFIRMACIÓN SE ENCUENTRA EN EL DAM 1.3.1.3.5.\nDETERMINE SI ES VERDADERA O FALSA.",
     "respuesta_correcta": "a",
-    "fuente": "Ley General de Archivos, Artículo LVI"
+    "fuente": "DAM 1.3.1.3.5 Contraincendios para Establecimientos Navales, Cap. 1"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "opcion_multiple",
-    "pregunta": "SEGÚN EL MANUAL DE ADMINISTRACIÓN ARCHIVÍSTICA, EL PROCESO TÉCNICO QUE PERMITE IDENTIFICAR LOS VALORES PRIMARIOS Y SECUNDARIOS DE LOS DOCUMENTOS PARA DETERMINAR SU DESTINO FINAL SE DENOMINA:",
+    "pregunta": "EN EL TETRAEDRO DEL FUEGO DESCRITO EN EL DAM 1.3.1.3.5, EL COMBURENTE TAMBIÉN SE DENOMINA:\nESTE ELEMENTO ES UNO DE LOS CUATRO QUE COMPONEN DICHA TEORÍA.\nSELECCIONE LA OPCIÓN CORRECTA.",
     "opciones": {
-      "a": "CLASIFICACIÓN",
-      "b": "ORDENACIÓN",
-      "c": "VALORACIÓN DOCUMENTAL",
-      "d": "DESCRIPCIÓN"
+      "a": "AGENTE OXIDANTE",
+      "b": "AGENTE REDUCTOR",
+      "c": "ENERGÍA ACTIVADORA",
+      "d": "REACCIÓN EN CADENA"
     },
-    "respuesta_correcta": "c",
-    "fuente": "Manual de Administración Archivística, Valoración documental"
+    "respuesta_correcta": "a",
+    "fuente": "DAM 1.3.1.3.5 Contraincendios para Establecimientos Navales, Cap. 1"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "EN EL TETRAEDRO DEL FUEGO DESCRITO EN EL DAM 1.3.1.3.5, EL MATERIAL COMBUSTIBLE SE CONOCE TAMBIÉN COMO:\nESTE ELEMENTO ES UNO DE LOS CUATRO QUE COMPONEN DICHA TEORÍA.\nSELECCIONE LA OPCIÓN CORRECTA.",
+    "opciones": {
+      "a": "AGENTE REDUCTOR",
+      "b": "AGENTE OXIDANTE",
+      "c": "ENERGÍA ACTIVADORA",
+      "d": "CATALIZADOR"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "DAM 1.3.1.3.5 Contraincendios para Establecimientos Navales, Cap. 1"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "EN EL TETRAEDRO DEL FUEGO DESCRITO EN EL DAM 1.3.1.3.5, EL CALOR SE DENOMINA:\nESTE ELEMENTO ES UNO DE LOS CUATRO QUE COMPONEN DICHA TEORÍA.\nSELECCIONE LA OPCIÓN CORRECTA.",
+    "opciones": {
+      "a": "ENERGÍA ACTIVADORA",
+      "b": "AGENTE REDUCTOR",
+      "c": "AGENTE OXIDANTE",
+      "d": "REACCIÓN EN CADENA"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "DAM 1.3.1.3.5 Contraincendios para Establecimientos Navales, Cap. 1"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "verdadero_falso",
-    "pregunta": "CON BASE EN EL MANUAL DE GESTIÓN DE LA INFORMACIÓN DE LA SECRETARÍA DE MARINA, LA GESTIÓN DE SOCIALIZACIÓN DE LA INFORMACIÓN INCLUYE LA DIFUSIÓN EN REDES SOCIALES INSTITUCIONALES PARA MANTENER INFORMADA A LA SOCIEDAD SOBRE LAS ACTIVIDADES NAVALES.",
+    "pregunta": "LAS ESPUMAS DE MEDIA EXPANSIÓN, CON RELACIÓN DESDE 20 A 200:1, ESTÁN DISEÑADAS PARA SUPRIMIR LA VAPORIZACIÓN DE QUÍMICOS PELIGROSOS SEGÚN EL DAM 1.3.1.3.5.\nDETERMINE SI ESTA AFIRMACIÓN ES VERDADERA O FALSA.",
     "respuesta_correcta": "a",
-    "fuente": "Manual de Gestión de la Información de la Secretaría de Marina – Armada de México, Gestión de socialización de la información"
+    "fuente": "DAM 1.3.1.3.5 Contraincendios para Establecimientos Navales, Cap. 1"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "opcion_multiple",
-    "pregunta": "EL DOCUMENTO NAVAL GENERADO PARA HACER CONSTAR UN HECHO O CIRCUNSTANCIA MEDIANTE LA FE DE UN OFICIAL FACULTADO, Y QUE PUEDE SER UTILIZADO COMO MEDIO PROBATORIO, SE CONOCE COMO:",
+    "pregunta": "DE ACUERDO CON EL TEMARIO DE CONOCIMIENTOS ESPECÍFICOS, EL TÍTULO SEGUNDO DEL LIBRO I DE LA LEY GENERAL DE ARCHIVOS TRATA SOBRE:\nESTE TÍTULO FORMA PARTE DE LA ORGANIZACIÓN Y ADMINISTRACIÓN HOMOGÉNEA DE LOS ARCHIVOS.\nSELECCIONE LA OPCIÓN CORRECTA.",
     "opciones": {
-      "a": "PARTE RADIOTELEGRÁFICO",
-      "b": "CERTIFICACIÓN",
-      "c": "COPIA CERTIFICADA",
-      "d": "ACTA"
+      "a": "LA GESTIÓN DOCUMENTAL Y ADMINISTRACIÓN DE ARCHIVOS",
+      "b": "LA VALORACIÓN Y CONSERVACIÓN DE LOS ARCHIVOS",
+      "c": "LA TRANSPARENCIA Y ACCESO A LA INFORMACIÓN",
+      "d": "LA CLASIFICACIÓN Y DESCLASIFICACIÓN DE ARCHIVOS"
     },
-    "respuesta_correcta": "b",
-    "fuente": "Documentación Naval I, Certificación"
+    "respuesta_correcta": "a",
+    "fuente": "Temario Conocimientos Específicos, III.A Ley General de Archivos, Libro I Título Segundo"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "opcion_multiple",
-    "pregunta": "EN DOCUMENTACIÓN NAVAL I, SE INDICA QUE LA REPRODUCCIÓN FIEL Y EXACTA DE UN DOCUMENTO, A LA CUAL SE LE OTORGA PLENO VALOR LEGAL MEDIANTE LA FE DE LA AUTORIDAD COMPETENTE, ES UNA:",
+    "pregunta": "DE ACUERDO CON EL TEMARIO DE CONOCIMIENTOS ESPECÍFICOS, EL TÍTULO TERCERO DEL LIBRO I DE LA LEY GENERAL DE ARCHIVOS TRATA SOBRE:\nESTE TÍTULO FORMA PARTE DE LA ORGANIZACIÓN Y ADMINISTRACIÓN HOMOGÉNEA DE LOS ARCHIVOS.\nSELECCIONE LA OPCIÓN CORRECTA.",
     "opciones": {
-      "a": "COPIA CERTIFICADA",
-      "b": "CERTIFICACIÓN",
-      "c": "PARTE RADIOTELEGRÁFICO",
-      "d": "ACTA"
+      "a": "LA VALORACIÓN Y CONSERVACIÓN DE LOS ARCHIVOS",
+      "b": "LA GESTIÓN DOCUMENTAL Y ADMINISTRACIÓN DE ARCHIVOS",
+      "c": "LA ORGANIZACIÓN HOMOGÉNEA NACIONAL",
+      "d": "EL ACCESO A LA INFORMACIÓN PÚBLICA"
     },
     "respuesta_correcta": "a",
-    "fuente": "Documentación Naval I, Copias certificadas"
+    "fuente": "Temario Conocimientos Específicos, III.A Ley General de Archivos, Libro I Título Tercero"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "verdadero_falso",
-    "pregunta": "UN PARTE RADIOTELEGRÁFICO ES UN DOCUMENTO BREVE Y RÁPIDO QUE SE TRANSMITE POR MEDIOS RADIOELÉCTRICOS PARA REPORTAR NOVEDADES O RECIBIR INSTRUCCIONES.",
+    "pregunta": "EL MANUAL DE ADMINISTRACIÓN ARCHIVÍSTICA CONTEMPLA, ENTRE SUS TEMAS, LA DEFINICIÓN DE LOS PROCESOS TÉCNICOS ARCHIVÍSTICOS Y LA VALORACIÓN DOCUMENTAL.\nESTA AFIRMACIÓN CORRESPONDE AL TEMARIO DE CONOCIMIENTOS ESPECÍFICOS.\nDETERMINE SI ES VERDADERA O FALSA.",
     "respuesta_correcta": "a",
-    "fuente": "Documentación Naval I, Partes radiotelegráficos"
+    "fuente": "Temario Conocimientos Específicos, III.C Manual de Administración Archivística"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "opcion_multiple",
-    "pregunta": "CUANDO EN UN DOCUMENTO SE REQUIERE DEJAR CONSTANCIA DE LO TRATADO EN UNA REUNIÓN, LOS ACUERDOS TOMADOS Y LAS FIRMAS DE LOS PARTICIPANTES, EL DOCUMENTO NAVAL IDÓNEO ES UN:",
+    "pregunta": "DE ACUERDO CON EL MANUAL DE GESTIÓN DE LA INFORMACIÓN DE LA SECRETARÍA DE MARINA-ARMADA DE MÉXICO, LOS DOS TIPOS DE GESTIÓN CONTEMPLADOS SON:\nESTOS PROCESOS SE REFIEREN AL MANEJO INTERNO Y EXTERNO DE LA INFORMACIÓN INSTITUCIONAL.\nSELECCIONE LA OPCIÓN CORRECTA.",
     "opciones": {
-      "a": "CERTIFICADO",
-      "b": "PARTE RADIOTELEGRÁFICO",
-      "c": "ACTA",
-      "d": "OFICIO"
+      "a": "GESTIÓN DE LA INFORMACIÓN AL INTERIOR Y GESTIÓN DE SOCIALIZACIÓN DE LA INFORMACIÓN",
+      "b": "GESTIÓN INTERNA Y GESTIÓN EXTERNA DE ARCHIVOS",
+      "c": "GESTIÓN DOCUMENTAL Y GESTIÓN DIGITAL",
+      "d": "GESTIÓN DE RIESGOS Y GESTIÓN DE CONTROL"
     },
-    "respuesta_correcta": "c",
-    "fuente": "Documentación Naval I, Actas"
+    "respuesta_correcta": "a",
+    "fuente": "Temario Conocimientos Específicos, III.D Manual de Gestión de la Información de la SEMAR"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "opcion_multiple",
-    "pregunta": "PARA INSERTAR UN GRÁFICO EN MICROSOFT WORD 2016, SE DEBE ACUDIR A LA FICHA INSERTAR Y SELECCIONAR EL COMANDO:",
+    "pregunta": "SEGÚN DOCUMENTACIÓN NAVAL I, ¿CUÁL DE LAS SIGUIENTES ES UN TIPO DE DOCUMENTACIÓN DIVERSA GENERADA EN LAS UNIDADES Y DEPENDENCIAS DE LA ARMADA DE MÉXICO?\nCONSIDERE LOS DOCUMENTOS SEÑALADOS EN EL TEMARIO DE CONOCIMIENTOS ESPECÍFICOS.\nSELECCIONE LA OPCIÓN CORRECTA.",
     "opciones": {
-      "a": "IMAGEN",
-      "b": "GRÁFICO",
-      "c": "SMARTART",
-      "d": "CAPTURA DE PANTALLA"
+      "a": "PARTES RADIOTELEGRÁFICOS",
+      "b": "MEMORÁNDUMS INTERNOS",
+      "c": "OFICIOS DE GOBIERNO",
+      "d": "CIRCULARES ADMINISTRATIVAS"
     },
-    "respuesta_correcta": "b",
-    "fuente": "Microsoft Word 2016. Manual práctico paso a paso, Gráficos"
+    "respuesta_correcta": "a",
+    "fuente": "Temario Conocimientos Específicos, III.E Documentación Naval I"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "verdadero_falso",
-    "pregunta": "EN WORD 2016, AL MODIFICAR LOS DATOS EN LA HOJA DE CÁLCULO QUE SE ABRE AL INSERTAR UN GRÁFICO, ESTE SE ACTUALIZA AUTOMÁTICAMENTE EN EL DOCUMENTO.",
+    "pregunta": "LAS COPIAS CERTIFICADAS FORMAN PARTE DE LA DOCUMENTACIÓN DIVERSA QUE SE GENERA EN LAS UNIDADES Y DEPENDENCIAS DE LA ARMADA DE MÉXICO, SEGÚN LO ESTABLECIDO EN DOCUMENTACIÓN NAVAL I.\nDETERMINE SI ESTA AFIRMACIÓN ES VERDADERA O FALSA.",
     "respuesta_correcta": "a",
-    "fuente": "Microsoft Word 2016. Manual práctico paso a paso, Gráficos"
+    "fuente": "Temario Conocimientos Específicos, III.E Documentación Naval I"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "opcion_multiple",
-    "pregunta": "DE ACUERDO CON LA OBRA LA ORTOGRAFÍA DEL IDIOMA ESPAÑOL, LA MAYOR PARTE DE LOS VERBOS REGULARES (UNOS 3,400) PERTENECEN A LA CONJUGACIÓN DE LOS TERMINADOS EN:",
+    "pregunta": "DENTRO DEL TEMARIO DE CONOCIMIENTOS ESPECÍFICOS, EL MANUAL PRÁCTICO PASO A PASO DE MICROSOFT WORD 2016 ABARCA EL TEMA DE:\nESTE TEMA SE REFIERE AL MANEJO DE ELEMENTOS VISUALES DENTRO DEL DOCUMENTO.\nSELECCIONE LA OPCIÓN CORRECTA.",
     "opciones": {
-      "a": "-IR",
-      "b": "-ER",
-      "c": "-AR",
-      "d": "-OR"
+      "a": "GRÁFICOS",
+      "b": "TABLAS DINÁMICAS",
+      "c": "MACROS",
+      "d": "HIPERVÍNCULOS"
     },
-    "respuesta_correcta": "c",
-    "fuente": "La ortografía del idioma español. Libro con ejercicios, El verbo"
+    "respuesta_correcta": "a",
+    "fuente": "Temario Conocimientos Específicos, III.F Microsoft Word 2016"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "DE ACUERDO CON EL TEMARIO DE CONOCIMIENTOS ESPECÍFICOS, EL MANUAL DE EXCEL BÁSICO INCLUYE ENTRE SUS TEMAS:\nESTOS TEMAS SE REFIEREN AL MANEJO BÁSICO DE HOJAS DE CÁLCULO.\nSELECCIONE LA OPCIÓN CORRECTA.",
+    "opciones": {
+      "a": "EDICIÓN DE HOJA DE CÁLCULO, USO DE FÓRMULAS, GRÁFICOS Y LISTAS DE DATOS",
+      "b": "TABLAS DINÁMICAS Y MACROS AVANZADAS",
+      "c": "VALIDACIÓN DE DATOS Y FILTROS AVANZADOS",
+      "d": "POWER QUERY Y POWER PIVOT"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Temario Conocimientos Específicos, III.H Manual de Excel Básico"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "DE ACUERDO CON EL TEMARIO DE CONOCIMIENTOS ESPECÍFICOS, EL MANUAL DE POWER POINT BÁSICO 2016 ABARCA LOS SIGUIENTES TEMAS:\nESTOS TEMAS SE REFIEREN AL MANEJO BÁSICO DE PRESENTACIONES.\nSELECCIONE LA OPCIÓN CORRECTA.",
+    "opciones": {
+      "a": "LAS VISTAS, TRABAJAR CON DIAPOSITIVAS Y MANEJAR OBJETOS",
+      "b": "ANIMACIONES AVANZADAS Y TRANSICIONES",
+      "c": "DISEÑO DE PLANTILLAS MAESTRAS",
+      "d": "INSERCIÓN DE MACROS Y COMPLEMENTOS"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Temario Conocimientos Específicos, III.I Power Point Básico 2016"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "verdadero_falso",
-    "pregunta": "EN LOS VERBOS REGULARES, LA RAÍZ SE MANTIENE INVARIABLE Y LAS TERMINACIONES SIGUEN EL MODELO DE LA CONJUGACIÓN CORRESPONDIENTE.",
+    "pregunta": "EL DAM 1.9 SEGURIDAD DE LA INFORMACIÓN, DENTRO DEL TEMARIO DE CONOCIMIENTOS ESPECÍFICOS, CONTEMPLA UN ANEXO A CON EL GLOSARIO DE TÉRMINOS.\nDETERMINE SI ESTA AFIRMACIÓN ES VERDADERA O FALSA.",
     "respuesta_correcta": "a",
-    "fuente": "La ortografía del idioma español. Libro con ejercicios, El verbo"
+    "fuente": "Temario Conocimientos Específicos, III.J DAM 1.9 Seguridad de la Información, Anexo A"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "opcion_multiple",
-    "pregunta": "SEGÚN LAS REGLAS DE ACENTUACIÓN DEL ESPAÑOL, LAS PALABRAS AGUDAS LLEVAN TILDE CUANDO TERMINAN EN:",
+    "pregunta": "DE ACUERDO CON EL MANUAL PARA LA INTEGRACIÓN DEL MEMORIAL DE SERVICIOS DEL PERSONAL DE CLASES Y MARINERÍA, ¿QUÉ CAPÍTULO CONTEMPLA LAS GENERALIDADES DEL DOCUMENTO?\nESTE CAPÍTULO ANTECEDE AL RELATIVO AL MEMORIAL DE SERVICIOS PROPIAMENTE DICHO.\nSELECCIONE LA OPCIÓN CORRECTA.",
     "opciones": {
-      "a": "N, S O VOCAL",
-      "b": "CUALQUIER CONSONANTE DISTINTA DE N O S",
-      "c": "SOLO EN VOCAL",
-      "d": "SIEMPRE LLEVAN TILDE"
+      "a": "CAPÍTULO III",
+      "b": "CAPÍTULO II",
+      "c": "CAPÍTULO IV",
+      "d": "CAPÍTULO V"
     },
     "respuesta_correcta": "a",
-    "fuente": "La ortografía del idioma español. Libro con ejercicios, La acentuación"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "opcion_multiple",
-    "pregunta": "LAS PALABRAS ESDRÚJULAS, DE ACUERDO CON LA NORMATIVA ORTOGRÁFICA, SE TILDAN:",
-    "opciones": {
-      "a": "SOLO SI TERMINAN EN N O S",
-      "b": "SIEMPRE",
-      "c": "NUNCA LLEVAN TILDE",
-      "d": "ÚNICAMENTE CUANDO SON AGUDAS"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "La ortografía del idioma español. Libro con ejercicios, La acentuación"
+    "fuente": "Temario Conocimientos Específicos, II.A Manual para la integración del memorial de servicios, Capítulo III"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "verdadero_falso",
-    "pregunta": "EL PUNTO Y COMA ES UN SIGNO DE PUNTUACIÓN QUE INDICA UNA PAUSA MAYOR QUE LA COMA Y MENOR QUE EL PUNTO, Y SE EMPLEA CON FRECUENCIA PARA SEPARAR ORACIONES RELACIONADAS DENTRO DE UN MISMO ENUNCIADO.",
+    "pregunta": "EL CAPÍTULO IV DEL MANUAL PARA LA INTEGRACIÓN DEL MEMORIAL DE SERVICIOS DEL PERSONAL DE CLASES Y MARINERÍA DE LA ARMADA DE MÉXICO CORRESPONDE AL TEMA DEL MEMORIAL DE SERVICIOS.\nESTA AFIRMACIÓN SE ENCUENTRA CONTENIDA EN EL TEMARIO DE CONOCIMIENTOS ESPECÍFICOS.\nDETERMINE SI ES VERDADERA O FALSA.",
     "respuesta_correcta": "a",
-    "fuente": "La ortografía del idioma español. Libro con ejercicios, Signos de puntuación y signos auxiliares"
+    "fuente": "Temario Conocimientos Específicos, II.A Manual para la integración del memorial de servicios, Capítulo IV"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "opcion_multiple",
-    "pregunta": "EN ORTOGRAFÍA, EL SIGNO AUXILIAR QUE SE UTILIZA PARA INDICAR QUE UNA PALABRA O FRASE ES INCORRECTA O VA EN CONTRA DE LA NORMA EN UN CONTEXTO DETERMINADO ES:",
+    "pregunta": "DENTRO DEL CAPÍTULO V DEL MANUAL PARA LA INTEGRACIÓN DEL MEMORIAL DE SERVICIOS, RELATIVO AL PROCESO DE LA EVALUACIÓN, ¿CUÁL DE LOS SIGUIENTES APARTADOS SE INCLUYE?\nCONSIDERE LOS SUBTEMAS SEÑALADOS EN EL TEMARIO DE CONOCIMIENTOS ESPECÍFICOS.\nSELECCIONE LA OPCIÓN CORRECTA.",
     "opciones": {
-      "a": "LAS COMILLAS DOBLES",
-      "b": "EL PARÉNTESIS",
-      "c": "LA COMA",
-      "d": "EL GUIÓN"
+      "a": "DESAHOGO DE LAS INCONFORMIDADES",
+      "b": "REGISTRO DE ANTIGÜEDAD",
+      "c": "CONTROL DE ASCENSOS",
+      "d": "EVALUACIÓN DE DESEMPEÑO ANUAL"
     },
     "respuesta_correcta": "a",
-    "fuente": "La ortografía del idioma español. Libro con ejercicios, Signos de puntuación y signos auxiliares"
+    "fuente": "Temario Conocimientos Específicos, II.A Manual para la integración del memorial de servicios, Capítulo V"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "opcion_multiple",
-    "pregunta": "EL USO CORRECTO DE LA LETRA B, SEGÚN LAS REGLAS ORTOGRÁFICAS, OBLIGA A ESCRIBIR CON B LAS PALABRAS QUE EMPIEZAN POR:",
+    "pregunta": "SEGÚN EL TEMARIO DE CONOCIMIENTOS ESPECÍFICOS, EL APARTADO DEL CAPÍTULO V DEL MANUAL DEL MEMORIAL DE SERVICIOS QUE SE REFIERE AL TRÁMITE PARA ACLARAR SITUACIONES DENTRO DEL PROCESO DE EVALUACIÓN SE DENOMINA:\nESTE APARTADO SE ENCUENTRA JUNTO AL OBJETIVO Y DESARROLLO Y AL DESAHOGO DE INCONFORMIDADES.\nSELECCIONE LA OPCIÓN CORRECTA.",
     "opciones": {
-      "a": "BI-, BIS-, BIZ- (QUE SIGNIFICAN DOS O DOS VECES)",
-      "b": "SIEMPRE ANTES DE LA CONSONANTE L",
-      "c": "TODAS LAS FORMAS DEL PRETÉRITO IMPERFECTO DEL INDICATIVO DE LOS VERBOS DE LA PRIMERA CONJUGACIÓN",
-      "d": "A Y C SON CORRECTAS"
+      "a": "PROCEDIMIENTO DE ACLARACIÓN",
+      "b": "PROCEDIMIENTO DE REVISIÓN",
+      "c": "PROCEDIMIENTO DE APELACIÓN",
+      "d": "PROCEDIMIENTO DE RECTIFICACIÓN"
     },
-    "respuesta_correcta": "d",
-    "fuente": "La ortografía del idioma español. Libro con ejercicios, Ortografía de las letras"
+    "respuesta_correcta": "a",
+    "fuente": "Temario Conocimientos Específicos, II.A Manual para la integración del memorial de servicios, Capítulo V"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "verdadero_falso",
-    "pregunta": "SE ESCRIBEN CON V LAS PALABRAS QUE EMPIEZAN POR VICE- Y VIZ-, COMO VICEPRESIDENTE O VIZCONDE.",
+    "pregunta": "EL DAM 1.3.4.6 SEGURIDAD FÍSICA DE LAS UNIDADES Y ESTABLECIMIENTOS DE LA SECRETARÍA DE MARINA-ARMADA DE MÉXICO CONTEMPLA, EN SU CAPÍTULO I, EL TEMA DE SEGURIDAD FÍSICA.\nESTA AFIRMACIÓN CORRESPONDE AL TEMARIO DE CONOCIMIENTOS ESPECÍFICOS.\nDETERMINE SI ES VERDADERA O FALSA.",
     "respuesta_correcta": "a",
-    "fuente": "La ortografía del idioma español. Libro con ejercicios, Ortografía de las letras"
+    "fuente": "Temario Conocimientos Específicos, II.C DAM 1.3.4.6 Seguridad Física, Capítulo I"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "opcion_multiple",
-    "pregunta": "EN MICROSOFT EXCEL, PARA CAMBIAR EL FORMATO DE UNA CELDA A MONEDA CON DOS DECIMALES, SE UTILIZA LA FICHA INICIO, GRUPO NÚMERO, Y SE SELECCIONA LA OPCIÓN:",
+    "pregunta": "DE ACUERDO CON EL TEMARIO DE CONOCIMIENTOS ESPECÍFICOS, ¿QUÉ CAPÍTULO DEL DAM 1.10 ADIESTRAMIENTO DE LA ARMADA DE MÉXICO CORRESPONDE AL TEMA DE ALCANCE?\nCONSIDERE LA ESTRUCTURA SEÑALADA EN EL DOCUMENTO DE REFERENCIA.\nSELECCIONE LA OPCIÓN CORRECTA.",
     "opciones": {
-      "a": "PORCENTAJE",
-      "b": "NÚMERO CON SEPARADOR DE MILES",
-      "c": "MONEDA O CONTABILIDAD",
-      "d": "TEXTO"
-    },
-    "respuesta_correcta": "c",
-    "fuente": "Manual de Excel Básico, Edición de una hoja de cálculo"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "opcion_multiple",
-    "pregunta": "LA FÓRMULA CORRECTA EN EXCEL PARA SUMAR LOS VALORES DEL RANGO A1 A A10 ES:",
-    "opciones": {
-      "a": "=SUMA(A1;A10)",
-      "b": "=A1+A10",
-      "c": "=SUMA(A1:A10)",
-      "d": "=TOTAL(A1:A10)"
-    },
-    "respuesta_correcta": "c",
-    "fuente": "Manual de Excel Básico, Uso de fórmulas"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "verdadero_falso",
-    "pregunta": "EN EXCEL, LA FUNCIÓN PROMEDIO IGNORA LAS CELDAS VACÍAS PERO SÍ INCLUYE EN EL CÁLCULO LAS CELDAS CON VALOR CERO.",
-    "respuesta_correcta": "a",
-    "fuente": "Manual de Excel Básico, Uso de fórmulas"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "opcion_multiple",
-    "pregunta": "PARA CREAR UN GRÁFICO EN EXCEL A PARTIR DE UN RANGO DE DATOS, LUEGO DE SELECCIONARLOS, SE DEBE IR A LA FICHA INSERTAR Y EN EL GRUPO GRÁFICOS ESCOGER:",
-    "opciones": {
-      "a": "TABLA DINÁMICA",
-      "b": "GRÁFICO RECOMENDADO O CUALQUIER TIPO DE GRÁFICO",
-      "c": "MINIGRÁFICO",
-      "d": "LÍNEA DE TIEMPO"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "Manual de Excel Básico, Gráficos"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "verdadero_falso",
-    "pregunta": "LAS LISTAS DE DATOS EN EXCEL PERMITEN ORDENAR Y FILTRAR INFORMACIÓN SIN NECESIDAD DE QUE LOS DATOS TENGAN ENCABEZADOS DE COLUMNA.",
-    "respuesta_correcta": "b",
-    "fuente": "Manual de Excel Básico, Listas de datos"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "opcion_multiple",
-    "pregunta": "EN POWERPOINT 2016, LA VISTA QUE MUESTRA LAS DIAPOSITIVAS EN MINIATURA Y PERMITE REORDENARLAS FÁCILMENTE ES:",
-    "opciones": {
-      "a": "VISTA NORMAL",
-      "b": "VISTA CLASIFICADOR DE DIAPOSITIVAS",
-      "c": "VISTA PRESENTACIÓN CON DIAPOSITIVAS",
-      "d": "VISTA DE LECTURA"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "Power Point Básico 2016. Manual Actualización Tecnológica, Las vistas"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "verdadero_falso",
-    "pregunta": "PARA INSERTAR UNA NUEVA DIAPOSITIVA EN POWERPOINT, SE PUEDE UTILIZAR LA COMBINACIÓN DE TECLAS CTRL + M.",
-    "respuesta_correcta": "a",
-    "fuente": "Power Point Básico 2016. Manual Actualización Tecnológica, Trabajar con diapositivas"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "opcion_multiple",
-    "pregunta": "AL TRABAJAR CON OBJETOS EN POWERPOINT (IMÁGENES, FORMAS, CUADROS DE TEXTO), PARA ALINEAR VARIOS DE ELLOS SIMULTÁNEAMENTE SE UTILIZA LA HERRAMIENTA:",
-    "opciones": {
-      "a": "AGRUPAR",
-      "b": "ORDENAR",
-      "c": "ALINEAR",
-      "d": "DISTRIBUIR HORIZONTALMENTE"
-    },
-    "respuesta_correcta": "c",
-    "fuente": "Power Point Básico 2016. Manual Actualización Tecnológica, Manejar objetos"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "verdadero_falso",
-    "pregunta": "EN POWERPOINT, LA OPCIÓN 'DUPLICAR DIAPOSITIVA' CREA UNA COPIA IDÉNTICA DE LA DIAPOSITIVA SELECCIONADA, INCLUYENDO TODOS SUS OBJETOS Y FORMATOS.",
-    "respuesta_correcta": "a",
-    "fuente": "Power Point Básico 2016. Manual Actualización Tecnológica, Trabajar con diapositivas"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "opcion_multiple",
-    "pregunta": "SEGÚN EL DAM 1.9, LA PROPIEDAD DE LA INFORMACIÓN QUE GARANTIZA QUE SOLO LAS PERSONAS AUTORIZADAS PUEDAN ACCEDER A ELLA SE CONOCE COMO:",
-    "opciones": {
-      "a": "INTEGRIDAD",
-      "b": "DISPONIBILIDAD",
-      "c": "CONFIDENCIALIDAD",
-      "d": "AUTENTICACIÓN"
-    },
-    "respuesta_correcta": "c",
-    "fuente": "DAM. 1.9. Seguridad de la Información, Conceptualización de la seguridad de la información"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "opcion_multiple",
-    "pregunta": "EN EL MODELO DOCTRINARIO DE SEGURIDAD DE LA INFORMACIÓN DE LA SECRETARÍA DE MARINA, LA CAPACIDAD DE GARANTIZAR QUE LA INFORMACIÓN NO HA SIDO ALTERADA DE MANERA NO AUTORIZADA CORRESPONDE AL PRINCIPIO DE:",
-    "opciones": {
-      "a": "CONFIDENCIALIDAD",
-      "b": "INTEGRIDAD",
-      "c": "DISPONIBILIDAD",
-      "d": "NO REPUDIO"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "DAM. 1.9. Seguridad de la Información, Modelo doctrinario de Seguridad de la Información"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "verdadero_falso",
-    "pregunta": "DE ACUERDO CON EL GLOSARIO DEL DAM 1.9, LA INFORMACIÓN CLASIFICADA COMO 'CONFIDENCIAL' ES AQUELLA QUE, DE DIVULGARSE, PODRÍA CAUSAR DAÑO GRAVE A LA SEGURIDAD NACIONAL.",
-    "respuesta_correcta": "b",
-    "fuente": "DAM. 1.9. Seguridad de la Información, Anexo A. Glosario de términos"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "opcion_multiple",
-    "pregunta": "SEGÚN EL DAM 1.10, EL PROCESO ACADÉMICO MEDIANTE EL CUAL SE IMPARTEN CONOCIMIENTOS Y TÉCNICAS PARA DESEMPEÑAR UNA ACTIVIDAD O FUNCIÓN DE ACUERDO CON LA RAMA Y NIVEL JERÁRQUICO SE DENOMINA:",
-    "opciones": {
-      "a": "ADIESTRAMIENTO",
-      "b": "CAPACITACIÓN",
-      "c": "CERTIFICACIÓN",
-      "d": "ENSEÑANZA"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "DAM. 1.10 Adiestramiento de la Armada de México, Conceptos"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "verdadero_falso",
-    "pregunta": "LA CERTIFICACIÓN, DE ACUERDO CON EL DAM 1.10, ES LA ACCIÓN DE CONSTAR DE MANERA LEGAL EL CONOCIMIENTO O DESTREZA ADQUIRIDOS POR UN ELEMENTO A TRAVÉS DE UNA ACTIVIDAD ACADÉMICA.",
-    "respuesta_correcta": "a",
-    "fuente": "DAM. 1.10 Adiestramiento de la Armada de México, Conceptos"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "opcion_multiple",
-    "pregunta": "EN EL CONTEXTO DEL DAM 1.10, EL GRUPO DE ELEMENTOS QUE RECIBEN DE UN MAESTRO O DOCENTE ACADEMIAS, CONFERENCIAS O ASIGNATURAS RELATIVAS A UN MISMO TEMA ES UNA:",
-    "opciones": {
-      "a": "ESCUELA",
-      "b": "CLASE",
-      "c": "BRIGADA",
-      "d": "ESCUADRÓN"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "DAM. 1.10 Adiestramiento de la Armada de México, Conceptos"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "verdadero_falso",
-    "pregunta": "EL ADIESTRAMIENTO, CONFORME AL DAM 1.10, BUSCA LA DESTREZA PARA LA OPERACIÓN DE UNIDADES, EQUIPOS O SISTEMAS MEDIANTE UN CURSO O PRÁCTICA.",
-    "respuesta_correcta": "a",
-    "fuente": "DAM. 1.10 Adiestramiento de la Armada de México, Conceptos"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "opcion_multiple",
-    "pregunta": "DE ACUERDO CON EL DAM 1.3.1.3.5 CONTRAINCENDIOS PARA ESTABLECIMIENTOS NAVALES, UN INCENDIO CLASE 'A' INVOLUCRA MATERIALES COMO:",
-    "opciones": {
-      "a": "LÍQUIDOS INFLAMABLES",
-      "b": "EQUIPOS ELÉCTRICOS ENERGIZADOS",
-      "c": "MADERA, PAPEL, TELA Y OTROS SÓLIDOS COMBUSTIBLES ORDINARIOS",
-      "d": "METALES COMBUSTIBLES"
-    },
-    "respuesta_correcta": "c",
-    "fuente": "DAM. 1.3.1.3.5 Contraincendios para establecimientos navales, Clasificación de los incendios"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "opcion_multiple",
-    "pregunta": "UN INCENDIO QUE INVOLUCRA ACEITES Y GRASAS DE COCINA, COMO LOS QUE OCURREN EN FREÍDORAS, SE CLASIFICA COMO CLASE:",
-    "opciones": {
-      "a": "A",
-      "b": "B",
-      "c": "D",
-      "d": "K"
-    },
-    "respuesta_correcta": "d",
-    "fuente": "DAM. 1.3.1.3.5 Contraincendios para establecimientos navales, Clasificación de los incendios"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "verdadero_falso",
-    "pregunta": "PARA LA EXTINCIÓN DE UN FUEGO CLASE B (LÍQUIDOS INFLAMABLES), EL AGENTE EXTINGUIDOR ADECUADO ES EL AGUA A CHORRO DIRECTO.",
-    "respuesta_correcta": "b",
-    "fuente": "DAM. 1.3.1.3.5 Contraincendios para establecimientos navales, Uso de Agentes Extinguidores de acuerdo a la Clase de Fuego"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "opcion_multiple",
-    "pregunta": "EL MÉTODO DE EXTINCIÓN DE INCENDIOS QUE CONSISTE EN ELIMINAR EL COMBUSTIBLE DE LA COMBUSTIÓN SE DENOMINA:",
-    "opciones": {
-      "a": "ENFRIAMIENTO",
-      "b": "SOFOCACIÓN",
-      "c": "INHIBICIÓN QUÍMICA",
-      "d": "ELIMINACIÓN DEL COMBUSTIBLE"
-    },
-    "respuesta_correcta": "d",
-    "fuente": "DAM. 1.3.1.3.5 Contraincendios para establecimientos navales, Métodos de extinción de incendios"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "verdadero_falso",
-    "pregunta": "LA FASE DE INCENDIO LLAMADA 'COMBUSTIÓN LENTA' O 'FUEGO LATENTE' SE CARACTERIZA POR LA AUSENCIA DE LLAMAS Y ALTAS TEMPERATURAS QUE PUEDEN REAVIVAR EL FUEGO.",
-    "respuesta_correcta": "a",
-    "fuente": "DAM. 1.3.1.3.5 Contraincendios para establecimientos navales, Fases del fuego"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "opcion_multiple",
-    "pregunta": "SEGÚN EL DAM 1.3.4.6, LA SEGURIDAD FÍSICA DE LAS UNIDADES Y ESTABLECIMIENTOS NAVALES TIENE COMO OBJETIVO PRINCIPAL:",
-    "opciones": {
-      "a": "PROTEGER LOS SISTEMAS INFORMÁTICOS",
-      "b": "PREVENIR Y EVITAR ACCESOS NO AUTORIZADOS, DAÑOS O INTRUSIONES A LAS INSTALACIONES",
-      "c": "GARANTIZAR LA CONTINUIDAD DE OPERACIONES AÉREAS",
-      "d": "SUPERVISAR EL MANTENIMIENTO DE EQUIPOS DE NAVEGACIÓN"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "DAM. 1.3.4.6 Seguridad física de las unidades y establecimientos de la Secretaría de Marina Armada de México, Capítulo I"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "opcion_multiple",
-    "pregunta": "LA DIRECTIVA PARA LA ASIGNACIÓN DE RECURSOS FINANCIEROS DE PASAJES Y VIÁTICOS DE LA SECRETARÍA DE MARINA ESTABLECE QUE LOS VIÁTICOS CUBREN GASTOS DE:",
-    "opciones": {
-      "a": "ÚNICAMENTE TRANSPORTE AÉREO",
-      "b": "ALIMENTACIÓN, HOSPEDAJE Y TRANSPORTE LOCAL DURANTE LA COMISIÓN",
-      "c": "SOLO PEAJE Y COMBUSTIBLE DE VEHÍCULOS OFICIALES",
-      "d": "EXCLUSIVAMENTE GASTOS DE REPRESENTACIÓN"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "Directiva para la Asignación de Recursos Financieros de Pasajes y Viáticos de la Secretaría de Marina"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "verdadero_falso",
-    "pregunta": "EL PERSONAL NAVAL QUE RECIBE PASAJES Y VIÁTICOS DEBE COMPROBAR LOS GASTOS DENTRO DE LOS CINCO DÍAS HÁBILES SIGUIENTES A LA CONCLUSIÓN DE LA COMISIÓN, DE ACUERDO CON LA DIRECTIVA CORRESPONDIENTE.",
-    "respuesta_correcta": "a",
-    "fuente": "Directiva para la Asignación de Recursos Financieros de Pasajes y Viáticos de la Secretaría de Marina"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "opcion_multiple",
-    "pregunta": "EN EL MANUAL DE ADMINISTRACIÓN ARCHIVÍSTICA, EL PROCESO TÉCNICO QUE CONSISTE EN ESTABLECER CATEGORÍAS O GRUPOS JERÁRQUICOS PARA LOS DOCUMENTOS DE ARCHIVO SE LLAMA:",
-    "opciones": {
-      "a": "ORDENACIÓN",
-      "b": "DESCRIPCIÓN",
-      "c": "CLASIFICACIÓN",
-      "d": "INSTALACIÓN"
-    },
-    "respuesta_correcta": "c",
-    "fuente": "Manual de Administración archivística, Definición de los procesos técnicos archivísticos"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "verdadero_falso",
-    "pregunta": "LA VALORACIÓN DOCUMENTAL TIENE COMO FIN ÚNICO DECIDIR SI UN DOCUMENTO SE DESTRUYE DE INMEDIATO, SIN CONSIDERAR SU POSIBLE VALOR HISTÓRICO.",
-    "respuesta_correcta": "b",
-    "fuente": "Manual de Administración archivística, Valoración documental"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "opcion_multiple",
-    "pregunta": "EL MANUAL DE GESTIÓN DE LA INFORMACIÓN SEÑALA QUE LA INFORMACIÓN AL INTERIOR DE LA INSTITUCIÓN DEBE FLUIR DE MANERA:",
-    "opciones": {
-      "a": "EXCLUSIVAMENTE DESCENDENTE POR LA CADENA DE MANDO",
-      "b": "ASCENDENTE, DESCENDENTE Y HORIZONTAL, ASEGURANDO LA OPORTUNIDAD Y VERACIDAD",
-      "c": "SOLO HORIZONTAL ENTRE ÁREAS DE IGUAL NIVEL",
-      "d": "ÚNICAMENTE POR CORREO ELECTRÓNICO CIFRADO"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "Manual de Gestión de la Información de la Secretaría de Marina – Armada de México, Gestión de la información al interior de la institución"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "verdadero_falso",
-    "pregunta": "LA SOCIALIZACIÓN DE LA INFORMACIÓN INSTITUCIONAL, SEGÚN EL MANUAL DE GESTIÓN DE LA INFORMACIÓN, INCLUYE LA PUBLICACIÓN EN LA PÁGINA OFICIAL DE INTERNET Y EL USO DE PLATAFORMAS DE TRANSPARENCIA.",
-    "respuesta_correcta": "a",
-    "fuente": "Manual de Gestión de la Información de la Secretaría de Marina – Armada de México, Gestión de socialización de la información"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "opcion_multiple",
-    "pregunta": "DENTRO DE LOS DOCUMENTOS NAVALES, CUANDO SE REQUIERE AVALAR LA AUTENTICIDAD DE UNA FIRMA O EL CONTENIDO DE UN DOCUMENTO, EL ACTO ADMINISTRATIVO MEDIANTE EL CUAL LA AUTORIDAD DA FE SE LLAMA:",
-    "opciones": {
-      "a": "COPIA SIMPLE",
-      "b": "ACTA NOTARIAL",
-      "c": "CERTIFICACIÓN",
-      "d": "TRASLADO"
-    },
-    "respuesta_correcta": "c",
-    "fuente": "Documentación Naval I, Certificación"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "verdadero_falso",
-    "pregunta": "LAS ACTAS LEVANTADAS EN EL ÁMBITO NAVAL DEBEN INCLUIR LA HORA DE INICIO Y TÉRMINO, EL MOTIVO, LOS ACUERDOS Y LAS FIRMAS DE TODOS LOS QUE INTERVINIERON.",
-    "respuesta_correcta": "a",
-    "fuente": "Documentación Naval I, Actas"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "opcion_multiple",
-    "pregunta": "EN WORD 2016, PARA PERSONALIZAR UN GRÁFICO YA INSERTADO, HACIENDO CLIC DERECHO SOBRE ÉL SE PUEDEN MODIFICAR:",
-    "opciones": {
-      "a": "SÓLO LOS COLORES DE LAS SERIES",
-      "b": "EL TIPO DE GRÁFICO Y LOS DATOS DE ORIGEN, ENTRE OTRAS OPCIONES",
-      "c": "EXCLUSIVAMENTE EL TÍTULO",
-      "d": "ÚNICAMENTE EL TAMAÑO DEL ÁREA DEL GRÁFICO"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "Microsoft Word 2016. Manual práctico paso a paso, Gráficos"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "verdadero_falso",
-    "pregunta": "LOS GRÁFICOS INSERTADOS EN WORD DESDE EXCEL MANTIENEN UN VÍNCULO DINÁMICO, PERO SI SE ROMPE EL VÍNCULO, LOS DATOS NO SE ACTUALIZARÁN AUTOMÁTICAMENTE.",
-    "respuesta_correcta": "a",
-    "fuente": "Microsoft Word 2016. Manual práctico paso a paso, Gráficos"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "opcion_multiple",
-    "pregunta": "LA PALABRA 'CÁNTARO' LLEVA TILDE PORQUE ES UNA PALABRA:",
-    "opciones": {
-      "a": "AGUDA TERMINADA EN VOCAL",
-      "b": "GRAVE O LLANA TERMINADA EN CONSONANTE DISTINTA DE 'N' O 'S'",
-      "c": "ESDRÚJULA",
-      "d": "SOBRESDRÚJULA"
-    },
-    "respuesta_correcta": "c",
-    "fuente": "La ortografía del idioma español. Libro con ejercicios, La acentuación"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "verdadero_falso",
-    "pregunta": "EL ACENTO DIACRÍTICO EN 'SÍ' (AFIRMACIÓN) Y 'SI' (CONDICIÓN) SIRVE PARA DIFERENCIAR FUNCIONES GRAMATICALES DISTINTAS.",
-    "respuesta_correcta": "a",
-    "fuente": "La ortografía del idioma español. Libro con ejercicios, La acentuación"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "opcion_multiple",
-    "pregunta": "EN LA ORACIÓN 'JUAN, QUE ES MUY PUNTUAL, LLEGÓ TARDE', LAS COMAS SE UTILIZAN PARA:",
-    "opciones": {
-      "a": "SEPARAR ELEMENTOS DE UNA ENUMERACIÓN",
-      "b": "ENMARCAR UNA ACLARACIÓN O INCISO EXPLICATIVO",
-      "c": "SUSTITUIR UN VERBO",
-      "d": "INDICAR UNA PAUSA MENOR QUE EL PUNTO Y COMA"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "La ortografía del idioma español. Libro con ejercicios, Signos de puntuación y signos auxiliares"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "verdadero_falso",
-    "pregunta": "EL SIGNO DE INTERROGACIÓN DE APERTURA (¿) ES OBLIGATORIO EN ESPAÑOL AL INICIO DE TODA PREGUNTA DIRECTA.",
-    "respuesta_correcta": "a",
-    "fuente": "La ortografía del idioma español. Libro con ejercicios, Signos de puntuación y signos auxiliares"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "opcion_multiple",
-    "pregunta": "LAS FORMAS DEL PRETÉRITO PERFECTO SIMPLE DEL VERBO 'ANDAR' (ANDUVE, ANDUVISTE, ANDUVO, ETC.) SON EJEMPLO DE VERBOS:",
-    "opciones": {
-      "a": "REGULARES",
-      "b": "DEFECTIVOS",
-      "c": "IRREGULARES",
-      "d": "IMPERSONALES"
-    },
-    "respuesta_correcta": "c",
-    "fuente": "La ortografía del idioma español. Libro con ejercicios, El verbo"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "verdadero_falso",
-    "pregunta": "EL VERBO 'HABER' ES UN VERBO IMPERSONAL QUE, CUANDO FUNGE COMO AUXILIAR, SE CONJUGA EN TODAS LAS PERSONAS.",
-    "respuesta_correcta": "a",
-    "fuente": "La ortografía del idioma español. Libro con ejercicios, El verbo"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "opcion_multiple",
-    "pregunta": "DE ACUERDO CON LAS REGLAS DE LA H, SE ESCRIBEN CON H INICIAL LAS PALABRAS QUE EMPIEZAN POR LOS DIPTONGOS:",
-    "opciones": {
-      "a": "IE, UE, UI, IA",
-      "b": "HI, HU, HE",
-      "c": "HA, HO, HE",
-      "d": "HUM-, HIDR-"
+      "a": "CAPÍTULO IV",
+      "b": "CAPÍTULO I",
+      "c": "CAPÍTULO II",
+      "d": "CAPÍTULO III"
     },
     "respuesta_correcta": "a",
-    "fuente": "La ortografía del idioma español. Libro con ejercicios, Ortografía de las letras"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "verdadero_falso",
-    "pregunta": "SE ESCRIBEN CON 'LL' LAS PALABRAS QUE EN SU FAMILIA LÉXICA TIENEN EL SONIDO 'PL', COMO 'LLUVIA' (PLUVIAL).",
-    "respuesta_correcta": "a",
-    "fuente": "La ortografía del idioma español. Libro con ejercicios, Ortografía de las letras"
+    "fuente": "Temario Conocimientos Específicos, II.D DAM 1.10 Adiestramiento de la Armada de México, Capítulo IV"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "opcion_multiple",
-    "pregunta": "EN EXCEL, LA FÓRMULA =SI(A1>10, \"APROBADO\", \"REPROBADO\") PERTENECE A LA CATEGORÍA DE FUNCIONES:",
+    "pregunta": "DE ACUERDO CON LA LEY GENERAL DE ARCHIVOS, EL LIBRO I SE TITULA:\nESTE LIBRO CONTIENE LOS TÍTULOS SEGUNDO Y TERCERO RELATIVOS A LA GESTIÓN Y VALORACIÓN DOCUMENTAL.\nSELECCIONE LA OPCIÓN CORRECTA.",
     "opciones": {
-      "a": "MATEMÁTICAS",
-      "b": "ESTADÍSTICAS",
-      "c": "LÓGICAS",
-      "d": "DE TEXTO"
-    },
-    "respuesta_correcta": "c",
-    "fuente": "Manual de Excel Básico, Uso de fórmulas"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "opcion_multiple",
-    "pregunta": "PARA QUE UNA LISTA DE DATOS EN EXCEL PUEDA SER ORDENADA CORRECTAMENTE, SE RECOMIENDA:",
-    "opciones": {
-      "a": "QUE NO TENGA CELDAS VACÍAS EN LA COLUMNA CLAVE",
-      "b": "QUE CADA COLUMNA TENGA UN ENCABEZADO ÚNICO",
-      "c": "QUE LOS DATOS SEAN DEL MISMO TIPO EN CADA COLUMNA",
-      "d": "TODAS LAS ANTERIORES"
-    },
-    "respuesta_correcta": "d",
-    "fuente": "Manual de Excel Básico, Listas de datos"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "verdadero_falso",
-    "pregunta": "EN EXCEL, LOS GRÁFICOS DE TIPO 'DISPERSIÓN' SON ÚTILES PARA MOSTRAR LA RELACIÓN ENTRE DOS CONJUNTOS DE DATOS NUMÉRICOS.",
-    "respuesta_correcta": "a",
-    "fuente": "Manual de Excel Básico, Gráficos"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "opcion_multiple",
-    "pregunta": "PARA AJUSTAR EL ANCHO DE UNA COLUMNA EN EXCEL AL CONTENIDO MÁS LARGO DE LAS CELDAS VISIBLES, SE DEBE:",
-    "opciones": {
-      "a": "HACER DOBLE CLIC EN EL BORDE DERECHO DEL ENCABEZADO DE LA COLUMNA",
-      "b": "ARRASSTRAR EL BORDE HASTA UN TAMAÑO FIJO",
-      "c": "USAR LA FICHA INICIO, FORMATO, AUTOAJUSTAR ANCHO DE COLUMNA",
-      "d": "TANTO A COMO C SON VÁLIDAS"
-    },
-    "respuesta_correcta": "d",
-    "fuente": "Manual de Excel Básico, Edición de una hoja de cálculo"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "verdadero_falso",
-    "pregunta": "EN POWERPOINT, LA VISTA 'NORMAL' PERMITE VER SIMULTÁNEAMENTE LA DIAPOSITIVA, EL ESQUEMA Y LAS NOTAS DEL ORADOR.",
-    "respuesta_correcta": "a",
-    "fuente": "Power Point Básico 2016. Manual Actualización Tecnológica, Las vistas"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "opcion_multiple",
-    "pregunta": "PARA APLICAR UN TEMA PREDEFINIDO A UNA PRESENTACIÓN DE POWERPOINT, DEBE IRSE A LA FICHA:",
-    "opciones": {
-      "a": "INSERTAR",
-      "b": "DISEÑO",
-      "c": "ANIMACIONES",
-      "d": "PRESENTACIÓN CON DIAPOSITIVAS"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "Power Point Básico 2016. Manual Actualización Tecnológica, Trabajar con diapositivas"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "verdadero_falso",
-    "pregunta": "EN POWERPOINT, AL INSERTAR UNA IMAGEN, ESTA PUEDE REDIMENSIONARSE PROPORCIONALMENTE ARRASTRANDO UNA ESQUINA MIENTRAS SE MANTIENE PRESIONADA LA TECLA SHIFT.",
-    "respuesta_correcta": "a",
-    "fuente": "Power Point Básico 2016. Manual Actualización Tecnológica, Manejar objetos"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "opcion_multiple",
-    "pregunta": "SEGÚN EL DAM 1.9, LA INFORMACIÓN QUE DEBE PROTEGERSE BAJO EL CRITERIO DE DISPONIBILIDAD ES AQUELLA QUE:",
-    "opciones": {
-      "a": "PUEDE SER MODIFICADA SÓLO POR PERSONAL AUTORIZADO",
-      "b": "DEBE ESTAR ACCESIBLE PARA LOS USUARIOS AUTORIZADOS CUANDO LA REQUIERAN",
-      "c": "ESTÁ CLASIFICADA COMO ULTRASECRETA",
-      "d": "SE TRANSMITE ÚNICAMENTE POR REDES CIFRADAS"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "DAM. 1.9. Seguridad de la Información, Conceptualización de la seguridad de la información"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "verdadero_falso",
-    "pregunta": "EL NO REPUDIO EN SEGURIDAD DE LA INFORMACIÓN IMPIDE QUE UNA PERSONA NIEGUE HABER REALIZADO UNA ACCIÓN O TRANSACCIÓN ELECTRÓNICA.",
-    "respuesta_correcta": "a",
-    "fuente": "DAM. 1.9. Seguridad de la Información, Anexo A. Glosario de términos"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "opcion_multiple",
-    "pregunta": "EN EL DAM 1.3.1.3.5, EL TRIÁNGULO DEL FUEGO ESTÁ COMPUESTO POR:",
-    "opciones": {
-      "a": "COMBUSTIBLE, OXÍGENO Y CALOR",
-      "b": "COMBUSTIBLE, NITRÓGENO Y REACCIÓN QUÍMICA",
-      "c": "OXÍGENO, HIDRÓGENO Y CALOR",
-      "d": "COMBUSTIBLE, CALOR Y LUZ"
+      "a": "DE LA ORGANIZACIÓN Y ADMINISTRACIÓN HOMOGÉNEA DE LOS ARCHIVOS",
+      "b": "DE LA TRANSPARENCIA Y RENDICIÓN DE CUENTAS",
+      "c": "DEL SISTEMA NACIONAL DE ARCHIVOS",
+      "d": "DE LOS ARCHIVOS HISTÓRICOS Y DE CONCENTRACIÓN"
     },
     "respuesta_correcta": "a",
-    "fuente": "DAM. 1.3.1.3.5 Contraincendios para establecimientos navales, Elementos del triángulo del fuego"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "verdadero_falso",
-    "pregunta": "EL AGUA ES UN AGENTE EXTINGUIDOR EFICAZ PARA FUEGOS DE CLASE A PORQUE ENFRÍA EL MATERIAL INCANDESCENTE.",
-    "respuesta_correcta": "a",
-    "fuente": "DAM. 1.3.1.3.5 Contraincendios para establecimientos navales, Uso de Agentes Extinguidores"
+    "fuente": "Temario Conocimientos Específicos, III.A Ley General de Archivos, Libro I"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "opcion_multiple",
-    "pregunta": "EL EXTINTOR DE POLVO QUÍMICO SECO MULTIPROPÓSITO ES ADECUADO PARA COMBATIR INCENDIOS DE CLASE:",
+    "pregunta": "DE ACUERDO CON EL TEMARIO DE CONOCIMIENTOS ESPECÍFICOS, EL MANUAL DE ADMINISTRACIÓN ARCHIVÍSTICA CONTEMPLA ENTRE SUS TEMAS LA DEFINICIÓN DE LOS PROCESOS TÉCNICOS ARCHIVÍSTICOS Y:\nESTE SEGUNDO TEMA SE REFIERE A DETERMINAR LA VIGENCIA E IMPORTANCIA DE LOS DOCUMENTOS.\nSELECCIONE LA OPCIÓN CORRECTA.",
     "opciones": {
-      "a": "SOLO CLASE A",
-      "b": "A, B Y C",
-      "c": "ÚNICAMENTE CLASE D",
-      "d": "EXCLUSIVAMENTE CLASE K"
+      "a": "LA VALORACIÓN DOCUMENTAL",
+      "b": "LA DIGITALIZACIÓN DOCUMENTAL",
+      "c": "LA CLASIFICACIÓN ARANCELARIA",
+      "d": "LA CATALOGACIÓN BIBLIOGRÁFICA"
     },
-    "respuesta_correcta": "b",
-    "fuente": "DAM. 1.3.1.3.5 Contraincendios para establecimientos navales, Uso de Agentes Extinguidores"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "verdadero_falso",
-    "pregunta": "LA SEGURIDAD FÍSICA, SEGÚN EL DAM 1.3.4.6, INCLUYE MEDIDAS COMO EL CONTROL DE ACCESOS VEHICULARES Y PEATONALES, ASÍ COMO LA ILUMINACIÓN PERIMETRAL.",
     "respuesta_correcta": "a",
-    "fuente": "DAM. 1.3.4.6 Seguridad física de las unidades y establecimientos de la Secretaría de Marina Armada de México, Capítulo I"
+    "fuente": "Temario Conocimientos Específicos, III.C Manual de Administración Archivística"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "opcion_multiple",
-    "pregunta": "EN LA DIRECTIVA DE PASAJES Y VIÁTICOS, SE ENTIENDE POR 'PASAJE' EL RECURSO FINANCIERO DESTINADO A:",
+    "pregunta": "SEGÚN DOCUMENTACIÓN NAVAL I, ¿CUÁL DE LAS SIGUIENTES OPCIONES NO FORMA PARTE DE LA DOCUMENTACIÓN DIVERSA GENERADA EN LAS UNIDADES Y DEPENDENCIAS DE LA ARMADA DE MÉXICO?\nCONSIDERE LOS DOCUMENTOS SEÑALADOS EXPRESAMENTE EN EL TEMARIO DE CONOCIMIENTOS ESPECÍFICOS.\nSELECCIONE LA OPCIÓN CORRECTA.",
     "opciones": {
-      "a": "CUBRIR ALIMENTACIÓN DURANTE EL TRAYECTO",
-      "b": "PAGAR PEAJE DE CARRETERA ÚNICAMENTE",
-      "c": "ADQUIRIR BOLETOS DE TRANSPORTE TERRESTRE, AÉREO O MARÍTIMO",
-      "d": "HOSPEDAJE EN TRÁNSITO"
-    },
-    "respuesta_correcta": "c",
-    "fuente": "Directiva para la Asignación de Recursos Financieros de Pasajes y Viáticos de la Secretaría de Marina"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "verdadero_falso",
-    "pregunta": "EL PERSONAL QUE RECIBE VIÁTICOS ESTÁ OBLIGADO A DEVOLVER EL MONTO NO COMPROBADO DENTRO DEL PLAZO ESTABLECIDO POR LA DIRECTIVA.",
-    "respuesta_correcta": "a",
-    "fuente": "Directiva para la Asignación de Recursos Financieros de Pasajes y Viáticos de la Secretaría de Marina"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "opcion_multiple",
-    "pregunta": "EL PROCESO TÉCNICO ARCHIVÍSTICO QUE CONSISTE EN DISPONER LOS DOCUMENTOS EN ORDEN CRONOLÓGICO, ALFABÉTICO, NUMÉRICO O UNA COMBINACIÓN DE ELLOS SE LLAMA:",
-    "opciones": {
-      "a": "CLASIFICACIÓN",
-      "b": "ORDENACIÓN",
-      "c": "DESCRIPCIÓN",
-      "d": "INSTALACIÓN"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "Manual de Administración archivística, Definición de los procesos técnicos archivísticos"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "verdadero_falso",
-    "pregunta": "LA DESCRIPCIÓN ARCHIVÍSTICA PERMITE ELABORAR INSTRUMENTOS DE CONSULTA COMO GUÍAS, INVENTARIOS Y CATÁLOGOS.",
-    "respuesta_correcta": "a",
-    "fuente": "Manual de Administración archivística, Definición de los procesos técnicos archivísticos"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "opcion_multiple",
-    "pregunta": "DE ACUERDO CON EL MANUAL DE GESTIÓN DE LA INFORMACIÓN, LA INFORMACIÓN INSTITUCIONAL QUE SE DIFUNDE DEBE SER:",
-    "opciones": {
-      "a": "SÓLO LA CLASIFICADA COMO RESERVADA PREVIA AUTORIZACIÓN",
-      "b": "VERAZ, OPORTUNA Y PROTEGER LOS DATOS PERSONALES SEGÚN LA LEY DE TRANSPARENCIA",
-      "c": "EXCLUSIVAMENTE DE TIPO OPERATIVO SIN FILTROS",
-      "d": "ÚNICAMENTE LA GENERADA POR LA OFICINA DE COMUNICACIÓN SOCIAL"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "Manual de Gestión de la Información de la Secretaría de Marina – Armada de México, Gestión de socialización de la información"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "verdadero_falso",
-    "pregunta": "LOS PARTES RADIOTELEGRÁFICOS SE CARACTERIZAN POR UTILIZAR UN LENGUAJE CLARO, PRECISO Y SEGUIR UN FORMATO ESTANDARIZADO QUE INCLUYE PRIORIDAD Y CLASIFICACIÓN DE SEGURIDAD.",
-    "respuesta_correcta": "a",
-    "fuente": "Documentación Naval I, Partes radiotelegráficos"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "opcion_multiple",
-    "pregunta": "EL DOCUMENTO MEDIANTE EL CUAL LA SECRETARÍA DE MARINA EXPIDE UNA CONSTANCIA OFICIAL SOBRE LA SITUACIÓN DE UN BIEN O PERSONA, CONFORME A LOS REGISTROS EXISTENTES, ES UN:",
-    "opciones": {
-      "a": "ACTA",
+      "a": "OFICIOS DE COMISIÓN",
       "b": "CERTIFICADO",
-      "c": "PARTE",
-      "d": "OFICIO"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "Documentación Naval I, Certificado"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "verdadero_falso",
-    "pregunta": "LAS COPIAS CERTIFICADAS TIENEN EL MISMO VALOR LEGAL QUE EL DOCUMENTO ORIGINAL, DEBIDO A LA FE PÚBLICA DE QUIEN LAS EXPIDE.",
-    "respuesta_correcta": "a",
-    "fuente": "Documentación Naval I, Copias certificadas"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "opcion_multiple",
-    "pregunta": "EN WORD 2016, PARA INSERTAR UN GRÁFICO DE LÍNEAS QUE MUESTRE LA EVOLUCIÓN DE LA TEMPERATURA DURANTE UNA SEMANA, UNA VEZ SELECCIONADO EL TIPO DE GRÁFICO, ES NECESARIO:",
-    "opciones": {
-      "a": "DIBUJAR EL GRÁFICO A MANO ALZADA",
-      "b": "INGRESAR LOS DATOS EN LA HOJA DE CÁLCULO QUE APARECE AUTOMÁTICAMENTE",
-      "c": "EXPORTAR LOS DATOS DESDE ACCESS OBLIGATORIAMENTE",
-      "d": "ESCRIBIR LOS VALORES DIRECTAMENTE COMO ETIQUETAS DE DATOS"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "Microsoft Word 2016. Manual práctico paso a paso, Gráficos"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "verdadero_falso",
-    "pregunta": "EN LA ACENTUACIÓN ESPAÑOLA, LAS PALABRAS GRAVES O LLANAS LLEVAN TILDE SI TERMINAN EN CONSONANTE DISTINTA DE 'N' O 'S'.",
-    "respuesta_correcta": "a",
-    "fuente": "La ortografía del idioma español. Libro con ejercicios, La acentuación"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "opcion_multiple",
-    "pregunta": "EL SIGNO DE PUNTUACIÓN QUE INDICA EL FINAL DE UN PÁRRAFO Y UNA PAUSA LARGA ES EL:",
-    "opciones": {
-      "a": "PUNTO Y COMA",
-      "b": "PUNTO Y SEGUIDO",
-      "c": "PUNTO Y APARTE",
-      "d": "PUNTO FINAL"
-    },
-    "respuesta_correcta": "c",
-    "fuente": "La ortografía del idioma español. Libro con ejercicios, Signos de puntuación y signos auxiliares"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "verdadero_falso",
-    "pregunta": "LOS DOS PUNTOS SE UTILIZAN ANTES DE UNA ENUMERACIÓN ANUNCIADA Y DESPUÉS DEL SALUDO EN CARTAS O DOCUMENTOS FORMALES.",
-    "respuesta_correcta": "a",
-    "fuente": "La ortografía del idioma español. Libro con ejercicios, Signos de puntuación y signos auxiliares"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "opcion_multiple",
-    "pregunta": "LOS VERBOS DEFECTIVOS SON AQUELLOS QUE:",
-    "opciones": {
-      "a": "TIENEN UNA CONJUGACIÓN COMPLETA",
-      "b": "CARECEN DE ALGUNAS FORMAS VERBALES, COMO LAS DEL VERBO 'SOLER'",
-      "c": "SIEMPRE SON REGULARES",
-      "d": "SOLO SE USAN EN PRETÉRITO"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "La ortografía del idioma español. Libro con ejercicios, El verbo"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "verdadero_falso",
-    "pregunta": "EL VERBO 'LLOVER' ES IMPERSONAL PORQUE SOLO SE CONJUGA EN TERCERA PERSONA DEL SINGULAR.",
-    "respuesta_correcta": "a",
-    "fuente": "La ortografía del idioma español. Libro con ejercicios, El verbo"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "opcion_multiple",
-    "pregunta": "PARA SABER SI UNA PALABRA SE ESCRIBE CON 'C' O 'Z' EN LAS TERMINACIONES -CITO, -CILLO, UNA REGLA ÚTIL ES:",
-    "opciones": {
-      "a": "SI LA PALABRA NO TIENE S EN LA SÍLABA ANTERIOR, SE ESCRIBE CON C",
-      "b": "SI LA PALABRA PRIMITIVA CONTIENE Z, EL DIMINUTIVO LA CONSERVA (EJ. LUZ > LUCECITA)",
-      "c": "LAS PALABRAS AGUDAS LLEVAN Z, LAS GRAVES C",
-      "d": "SE ESCRIBEN CON Z SIEMPRE QUE SEAN DIMINUTIVOS"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "La ortografía del idioma español. Libro con ejercicios, Ortografía de las letras"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "verdadero_falso",
-    "pregunta": "EN EXCEL, LA FUNCIÓN =CONTAR(A1:A10) DEVUELVE LA CANTIDAD DE CELDAS EN EL RANGO QUE CONTIENEN NÚMEROS.",
-    "respuesta_correcta": "a",
-    "fuente": "Manual de Excel Básico, Uso de fórmulas"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "opcion_multiple",
-    "pregunta": "PARA CONVERTIR UN RANGO DE CELDAS EN UNA TABLA CON ESTILO Y FILTROS AUTOMÁTICOS EN EXCEL, SE UTILIZA LA OPCIÓN:",
-    "opciones": {
-      "a": "FORMATO DE CELDAS",
-      "b": "INSERTAR TABLA",
-      "c": "TABLA DINÁMICA",
-      "d": "NOMBRAR RANGO"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "Manual de Excel Básico, Listas de datos"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "verdadero_falso",
-    "pregunta": "EN POWERPOINT, PARA OCULTAR UNA DIAPOSITIVA DURANTE LA PRESENTACIÓN SIN ELIMINARLA, SE USA LA OPCIÓN 'OCULTAR DIAPOSITIVA'.",
-    "respuesta_correcta": "a",
-    "fuente": "Power Point Básico 2016. Manual Actualización Tecnológica, Trabajar con diapositivas"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "opcion_multiple",
-    "pregunta": "PARA INSERTAR UNA FORMA (RECTÁNGULO, FLECHA, ETC.) EN POWERPOINT, DEBE ACUDIRSE A LA FICHA:",
-    "opciones": {
-      "a": "DISEÑO",
-      "b": "INSERTAR, ILUSTRACIONES, FORMAS",
-      "c": "ANIMACIONES",
-      "d": "INICIO, DIBUJO"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "Power Point Básico 2016. Manual Actualización Tecnológica, Manejar objetos"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "verdadero_falso",
-    "pregunta": "EL DAM 1.9 ESTABLECE QUE LA SEGURIDAD DE LA INFORMACIÓN SE SUSTENTA EN CUATRO PILARES: CONFIDENCIALIDAD, INTEGRIDAD, DISPONIBILIDAD Y AUTENTICIDAD.",
-    "respuesta_correcta": "a",
-    "fuente": "DAM. 1.9. Seguridad de la Información, Modelo doctrinario de Seguridad de la Información"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "opcion_multiple",
-    "pregunta": "LA CLASIFICACIÓN DE INFORMACIÓN 'RESERVADA', SEGÚN EL GLOSARIO DEL DAM 1.9, IMPLICA QUE SU DIVULGACIÓN:",
-    "opciones": {
-      "a": "NO TIENE NINGÚN IMPACTO",
-      "b": "PODRÍA CAUSAR DAÑO A LA SEGURIDAD NACIONAL O A LAS RELACIONES INTERNACIONALES",
-      "c": "SÓLO AFECTA LA IMAGEN INSTITUCIONAL",
-      "d": "ES DE ACCESO PÚBLICO PREVIO PAGO DE DERECHOS"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "DAM. 1.9. Seguridad de la Información, Anexo A. Glosario de términos"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "verdadero_falso",
-    "pregunta": "EL ADIESTRAMIENTO, CONFORME AL DAM 1.10, SE LIMITA EXCLUSIVAMENTE A LAS ACTIVIDADES FÍSICAS Y NO INCLUYE CONOCIMIENTOS TEÓRICOS.",
-    "respuesta_correcta": "b",
-    "fuente": "DAM. 1.10 Adiestramiento de la Armada de México, Conceptos"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "opcion_multiple",
-    "pregunta": "EL TÉRMINO 'CLASE', EN EL ÁMBITO DEL ADIESTRAMIENTO NAVAL, SE REFIERE A:",
-    "opciones": {
-      "a": "EL CONJUNTO DE TODOS LOS ELEMENTOS DE UNA MISMA JERARQUÍA",
-      "b": "LA LECCIÓN QUE IMPARTE UN DOCENTE A UN GRUPO SOBRE UN MISMO TEMA",
-      "c": "LA CERTIFICACIÓN OBTENIDA TRAS UN CURSO",
-      "d": "EL GRADO MILITAR DEL INSTRUCTOR"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "DAM. 1.10 Adiestramiento de la Armada de México, Conceptos"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "verdadero_falso",
-    "pregunta": "LOS INCENDIOS CLASE C INVOLUCRAN EQUIPO ELÉCTRICO ENERGIZADO Y PARA SU EXTINCIÓN SE RECOMIENDA USAR AGUA PARA ENFRIARLOS.",
-    "respuesta_correcta": "b",
-    "fuente": "DAM. 1.3.1.3.5 Contraincendios para establecimientos navales, Uso de Agentes Extinguidores"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "opcion_multiple",
-    "pregunta": "LA FUENTE DE IGNICIÓN EN UN INCENDIO PUEDE SER:",
-    "opciones": {
-      "a": "UNA CHISPA ELÉCTRICA",
-      "b": "UNA SUPERFICIE CALIENTE",
-      "c": "UNA LLAMA ABIERTA",
-      "d": "TODAS LAS ANTERIORES"
-    },
-    "respuesta_correcta": "d",
-    "fuente": "DAM. 1.3.1.3.5 Contraincendios para establecimientos navales, Fuentes de ignición"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "verdadero_falso",
-    "pregunta": "LOS EXTINTORES DE CO2 SON PARTICULARMENTE EFECTIVOS EN FUEGOS CLASE D (METALES COMBUSTIBLES).",
-    "respuesta_correcta": "b",
-    "fuente": "DAM. 1.3.1.3.5 Contraincendios para establecimientos navales, Uso de Agentes Extinguidores"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "opcion_multiple",
-    "pregunta": "EN EL DAM 1.3.4.6, UN COMPONENTE BÁSICO DE LA SEGURIDAD FÍSICA DE UN ESTABLECIMIENTO NAVAL ES:",
-    "opciones": {
-      "a": "EL CIFRADO DE CORREOS ELECTRÓNICOS",
-      "b": "EL CONTROL DE ACCESOS MEDIANTE IDENTIFICACIÓN Y REGISTRO",
-      "c": "LA INSTALACIÓN DE ANTIVIRUS EN TODOS LOS EQUIPOS",
-      "d": "LA REALIZACIÓN DE AUDITORÍAS CONTABLES"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "DAM. 1.3.4.6 Seguridad física de las unidades y establecimientos de la Secretaría de Marina Armada de México, Capítulo I"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "verdadero_falso",
-    "pregunta": "LA DIRECTIVA DE PASAJES Y VIÁTICOS CONSIDERA QUE LOS VIÁTICOS NACIONALES SE CALCULAN CON BASE EN LAS CUOTAS DIARIAS AUTORIZADAS POR LA SECRETARÍA DE HACIENDA Y CRÉDITO PÚBLICO PARA LA ADMINISTRACIÓN PÚBLICA FEDERAL.",
-    "respuesta_correcta": "a",
-    "fuente": "Directiva para la Asignación de Recursos Financieros de Pasajes y Viáticos de la Secretaría de Marina"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "opcion_multiple",
-    "pregunta": "EL PASO DEL PROCESO ARCHIVÍSTICO EN EL QUE SE DETERMINA EL PLAZO DE CONSERVACIÓN DE LOS DOCUMENTOS ANTES DE SU DESTINO FINAL ES:",
-    "opciones": {
-      "a": "VALORACIÓN DOCUMENTAL",
-      "b": "TRANSFERENCIA PRIMARIA",
-      "c": "BAJA DOCUMENTAL",
-      "d": "ORDENACIÓN CRONOLÓGICA"
+      "c": "CERTIFICACIÓN",
+      "d": "ACTAS"
     },
     "respuesta_correcta": "a",
-    "fuente": "Manual de Administración archivística, Valoración documental"
+    "fuente": "Temario Conocimientos Específicos, III.E Documentación Naval I"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "verdadero_falso",
-    "pregunta": "EL CUADRO GENERAL DE CLASIFICACIÓN ARCHIVÍSTICA ES UN INSTRUMENTO TÉCNICO QUE REFLEJA LA ESTRUCTURA DE UN FONDO Y PERMITE LA ORGANIZACIÓN FÍSICA E INTELECTUAL DE LOS DOCUMENTOS.",
+    "pregunta": "EL CERTIFICADO Y LA CERTIFICACIÓN SON DOS TIPOS DE DOCUMENTOS DISTINTOS CONTEMPLADOS DENTRO DE LA DOCUMENTACIÓN DIVERSA SEÑALADA EN DOCUMENTACIÓN NAVAL I.\nESTA AFIRMACIÓN CORRESPONDE AL TEMARIO DE CONOCIMIENTOS ESPECÍFICOS.\nDETERMINE SI ES VERDADERA O FALSA.",
     "respuesta_correcta": "a",
-    "fuente": "Manual de Administración archivística, Definición de los procesos técnicos archivísticos"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "opcion_multiple",
-    "pregunta": "EN EL MANUAL DE GESTIÓN DE LA INFORMACIÓN, LA GESTIÓN AL INTERIOR DE LA INSTITUCIÓN IMPLICA:",
-    "opciones": {
-      "a": "LA PUBLICACIÓN DE LICITACIONES EN COMPRANET",
-      "b": "EL FLUJO DE INFORMACIÓN ENTRE UNIDADES Y MANDOS PARA LA TOMA DE DECISIONES",
-      "c": "LA DIFUSIÓN DE NOTICIAS EN REDES SOCIALES",
-      "d": "LA ATENCIÓN A SOLICITUDES DE TRANSPARENCIA"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "Manual de Gestión de la Información de la Secretaría de Marina – Armada de México, Gestión de la información al interior de la institución"
+    "fuente": "Temario Conocimientos Específicos, III.E Documentación Naval I"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "verdadero_falso",
-    "pregunta": "LAS ACTAS NAVALES NO REQUIEREN LA FIRMA DE LOS PARTICIPANTES, BASTA CON LA DEL SECRETARIO QUE LAS REDACTÓ.",
-    "respuesta_correcta": "b",
-    "fuente": "Documentación Naval I, Actas"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "opcion_multiple",
-    "pregunta": "EN WORD 2016, PARA CAMBIAR EL ESTILO VISUAL DE UN GRÁFICO YA CREADO, SE SELECCIONA EL GRÁFICO, SE VA A LAS HERRAMIENTAS DE GRÁFICO, FICHA DISEÑO, Y SE ELIGE UN:",
-    "opciones": {
-      "a": "TIPO DE GRÁFICO DIFERENTE",
-      "b": "DISEÑO RÁPIDO O ESTILO DE DISEÑO",
-      "c": "COLOR DE RELLENO DE FONDO",
-      "d": "NUEVO TÍTULO"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "Microsoft Word 2016. Manual práctico paso a paso, Gráficos"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "verdadero_falso",
-    "pregunta": "EN ESPAÑOL, EL ACENTO ORTOGRÁFICO EN LAS PALABRAS SOBRESDRÚJULAS ES OPCIONAL SI LA PALABRA TERMINA EN MENTE.",
-    "respuesta_correcta": "b",
-    "fuente": "La ortografía del idioma español. Libro con ejercicios, La acentuación"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "opcion_multiple",
-    "pregunta": "SEGÚN LAS REGLAS DE PUNTUACIÓN, CUANDO SE CITAN TEXTUALMENTE LAS PALABRAS DE OTRA PERSONA, SE UTILIZAN:",
-    "opciones": {
-      "a": "LOS PARÉNTESIS",
-      "b": "LAS COMILLAS",
-      "c": "LOS CORCHETES",
-      "d": "LOS GUIONES LARGOS"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "La ortografía del idioma español. Libro con ejercicios, Signos de puntuación y signos auxiliares"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "verdadero_falso",
-    "pregunta": "LOS VERBOS COPULATIVOS (SER, ESTAR, PARECER) SIRVEN DE NEXO ENTRE EL SUJETO Y UN ATRIBUTO, Y NO TIENEN SIGNIFICADO PLENO POR SÍ MISMOS.",
+    "pregunta": "LAS ACTAS FORMAN PARTE DE LA DOCUMENTACIÓN DIVERSA QUE SE GENERA EN LAS UNIDADES Y DEPENDENCIAS DE LA ARMADA DE MÉXICO, SEGÚN LO ESTABLECIDO EN DOCUMENTACIÓN NAVAL I.\nDETERMINE SI ESTA AFIRMACIÓN ES VERDADERA O FALSA.",
     "respuesta_correcta": "a",
-    "fuente": "La ortografía del idioma español. Libro con ejercicios, El verbo"
+    "fuente": "Temario Conocimientos Específicos, III.E Documentación Naval I"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "opcion_multiple",
-    "pregunta": "LA DIFERENCIA ENTRE 'HAYA' (CONJUGACIÓN DE HABER) Y 'HALLA' (DE HALLAR) SE BASA PRINCIPALMENTE EN:",
+    "pregunta": "DENTRO DEL LIBRO LA ORTOGRAFÍA DEL IDIOMA ESPAÑOL, ¿CUÁL DE LOS SIGUIENTES TEMAS SE ABORDA DE MANERA ESPECÍFICA?\nCONSIDERE LOS SUBTEMAS SEÑALADOS EN EL TEMARIO DE CONOCIMIENTOS ESPECÍFICOS.\nSELECCIONE LA OPCIÓN CORRECTA.",
     "opciones": {
-      "a": "SU GRAFÍA CON H INICIAL SIEMPRE",
-      "b": "SU PRONUNCIACIÓN DIFERENTE",
-      "c": "EL CONTEXTO Y LA FUNCIÓN GRAMATICAL, YA QUE SON HOMÓFONAS",
-      "d": "UNA REGLA DE ACENTUACIÓN DIACRÍTICA"
-    },
-    "respuesta_correcta": "c",
-    "fuente": "La ortografía del idioma español. Libro con ejercicios, Ortografía de las letras"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "verdadero_falso",
-    "pregunta": "EN EXCEL, LA FÓRMULA =A1*$B$1, COPIADA A LA CELDA INFERIOR, SE TRANSFORMA EN =A2*$B$1 DEBIDO A QUE LA REFERENCIA A B1 ES ABSOLUTA.",
-    "respuesta_correcta": "a",
-    "fuente": "Manual de Excel Básico, Uso de fórmulas"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "opcion_multiple",
-    "pregunta": "PARA CREAR UN GRÁFICO DE COLUMNAS AGRUPADAS EN EXCEL QUE COMPARE VENTAS TRIMESTRALES DE DOS AÑOS, EL RANGO DE DATOS DEBE INCLUIR:",
-    "opciones": {
-      "a": "SÓLO LOS VALORES NUMÉRICOS SIN ETIQUETAS",
-      "b": "LAS ETIQUETAS DE FILA Y COLUMNA JUNTO CON LOS DATOS",
-      "c": "ÚNICAMENTE LA PRIMERA COLUMNA DE DATOS",
-      "d": "EXCLUSIVAMENTE LOS TOTALES POR AÑO"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "Manual de Excel Básico, Gráficos"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "verdadero_falso",
-    "pregunta": "EN POWERPOINT, LA VISTA 'PRESENTACIÓN CON DIAPOSITIVAS' SE INICIA PRESIONANDO LA TECLA F5.",
-    "respuesta_correcta": "a",
-    "fuente": "Power Point Básico 2016. Manual Actualización Tecnológica, Las vistas"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "opcion_multiple",
-    "pregunta": "PARA INSERTAR UN CUADRO DE TEXTO EN UNA DIAPOSITIVA, SE USA LA FICHA INSERTAR, GRUPO TEXTO, Y SE SELECCIONA:",
-    "opciones": {
-      "a": "WORDART",
-      "b": "ENCABEZADO Y PIE DE PÁGINA",
-      "c": "CUADRO DE TEXTO",
-      "d": "TEXTO DECORATIVO"
-    },
-    "respuesta_correcta": "c",
-    "fuente": "Power Point Básico 2016. Manual Actualización Tecnológica, Manejar objetos"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "verdadero_falso",
-    "pregunta": "LA SEGURIDAD DE LA INFORMACIÓN, SEGÚN EL DAM 1.9, SOLO APLICA A LA INFORMACIÓN DIGITAL, QUEDANDO EXCLUIDOS LOS DOCUMENTOS EN PAPEL.",
-    "respuesta_correcta": "b",
-    "fuente": "DAM. 1.9. Seguridad de la Información, Conceptualización de la seguridad de la información"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "opcion_multiple",
-    "pregunta": "EL GLOSARIO DEL DAM 1.9 DEFINE 'AMENAZA' COMO:",
-    "opciones": {
-      "a": "UNA FALLA EN EL SISTEMA DE CÓMPUTO",
-      "b": "CUALQUIER ACCIÓN QUE PUEDA EXPLOTAR UNA VULNERABILIDAD PARA AFECTAR LA SEGURIDAD DE LA INFORMACIÓN",
-      "c": "UN PROGRAMA MALICIOSO",
-      "d": "UN ERROR HUMANO DURANTE LA CAPTURA DE DATOS"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "DAM. 1.9. Seguridad de la Información, Anexo A. Glosario de términos"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "verdadero_falso",
-    "pregunta": "LA CERTIFICACIÓN, SEGÚN EL DAM 1.10, RECONOCE OFICIALMENTE QUE UN ELEMENTO HA ALCANZADO EL NIVEL DE COMPETENCIA REQUERIDO.",
-    "respuesta_correcta": "a",
-    "fuente": "DAM. 1.10 Adiestramiento de la Armada de México, Conceptos"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "opcion_multiple",
-    "pregunta": "EN EL CONTEXTO DEL DAM 1.3.1.3.5, LA QUÍMICA DEL FUEGO ESTUDIA:",
-    "opciones": {
-      "a": "LOS AGENTES EXTINGUIDORES Y SUS REACCIONES",
-      "b": "LAS REACCIONES DE COMBUSTIÓN, LA PIRÓLISIS Y LA FORMACIÓN DE GASES INFLAMABLES",
-      "c": "LAS NORMAS DE SEGURIDAD EN COCINAS",
-      "d": "LA CLASIFICACIÓN DE EXTINTORES PORTÁTILES"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "DAM. 1.3.1.3.5 Contraincendios para establecimientos navales, Química del fuego"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "verdadero_falso",
-    "pregunta": "EL MÉTODO DE EXTINCIÓN POR SOFOCACIÓN ACTÚA REDUCIENDO LA CONCENTRACIÓN DE OXÍGENO POR DEBAJO DEL NIVEL NECESARIO PARA LA COMBUSTIÓN.",
-    "respuesta_correcta": "a",
-    "fuente": "DAM. 1.3.1.3.5 Contraincendios para establecimientos navales, Métodos de extinción de incendios"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "opcion_multiple",
-    "pregunta": "EN SEGURIDAD FÍSICA NAVAL, EL SISTEMA DE ILUMINACIÓN PERIMETRAL TIENE LA FINALIDAD DE:",
-    "opciones": {
-      "a": "AHORRAR ENERGÍA ELÉCTRICA",
-      "b": "DIFICULTAR EL OCULTAMIENTO DE INTRUSOS Y FACILITAR LA VIGILANCIA",
-      "c": "MEJORAR LA ESTÉTICA DE LA INSTALACIÓN",
-      "d": "CUMPLIR ÚNICAMENTE CON LA NORMATIVA DE PROTECCIÓN CIVIL"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "DAM. 1.3.4.6 Seguridad física de las unidades y establecimientos de la Secretaría de Marina Armada de México, Capítulo I"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "verdadero_falso",
-    "pregunta": "LA DIRECTIVA DE PASAJES Y VIÁTICOS PERMITE QUE EL PERSONAL NAVAL ADQUIERA BOLETOS DE AVIÓN EN CLASE EJECUTIVA PARA CUALQUIER TIPO DE COMISIÓN NACIONAL.",
-    "respuesta_correcta": "b",
-    "fuente": "Directiva para la Asignación de Recursos Financieros de Pasajes y Viáticos de la Secretaría de Marina"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "opcion_multiple",
-    "pregunta": "EL INSTRUMENTO DE CONSULTA ARCHIVÍSTICA QUE DESCRIBE DE MANERA GENERAL Y SUCINTA LOS FONDOS, SECCIONES Y SERIES DE UN ARCHIVO ES LA:",
-    "opciones": {
-      "a": "GUÍA SIMPLE",
-      "b": "INVENTARIO GENERAL",
-      "c": "CÉDULA DE VALORACIÓN",
-      "d": "FICHA CATALOGRÁFICA"
+      "a": "LA ACENTUACIÓN",
+      "b": "LA SINTAXIS",
+      "c": "LA FONÉTICA",
+      "d": "LA SEMÁNTICA"
     },
     "respuesta_correcta": "a",
-    "fuente": "Manual de Administración archivística, Definición de los procesos técnicos archivísticos"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "verdadero_falso",
-    "pregunta": "LA TRANSFERENCIA SECUNDARIA CONSISTE EN EL TRASLADO DE EXPEDIENTES DEL ARCHIVO DE CONCENTRACIÓN AL ARCHIVO HISTÓRICO, UNA VEZ CONCLUIDO SU PLAZO DE CONSERVACIÓN ADMINISTRATIVA.",
-    "respuesta_correcta": "a",
-    "fuente": "Ley General de Archivos, Artículo LVI"
+    "fuente": "Temario Conocimientos Específicos, III.G La Ortografía del Idioma Español"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "opcion_multiple",
-    "pregunta": "EL MANUAL DE GESTIÓN DE LA INFORMACIÓN INDICA QUE LA SOCIALIZACIÓN DE LA INFORMACIÓN INSTITUCIONAL DEBE REALIZARSE PRIORIZANDO:",
+    "pregunta": "DE ACUERDO CON EL TEMARIO DE CONOCIMIENTOS ESPECÍFICOS, EL LIBRO LA ORTOGRAFÍA DEL IDIOMA ESPAÑOL CONTEMPLA, ADEMÁS DE LA ACENTUACIÓN, EL TEMA DE:\nESTE TEMA SE REFIERE AL USO DE COMAS, PUNTOS Y OTROS ELEMENTOS AUXILIARES.\nSELECCIONE LA OPCIÓN CORRECTA.",
     "opciones": {
-      "a": "LA CANTIDAD DE PUBLICACIONES DIARIAS SIN IMPORTAR LA CALIDAD",
-      "b": "LA PROTECCIÓN DE LA INFORMACIÓN CLASIFICADA Y EL RESPETO A LOS DERECHOS DE TERCEROS",
-      "c": "LA EXCLUSIVIDAD DE LOS MEDIOS DE DIFUSIÓN PROPIOS",
-      "d": "LA INFORMACIÓN DE CARÁCTER PERSONAL DE LOS MANDOS"
+      "a": "SIGNOS DE PUNTUACIÓN Y SIGNOS AUXILIARES",
+      "b": "REGLAS DE CONCORDANCIA GRAMATICAL",
+      "c": "ANÁLISIS MORFOLÓGICO",
+      "d": "FIGURAS RETÓRICAS"
     },
-    "respuesta_correcta": "b",
-    "fuente": "Manual de Gestión de la Información de la Secretaría de Marina – Armada de México, Gestión de socialización de la información"
+    "respuesta_correcta": "a",
+    "fuente": "Temario Conocimientos Específicos, III.G La Ortografía del Idioma Español"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "verdadero_falso",
-    "pregunta": "EN LA DOCUMENTACIÓN NAVAL, EL CERTIFICADO Y LA CERTIFICACIÓN SON TÉRMINOS INTERCAMBIABLES QUE SIGNIFICAN EXACTAMENTE LO MISMO.",
-    "respuesta_correcta": "b",
-    "fuente": "Documentación Naval I, Certificado y Certificación"
+    "pregunta": "EL TEMA EL VERBO SE ENCUENTRA CONTEMPLADO DENTRO DEL LIBRO LA ORTOGRAFÍA DEL IDIOMA ESPAÑOL, LIBRO CON EJERCICIOS, SEGÚN EL TEMARIO DE CONOCIMIENTOS ESPECÍFICOS.\nDETERMINE SI ESTA AFIRMACIÓN ES VERDADERA O FALSA.",
+    "respuesta_correcta": "a",
+    "fuente": "Temario Conocimientos Específicos, III.G La Ortografía del Idioma Español"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "opcion_multiple",
-    "pregunta": "PARA AGREGAR UN EJE SECUNDARIO EN UN GRÁFICO DE WORD O EXCEL CUANDO LAS SERIES TIENEN ESCALAS MUY DISTINTAS, SE DEBE:",
+    "pregunta": "DE ACUERDO CON EL TEMARIO DE CONOCIMIENTOS ESPECÍFICOS, ¿CUÁL DE LOS SIGUIENTES ES UN TEMA CONTEMPLADO EN EL LIBRO LA ORTOGRAFÍA DEL IDIOMA ESPAÑOL?\nCONSIDERE LOS CUATRO SUBTEMAS SEÑALADOS EN DICHA SECCIÓN.\nSELECCIONE LA OPCIÓN CORRECTA.",
     "opciones": {
-      "a": "CREAR UN SEGUNDO GRÁFICO INDEPENDIENTE",
-      "b": "HACER CLIC DERECHO SOBRE LA SERIE, FORMATO DE SERIE DE DATOS, Y ELEGIR EJE SECUNDARIO",
-      "c": "USAR LA FICHA INSERTAR, GRÁFICO COMBINADO",
-      "d": "TANTO B COMO C PUEDEN SER CORRECTAS DEPENDIENDO DE LA VERSIÓN"
+      "a": "ORTOGRAFÍA DE LAS LETRAS",
+      "b": "USO DE ANGLICISMOS",
+      "c": "REDACCIÓN DE ENSAYOS",
+      "d": "ANÁLISIS SINTÁCTICO"
     },
-    "respuesta_correcta": "d",
-    "fuente": "Manual de Excel Básico, Gráficos ; Microsoft Word 2016, Gráficos"
+    "respuesta_correcta": "a",
+    "fuente": "Temario Conocimientos Específicos, III.G La Ortografía del Idioma Español"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "DE ACUERDO CON EL TEMARIO DE CONOCIMIENTOS ESPECÍFICOS, EL DAM 1.9 SEGURIDAD DE LA INFORMACIÓN CONTEMPLA ENTRE SUS TEMAS:\nESTE TEMA SE REFIERE A CÓMO SE ENTIENDE LA SEGURIDAD DE LA INFORMACIÓN DENTRO DE LA INSTITUCIÓN.\nSELECCIONE LA OPCIÓN CORRECTA.",
+    "opciones": {
+      "a": "CONCEPTUALIZACIÓN DE LA SEGURIDAD DE LA INFORMACIÓN EN LA SEMAR",
+      "b": "PROTOCOLOS DE CIBERSEGURIDAD OPERATIVA",
+      "c": "AUDITORÍA DE SISTEMAS INFORMÁTICOS",
+      "d": "CONTROL DE ACCESO BIOMÉTRICO"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Temario Conocimientos Específicos, III.J DAM 1.9 Seguridad de la Información"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "SEGÚN EL TEMARIO DE CONOCIMIENTOS ESPECÍFICOS, EL DAM 1.9 SEGURIDAD DE LA INFORMACIÓN CONTEMPLA, ADEMÁS DE LA CONCEPTUALIZACIÓN, EL TEMA DE:\nESTE TEMA SE REFIERE AL ESQUEMA TEÓRICO QUE RIGE LA APLICACIÓN DE LA SEGURIDAD DE LA INFORMACIÓN.\nSELECCIONE LA OPCIÓN CORRECTA.",
+    "opciones": {
+      "a": "MODELO DOCTRINARIO DE SEGURIDAD DE LA INFORMACIÓN",
+      "b": "MODELO OPERATIVO DE CIBERDEFENSA",
+      "c": "MODELO ESTRATÉGICO DE INTELIGENCIA",
+      "d": "MODELO ADMINISTRATIVO DE RECURSOS"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Temario Conocimientos Específicos, III.J DAM 1.9 Seguridad de la Información"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "verdadero_falso",
-    "pregunta": "EN ESPAÑOL, LA PALABRA 'AÚN' LLEVA TILDE CUANDO ES SUSTITUIBLE POR 'TODAVÍA' (AÚN NO HA LLEGADO), Y NO LA LLEVA CUANDO SIGNIFICA 'HASTA' O 'INCLUSO' (AUN LOS NIÑOS LO SABEN).",
+    "pregunta": "EL ANEXO II DE LA DIRECTIVA PARA LA ASIGNACIÓN DE RECURSOS FINANCIEROS DE PASAJES Y VIÁTICOS DE LA SECRETARÍA DE MARINA CONTIENE LAS CLAVES AUTORIZADAS PARA LA COMPROBACIÓN DE VIÁTICOS.\nESTA INFORMACIÓN SE ENCUENTRA CONTENIDA EN EL DOCUMENTO DE REFERENCIA.\nDETERMINE SI ESTA AFIRMACIÓN ES VERDADERA O FALSA.",
     "respuesta_correcta": "a",
-    "fuente": "La ortografía del idioma español. Libro con ejercicios, La acentuación"
+    "fuente": "Directiva DIGADMON-DEP-SCC-DPV-001/2023, Anexo II"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "opcion_multiple",
-    "pregunta": "EL SIGNO AUXILIAR QUE SE EMPLEA PARA UNIR LA PREPOSICIÓN 'EX' A UNA BASE (EJ. EXMINISTRO) CUANDO ESTA ES UNIDENTIFICABLE POR SÍ SOLA, ES:",
+    "pregunta": "SEGÚN EL DAM 1.3.1.3.5 CONTRAINCENDIOS PARA ESTABLECIMIENTOS NAVALES, LA CLASIFICACIÓN DE LOS INCENDIOS CONTEMPLA LAS SIGUIENTES CLASES:\nESTA CLASIFICACIÓN SE UTILIZA PARA DETERMINAR EL AGENTE EXTINGUIDOR ADECUADO.\nSELECCIONE LA OPCIÓN CORRECTA.",
     "opciones": {
-      "a": "EL GUIÓN",
-      "b": "LA COMA",
-      "c": "EL APÓSTROFO",
-      "d": "LA DIÉRESIS"
+      "a": "CLASE A, B, C, D Y K",
+      "b": "CLASE A, B, C Y E",
+      "c": "CLASE 1, 2, 3 Y 4",
+      "d": "CLASE X, Y Y Z"
     },
     "respuesta_correcta": "a",
-    "fuente": "La ortografía del idioma español. Libro con ejercicios, Signos de puntuación y signos auxiliares"
+    "fuente": "DAM 1.3.1.3.5 Contraincendios para Establecimientos Navales, Cap. 1"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "SEGÚN EL DAM 1.3.1.3.5 CONTRAINCENDIOS PARA ESTABLECIMIENTOS NAVALES, LOS FUEGOS PRODUCIDOS POR LÍQUIDOS INFLAMABLES SE CLASIFICAN COMO:\nESTA CLASIFICACIÓN DETERMINA EL AGENTE EXTINGUIDOR MÁS ADECUADO PARA SU CONTROL.\nSELECCIONE LA OPCIÓN CORRECTA.",
+    "opciones": {
+      "a": "CLASE B",
+      "b": "CLASE A",
+      "c": "CLASE C",
+      "d": "CLASE D"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "DAM 1.3.1.3.5 Contraincendios para Establecimientos Navales, Cap. 1"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "verdadero_falso",
-    "pregunta": "EL VERBO 'SABER' ES IRREGULAR PORQUE SU PRETÉRITO PERFECTO SIMPLE ES 'SUPE' EN LUGAR DE 'SABÍ', Y SU FUTURO ES 'SABRÉ' EN LUGAR DE 'SABERÉ'.",
+    "pregunta": "LAS ESPUMAS DE BAJA EXPANSIÓN SE HAN UTILIZADO TAMBIÉN CON ÉXITO EN FUEGOS CLASE A, DEBIDO A LOS EFECTOS DE ENFRIAMIENTO QUE PRODUCEN.\nESTA AFIRMACIÓN SE ENCUENTRA CONTENIDA EN EL DAM 1.3.1.3.5 CONTRAINCENDIOS PARA ESTABLECIMIENTOS NAVALES.\nDETERMINE SI ES VERDADERA O FALSA.",
     "respuesta_correcta": "a",
-    "fuente": "La ortografía del idioma español. Libro con ejercicios, El verbo"
+    "fuente": "DAM 1.3.1.3.5 Contraincendios para Establecimientos Navales, Cap. 1"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "opcion_multiple",
-    "pregunta": "EN EXCEL, LAS FÓRMULAS DE TIPO MATRICIAL (ARRAY) SE INTRODUCEN FINALIZANDO CON LA COMBINACIÓN DE TECLAS:",
+    "pregunta": "DE ACUERDO CON EL TEMARIO DE CONOCIMIENTOS ESPECÍFICOS, DENTRO DEL TEMA EQUIPOS CONTRA INCENDIO DEL DAM 1.3.1.3.5 SE ESTUDIA ESPECÍFICAMENTE:\nESTE SUBTEMA SE REFIERE A LOS DISPOSITIVOS Y SUSTANCIAS UTILIZADOS PARA COMBATIR EL FUEGO.\nSELECCIONE LA OPCIÓN CORRECTA.",
     "opciones": {
-      "a": "ALT + ENTER",
-      "b": "CTRL + ENTER",
-      "c": "CTRL + MAYÚS + ENTER",
-      "d": "MAYÚS + ENTER"
+      "a": "EXTINTORES Y AGENTES EXTINGUIDORES",
+      "b": "SISTEMAS DE ROCIADORES AUTOMÁTICOS",
+      "c": "DETECTORES DE HUMO INALÁMBRICOS",
+      "d": "BOMBAS CONTRAINCENDIO PORTÁTILES"
     },
-    "respuesta_correcta": "c",
-    "fuente": "Manual de Excel Básico, Uso de fórmulas"
+    "respuesta_correcta": "a",
+    "fuente": "Temario Conocimientos Específicos, I.B DAM 1.3.1.3.5, punto 2"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "SEGÚN EL TEMARIO DE CONOCIMIENTOS ESPECÍFICOS, LA TEORÍA DE LA COMBUSTIÓN DEL DAM 1.3.1.3.5 INCLUYE, ENTRE OTROS PUNTOS, EL ESTUDIO DE:\nESTE PUNTO SE REFIERE A LOS ORÍGENES QUE PROVOCAN QUE EL FUEGO COMIENCE.\nSELECCIONE LA OPCIÓN CORRECTA.",
+    "opciones": {
+      "a": "FUENTES DE IGNICIÓN",
+      "b": "PUNTOS DE EBULLICIÓN",
+      "c": "COEFICIENTES DE DILATACIÓN",
+      "d": "NIVELES DE HUMEDAD RELATIVA"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Temario Conocimientos Específicos, I.B DAM 1.3.1.3.5, punto 1"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "DE ACUERDO CON EL TEMARIO DE CONOCIMIENTOS ESPECÍFICOS, DENTRO DE LA TEORÍA DE LA COMBUSTIÓN DEL DAM 1.3.1.3.5 SE CONTEMPLA EL ESTUDIO DE LAS:\nESTE PUNTO SE REFIERE A LAS ETAPAS POR LAS QUE ATRAVIESA UN INCENDIO DESDE SU INICIO.\nSELECCIONE LA OPCIÓN CORRECTA.",
+    "opciones": {
+      "a": "FASES DEL FUEGO",
+      "b": "ETAPAS DE ENFRIAMIENTO",
+      "c": "NIVELES DE PRESIÓN",
+      "d": "GRADOS DE HUMEDAD"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Temario Conocimientos Específicos, I.B DAM 1.3.1.3.5, punto 1"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "verdadero_falso",
-    "pregunta": "EN POWERPOINT, LAS TRANSICIONES SON LOS EFECTOS VISUALES QUE SE APLICAN AL PASO DE UNA DIAPOSITIVA A LA SIGUIENTE.",
+    "pregunta": "DENTRO DEL TEMARIO DE CONOCIMIENTOS ESPECÍFICOS, LA QUÍMICA DEL FUEGO Y LOS ELEMENTOS DEL TRIÁNGULO DEL FUEGO FORMAN PARTE DEL TEMA TEORÍA DE LA COMBUSTIÓN DEL DAM 1.3.1.3.5 CONTRAINCENDIOS PARA ESTABLECIMIENTOS NAVALES.\nDETERMINE SI ESTA AFIRMACIÓN ES VERDADERA O FALSA.",
     "respuesta_correcta": "a",
-    "fuente": "Power Point Básico 2016. Manual Actualización Tecnológica, Trabajar con diapositivas"
+    "fuente": "Temario Conocimientos Específicos, I.B DAM 1.3.1.3.5, punto 1"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "opcion_multiple",
-    "pregunta": "PARA INSERTAR UN VÍNCULO A UNA PÁGINA WEB EN POWERPOINT, SE SELECCIONA EL TEXTO U OBJETO, SE VA A INSERTAR, VÍNCULO, Y EN EL CAMPO DIRECCIÓN SE ESCRIBE:",
+    "pregunta": "DE ACUERDO CON EL TEMARIO DE CONOCIMIENTOS ESPECÍFICOS, EL DAM 1.3.4.6 SEGURIDAD FÍSICA DE LAS UNIDADES Y ESTABLECIMIENTOS DE LA SECRETARÍA DE MARINA SE ESTUDIA A PARTIR DE:\nESTE APARTADO ES EL ÚNICO SEÑALADO DENTRO DE ESTE DOCUMENTO EN EL TEMARIO.\nSELECCIONE LA OPCIÓN CORRECTA.",
     "opciones": {
-      "a": "EL NOMBRE DEL ARCHIVO LOCAL",
-      "b": "LA URL COMPLETA INCLUYENDO HTTP:// O HTTPS://",
-      "c": "SOLO EL NOMBRE DE LA PÁGINA",
-      "d": "LA RUTA DE RED INTERNA"
+      "a": "CAPÍTULO I. SEGURIDAD FÍSICA",
+      "b": "CAPÍTULO II. VIGILANCIA PERIMETRAL",
+      "c": "CAPÍTULO III. CONTROL DE ACCESOS",
+      "d": "CAPÍTULO IV. PROTECCIÓN CIVIL"
     },
-    "respuesta_correcta": "b",
-    "fuente": "Power Point Básico 2016. Manual Actualización Tecnológica, Manejar objetos"
+    "respuesta_correcta": "a",
+    "fuente": "Temario Conocimientos Específicos, I.C DAM 1.3.4.6"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "DE ACUERDO CON LA DIRECTIVA PARA LA ASIGNACIÓN DE RECURSOS FINANCIEROS DE PASAJES Y VIÁTICOS DE LA SECRETARÍA DE MARINA, EL ANEXO II CONTIENE:\nESTE ANEXO SIRVE PARA IDENTIFICAR LAS CLAVES UTILIZADAS EN LA COMPROBACIÓN DE GASTOS.\nSELECCIONE LA OPCIÓN CORRECTA.",
+    "opciones": {
+      "a": "LAS CLAVES AUTORIZADAS PARA LA COMPROBACIÓN DE VIÁTICOS",
+      "b": "EL TABULADOR DE PASAJES AÉREOS",
+      "c": "EL FORMATO DE SOLICITUD DE VIÁTICOS",
+      "d": "EL CATÁLOGO DE COMISIONES OFICIALES"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Directiva DIGADMON-DEP-SCC-DPV-001/2023, Anexo II"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "verdadero_falso",
-    "pregunta": "SEGÚN EL DAM 1.9, LA INTEGRIDAD DE LA INFORMACIÓN TAMBIÉN INCLUYE LA GARANTÍA DE QUE LA INFORMACIÓN SEA EXACTA Y COMPLETA, SIN MODIFICACIONES NO AUTORIZADAS.",
+    "pregunta": "EN EL ANEXO II DE LA DIRECTIVA DE PASAJES Y VIÁTICOS DE LA SECRETARÍA DE MARINA SE ENLISTAN CLAVES CON DESCRIPCIONES DE PRODUCTOS COMO PANQUÉS, PASTELES O BIZCOCHOS CONGELADOS, ENTRE OTROS.\nDETERMINE SI ESTA AFIRMACIÓN ES VERDADERA O FALSA.",
     "respuesta_correcta": "a",
-    "fuente": "DAM. 1.9. Seguridad de la Información, Modelo doctrinario de Seguridad de la Información"
+    "fuente": "Directiva DIGADMON-DEP-SCC-DPV-001/2023, Anexo II"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "opcion_multiple",
-    "pregunta": "EN EL GLOSARIO DEL DAM 1.9, 'INCIDENTE DE SEGURIDAD' SE DEFINE COMO:",
+    "pregunta": "DE ACUERDO CON EL TEMARIO DE CONOCIMIENTOS ESPECÍFICOS, EL MANUAL DE GESTIÓN DE LA INFORMACIÓN DE LA SECRETARÍA DE MARINA-ARMADA DE MÉXICO CONTEMPLA COMO PRIMER TEMA:\nESTE TEMA SE REFIERE AL MANEJO DE LA INFORMACIÓN DENTRO DE LA PROPIA INSTITUCIÓN.\nSELECCIONE LA OPCIÓN CORRECTA.",
     "opciones": {
-      "a": "UNA VIOLACIÓN O AMENAZA INMINENTE DE VIOLACIÓN DE LAS POLÍTICAS DE SEGURIDAD",
-      "b": "LA INSTALACIÓN DE UN NUEVO SOFTWARE",
-      "c": "UNA COPIA DE SEGURIDAD EXITOSA",
-      "d": "UN ACCESO AUTORIZADO DESDE UNA RED EXTERNA"
+      "a": "GESTIÓN DE LA INFORMACIÓN AL INTERIOR DE LA INSTITUCIÓN",
+      "b": "GESTIÓN DE ARCHIVOS HISTÓRICOS",
+      "c": "GESTIÓN DE TRANSPARENCIA PROACTIVA",
+      "d": "GESTIÓN DE DATOS PERSONALES"
     },
     "respuesta_correcta": "a",
-    "fuente": "DAM. 1.9. Seguridad de la Información, Anexo A. Glosario de términos"
+    "fuente": "Temario Conocimientos Específicos, III.D Manual de Gestión de la Información de la SEMAR"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "DE ACUERDO CON EL TEMARIO DE CONOCIMIENTOS ESPECÍFICOS, EL SEGUNDO TEMA CONTEMPLADO EN EL MANUAL DE GESTIÓN DE LA INFORMACIÓN DE LA SEMAR ES LA GESTIÓN DE:\nESTE TEMA SE REFIERE A LA DIFUSIÓN DE LA INFORMACIÓN DENTRO DE LA INSTITUCIÓN.\nSELECCIONE LA OPCIÓN CORRECTA.",
+    "opciones": {
+      "a": "SOCIALIZACIÓN DE LA INFORMACIÓN DE LA INSTITUCIÓN",
+      "b": "PROTECCIÓN DE DATOS SENSIBLES",
+      "c": "RESGUARDO DOCUMENTAL HISTÓRICO",
+      "d": "CONTROL DE CORRESPONDENCIA OFICIAL"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Temario Conocimientos Específicos, III.D Manual de Gestión de la Información de la SEMAR"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "DENTRO DEL MANUAL PRÁCTICO PASO A PASO DE MICROSOFT WORD 2016, EL ÚNICO TEMA SEÑALADO EN EL TEMARIO DE CONOCIMIENTOS ESPECÍFICOS ES EL RELATIVO A:\nESTE TEMA SE REFIERE A LA INSERCIÓN DE ELEMENTOS VISUALES DE DATOS DENTRO DE UN DOCUMENTO.\nSELECCIONE LA OPCIÓN CORRECTA.",
+    "opciones": {
+      "a": "GRÁFICOS",
+      "b": "PLANTILLAS PERSONALIZADAS",
+      "c": "REVISIÓN ORTOGRÁFICA AVANZADA",
+      "d": "COMBINACIÓN DE CORRESPONDENCIA"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Temario Conocimientos Específicos, III.F Microsoft Word 2016"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "DE ACUERDO CON EL TEMARIO DE CONOCIMIENTOS ESPECÍFICOS, EL MANUAL DE EXCEL BÁSICO CONTEMPLA COMO PRIMER TEMA:\nESTE TEMA SE REFIERE A LAS OPERACIONES BÁSICAS DE MODIFICACIÓN DE CONTENIDO EN UNA HOJA DE CÁLCULO.\nSELECCIONE LA OPCIÓN CORRECTA.",
+    "opciones": {
+      "a": "EDICIÓN DE UNA HOJA DE CÁLCULO",
+      "b": "PROGRAMACIÓN DE MACROS",
+      "c": "ANÁLISIS DE DATOS CON POWER BI",
+      "d": "IMPORTACIÓN DE BASES EXTERNAS"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Temario Conocimientos Específicos, III.H Manual de Excel Básico"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "verdadero_falso",
-    "pregunta": "EN EL ADIESTRAMIENTO NAVAL, EL TÉRMINO 'CLASE' TAMBIÉN PUEDE REFERIRSE AL CONJUNTO DE BUQUES O UNIDADES DE CARACTERÍSTICAS SIMILARES, SEGÚN EL DAM 1.10.",
-    "respuesta_correcta": "b",
-    "fuente": "DAM. 1.10 Adiestramiento de la Armada de México, Conceptos"
+    "pregunta": "EL MANUAL DE EXCEL BÁSICO, DENTRO DEL TEMARIO DE CONOCIMIENTOS ESPECÍFICOS, CONTEMPLA EL TEMA DE LISTAS DE DATOS COMO UNO DE SUS CUATRO PUNTOS PRINCIPALES.\nDETERMINE SI ESTA AFIRMACIÓN ES VERDADERA O FALSA.",
+    "respuesta_correcta": "a",
+    "fuente": "Temario Conocimientos Específicos, III.H Manual de Excel Básico"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "opcion_multiple",
-    "pregunta": "LA REGLA DE LA 'V' DETRÁS DE 'B', 'D' Y 'N' ES UN EJEMPLO DE REGLA PARA EL USO DE:",
+    "pregunta": "DE ACUERDO CON EL TEMARIO DE CONOCIMIENTOS ESPECÍFICOS, DENTRO DEL MANUAL DE POWER POINT BÁSICO 2016 SE ESTUDIA EL TEMA DE LAS VISTAS JUNTO CON:\nESTOS TEMAS COMPLETAN LOS TRES PUNTOS SEÑALADOS PARA ESTE DOCUMENTO.\nSELECCIONE LA OPCIÓN CORRECTA.",
     "opciones": {
-      "a": "LA 'B'",
-      "b": "LA 'V'",
-      "c": "LA 'H'",
-      "d": "LA 'G'"
+      "a": "TRABAJAR CON DIAPOSITIVAS Y MANEJAR OBJETOS",
+      "b": "INSERTAR VIDEOS Y AUDIO",
+      "c": "CONFIGURAR TRANSICIONES Y ANIMACIONES",
+      "d": "CREAR PLANTILLAS PERSONALIZADAS"
     },
-    "respuesta_correcta": "b",
-    "fuente": "La ortografía del idioma español. Libro con ejercicios, Ortografía de las letras"
+    "respuesta_correcta": "a",
+    "fuente": "Temario Conocimientos Específicos, III.I Power Point Básico 2016"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "DE ACUERDO CON EL TEMARIO DE CONOCIMIENTOS ESPECÍFICOS, LA LEY GENERAL DE ARCHIVOS SE ESTUDIA A PARTIR DE SU:\nCONSIDERE LA ESTRUCTURA SEÑALADA EN LA SECCIÓN ÁREA PROFESIONAL DEL TEMARIO.\nSELECCIONE LA OPCIÓN CORRECTA.",
+    "opciones": {
+      "a": "LIBRO I",
+      "b": "LIBRO II",
+      "c": "LIBRO III",
+      "d": "LIBRO IV"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Temario Conocimientos Específicos, III.A Ley General de Archivos"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "verdadero_falso",
-    "pregunta": "EN EXCEL, AL APLICAR UN FILTRO AVANZADO, ES OBLIGATORIO COPIAR EL RANGO DE DATOS A OTRA UBICACIÓN ANTES DE FILTRAR.",
-    "respuesta_correcta": "b",
-    "fuente": "Manual de Excel Básico, Listas de datos"
+    "pregunta": "DE ACUERDO CON EL TEMARIO DE CONOCIMIENTOS ESPECÍFICOS, EL DAM 1.9 SEGURIDAD DE LA INFORMACIÓN INCLUYE COMO PARTE DE SU CONTENIDO UN GLOSARIO DE TÉRMINOS UBICADO EN EL ANEXO A.\nDETERMINE SI ESTA AFIRMACIÓN ES VERDADERA O FALSA.",
+    "respuesta_correcta": "a",
+    "fuente": "Temario Conocimientos Específicos, III.J DAM 1.9 Seguridad de la Información, Anexo A"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "opcion_multiple",
-    "pregunta": "DENTRO DE LOS ELEMENTOS DEL TRIÁNGULO DEL FUEGO, EL COMBUSTIBLE PUEDE SER:",
+    "pregunta": "DE ACUERDO CON EL TEMARIO DE CONOCIMIENTOS ESPECÍFICOS, EL MANUAL PARA LA INTEGRACIÓN DEL MEMORIAL DE SERVICIOS DEL PERSONAL DE CLASES Y MARINERÍA INICIA SU CONTENIDO CON:\nESTE APARTADO PRESENTA EL PROPÓSITO GENERAL DEL DOCUMENTO ANTES DE LOS CAPÍTULOS ESPECÍFICOS.\nSELECCIONE LA OPCIÓN CORRECTA.",
     "opciones": {
-      "a": "SÓLIDO, LÍQUIDO O GASEOSO",
-      "b": "EXCLUSIVAMENTE SÓLIDO",
-      "c": "ÚNICAMENTE LÍQUIDOS INFLAMABLES",
-      "d": "SOLO GASES COMO EL PROPANO"
+      "a": "INTRODUCCIÓN",
+      "b": "GLOSARIO DE TÉRMINOS",
+      "c": "MARCO JURÍDICO",
+      "d": "OBJETIVOS ESPECÍFICOS"
     },
     "respuesta_correcta": "a",
-    "fuente": "DAM. 1.3.1.3.5 Contraincendios para establecimientos navales, Elementos del triángulo del fuego"
+    "fuente": "Temario Conocimientos Específicos, II.A Manual para la integración del memorial de servicios"
+  }.
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "SEGÚN LA CLASIFICACIÓN DE LOS INCENDIOS DEL DAM 1.3.1.3.5 CONTRAINCENDIOS PARA ESTABLECIMIENTOS NAVALES, LOS FUEGOS QUE INVOLUCRAN GRASAS Y ACEITES DE COCINA SE CLASIFICAN COMO:\nESTA CLASE REQUIERE UN AGENTE EXTINGUIDOR ESPECÍFICO DIFERENTE AL DE OTRAS CLASES.\nSELECCIONE LA OPCIÓN CORRECTA.",
+    "opciones": {
+      "a": "CLASE K",
+      "b": "CLASE D",
+      "c": "CLASE C",
+      "d": "CLASE B"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "DAM 1.3.1.3.5 Contraincendios para Establecimientos Navales, Cap. 1, Clasificación de incendios"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "SEGÚN LA CLASIFICACIÓN DE LOS INCENDIOS DEL DAM 1.3.1.3.5 CONTRAINCENDIOS PARA ESTABLECIMIENTOS NAVALES, LOS FUEGOS PRODUCIDOS POR METALES COMBUSTIBLES CORRESPONDEN A LA:\nESTA CLASE REQUIERE UN TRATAMIENTO DIFERENTE AL DE LOS FUEGOS ORDINARIOS.\nSELECCIONE LA OPCIÓN CORRECTA.",
+    "opciones": {
+      "a": "CLASE D",
+      "b": "CLASE K",
+      "c": "CLASE A",
+      "d": "CLASE C"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "DAM 1.3.1.3.5 Contraincendios para Establecimientos Navales, Cap. 1, Clasificación de incendios"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "SEGÚN LA CLASIFICACIÓN DE LOS INCENDIOS DEL DAM 1.3.1.3.5 CONTRAINCENDIOS PARA ESTABLECIMIENTOS NAVALES, LOS FUEGOS QUE INVOLUCRAN EQUIPOS ELÉCTRICOS ENERGIZADOS CORRESPONDEN A LA:\nESTA CLASE REQUIERE CONSIDERAR EL RIESGO DE CONDUCTIVIDAD ELÉCTRICA DEL AGENTE EXTINGUIDOR.\nSELECCIONE LA OPCIÓN CORRECTA.",
+    "opciones": {
+      "a": "CLASE C",
+      "b": "CLASE B",
+      "c": "CLASE K",
+      "d": "CLASE D"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "DAM 1.3.1.3.5 Contraincendios para Establecimientos Navales, Cap. 1, Clasificación de incendios"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "SEGÚN LA CLASIFICACIÓN DE LOS INCENDIOS DEL DAM 1.3.1.3.5 CONTRAINCENDIOS PARA ESTABLECIMIENTOS NAVALES, LOS FUEGOS DE MATERIALES COMBUSTIBLES ORDINARIOS COMO MADERA, PAPEL O TELA CORRESPONDEN A LA:\nESTA CLASE ES LA MÁS COMÚN EN AMBIENTES DOMÉSTICOS Y ADMINISTRATIVOS.\nSELECCIONE LA OPCIÓN CORRECTA.",
+    "opciones": {
+      "a": "CLASE A",
+      "b": "CLASE B",
+      "c": "CLASE C",
+      "d": "CLASE D"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "DAM 1.3.1.3.5 Contraincendios para Establecimientos Navales, Cap. 1, Clasificación de incendios"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "verdadero_falso",
-    "pregunta": "LA FASE DE 'CRECIMIENTO' EN UN INCENDIO SE CARACTERIZA POR UN AUMENTO RÁPIDO DE LA TEMPERATURA Y LA PROPAGACIÓN DEL FUEGO A MATERIALES CERCANOS.",
+    "pregunta": "DENTRO DEL TEMARIO DE CONOCIMIENTOS ESPECÍFICOS, EL USO DE AGENTES EXTINGUIDORES DE ACUERDO A LA CLASE DE FUEGO SE ESTUDIA COMO SUBTEMA DENTRO DE LA CLASIFICACIÓN DE LOS INCENDIOS DEL DAM 1.3.1.3.5.\nDETERMINE SI ESTA AFIRMACIÓN ES VERDADERA O FALSA.",
     "respuesta_correcta": "a",
-    "fuente": "DAM. 1.3.1.3.5 Contraincendios para establecimientos navales, Fases del fuego"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "opcion_multiple",
-    "pregunta": "EL DAM 1.3.4.6 ESTABLECE QUE LA SEGURIDAD FÍSICA SE DEBE MANTENER MEDIANTE:",
-    "opciones": {
-      "a": "MEDIDAS PREVENTIVAS, DISUASIVAS Y DE REACCIÓN",
-      "b": "SOLO TECNOLOGÍA DE VIGILANCIA",
-      "c": "ÚNICAMENTE PERSONAL DE GUARDIA ARMADA",
-      "d": "LA INSTALACIÓN DE ALARMAS CONTRA INCENDIOS"
-    },
-    "respuesta_correcta": "a",
-    "fuente": "DAM. 1.3.4.6 Seguridad física de las unidades y establecimientos de la Secretaría de Marina Armada de México, Capítulo I"
+    "fuente": "Temario Conocimientos Específicos, I.B DAM 1.3.1.3.5, punto 1.f"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "verdadero_falso",
-    "pregunta": "LA VISTA 'PÁGINA DE NOTAS' EN POWERPOINT PERMITE AGREGAR NOTAS QUE SOLO SERÁN VISIBLES PARA EL ORADOR SI SE UTILIZA LA VISTA DE PRESENTADOR.",
+    "pregunta": "EL TEMA CAUSA Y PREVENCIÓN DE LOS INCENDIOS SE ENCUENTRA CONTEMPLADO DENTRO DE LA TEORÍA DE LA COMBUSTIÓN DEL DAM 1.3.1.3.5 CONTRAINCENDIOS PARA ESTABLECIMIENTOS NAVALES.\nDETERMINE SI ESTA AFIRMACIÓN ES VERDADERA O FALSA.",
     "respuesta_correcta": "a",
-    "fuente": "Power Point Básico 2016. Manual Actualización Tecnológica, Las vistas"
+    "fuente": "Temario Conocimientos Específicos, I.B DAM 1.3.1.3.5, punto 1.b"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "opcion_multiple",
-    "pregunta": "PARA CAMBIAR EL ORDEN DE LAS DIAPOSITIVAS EN POWERPOINT SE DEBE SELECCIONAR LA DIAPOSITIVA Y:",
+    "pregunta": "DE ACUERDO CON EL TEMARIO DE CONOCIMIENTOS ESPECÍFICOS, LOS CONCEPTOS BÁSICOS SOBRE EL FUEGO SE ESTUDIAN DENTRO DE:\nESTE SUBTEMA ES EL PRIMERO SEÑALADO DENTRO DE LA TEORÍA DE LA COMBUSTIÓN.\nSELECCIONE LA OPCIÓN CORRECTA.",
     "opciones": {
-      "a": "ARRÁSTRALA A LA NUEVA POSICIÓN EN EL CLASIFICADOR DE DIAPOSITIVAS",
-      "b": "USAR LAS TECLAS CTRL+X Y CTRL+V",
-      "c": "CORTAR Y PEGAR EN LA VISTA NORMAL",
-      "d": "TANTO A COMO B SON VÁLIDAS"
+      "a": "DAM 1.3.1.3.5 CONTRAINCENDIOS PARA ESTABLECIMIENTOS NAVALES",
+      "b": "DAM 1.3.4.6 SEGURIDAD FÍSICA",
+      "c": "DAM 1.9 SEGURIDAD DE LA INFORMACIÓN",
+      "d": "DAM 1.10 ADIESTRAMIENTO DE LA ARMADA DE MÉXICO"
     },
-    "respuesta_correcta": "d",
-    "fuente": "Power Point Básico 2016. Manual Actualización Tecnológica, Trabajar con diapositivas"
+    "respuesta_correcta": "a",
+    "fuente": "Temario Conocimientos Específicos, I.B DAM 1.3.1.3.5, punto 1.a"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "DE ACUERDO CON LA BIBLIOGRAFÍA DEL TEMARIO DE CONOCIMIENTOS ESPECÍFICOS, EL MANUAL DE ADMINISTRACIÓN ARCHIVÍSTICA FUE PUBLICADO POR LA SECRETARÍA DE MARINA EN EL AÑO:\nESTE DATO SE ENCUENTRA EN LA SECCIÓN DE REFERENCIAS BIBLIOGRÁFICAS DEL DOCUMENTO.\nSELECCIONE LA OPCIÓN CORRECTA.",
+    "opciones": {
+      "a": "2011",
+      "b": "2019",
+      "c": "2023",
+      "d": "2016"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Temario Conocimientos Específicos, Bibliografía 8, Manual de Administración Archivística"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "DE ACUERDO CON LA BIBLIOGRAFÍA DEL TEMARIO DE CONOCIMIENTOS ESPECÍFICOS, EL DAM 1.9 SEGURIDAD DE LA INFORMACIÓN FUE PUBLICADO POR LA SECRETARÍA DE MARINA EN EL AÑO:\nESTE DATO SE ENCUENTRA EN LA SECCIÓN DE REFERENCIAS BIBLIOGRÁFICAS DEL DOCUMENTO.\nSELECCIONE LA OPCIÓN CORRECTA.",
+    "opciones": {
+      "a": "2019",
+      "b": "2011",
+      "c": "2023",
+      "d": "2016"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Temario Conocimientos Específicos, Bibliografía 15, DAM 1.9 Seguridad de la Información"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "DE ACUERDO CON LA BIBLIOGRAFÍA DEL TEMARIO DE CONOCIMIENTOS ESPECÍFICOS, EL MANUAL PARA LA INTEGRACIÓN DEL MEMORIAL DE SERVICIOS DEL PERSONAL DE CLASES Y MARINERÍA FUE PUBLICADO EN EL AÑO:\nESTE DATO SE ENCUENTRA EN LA SECCIÓN DE REFERENCIAS BIBLIOGRÁFICAS DEL DOCUMENTO.\nSELECCIONE LA OPCIÓN CORRECTA.",
+    "opciones": {
+      "a": "2024",
+      "b": "2019",
+      "c": "2011",
+      "d": "2023"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Temario Conocimientos Específicos, Bibliografía 2, Manual para la integración del memorial de servicios"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "DE ACUERDO CON LA BIBLIOGRAFÍA DEL TEMARIO DE CONOCIMIENTOS ESPECÍFICOS, LA LEY GENERAL DE ARCHIVOS FUE PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN EN LA FECHA:\nESTE DATO SE ENCUENTRA EN LA SECCIÓN DE REFERENCIAS BIBLIOGRÁFICAS DEL DOCUMENTO.\nSELECCIONE LA OPCIÓN CORRECTA.",
+    "opciones": {
+      "a": "19 DE ENERO DE 2023",
+      "b": "15 DE OCTUBRE DE 2025",
+      "c": "27 DE MAYO DE 2019",
+      "d": "24 DE ENERO DE 2024"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Temario Conocimientos Específicos, Bibliografía 6, Ley General de Archivos"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "verdadero_falso",
-    "pregunta": "EL MANUAL DE EXCEL BÁSICO INDICA QUE ES POSIBLE OCULTAR FILAS O COLUMNAS SIN ELIMINAR SU CONTENIDO, USANDO LA OPCIÓN 'OCULTAR' DEL MENÚ CONTEXTUAL.",
+    "pregunta": "SEGÚN LA BIBLIOGRAFÍA DEL TEMARIO DE CONOCIMIENTOS ESPECÍFICOS, EL LIBRO LA ORTOGRAFÍA DEL IDIOMA ESPAÑOL, LIBRO CON EJERCICIOS, DE ROJAS E., CORRESPONDE A SU OCTAVA EDICIÓN PUBLICADA EN 2013.\nDETERMINE SI ESTA AFIRMACIÓN ES VERDADERA O FALSA.",
     "respuesta_correcta": "a",
-    "fuente": "Manual de Excel Básico, Edición de una hoja de cálculo"
+    "fuente": "Temario Conocimientos Específicos, Bibliografía 12, La Ortografía del Idioma Español"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "opcion_multiple",
-    "pregunta": "LA TECLA F4 EN EXCEL, CUANDO SE EDITA UNA FÓRMULA, SIRVE PARA:",
+    "pregunta": "DE ACUERDO CON LA BIBLIOGRAFÍA DEL TEMARIO DE CONOCIMIENTOS ESPECÍFICOS, EL MANUAL PRÁCTICO PASO A PASO DE MICROSOFT WORD 2016 FUE ELABORADO POR:\nESTE DATO SE ENCUENTRA EN LA SECCIÓN DE REFERENCIAS BIBLIOGRÁFICAS DEL DOCUMENTO.\nSELECCIONE LA OPCIÓN CORRECTA.",
     "opciones": {
-      "a": "CERRAR EL LIBRO DE TRABAJO",
-      "b": "ALTERNAR ENTRE REFERENCIAS RELATIVAS, ABSOLUTAS Y MIXTAS",
-      "c": "REPETIR LA ÚLTIMA ACCIÓN",
-      "d": "ABRIR LA AYUDA DE EXCEL"
+      "a": "MOSCOSO, J. P.",
+      "b": "ROJAS, E.",
+      "c": "OLMEDO MONTES, F.",
+      "d": "CENTRO DE ESTUDIOS SUPERIORES NAVALES"
     },
-    "respuesta_correcta": "b",
-    "fuente": "Manual de Excel Básico, Uso de fórmulas"
+    "respuesta_correcta": "a",
+    "fuente": "Temario Conocimientos Específicos, Bibliografía 11, Microsoft Word 2016"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "DE ACUERDO CON LA BIBLIOGRAFÍA DEL TEMARIO DE CONOCIMIENTOS ESPECÍFICOS, EL MANUAL DE EXCEL BÁSICO Y EL MANUAL DE POWER POINT BÁSICO 2016 FUERON ELABORADOS POR:\nESTOS DOCUMENTOS PERTENECEN A UNA DEPENDENCIA EDUCATIVA FEDERAL.\nSELECCIONE LA OPCIÓN CORRECTA.",
+    "opciones": {
+      "a": "SECRETARÍA DE EDUCACIÓN PÚBLICA",
+      "b": "SECRETARÍA DE MARINA",
+      "c": "CENTRO DE ESTUDIOS SUPERIORES NAVALES",
+      "d": "CÁMARA DE DIPUTADOS DEL H. CONGRESO DE LA UNIÓN"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Temario Conocimientos Específicos, Bibliografía 13 y 14"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "DE ACUERDO CON EL TEMARIO DE CONOCIMIENTOS ESPECÍFICOS, EL MANUAL DE GESTIÓN DE LA INFORMACIÓN DE LA SECRETARÍA DE MARINA-ARMADA DE MÉXICO FUE PUBLICADO EN EL AÑO:\nESTE DATO SE ENCUENTRA EN LA SECCIÓN DE REFERENCIAS BIBLIOGRÁFICAS DEL DOCUMENTO.\nSELECCIONE LA OPCIÓN CORRECTA.",
+    "opciones": {
+      "a": "2023",
+      "b": "2011",
+      "c": "2019",
+      "d": "2016"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Temario Conocimientos Específicos, Bibliografía 9, Manual de Gestión de la Información de la SEMAR"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "verdadero_falso",
-    "pregunta": "EN WORD 2016, AL INSERTAR UN GRÁFICO, POR DEFECTO SE MUESTRA CON DATOS DE EJEMPLO QUE DEBEN SER REEMPLAZADOS.",
+    "pregunta": "LA DIRECTIVA.-DIGADMON.-DEP.-SCC.-DPV.-001/2023, PARA LA ASIGNACIÓN DE RECURSOS FINANCIEROS DE PASAJES Y VIÁTICOS DE LA SECRETARÍA DE MARINA, SE ENCUENTRA DISPONIBLE EN NORMATECA.SM SEGÚN LA BIBLIOGRAFÍA DEL TEMARIO DE CONOCIMIENTOS ESPECÍFICOS.\nDETERMINE SI ESTA AFIRMACIÓN ES VERDADERA O FALSA.",
     "respuesta_correcta": "a",
-    "fuente": "Microsoft Word 2016. Manual práctico paso a paso, Gráficos"
+    "fuente": "Temario Conocimientos Específicos, Bibliografía 7, Directiva de Pasajes y Viáticos"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "opcion_multiple",
-    "pregunta": "LA PALABRA 'GUIÓN' LLEVA TILDE PORQUE ES AGUDA TERMINADA EN N, MIENTRAS QUE 'GUION' SIN TILDE ES CONSIDERADA MONOSÍLABA. ESTO ES UN CASO DE:",
+    "pregunta": "DE ACUERDO CON EL TEMARIO DE CONOCIMIENTOS ESPECÍFICOS, DOCUMENTACIÓN NAVAL I FUE ELABORADO POR:\nESTE DOCUMENTO FORMA PARTE DEL ÁREA PROFESIONAL DEL TEMARIO.\nSELECCIONE LA OPCIÓN CORRECTA.",
     "opciones": {
-      "a": "HIATO ACENTUAL",
-      "b": "DIPTONGO VS HIATO SEGÚN LA PRONUNCIACIÓN",
-      "c": "ACENTO DIACRÍTICO",
-      "d": "PALABRA COMPUESTA"
+      "a": "CENTRO DE CAPACITACIÓN DE LA ARMADA DE MÉXICO",
+      "b": "CENTRO DE ESTUDIOS SUPERIORES NAVALES",
+      "c": "HEROICA ESCUELA NAVAL MILITAR",
+      "d": "SECRETARÍA DE EDUCACIÓN PÚBLICA"
     },
-    "respuesta_correcta": "b",
-    "fuente": "La ortografía del idioma español. Libro con ejercicios, La acentuación"
+    "respuesta_correcta": "a",
+    "fuente": "Temario Conocimientos Específicos, Bibliografía 10, Documentación Naval I"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "DE ACUERDO CON EL TEMARIO DE CONOCIMIENTOS ESPECÍFICOS, LOS DOCUMENTOS DAM 1.3.1.3.5, DAM 1.3.4.6 Y DAM 1.10 FUERON ELABORADOS POR:\nESTOS TRES DOCUMENTOS PERTENECEN A LA MISMA INSTANCIA EDUCATIVA NAVAL.\nSELECCIONE LA OPCIÓN CORRECTA.",
+    "opciones": {
+      "a": "CENTRO DE ESTUDIOS SUPERIORES NAVALES",
+      "b": "CENTRO DE CAPACITACIÓN DE LA ARMADA DE MÉXICO",
+      "c": "SECRETARÍA DE EDUCACIÓN PÚBLICA",
+      "d": "HEROICA ESCUELA NAVAL MILITAR"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Temario Conocimientos Específicos, Bibliografía 3, 4 y 5"
   }
 ]
