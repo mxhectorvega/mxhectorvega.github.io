@@ -178,14 +178,6 @@ function guardarBanco(){ try{ localStorage.setItem('sain_banco', JSON.stringify(
 function guardarHistorial(){ try{ localStorage.setItem('sain_historial', JSON.stringify(historial)); }catch(e){ alert('No se pudo guardar: '+e.message); } }
 function guardarUsuario(){ try{ localStorage.setItem('sain_usuario', JSON.stringify(usuario)); }catch(e){} }
 
-// --- Anti-duplicado: fuentes ya presentes en el banco, por tema ---
-function getFuentesPorTema(tema){
-  const fuentes = banco
-    .filter(q => q.tema === tema && q.fuente)
-    .map(q => q.fuente.trim());
-  return [...new Set(fuentes)];
-}
-
 function mezclarPregunta(q){
   if(q.tipo!=='opcion_multiple'){
     const flip = Math.random()<0.5;
@@ -322,20 +314,6 @@ function renderBanco(){
       <p style="font-size:12px;color:var(--ink-soft);margin-top:0;">Elimina todos los reactivos cargados.</p>
       <button class="action danger" id="btnClear">Vaciar banco</button>
     </div>
-  </div>
-  <div class="card wide">
-    <h2>Anti-duplicado — fuentes ya usadas</h2>
-    <p style="font-size:12px;color:var(--ink-soft);margin-top:0;">Elige un tema y copia el bloque para pegarlo al inicio de tu prompt de generación (AnythingLLM). Así el modelo sabe qué artículos/secciones ya están en tu banco y no los repite.</p>
-    <label class="field" style="margin-top:0;">Tema</label>
-    <select id="selTemaFuentes">
-      ${TEMAS.map(t=>`<option value="${t}">${t}</option>`).join('')}
-    </select>
-    <label class="field">Bloque para pegar en el prompt</label>
-    <textarea class="small" id="txtFuentes" readonly></textarea>
-    <div style="margin-top:10px;">
-      <button class="action" id="btnCopiarFuentes">Copiar al portapapeles</button>
-      <span id="copiarMsg" style="font-size:12px;margin-left:8px;"></span>
-    </div>
   </div>`;
 }
 function attachBancoEvents(){
@@ -362,38 +340,6 @@ function attachBancoEvents(){
       if(e.key==='Backspace' && !inp.value && i>0) digits[i-1].focus();
     };
   });
-
-  // --- Anti-duplicado ---
-  const selTema = document.getElementById('selTemaFuentes');
-  const txtFuentes = document.getElementById('txtFuentes');
-  const btnCopiar = document.getElementById('btnCopiarFuentes');
-  const copiarMsg = document.getElementById('copiarMsg');
-
-  function actualizarBloqueFuentes(){
-    const tema = selTema.value;
-    const fuentes = getFuentesPorTema(tema);
-    if(fuentes.length===0){
-      txtFuentes.value = `(Sin fuentes registradas aún para "${tema}". Genera y carga reactivos primero.)`;
-    } else {
-      txtFuentes.value = `FUENTES YA USADAS (bloqueadas, no generar reactivos con estas fuentes): ${JSON.stringify(fuentes)}`;
-    }
-    copiarMsg.textContent = '';
-  }
-  selTema.onchange = actualizarBloqueFuentes;
-  actualizarBloqueFuentes();
-
-  btnCopiar.onclick = async ()=>{
-    try{
-      await navigator.clipboard.writeText(txtFuentes.value);
-      copiarMsg.textContent = 'Copiado.';
-      copiarMsg.style.color = 'var(--ok)';
-    }catch(e){
-      txtFuentes.select();
-      document.execCommand('copy');
-      copiarMsg.textContent = 'Copiado (modo alterno).';
-      copiarMsg.style.color = 'var(--ok)';
-    }
-  };
 }
 async function intentarCargarCodigo(digits){
   const codigo = digits.map(d=>d.value).join('');
