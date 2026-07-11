@@ -256,7 +256,10 @@ function contarPorTema(){
   return c;
 }
 
-function setTab(t){ tab=t; render(); }
+function setTab(t){
+  if(t==='examen' && sesion && sesion.terminado){ sesion = null; }
+  tab=t; render();
+}
 
 function renderUserBadge(){
   const b = document.getElementById('userbadge');
