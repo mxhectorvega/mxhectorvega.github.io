@@ -2,210 +2,210 @@
   {
     "tema": "Legislacion Naval",
     "tipo": "opcion_multiple",
-    "pregunta": "¿CUÁL ES EL ARTÍCULO DE LA CONSTITUCIÓN POLÍTICA QUE ESTABLECE LOS DERECHOS HUMANOS Y SUS GARANTÍAS?",
+    "pregunta": "¿CUÁL ES EL FUNDAMENTO CONSTITUCIONAL QUE ESTABLECE LOS DERECHOS HUMANOS Y SUS GARANTÍAS EN MÉXICO?",
     "opciones": {
-      "a": "ARTÍCULO 1",
-      "b": "ARTÍCULO 16",
-      "c": "ARTÍCULO 49",
-      "d": "ARTÍCULO 89"
+      "a": "Artículo 1 de la Constitución Política de los Estados Unidos Mexicanos",
+      "b": "Artículo 49 de la Constitución Política de los Estados Unidos Mexicanos",
+      "c": "Artículo 80 de la Constitución Política de los Estados Unidos Mexicanos",
+      "d": "Artículo 108 de la Constitución Política de los Estados Unidos Mexicanos"
     },
     "respuesta_correcta": "a",
-    "fuente": "Constitución Política de los Estados Unidos Mexicanos, Título Primero, Capítulo I, Artículo 1"
+    "fuente": "Constitución Política de los Estados Unidos Mexicanos, Artículo 1"
   },
   {
     "tema": "Legislacion Naval",
     "tipo": "verdadero_falso",
-    "pregunta": "SEGÚN LA CONSTITUCIÓN POLÍTICA, EL ARTÍCULO 2 PÁRRAFO 1 RECONOCE LOS DERECHOS DE LOS PUEBLOS INDÍGENAS.",
+    "pregunta": "SEGÚN LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EL ARTÍCULO 49 ESTABLECE LA DIVISIÓN DE PODERES EN MÉXICO.",
     "respuesta_correcta": "a",
-    "fuente": "Constitución Política de los Estados Unidos Mexicanos, Título Primero, Capítulo I, Artículo 2 (Párrafo 1)"
+    "fuente": "Constitución Política de los Estados Unidos Mexicanos, Artículo 49"
   },
   {
     "tema": "Legislacion Naval",
     "tipo": "opcion_multiple",
-    "pregunta": "¿QUÉ ARTÍCULO DE LA CONSTITUCIÓN TRATA SOBRE LA EDUCACIÓN?",
+    "pregunta": "¿CUÁL DE LOS SIGUIENTES ARTÍCULOS CONSTITUCIONALES REGULA LAS ATRIBUCIONES DEL PODER EJECUTIVO EN MATERIA DE DEFENSA NACIONAL?",
     "opciones": {
-      "a": "ARTÍCULO 3",
-      "b": "ARTÍCULO 4",
-      "c": "ARTÍCULO 6",
-      "d": "ARTÍCULO 8"
-    },
-    "respuesta_correcta": "a",
-    "fuente": "Constitución Política de los Estados Unidos Mexicanos, Título Primero, Capítulo I, Artículo 3 (Párrafos 1 y 2)"
-  },
-  {
-    "tema": "Legislacion Naval",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CUÁL ARTÍCULO CONSTITUCIONAL ESTABLECE DERECHOS COMO ALIMENTACIÓN, VIVIENDA Y ACCESO A LA SALUD?",
-    "opciones": {
-      "a": "ARTÍCULO 2",
-      "b": "ARTÍCULO 4",
-      "c": "ARTÍCULO 6",
-      "d": "ARTÍCULO 10"
+      "a": "Artículo 80",
+      "b": "Artículo 89, Fracciones VI, VII, VIII y XIII",
+      "c": "Artículo 94",
+      "d": "Artículo 102"
     },
     "respuesta_correcta": "b",
-    "fuente": "Constitución Política de los Estados Unidos Mexicanos, Título Primero, Capítulo I, Artículo 4 (Párrafos 1, 2, 3, 4, 5 y 6)"
+    "fuente": "Constitución Política de los Estados Unidos Mexicanos, Artículo 89"
+  },
+  {
+    "tema": "Legislacion Naval",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿QUÉ ARTÍCULO DE LA LEY GENERAL PARA PREVENIR, INVESTIGAR Y SANCIONAR LA TORTURA DEFINE LAS DISPOSICIONES GENERALES SOBRE ESTE DELITO?",
+    "opciones": {
+      "a": "Artículo 5, Fracción XVIII",
+      "b": "Artículo 7",
+      "c": "Artículo 24",
+      "d": "Artículo 26"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Ley General para Prevenir, Investigar y Sancionar la Tortura, Artículo 5, Fracción XVIII"
   },
   {
     "tema": "Legislacion Naval",
     "tipo": "verdadero_falso",
-    "pregunta": "EL ARTÍCULO 6 CONSTITUCIONAL ESTABLECE DISPOSICIONES SOBRE LIBERTAD DE EXPRESIÓN E INFORMACIÓN.",
+    "pregunta": "LA LEY GENERAL DE ACCESO A LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA INCLUYE DISPOSICIONES SOBRE VIOLENCIA LABORAL Y DOCENTE EN SUS CAPÍTULOS.",
     "respuesta_correcta": "a",
-    "fuente": "Constitución Política de los Estados Unidos Mexicanos, Título Primero, Capítulo I, Artículo 6 (Párrafos 1, 2 y 4 apartado A, Fracciones I y II)"
+    "fuente": "Ley General de Acceso a las Mujeres a una Vida Libre de Violencia, Artículos 10, 11, 12 y 13"
   },
   {
     "tema": "Legislacion Naval",
     "tipo": "opcion_multiple",
-    "pregunta": "¿QUÉ ARTÍCULO CONSTITUCIONAL GARANTIZA LA LIBERTAD DE PETICIÓN?",
+    "pregunta": "¿CUÁL ES EL PROPÓSITO PRINCIPAL DE LA LEY NACIONAL DEL REGISTRO DE DETENCIONES?",
     "opciones": {
-      "a": "ARTÍCULO 8",
-      "b": "ARTÍCULO 9",
-      "c": "ARTÍCULO 10",
-      "d": "ARTÍCULO 11"
-    },
-    "respuesta_correcta": "a",
-    "fuente": "Constitución Política de los Estados Unidos Mexicanos, Título Primero, Capítulo I, Artículo 8"
-  },
-  {
-    "tema": "Legislacion Naval",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CUÁL ARTÍCULO CONSTITUCIONAL PROTEGE LA LIBERTAD DE ASOCIACIÓN Y REUNIÓN?",
-    "opciones": {
-      "a": "ARTÍCULO 8",
-      "b": "ARTÍCULO 9",
-      "c": "ARTÍCULO 10",
-      "d": "ARTÍCULO 13"
+      "a": "Registrar y controlar el uso de la fuerza en operaciones navales",
+      "b": "Establecer disposiciones generales sobre detenciones y procedimientos de intercambio de información",
+      "c": "Definir los principios de actuación del personal naval en guardia costera",
+      "d": "Regular la disciplina del personal de la Armada de México"
     },
     "respuesta_correcta": "b",
-    "fuente": "Constitución Política de los Estados Unidos Mexicanos, Título Primero, Capítulo I, Artículo 9"
+    "fuente": "Ley Nacional del Registro de Detenciones, Capítulo I, Artículos 3 y 4"
+  },
+  {
+    "tema": "Legislacion Naval",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁLES SON LOS PRINCIPIOS FUNDAMENTALES QUE RIGEN EL USO DE LA FUERZA SEGÚN LA LEY NACIONAL SOBRE EL USO DE LA FUERZA?",
+    "opciones": {
+      "a": "Legalidad, proporcionalidad, necesidad y oportunidad",
+      "b": "Autoridad, responsabilidad y transparencia",
+      "c": "Disciplina, orden y seguridad",
+      "d": "Defensa, protección y prevención"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Ley Nacional sobre el Uso de la Fuerza, Capítulo II, Artículos 4, 5, 6, 7 y 8"
   },
   {
     "tema": "Legislacion Naval",
     "tipo": "verdadero_falso",
-    "pregunta": "EL ARTÍCULO 10 CONSTITUCIONAL ESTABLECE EL DERECHO A POSEER ARMAS PARA LA LEGÍTIMA DEFENSA.",
+    "pregunta": "LA LEY ORGÁNICA DE LA ARMADA DE MÉXICO ESTABLECE LA ESTRUCTURA Y ORGANIZACIÓN DE LA ARMADA COMO INSTITUCIÓN CASTRENSE.",
     "respuesta_correcta": "a",
-    "fuente": "Constitución Política de los Estados Unidos Mexicanos, Título Primero, Capítulo I, Artículo 10"
+    "fuente": "Ley Orgánica de la Armada de México"
   },
   {
     "tema": "Legislacion Naval",
     "tipo": "opcion_multiple",
-    "pregunta": "¿QUÉ ARTÍCULO CONSTITUCIONAL GARANTIZA LA LIBERTAD DE TRÁNSITO?",
+    "pregunta": "¿CUÁL ES EL ÁMBITO DE APLICACIÓN DE LA LEY DE PROTECCIÓN DEL ESPACIO AÉREO MEXICANO?",
     "opciones": {
-      "a": "ARTÍCULO 10",
-      "b": "ARTÍCULO 11",
-      "c": "ARTÍCULO 13",
-      "d": "ARTÍCULO 16"
+      "a": "Solo el espacio aéreo sobre territorio continental",
+      "b": "El espacio aéreo mexicano y sus disposiciones generales de protección",
+      "c": "Únicamente las operaciones militares en el Golfo de México",
+      "d": "La defensa de puertos y zonas costeras"
     },
     "respuesta_correcta": "b",
-    "fuente": "Constitución Política de los Estados Unidos Mexicanos, Título Primero, Capítulo I, Artículo 11"
+    "fuente": "Ley de Protección del Espacio Aéreo Mexicano, Capítulo I, Artículos 1, 2, 3, 4 y 5"
   },
   {
     "tema": "Legislacion Naval",
     "tipo": "opcion_multiple",
-    "pregunta": "¿CUÁL ARTÍCULO CONSTITUCIONAL ESTABLECE GARANTÍAS DE SEGURIDAD JURÍDICA?",
+    "pregunta": "¿QUÉ ESTABLECE EL CAPÍTULO I DE LA LEY DE DISCIPLINA PARA EL PERSONAL DE LA ARMADA DE MÉXICO?",
     "opciones": {
-      "a": "ARTÍCULO 13",
-      "b": "ARTÍCULO 16",
-      "c": "ARTÍCULO 19",
-      "d": "ARTÍCULO 21"
+      "a": "Las disposiciones generales sobre disciplina y conducta del personal",
+      "b": "Los estímulos y reconocimientos al personal",
+      "c": "Los correctivos disciplinarios y medidas preventivas",
+      "d": "Los organismos disciplinarios y sus funciones"
     },
-    "respuesta_correcta": "b",
-    "fuente": "Constitución Política de los Estados Unidos Mexicanos, Título Primero, Capítulo I, Artículo 16 (Párrafos 1, 5, 11, 12 y 13)"
+    "respuesta_correcta": "a",
+    "fuente": "Ley de Disciplina para el Personal de la Armada de México, Capítulo I, Artículos 1, 2, 3, 4, 5, 6, 7 y 8"
   },
   {
     "tema": "Legislacion Naval",
     "tipo": "verdadero_falso",
-    "pregunta": "EL ARTÍCULO 17 CONSTITUCIONAL ESTABLECE QUE TODA PERSONA TIENE DERECHO A LA JUSTICIA.",
+    "pregunta": "SEGÚN LA LEY DE DISCIPLINA PARA EL PERSONAL DE LA ARMADA DE MÉXICO, LOS ESTÍMULOS Y RECONOCIMIENTOS SE ENCUENTRAN REGULADOS EN EL CAPÍTULO IV.",
     "respuesta_correcta": "a",
-    "fuente": "Constitución Política de los Estados Unidos Mexicanos, Título Primero, Capítulo I, Artículo 17 (Párrafos 1 y 2)"
+    "fuente": "Ley de Disciplina para el Personal de la Armada de México, Capítulo IV, Artículos 38, 39 y 40"
   },
   {
     "tema": "Legislacion Naval",
     "tipo": "opcion_multiple",
-    "pregunta": "¿QUÉ ARTÍCULO CONSTITUCIONAL PROHÍBE LA ESCLAVITUD?",
+    "pregunta": "¿CUÁL ES LA AUTORIDAD MARÍTIMA NACIONAL SEGÚN LA LEY DE NAVEGACIÓN Y COMERCIO MARÍTIMOS?",
     "opciones": {
-      "a": "ARTÍCULO 16",
-      "b": "ARTÍCULO 19",
-      "c": "ARTÍCULO 20",
-      "d": "ARTÍCULO 21"
+      "a": "La Secretaría de Marina-Armada de México",
+      "b": "El Poder Ejecutivo Federal",
+      "c": "La Capitanía de Puerto",
+      "d": "El Congreso de la Unión"
     },
-    "respuesta_correcta": "b",
-    "fuente": "Constitución Política de los Estados Unidos Mexicanos, Título Primero, Capítulo I, Artículo 19 (Párrafos 1 y 2)"
+    "respuesta_correcta": "a",
+    "fuente": "Ley de Navegación y Comercio Marítimos, Capítulo II, Artículos 7, 8, 9 y 9 Ter"
   },
   {
     "tema": "Legislacion Naval",
     "tipo": "opcion_multiple",
-    "pregunta": "¿CUÁL ARTÍCULO CONSTITUCIONAL ESTABLECE DERECHOS EN MATERIA PENAL?",
+    "pregunta": "¿QUÉ DEFINE LA LEY DE NAVEGACIÓN Y COMERCIO MARÍTIMOS COMO ÁMBITO DE APLICACIÓN?",
     "opciones": {
-      "a": "ARTÍCULO 19",
-      "b": "ARTÍCULO 20",
-      "c": "ARTÍCULO 21",
-      "d": "ARTÍCULO 23"
+      "a": "Solo las aguas territoriales mexicanas",
+      "b": "Las aguas interiores, mar territorial, zona económica exclusiva y plataforma continental",
+      "c": "Únicamente los puertos mexicanos",
+      "d": "Las operaciones de la Armada de México"
     },
     "respuesta_correcta": "b",
-    "fuente": "Constitución Política de los Estados Unidos Mexicanos, Título Primero, Capítulo I, Artículo 20 (apartados B. y C.)"
+    "fuente": "Ley de Navegación y Comercio Marítimos, Capítulo I, Artículos 1, 2, 3, 4 y 5"
   },
   {
     "tema": "Legislacion Naval",
     "tipo": "verdadero_falso",
-    "pregunta": "EL ARTÍCULO 21 CONSTITUCIONAL ESTABLECE QUE LA IMPOSICIÓN DE PENAS ES PROPIA DE LA AUTORIDAD JUDICIAL.",
+    "pregunta": "LA LEY DE PUERTOS ESTABLECE QUE LA SECRETARÍA DE MARINA TIENE COMPETENCIA EN MATERIA DE PUERTOS MEXICANOS.",
     "respuesta_correcta": "a",
-    "fuente": "Constitución Política de los Estados Unidos Mexicanos, Título Primero, Capítulo I, Artículo 21 (Párrafos 1, 2 y 9)"
+    "fuente": "Ley de Puertos, Capítulo III, Artículos 16, 18 y 19 Bis"
   },
   {
     "tema": "Legislacion Naval",
     "tipo": "opcion_multiple",
-    "pregunta": "¿QUÉ ARTÍCULO CONSTITUCIONAL TRATA SOBRE LA NACIONALIDAD MEXICANA?",
+    "pregunta": "¿CUÁL ES EL PROPÓSITO DEL REGLAMENTO GENERAL DE DEBERES NAVALES?",
     "opciones": {
-      "a": "ARTÍCULO 20",
-      "b": "ARTÍCULO 22",
-      "c": "ARTÍCULO 23",
-      "d": "ARTÍCULO 24"
+      "a": "Establecer los deberes generales del personal naval",
+      "b": "Regular las operaciones militares de la Armada",
+      "c": "Definir la estructura organizacional de la Armada",
+      "d": "Establecer sanciones disciplinarias"
     },
-    "respuesta_correcta": "c",
-    "fuente": "Constitución Política de los Estados Unidos Mexicanos, Título Primero, Capítulo I, Artículo 23"
+    "respuesta_correcta": "a",
+    "fuente": "Reglamento General de Deberes Navales, Libro Primero, Título Primero, Capítulo I, Artículos 2, 3, 4, 5, 6 y 7"
   },
   {
     "tema": "Legislacion Naval",
     "tipo": "opcion_multiple",
-    "pregunta": "¿CUÁL ARTÍCULO CONSTITUCIONAL ESTABLECE DERECHOS POLÍTICOS?",
+    "pregunta": "¿QUÉ INCLUYE EL CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE MARINA?",
     "opciones": {
-      "a": "ARTÍCULO 22",
-      "b": "ARTÍCULO 23",
-      "c": "ARTÍCULO 24",
-      "d": "ARTÍCULO 27"
+      "a": "Únicamente sanciones disciplinarias",
+      "b": "Ámbito de aplicación, glosario, riesgos éticos y valores fundamentales",
+      "c": "Solo procedimientos operativos",
+      "d": "Exclusivamente normas de seguridad física"
     },
-    "respuesta_correcta": "c",
-    "fuente": "Constitución Política de los Estados Unidos Mexicanos, Título Primero, Capítulo I, Artículo 24 (Párrafo 1)"
+    "respuesta_correcta": "b",
+    "fuente": "Código de Conducta de la Secretaría de Marina, Ámbito de aplicación, Glosario, Riesgos éticos y Valores fundamentales"
   },
   {
     "tema": "Legislacion Naval",
     "tipo": "verdadero_falso",
-    "pregunta": "EL ARTÍCULO 27 CONSTITUCIONAL ESTABLECE QUE LA PROPIEDAD DE LAS TIERRAS Y AGUAS CORRESPONDE ORIGINARIAMENTE A LA NACIÓN.",
+    "pregunta": "LA POLÍTICA NACIONAL MARÍTIMA DEFINE LOS INTERESES MARÍTIMOS NACIONALES Y SUS DEFINICIONES.",
     "respuesta_correcta": "a",
-    "fuente": "Constitución Política de los Estados Unidos Mexicanos, Título Primero, Capítulo I, Artículo 27 (Párrafos 1, 4, 5 y 9)"
+    "fuente": "Política Nacional Marítima, Sección V, Tabla de intereses y sus definiciones"
   },
   {
     "tema": "Legislacion Naval",
     "tipo": "opcion_multiple",
-    "pregunta": "¿QUÉ ARTÍCULO CONSTITUCIONAL TRATA SOBRE GARANTÍAS INDIVIDUALES EN CASO DE INVASIÓN O PERTURBACIÓN DE LA PAZ?",
+    "pregunta": "¿CUÁL ES EL OBJETIVO GENERAL DEL PROTOCOLO DE ACTUACIÓN DEL PERSONAL NAVAL EN FUNCIONES DE GUARDIA COSTERA?",
     "opciones": {
-      "a": "ARTÍCULO 27",
-      "b": "ARTÍCULO 29",
-      "c": "ARTÍCULO 42",
-      "d": "ARTÍCULO 49"
+      "a": "Establecer procedimientos disciplinarios",
+      "b": "Definir los roles y políticas de operación del personal en funciones de guardia costera",
+      "c": "Regular la estructura organizacional de la Armada",
+      "d": "Establecer normas de navegación marítima"
     },
     "respuesta_correcta": "b",
-    "fuente": "Constitución Política de los Estados Unidos Mexicanos, Título Primero, Capítulo I, Artículo 29 (Párrafos 1 y 2)"
+    "fuente": "Protocolo de Actuación del Personal Naval en Funciones de Guardia Costera, Objetivos General y Específicos"
   },
   {
     "tema": "Legislacion Naval",
     "tipo": "opcion_multiple",
-    "pregunta": "¿CUÁL ARTÍCULO CONSTITUCIONAL ESTABLECE LAS PARTES INTEGRANTES DE LA FEDERACIÓN?",
+    "pregunta": "¿CUÁL DE LOS SIGUIENTES ARTÍCULOS CONSTITUCIONALES TRATA SOBRE LAS PARTES INTEGRANTES DE LA FEDERACIÓN Y EL TERRITORIO NACIONAL?",
     "opciones": {
-      "a": "ARTÍCULO 42",
-      "b": "ARTÍCULO 43",
-      "c": "ARTÍCULO 44",
-      "d": "ARTÍCULO 48"
+      "a": "Artículos 42, 43, 44 y 48",
+      "b": "Artículos 1, 2 y 3",
+      "c": "Artículos 80, 89 y 90",
+      "d": "Artículos 94 y 102"
     },
     "respuesta_correcta": "a",
     "fuente": "Constitución Política de los Estados Unidos Mexicanos, Título Segundo, Capítulo II, Artículos 42, 43, 44 y 48"
@@ -213,291 +213,171 @@
   {
     "tema": "Legislacion Naval",
     "tipo": "verdadero_falso",
-    "pregunta": "EL ARTÍCULO 49 CONSTITUCIONAL ESTABLECE LA DIVISIÓN DE PODERES EN EJECUTIVO, LEGISLATIVO Y JUDICIAL.",
+    "pregunta": "EL ARTÍCULO 16 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS INCLUYE DISPOSICIONES SOBRE GARANTÍAS INDIVIDUALES.",
     "respuesta_correcta": "a",
-    "fuente": "Constitución Política de los Estados Unidos Mexicanos, Título Tercero, Capítulo I, Artículo 49"
+    "fuente": "Constitución Política de los Estados Unidos Mexicanos, Artículo 16"
   },
   {
     "tema": "Legislacion Naval",
     "tipo": "opcion_multiple",
-    "pregunta": "¿QUÉ ARTÍCULO CONSTITUCIONAL ESTABLECE LAS FACULTADES DEL PRESIDENTE DE LA REPÚBLICA?",
+    "pregunta": "¿QUÉ ESTABLECE EL ARTÍCULO 108 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS?",
     "opciones": {
-      "a": "ARTÍCULO 80",
-      "b": "ARTÍCULO 89",
-      "c": "ARTÍCULO 90",
-      "d": "ARTÍCULO 94"
+      "a": "Las responsabilidades de los servidores públicos",
+      "b": "La estructura del Poder Ejecutivo",
+      "c": "Las atribuciones del Poder Judicial",
+      "d": "La división de poderes"
     },
-    "respuesta_correcta": "b",
-    "fuente": "Constitución Política de los Estados Unidos Mexicanos, Título Tercero, Capítulo III, Artículos 80, 89 (Fracciones VI, VII, VIII y XIII) y 90 (Párrafo 1)"
+    "respuesta_correcta": "a",
+    "fuente": "Constitución Política de los Estados Unidos Mexicanos, Título Cuarto, Artículo 108"
   },
   {
     "tema": "Legislacion Naval",
     "tipo": "opcion_multiple",
-    "pregunta": "¿CUÁL ARTÍCULO CONSTITUCIONAL ESTABLECE LA ESTRUCTURA DEL PODER JUDICIAL?",
+    "pregunta": "¿CUÁLES SON LOS CAPÍTULOS QUE INTEGRAN LA LEY GENERAL PARA PREVENIR, INVESTIGAR Y SANCIONAR LA TORTURA?",
     "opciones": {
-      "a": "ARTÍCULO 89",
-      "b": "ARTÍCULO 90",
-      "c": "ARTÍCULO 94",
-      "d": "ARTÍCULO 102"
+      "a": "Disposiciones generales y delitos",
+      "b": "Disposiciones generales, delitos y procedimientos",
+      "c": "Solo disposiciones generales",
+      "d": "Delitos y sanciones"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Ley General para Prevenir, Investigar y Sancionar la Tortura, Título Primero y Título Segundo"
+  },
+  {
+    "tema": "Legislacion Naval",
+    "tipo": "verdadero_falso",
+    "pregunta": "LA LEY GENERAL DE ACCESO A LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA CONTEMPLA DISPOSICIONES SOBRE VIOLENCIA INSTITUCIONAL.",
+    "respuesta_correcta": "a",
+    "fuente": "Ley General de Acceso a las Mujeres a una Vida Libre de Violencia, Capítulo IV, Artículo 18"
+  },
+  {
+    "tema": "Legislacion Naval",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿QUÉ REGULA EL CAPÍTULO VI DE LA LEY NACIONAL SOBRE EL USO DE LA FUERZA?",
+    "opciones": {
+      "a": "Los principios del uso de la fuerza",
+      "b": "El procedimiento del uso de la fuerza",
+      "c": "Las detenciones",
+      "d": "Los instrumentos del uso de la fuerza"
     },
     "respuesta_correcta": "c",
-    "fuente": "Constitución Política de los Estados Unidos Mexicanos, Título Tercero, Capítulo IV, Artículos 94 (Párrafo 1) y 102 (Apartado B., Párrafos 1 y 4)"
-  },
-  {
-    "tema": "Legislacion Naval",
-    "tipo": "verdadero_falso",
-    "pregunta": "EL ARTÍCULO 108 CONSTITUCIONAL ESTABLECE LAS RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS.",
-    "respuesta_correcta": "a",
-    "fuente": "Constitución Política de los Estados Unidos Mexicanos, Título Cuarto, Artículo 108 (Párrafo 1)"
-  },
-  {
-    "tema": "Legislacion Naval",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿QUÉ DEFINE LA LEY GENERAL PARA PREVENIR, INVESTIGAR Y SANCIONAR LA TORTURA COMO DELITO?",
-    "opciones": {
-      "a": "ACTO DE VIOLENCIA FÍSICA",
-      "b": "ACTO INTENCIONAL QUE CAUSA SUFRIMIENTO GRAVE",
-      "c": "ACTO DE REPRESIÓN POLÍTICA",
-      "d": "ACTO DE DISCRIMINACIÓN"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "Ley General para Prevenir, Investigar y Sancionar la Tortura, Título Primero, Capítulo Único, Artículo 5 (Fracción XVIII)"
-  },
-  {
-    "tema": "Legislacion Naval",
-    "tipo": "verdadero_falso",
-    "pregunta": "SEGÚN LA LEY GENERAL PARA PREVENIR LA TORTURA, ESTA INCLUYE ACTOS COMETIDOS POR SERVIDORES PÚBLICOS.",
-    "respuesta_correcta": "a",
-    "fuente": "Ley General para Prevenir, Investigar y Sancionar la Tortura, Título Segundo, Capítulo Primero, Artículos 7, 9, 10 y 13"
-  },
-  {
-    "tema": "Legislacion Naval",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CUÁL ES LA SANCIÓN PRINCIPAL POR EL DELITO DE TORTURA SEGÚN LA LEY?",
-    "opciones": {
-      "a": "MULTA ECONÓMICA",
-      "b": "PRISIÓN Y REPARACIÓN DEL DAÑO",
-      "c": "SUSPENSIÓN DE DERECHOS",
-      "d": "AMONESTACIÓN PÚBLICA"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "Ley General para Prevenir, Investigar y Sancionar la Tortura, Título Segundo, Capítulo Tercero, Artículos 24 y 26 (Párrafo 1)"
-  },
-  {
-    "tema": "Legislacion Naval",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿QUÉ DEFINE LA LEY GENERAL DE ACCESO A LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA?",
-    "opciones": {
-      "a": "SOLO VIOLENCIA FÍSICA",
-      "b": "TODA ACCIÓN U OMISIÓN QUE CAUSA DAÑO O SUFRIMIENTO",
-      "c": "VIOLENCIA POLÍTICA ÚNICAMENTE",
-      "d": "VIOLENCIA ECONÓMICA SOLAMENTE"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "Ley General de Acceso a las Mujeres a una Vida Libre de Violencia, Título Primero, Capítulo I, Artículos 5 (Fracciones IV, V, VI, VII, VIII, IX, X, XI, XV y XVII) y 6"
-  },
-  {
-    "tema": "Legislacion Naval",
-    "tipo": "verdadero_falso",
-    "pregunta": "LA LEY GENERAL DE ACCESO A LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA INCLUYE VIOLENCIA EN EL ÁMBITO FAMILIAR.",
-    "respuesta_correcta": "a",
-    "fuente": "Ley General de Acceso a las Mujeres a una Vida Libre de Violencia, Título II, Capítulo I, Artículo 7"
-  },
-  {
-    "tema": "Legislacion Naval",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿QUÉ TIPOS DE VIOLENCIA LABORAL RECONOCE LA LEY DE ACCESO A LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA?",
-    "opciones": {
-      "a": "SOLO ACOSO SEXUAL",
-      "b": "DISCRIMINACIÓN Y ACOSO SEXUAL",
-      "c": "SOLO DISCRIMINACIÓN",
-      "d": "VIOLENCIA FÍSICA ÚNICAMENTE"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "Ley General de Acceso a las Mujeres a una Vida Libre de Violencia, Título II, Capítulo II, Artículos 10, 11, 12 y 13"
-  },
-  {
-    "tema": "Legislacion Naval",
-    "tipo": "verdadero_falso",
-    "pregunta": "LA LEY DE ACCESO A LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA RECONOCE LA VIOLENCIA INSTITUCIONAL.",
-    "respuesta_correcta": "a",
-    "fuente": "Ley General de Acceso a las Mujeres a una Vida Libre de Violencia, Título II, Capítulo IV, Artículo 18"
-  },
-  {
-    "tema": "Legislacion Naval",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿QUÉ INCLUYE LA VIOLENCIA DIGITAL Y MEDIÁTICA SEGÚN LA LEY?",
-    "opciones": {
-      "a": "SOLO PUBLICACIONES EN REDES SOCIALES",
-      "b": "DIFUSIÓN DE CONTENIDO ÍNTIMO SIN CONSENTIMIENTO",
-      "c": "SOLO MENSAJES OFENSIVOS",
-      "d": "COMENTARIOS NEGATIVOS EN INTERNET"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "Ley General de Acceso a las Mujeres a una Vida Libre de Violencia, Título II, Capítulo IV TER, Artículos 20 quáter (Párrafo 1), 20 quinquies (Párrafo 1)"
-  },
-  {
-    "tema": "Legislacion Naval",
-    "tipo": "verdadero_falso",
-    "pregunta": "LA LEY DE ACCESO A LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA RECONOCE EL FEMINICIDIO COMO FORMA DE VIOLENCIA.",
-    "respuesta_correcta": "a",
-    "fuente": "Ley General de Acceso a las Mujeres a una Vida Libre de Violencia, Título II, Capítulo V, Artículo 21 (Párrafo 1)"
-  },
-  {
-    "tema": "Legislacion Naval",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CUÁL ES EL OBJETIVO PRINCIPAL DE LA LEY NACIONAL DEL REGISTRO DE DETENCIONES?",
-    "opciones": {
-      "a": "REGISTRAR ANTECEDENTES PENALES",
-      "b": "CREAR UN REGISTRO CENTRALIZADO DE DETENCIONES",
-      "c": "ESTABLECER PENAS PARA DELITOS",
-      "d": "REGULAR PROCEDIMIENTOS JUDICIALES"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "Ley Nacional del Registro de Detenciones, Capítulo I, Artículos 3 y 4"
-  },
-  {
-    "tema": "Legislacion Naval",
-    "tipo": "verdadero_falso",
-    "pregunta": "LA LEY NACIONAL DEL REGISTRO DE DETENCIONES ESTABLECE PROCEDIMIENTOS PARA INTERCAMBIO DE INFORMACIÓN.",
-    "respuesta_correcta": "a",
-    "fuente": "Ley Nacional del Registro de Detenciones, Capítulo VI, Artículos 17, 18, 19, 20 y 23"
-  },
-  {
-    "tema": "Legislacion Naval",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CUÁL ES EL PROPÓSITO PRINCIPAL DE LA LEY NACIONAL SOBRE EL USO DE LA FUERZA?",
-    "opciones": {
-      "a": "AUTORIZAR EL USO IRRESTRICTO DE FUERZA",
-      "b": "REGULAR Y LIMITAR EL USO DE LA FUERZA",
-      "c": "PROHIBIR COMPLETAMENTE EL USO DE FUERZA",
-      "d": "ESTABLECER TIPOS DE ARMAS PERMITIDAS"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "Ley Nacional sobre el Uso de la Fuerza, Capítulo I, Artículos 1, 3 (Fracciones I, III, IV y XIV)"
-  },
-  {
-    "tema": "Legislacion Naval",
-    "tipo": "verdadero_falso",
-    "pregunta": "LA LEY NACIONAL SOBRE EL USO DE LA FUERZA ESTABLECE PRINCIPIOS COMO LEGALIDAD Y PROPORCIONALIDAD.",
-    "respuesta_correcta": "a",
-    "fuente": "Ley Nacional sobre el Uso de la Fuerza, Capítulo II, Artículos 4, 5, 6, 7 y 8"
-  },
-  {
-    "tema": "Legislacion Naval",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿QUÉ ESTABLECE EL CAPÍTULO III DE LA LEY NACIONAL SOBRE EL USO DE LA FUERZA?",
-    "opciones": {
-      "a": "TIPOS DE ARMAS PERMITIDAS",
-      "b": "PROCEDIMIENTO DEL USO DE LA FUERZA",
-      "c": "SANCIONES POR MAL USO",
-      "d": "CAPACITACIÓN REQUERIDA"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "Ley Nacional sobre el Uso de la Fuerza, Capítulo III, Artículos 9, 10, 11, 12 y 13"
-  },
-  {
-    "tema": "Legislacion Naval",
-    "tipo": "verdadero_falso",
-    "pregunta": "LA LEY NACIONAL SOBRE EL USO DE LA FUERZA REGULA LOS INSTRUMENTOS QUE PUEDEN UTILIZARSE.",
-    "respuesta_correcta": "a",
-    "fuente": "Ley Nacional sobre el Uso de la Fuerza, Capítulo IV, Artículos 14, 15 y 16 (Párrafo 3)"
-  },
-  {
-    "tema": "Legislacion Naval",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿QUÉ ESTABLECE EL CAPÍTULO VI DE LA LEY NACIONAL SOBRE EL USO DE LA FUERZA?",
-    "opciones": {
-      "a": "PROCEDIMIENTOS DE DETENCIÓN",
-      "b": "TIPOS DE ARMAS",
-      "c": "CAPACITACIÓN POLICIAL",
-      "d": "INVESTIGACIÓN DE DELITOS"
-    },
-    "respuesta_correcta": "a",
     "fuente": "Ley Nacional sobre el Uso de la Fuerza, Capítulo VI, Artículos 21, 22, 24, 25 y 26"
   },
   {
     "tema": "Legislacion Naval",
     "tipo": "opcion_multiple",
-    "pregunta": "¿CUÁL ES LA FUNCIÓN PRINCIPAL DE LA LEY ORGÁNICA DE LA ARMADA DE MÉXICO?",
+    "pregunta": "¿CUÁL ES EL CONTENIDO DEL CAPÍTULO III DE LA LEY DE DISCIPLINA PARA EL PERSONAL DE LA ARMADA DE MÉXICO?",
     "opciones": {
-      "a": "ESTABLECER ESTRUCTURA Y ORGANIZACIÓN DE LA ARMADA",
-      "b": "REGULAR SOLO OPERACIONES NAVALES",
-      "c": "DEFINIR SANCIONES DISCIPLINARIAS",
-      "d": "ESTABLECER TRATADOS INTERNACIONALES"
-    },
-    "respuesta_correcta": "a",
-    "fuente": "Ley Orgánica de la Armada de México"
-  },
-  {
-    "tema": "Legislacion Naval",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿QUÉ REGULA LA LEY DE PROTECCIÓN DEL ESPACIO AÉREO MEXICANO?",
-    "opciones": {
-      "a": "SOLO VUELOS COMERCIALES",
-      "b": "PROTECCIÓN Y DEFENSA DEL ESPACIO AÉREO",
-      "c": "REGULACIÓN DE AEROPUERTOS",
-      "d": "LICENCIAS DE PILOTOS"
+      "a": "Disposiciones generales sobre disciplina",
+      "b": "Lineamientos de conducta del personal",
+      "c": "Estímulos y reconocimientos",
+      "d": "Medidas preventivas y correctivos"
     },
     "respuesta_correcta": "b",
-    "fuente": "Ley de Protección del Espacio Aéreo Mexicano, Capítulo I, Artículos 1, 2, 3, 4 y 5"
+    "fuente": "Ley de Disciplina para el Personal de la Armada de México, Capítulo III, Artículos 13 a 37"
   },
   {
     "tema": "Legislacion Naval",
     "tipo": "verdadero_falso",
-    "pregunta": "LA LEY DE DISCIPLINA PARA EL PERSONAL DE LA ARMADA ESTABLECE LINEAMIENTOS DE CONDUCTA.",
+    "pregunta": "LA LEY DE DISCIPLINA PARA EL PERSONAL DE LA ARMADA DE MÉXICO ESTABLECE CRITERIOS PARA LA IMPOSICIÓN Y GRADUACIÓN DE CORRECTIVOS DISCIPLINARIOS.",
     "respuesta_correcta": "a",
-    "fuente": "Ley de Disciplina para el Personal de la Armada de México, Capítulo III, Artículos 13 al 37"
+    "fuente": "Ley de Disciplina para el Personal de la Armada de México, Capítulo V, Sección Segunda, Artículos 67, 68, 70 y 71"
   },
   {
     "tema": "Legislacion Naval",
     "tipo": "opcion_multiple",
-    "pregunta": "¿QUÉ INCLUYE LA LEY DE DISCIPLINA PARA EL PERSONAL DE LA ARMADA?",
+    "pregunta": "¿QUÉ DEFINE LA LEY DE NAVEGACIÓN Y COMERCIO MARÍTIMOS COMO BUQUE?",
     "opciones": {
-      "a": "SOLO SANCIONES",
-      "b": "DISPOSICIONES GENERALES Y ESTÍMULOS",
-      "c": "SOLO PROCEDIMIENTOS JUDICIALES",
-      "d": "REGULACIÓN DE SALARIOS"
+      "a": "Toda construcción flotante destinada a navegar",
+      "b": "Solo embarcaciones militares",
+      "c": "Únicamente barcos de carga",
+      "d": "Construcciones flotantes de más de 100 toneladas"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Ley de Navegación y Comercio Marítimos, Capítulo I, Artículos 1, 2, 3, 4 y 5"
+  },
+  {
+    "tema": "Legislacion Naval",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁLES SON LAS FRACCIONES DEL ARTÍCULO 2 DE LA LEY DE NAVEGACIÓN Y COMERCIO MARÍTIMOS QUE SE INCLUYEN EN EL TEMARIO?",
+    "opciones": {
+      "a": "Fracciones I y II",
+      "b": "Fracciones II, III, IV, V, VI, VII, VII Bis y VII Ter",
+      "c": "Fracciones I a X",
+      "d": "Solo la Fracción I"
     },
     "respuesta_correcta": "b",
-    "fuente": "Ley de Disciplina para el Personal de la Armada de México, Capítulos I, III y IV"
+    "fuente": "Ley de Navegación y Comercio Marítimos, Artículo 2"
   },
   {
     "tema": "Legislacion Naval",
     "tipo": "verdadero_falso",
-    "pregunta": "LA LEY DE DISCIPLINA PARA EL PERSONAL DE LA ARMADA ESTABLECE MEDIDAS PREVENTIVAS Y CORRECTIVOS.",
+    "pregunta": "EL REGLAMENTO GENERAL DE DEBERES NAVALES INCLUYE DISPOSICIONES SOBRE EL RÉGIMEN DISCIPLINARIO DEL PERSONAL.",
     "respuesta_correcta": "a",
-    "fuente": "Ley de Disciplina para el Personal de la Armada de México, Capítulo V, Sección Primera"
+    "fuente": "Reglamento General de Deberes Navales, Libro Primero, Título Primero, Capítulo V"
   },
   {
     "tema": "Legislacion Naval",
     "tipo": "opcion_multiple",
-    "pregunta": "¿QUÉ ESTABLECE LA LEY DE DISCIPLINA RESPECTO A CIRCUNSTANCIAS ATENUANTES?",
+    "pregunta": "¿QUÉ ESTABLECE EL ARTÍCULO 4 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS?",
     "opciones": {
-      "a": "QUE NO EXISTEN",
-      "b": "QUE PUEDEN REDUCIR LA SANCIÓN",
-      "c": "QUE AUMENTAN LA SANCIÓN",
-      "d": "QUE ANULAN LA SANCIÓN"
+      "a": "Derechos humanos y garantías",
+      "b": "Derechos a la educación, salud, vivienda y otros derechos sociales",
+      "c": "La división de poderes",
+      "d": "Las responsabilidades de servidores públicos"
     },
     "respuesta_correcta": "b",
-    "fuente": "Ley de Disciplina para el Personal de la Armada de México, Capítulo V, Sección Tercera, Artículo 72"
+    "fuente": "Constitución Política de los Estados Unidos Mexicanos, Artículo 4"
   },
   {
     "tema": "Legislacion Naval",
     "tipo": "verdadero_falso",
-    "pregunta": "LA LEY DE DISCIPLINA PARA EL PERSONAL DE LA ARMADA RECONOCE CIRCUNSTANCIAS AGRAVANTES.",
+    "pregunta": "SEGÚN LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EL ARTÍCULO 6 REGULA EL DERECHO A LA INFORMACIÓN.",
     "respuesta_correcta": "a",
-    "fuente": "Ley de Disciplina para el Personal de la Armada de México, Capítulo V, Sección Cuarta, Artículo 73"
+    "fuente": "Constitución Política de los Estados Unidos Mexicanos, Artículo 6"
   },
   {
     "tema": "Legislacion Naval",
     "tipo": "opcion_multiple",
-    "pregunta": "¿QUÉ ESTABLECE LA LEY DE DISCIPLINA SOBRE ORGANISMOS DISCIPLINARIOS?",
+    "pregunta": "¿CUÁL ES EL PROPÓSITO DE LA LEY NACIONAL DEL REGISTRO DE DETENCIONES EN CUANTO AL PROCEDIMIENTO DE SUMINISTRO DE INFORMACIÓN?",
     "opciones": {
-      "a": "QUE NO EXISTEN",
-      "b": "SU ESTRUCTURA Y FUNCIONES",
-      "c": "SOLO SUS SANCIONES",
-      "d": "SOLO SUS PROCEDIMIENTOS"
+      "a": "Establecer sanciones por detenciones ilegales",
+      "b": "Permitir el intercambio y actualización de información del registro",
+      "c": "Regular solo las detenciones militares",
+      "d": "Definir procedimientos de investigación"
+    },
+    "respuesta_correcta": "b",
+    "fuente": "Ley Nacional del Registro de Detenciones, Capítulo VI, Artículos 17, 18, 19, 20 y 23"
+  },
+  {
+    "tema": "Legislacion Naval",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿QUÉ INCLUYE EL CAPÍTULO IV DE LA LEY NACIONAL SOBRE EL USO DE LA FUERZA?",
+    "opciones": {
+      "a": "Principios del uso de la fuerza",
+      "b": "Procedimiento del uso de la fuerza",
+      "c": "Instrumentos del uso de la fuerza",
+      "d": "Detenciones"
+    },
+    "respuesta_correcta": "c",
+    "fuente": "Ley Nacional sobre el Uso de la Fuerza, Capítulo IV, Artículos 14, 15 y 16"
+  },
+  {
+    "tema": "Legislacion Naval",
+    "tipo": "verdadero_falso",
+    "pregunta": "LA LEY DE DISCIPLINA PARA EL PERSONAL DE LA ARMADA DE MÉXICO ESTABLECE CIRCUNSTANCIAS ATENUANTES Y AGRAVANTES EN LA IMPOSICIÓN DE CORRECTIVOS.",
+    "respuesta_correcta": "a",
+    "fuente": "Ley de Disciplina para el Personal de la Armada de México, Capítulo V, Secciones Tercera y Cuarta, Artículos 72 y 73"
+  },
+  {
+    "tema": "Legislacion Naval",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁL ES LA FUNCIÓN PRINCIPAL DE LOS ORGANISMOS DISCIPLINARIOS SEGÚN LA LEY DE DISCIPLINA PARA EL PERSONAL DE LA ARMADA DE MÉXICO?",
+    "opciones": {
+      "a": "Otorgar estímulos al personal",
+      "b": "Investigar y resolver asuntos disciplinarios",
+      "c": "Administrar recursos financieros",
+      "d": "Coordinar operaciones navales"
     },
     "respuesta_correcta": "b",
     "fuente": "Ley de Disciplina para el Personal de la Armada de México, Capítulo VI, Artículos 74, 76 y 77"
@@ -505,460 +385,549 @@
   {
     "tema": "Legislacion Naval",
     "tipo": "opcion_multiple",
-    "pregunta": "¿CUÁL ES EL ÁMBITO DE APLICACIÓN DE LA LEY DE NAVEGACIÓN Y COMERCIO MARÍTIMOS?",
+    "pregunta": "¿QUÉ ESTABLECE EL ARTÍCULO 9 DE LA LEY DE NAVEGACIÓN Y COMERCIO MARÍTIMOS RESPECTO A LA AUTORIDAD MARÍTIMA NACIONAL?",
     "opciones": {
-      "a": "SOLO AGUAS INTERIORES",
-      "b": "NAVEGACIÓN Y COMERCIO EN AGUAS MEXICANAS",
-      "c": "SOLO PUERTOS",
-      "d": "SOLO BUQUES MILITARES"
+      "a": "Sus atribuciones en materia de navegación y comercio marítimos",
+      "b": "Su estructura organizacional",
+      "c": "Sus procedimientos administrativos",
+      "d": "Sus sanciones por incumplimiento"
     },
-    "respuesta_correcta": "b",
-    "fuente": "Ley de Navegación y Comercio Marítimos, Título Primero, Capítulo I, Artículos 1, 2 (Fracciones II, III, IV, V, VI, VII, VII Bis, y VII Ter), 3, 4 y 5"
+    "respuesta_correcta": "a",
+    "fuente": "Ley de Navegación y Comercio Marítimos, Artículo 9"
   },
   {
     "tema": "Legislacion Naval",
     "tipo": "verdadero_falso",
-    "pregunta": "LA LEY DE NAVEGACIÓN Y COMERCIO MARÍTIMOS ESTABLECE LA AUTORIDAD MARÍTIMA NACIONAL.",
+    "pregunta": "LA LEY DE PUERTOS ESTABLECE QUE LA SECRETARÍA DE MARINA TIENE COMPETENCIA EXCLUSIVA EN MATERIA DE PUERTOS.",
     "respuesta_correcta": "a",
-    "fuente": "Ley de Navegación y Comercio Marítimos, Título Primero, Capítulo II, Artículos 7 (Fracción I), 8, 9 (Fracciones I, II, IV, VI, IX) y 9 Ter"
+    "fuente": "Ley de Puertos, Capítulo III, Artículos 16, 18 y 19 Bis"
   },
   {
     "tema": "Legislacion Naval",
     "tipo": "opcion_multiple",
-    "pregunta": "¿QUÉ REGULA LA LEY DE PUERTOS?",
+    "pregunta": "¿CUÁL ES EL CONTENIDO DEL REGLAMENTO GENERAL DE DEBERES NAVALES EN CUANTO A DEBERES COMUNES?",
     "opciones": {
-      "a": "SOLO OPERACIONES NAVALES",
-      "b": "ADMINISTRACIÓN Y OPERACIÓN DE PUERTOS",
-      "c": "SOLO COMERCIO MARÍTIMO",
-      "d": "SOLO SEGURIDAD PORTUARIA"
+      "a": "Deberes específicos de cada rango",
+      "b": "Deberes comunes para todo el personal naval",
+      "c": "Deberes administrativos",
+      "d": "Deberes operacionales"
     },
     "respuesta_correcta": "b",
-    "fuente": "Ley de Puertos, Capítulo III, Artículos 16, 18, 19 Bis"
-  },
-  {
-    "tema": "Legislacion Naval",
-    "tipo": "verdadero_falso",
-    "pregunta": "EL REGLAMENTO GENERAL DE DEBERES NAVALES ESTABLECE DEBERES DEL PERSONAL NAVAL.",
-    "respuesta_correcta": "a",
-    "fuente": "Reglamento General de Deberes Navales, Libro Primero, Título Primero, Capítulo I, Artículos 2, 3, 4, 5, 6 y 7"
-  },
-  {
-    "tema": "Legislacion Naval",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿QUÉ INCLUYE EL REGLAMENTO GENERAL DE DEBERES NAVALES?",
-    "opciones": {
-      "a": "SOLO DEBERES GENERALES",
-      "b": "DEBERES GENERALES Y RÉGIMEN DISCIPLINARIO",
-      "c": "SOLO PROCEDIMIENTOS JUDICIALES",
-      "d": "SOLO SANCIONES"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "Reglamento General de Deberes Navales, Libro Primero, Título Primero, Capítulos I, II, III y V"
-  },
-  {
-    "tema": "Legislacion Naval",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CUÁL ES EL PROPÓSITO DEL CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE MARINA?",
-    "opciones": {
-      "a": "ESTABLECER SANCIONES ÚNICAMENTE",
-      "b": "GUIAR LA CONDUCTA ÉTICA DEL PERSONAL",
-      "c": "REGULAR SOLO OPERACIONES",
-      "d": "ESTABLECER PROCEDIMIENTOS JUDICIALES"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "Código de Conducta de la Secretaría de Marina, Ámbito de Aplicación y Obligatoriedad, Glosario, Riesgos Éticos, Valores Fundamentales"
-  },
-  {
-    "tema": "Legislacion Naval",
-    "tipo": "verdadero_falso",
-    "pregunta": "EL CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE MARINA IDENTIFICA RIESGOS ÉTICOS.",
-    "respuesta_correcta": "a",
-    "fuente": "Código de Conducta de la Secretaría de Marina, Riesgos Éticos"
-  },
-  {
-    "tema": "Legislacion Naval",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿QUÉ ESTABLECE LA POLÍTICA NACIONAL MARÍTIMA?",
-    "opciones": {
-      "a": "SOLO OPERACIONES NAVALES",
-      "b": "INTERESES MARÍTIMOS NACIONALES",
-      "c": "SOLO COMERCIO MARÍTIMO",
-      "d": "SOLO DEFENSA COSTERA"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "Política Nacional Marítima, V. Los Intereses Marítimos Nacionales (Párrafo 1), Anexo 2. Glosario"
-  },
-  {
-    "tema": "Legislacion Naval",
-    "tipo": "verdadero_falso",
-    "pregunta": "EL PROTOCOLO DE ACTUACIÓN DEL PERSONAL NAVAL EN FUNCIONES DE GUARDIA COSTERA ESTABLECE OBJETIVOS Y POLÍTICAS.",
-    "respuesta_correcta": "a",
-    "fuente": "Protocolo de Actuación del Personal Naval en Funciones de Guardia Costera, Presentación, Objetivos, Sujetos del Protocolo, Principales Roles, Políticas de Operación"
-  },
-  {
-    "tema": "Legislacion Naval",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿QUÉ INCLUYE EL PROTOCOLO DE ACTUACIÓN DEL PERSONAL NAVAL EN FUNCIONES DE GUARDIA COSTERA?",
-    "opciones": {
-      "a": "SOLO OBJETIVOS",
-      "b": "OBJETIVOS, ROLES Y POLÍTICAS DE OPERACIÓN",
-      "c": "SOLO PROCEDIMIENTOS JUDICIALES",
-      "d": "SOLO SANCIONES"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "Protocolo de Actuación del Personal Naval en Funciones de Guardia Costera, Presentación, Objetivos, Sujetos del Protocolo, Principales Roles, Políticas de Operación"
-  },
-  {
-    "tema": "Legislacion Naval",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CUÁL ARTÍCULO CONSTITUCIONAL ESTABLECE QUE NADIE PUEDE SER JUZGADO DOS VECES POR EL MISMO DELITO?",
-    "opciones": {
-      "a": "ARTÍCULO 16",
-      "b": "ARTÍCULO 19",
-      "c": "ARTÍCULO 20",
-      "d": "ARTÍCULO 21"
-    },
-    "respuesta_correcta": "c",
-    "fuente": "Constitución Política de los Estados Unidos Mexicanos, Título Primero, Capítulo I, Artículo 20 (apartados B. y C.)"
-  },
-  {
-    "tema": "Legislacion Naval",
-    "tipo": "verdadero_falso",
-    "pregunta": "LA CONSTITUCIÓN POLÍTICA ESTABLECE QUE LA JUSTICIA DEBE SER PRONTA Y EXPEDITA.",
-    "respuesta_correcta": "a",
-    "fuente": "Constitución Política de los Estados Unidos Mexicanos, Título Primero, Capítulo I, Artículo 17 (Párrafos 1 y 2)"
-  },
-  {
-    "tema": "Legislacion Naval",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿QUÉ ESTABLECE EL ARTÍCULO 22 CONSTITUCIONAL?",
-    "opciones": {
-      "a": "DERECHOS POLÍTICOS",
-      "b": "PROHIBICIÓN DE PENAS CRUELES",
-      "c": "LIBERTAD DE EXPRESIÓN",
-      "d": "DERECHO A LA EDUCACIÓN"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "Constitución Política de los Estados Unidos Mexicanos, Título Primero, Capítulo I, Artículo 22 (Párrafo 1)"
-  },
-  {
-    "tema": "Legislacion Naval",
-    "tipo": "verdadero_falso",
-    "pregunta": "LA LEY GENERAL PARA PREVENIR LA TORTURA ESTABLECE RESPONSABILIDADES DE SERVIDORES PÚBLICOS.",
-    "respuesta_correcta": "a",
-    "fuente": "Ley General para Prevenir, Investigar y Sancionar la Tortura, Título Segundo, Capítulo Primero, Artículos 7, 9, 10 y 13"
-  },
-  {
-    "tema": "Legislacion Naval",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿QUÉ MODALIDADES DE VIOLENCIA RECONOCE LA LEY DE ACCESO A LAS MUJERES?",
-    "opciones": {
-      "a": "SOLO VIOLENCIA FÍSICA",
-      "b": "FAMILIAR, LABORAL, INSTITUCIONAL Y DIGITAL",
-      "c": "SOLO VIOLENCIA LABORAL",
-      "d": "SOLO VIOLENCIA FAMILIAR"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "Ley General de Acceso a las Mujeres a una Vida Libre de Violencia, Título II, Capítulos I, II, IV, IV TER y V"
-  },
-  {
-    "tema": "Legislacion Naval",
-    "tipo": "verdadero_falso",
-    "pregunta": "LA LEY NACIONAL DEL REGISTRO DE DETENCIONES ESTABLECE PROCEDIMIENTOS DE ACTUALIZACIÓN DE INFORMACIÓN.",
-    "respuesta_correcta": "a",
-    "fuente": "Ley Nacional del Registro de Detenciones, Capítulo VI, Artículos 17, 18, 19, 20 y 23"
-  },
-  {
-    "tema": "Legislacion Naval",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CUÁLES SON LOS PRINCIPIOS FUNDAMENTALES DEL USO DE LA FUERZA?",
-    "opciones": {
-      "a": "SOLO LEGALIDAD",
-      "b": "LEGALIDAD, PROPORCIONALIDAD Y NECESIDAD",
-      "c": "SOLO PROPORCIONALIDAD",
-      "d": "SOLO NECESIDAD"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "Ley Nacional sobre el Uso de la Fuerza, Capítulo II, Artículos 4, 5, 6, 7 y 8"
-  },
-  {
-    "tema": "Legislacion Naval",
-    "tipo": "verdadero_falso",
-    "pregunta": "LA LEY NACIONAL SOBRE EL USO DE LA FUERZA REGULA PROCEDIMIENTOS DE DETENCIÓN.",
-    "respuesta_correcta": "a",
-    "fuente": "Ley Nacional sobre el Uso de la Fuerza, Capítulo VI, Artículos 21, 22, 24, 25 y 26"
-  },
-  {
-    "tema": "Legislacion Naval",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿QUÉ ESTABLECE LA LEY DE DISCIPLINA SOBRE ESTÍMULOS AL PERSONAL?",
-    "opciones": {
-      "a": "QUE NO EXISTEN",
-      "b": "SU EXISTENCIA Y TIPOS",
-      "c": "SOLO SANCIONES",
-      "d": "SOLO PROCEDIMIENTOS"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "Ley de Disciplina para el Personal de la Armada de México, Capítulo IV, Artículos 38, 39 y 40"
-  },
-  {
-    "tema": "Legislacion Naval",
-    "tipo": "verdadero_falso",
-    "pregunta": "LA LEY DE DISCIPLINA ESTABLECE CRITERIOS PARA LA IMPOSICIÓN Y GRADUACIÓN DE CORRECTIVOS.",
-    "respuesta_correcta": "a",
-    "fuente": "Ley de Disciplina para el Personal de la Armada de México, Capítulo V, Sección Segunda, Artículos 67, 68, 70 y 71"
-  },
-  {
-    "tema": "Legislacion Naval",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿QUÉ DEFINE LA LEY DE NAVEGACIÓN Y COMERCIO MARÍTIMOS COMO AUTORIDAD MARÍTIMA?",
-    "opciones": {
-      "a": "SOLO PUERTOS",
-      "b": "ENTIDAD RESPONSABLE DE NAVEGACIÓN Y COMERCIO",
-      "c": "SOLO BUQUES",
-      "d": "SOLO DEFENSA COSTERA"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "Ley de Navegación y Comercio Marítimos, Título Primero, Capítulo II, Artículos 7 (Fracción I), 8, 9 (Fracciones I, II, IV, VI, IX) y 9 Ter"
-  },
-  {
-    "tema": "Legislacion Naval",
-    "tipo": "verdadero_falso",
-    "pregunta": "EL REGLAMENTO GENERAL DE DEBERES NAVALES ESTABLECE DEBERES COMUNES PARA EL PERSONAL NAVAL.",
-    "respuesta_correcta": "a",
     "fuente": "Reglamento General de Deberes Navales, Libro Primero, Título Primero, Capítulo III"
   },
   {
     "tema": "Legislacion Naval",
     "tipo": "opcion_multiple",
-    "pregunta": "¿QUÉ ESTABLECE EL CÓDIGO DE CONDUCTA SOBRE VALORES FUNDAMENTALES?",
+    "pregunta": "¿QUÉ DEFINE EL CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE MARINA COMO RIESGOS ÉTICOS?",
     "opciones": {
-      "a": "QUE NO EXISTEN",
-      "b": "LOS VALORES DE LA SECRETARÍA DE MARINA",
-      "c": "SOLO PROCEDIMIENTOS",
-      "d": "SOLO SANCIONES"
+      "a": "Situaciones que pueden comprometer la integridad del personal",
+      "b": "Únicamente conflictos de interés",
+      "c": "Solo violaciones disciplinarias",
+      "d": "Procedimientos administrativos"
     },
-    "respuesta_correcta": "b",
-    "fuente": "Código de Conducta de la Secretaría de Marina, Valores Fundamentales de la Secretaría de Marina"
+    "respuesta_correcta": "a",
+    "fuente": "Código de Conducta de la Secretaría de Marina, Riesgos éticos"
   },
   {
     "tema": "Legislacion Naval",
     "tipo": "verdadero_falso",
-    "pregunta": "LA POLÍTICA NACIONAL MARÍTIMA INCLUYE UN GLOSARIO DE TÉRMINOS.",
+    "pregunta": "LA POLÍTICA NACIONAL MARÍTIMA INCLUYE UN GLOSARIO DE TÉRMINOS RELACIONADOS CON LOS INTERESES MARÍTIMOS NACIONALES.",
     "respuesta_correcta": "a",
-    "fuente": "Política Nacional Marítima, Anexo 2. Glosario"
+    "fuente": "Política Nacional Marítima, Anexo 2, Glosario"
   },
   {
     "tema": "Legislacion Naval",
     "tipo": "opcion_multiple",
-    "pregunta": "¿CUÁL ES EL OBJETIVO GENERAL DEL PROTOCOLO DE ACTUACIÓN DEL PERSONAL NAVAL EN GUARDIA COSTERA?",
+    "pregunta": "¿CUÁLES SON LOS SUJETOS DEL PROTOCOLO DE ACTUACIÓN DEL PERSONAL NAVAL EN FUNCIONES DE GUARDIA COSTERA?",
     "opciones": {
-      "a": "SOLO DEFENSA",
-      "b": "ESTABLECER PROCEDIMIENTOS DE ACTUACIÓN",
-      "c": "SOLO COMERCIO",
-      "d": "SOLO INVESTIGACIÓN"
+      "a": "Solo oficiales de la Armada",
+      "b": "Personal naval en funciones de guardia costera",
+      "c": "Únicamente marinería",
+      "d": "Personal administrativo"
     },
     "respuesta_correcta": "b",
-    "fuente": "Protocolo de Actuación del Personal Naval en Funciones de Guardia Costera, Objetivos General y Específicos"
-  },
-  {
-    "tema": "Legislacion Naval",
-    "tipo": "verdadero_falso",
-    "pregunta": "EL PROTOCOLO DE GUARDIA COSTERA ESTABLECE SUJETOS Y ROLES DEL PERSONAL.",
-    "respuesta_correcta": "a",
-    "fuente": "Protocolo de Actuación del Personal Naval en Funciones de Guardia Costera, Sujetos del Protocolo, Principales Roles"
+    "fuente": "Protocolo de Actuación del Personal Naval en Funciones de Guardia Costera, Sujetos del protocolo"
   },
   {
     "tema": "Legislacion Naval",
     "tipo": "opcion_multiple",
-    "pregunta": "¿QUÉ ESTABLECE LA CONSTITUCIÓN SOBRE DERECHOS DE LOS PUEBLOS INDÍGENAS?",
+    "pregunta": "¿QUÉ ESTABLECE EL ARTÍCULO 8 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS?",
     "opciones": {
-      "a": "QUE NO EXISTEN",
-      "b": "RECONOCIMIENTO Y PROTECCIÓN",
-      "c": "SOLO DERECHOS POLÍTICOS",
-      "d": "SOLO DERECHOS ECONÓMICOS"
+      "a": "El derecho de petición",
+      "b": "La libertad de expresión",
+      "c": "El derecho a la educación",
+      "d": "La libertad de asociación"
     },
-    "respuesta_correcta": "b",
-    "fuente": "Constitución Política de los Estados Unidos Mexicanos, Título Primero, Capítulo I, Artículo 2 (Párrafo 1)"
+    "respuesta_correcta": "a",
+    "fuente": "Constitución Política de los Estados Unidos Mexicanos, Artículo 8"
   },
   {
     "tema": "Legislacion Naval",
     "tipo": "verdadero_falso",
-    "pregunta": "LA CONSTITUCIÓN ESTABLECE QUE LA EDUCACIÓN DEBE SER LAICA Y GRATUITA.",
+    "pregunta": "EL ARTÍCULO 9 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS GARANTIZA LA LIBERTAD DE ASOCIACIÓN.",
     "respuesta_correcta": "a",
-    "fuente": "Constitución Política de los Estados Unidos Mexicanos, Título Primero, Capítulo I, Artículo 3 (Párrafos 1 y 2)"
+    "fuente": "Constitución Política de los Estados Unidos Mexicanos, Artículo 9"
   },
   {
     "tema": "Legislacion Naval",
     "tipo": "opcion_multiple",
-    "pregunta": "¿QUÉ INCLUYE EL ARTÍCULO 4 CONSTITUCIONAL?",
+    "pregunta": "¿QUÉ REGULA EL ARTÍCULO 10 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS?",
     "opciones": {
-      "a": "SOLO DERECHOS POLÍTICOS",
-      "b": "DERECHOS SOCIALES Y ECONÓMICOS",
-      "c": "SOLO LIBERTADES",
-      "d": "SOLO GARANTÍAS"
+      "a": "El derecho a la educación",
+      "b": "El derecho a poseer armas",
+      "c": "El derecho a la salud",
+      "d": "El derecho a la vivienda"
     },
     "respuesta_correcta": "b",
-    "fuente": "Constitución Política de los Estados Unidos Mexicanos, Título Primero, Capítulo I, Artículo 4 (Párrafos 1, 2, 3, 4, 5 y 6)"
+    "fuente": "Constitución Política de los Estados Unidos Mexicanos, Artículo 10"
   },
   {
     "tema": "Legislacion Naval",
     "tipo": "verdadero_falso",
-    "pregunta": "LA CONSTITUCIÓN ESTABLECE DISPOSICIONES SOBRE LIBERTAD DE EXPRESIÓN E INFORMACIÓN.",
+    "pregunta": "EL ARTÍCULO 11 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS ESTABLECE EL DERECHO A LA LIBRE CIRCULACIÓN.",
     "respuesta_correcta": "a",
-    "fuente": "Constitución Política de los Estados Unidos Mexicanos, Título Primero, Capítulo I, Artículo 6 (Párrafos 1, 2 y 4 apartado A, Fracciones I y II)"
+    "fuente": "Constitución Política de los Estados Unidos Mexicanos, Artículo 11"
   },
   {
     "tema": "Legislacion Naval",
     "tipo": "opcion_multiple",
-    "pregunta": "¿QUÉ ESTABLECE EL ARTÍCULO 13 CONSTITUCIONAL?",
+    "pregunta": "¿QUÉ ESTABLECE EL ARTÍCULO 13 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS?",
     "opciones": {
-      "a": "LIBERTAD DE TRÁNSITO",
-      "b": "PROHIBICIÓN DE LEYES PRIVATIVAS",
-      "c": "DERECHOS POLÍTICOS",
-      "d": "GARANTÍAS JUDICIALES"
+      "a": "La prohibición de leyes ex post facto",
+      "b": "El derecho a la educación",
+      "c": "La libertad de expresión",
+      "d": "El derecho a la salud"
     },
-    "respuesta_correcta": "b",
-    "fuente": "Constitución Política de los Estados Unidos Mexicanos, Título Primero, Capítulo I, Artículo 13"
-  },
-  {
-    "tema": "Legislacion Naval",
-    "tipo": "verdadero_falso",
-    "pregunta": "LA CONSTITUCIÓN ESTABLECE QUE TODA PERSONA TIENE DERECHO A LA PROPIEDAD.",
     "respuesta_correcta": "a",
-    "fuente": "Constitución Política de los Estados Unidos Mexicanos, Título Primero, Capítulo I, Artículo 27 (Párrafos 1, 4, 5 y 9)"
+    "fuente": "Constitución Política de los Estados Unidos Mexicanos, Artículo 13"
   },
   {
     "tema": "Legislacion Naval",
     "tipo": "opcion_multiple",
-    "pregunta": "¿QUÉ ESTABLECE EL ARTÍCULO 43 CONSTITUCIONAL?",
+    "pregunta": "¿CUÁLES SON LOS PÁRRAFOS DEL ARTÍCULO 17 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS QUE SE INCLUYEN EN EL TEMARIO?",
     "opciones": {
-      "a": "PARTES INTEGRANTES DE LA FEDERACIÓN",
-      "b": "TERRITORIO NACIONAL",
-      "c": "DIVISIÓN DE PODERES",
-      "d": "RESPONSABILIDADES"
+      "a": "Párrafos 1 y 2",
+      "b": "Párrafos 1, 2 y 3",
+      "c": "Solo el Párrafo 1",
+      "d": "Párrafos 2 y 3"
     },
     "respuesta_correcta": "a",
-    "fuente": "Constitución Política de los Estados Unidos Mexicanos, Título Segundo, Capítulo II, Artículos 42, 43, 44 y 48"
+    "fuente": "Constitución Política de los Estados Unidos Mexicanos, Artículo 17"
   },
   {
     "tema": "Legislacion Naval",
     "tipo": "verdadero_falso",
-    "pregunta": "LA CONSTITUCIÓN ESTABLECE QUE EL PODER EJECUTIVO RESIDE EN EL PRESIDENTE.",
+    "pregunta": "EL ARTÍCULO 19 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS REGULA LAS GARANTÍAS PROCESALES EN MATERIA PENAL.",
     "respuesta_correcta": "a",
-    "fuente": "Constitución Política de los Estados Unidos Mexicanos, Título Tercero, Capítulo III, Artículos 80, 89 (Fracciones VI, VII, VIII y XIII) y 90 (Párrafo 1)"
+    "fuente": "Constitución Política de los Estados Unidos Mexicanos, Artículo 19"
   },
   {
     "tema": "Legislacion Naval",
     "tipo": "opcion_multiple",
-    "pregunta": "¿QUÉ ESTABLECE EL ARTÍCULO 90 CONSTITUCIONAL?",
+    "pregunta": "¿QUÉ ESTABLECE EL ARTÍCULO 20 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS?",
     "opciones": {
-      "a": "ESTRUCTURA DEL PODER JUDICIAL",
-      "b": "ADMINISTRACIÓN PÚBLICA FEDERAL",
-      "c": "FACULTADES PRESIDENCIALES",
-      "d": "RESPONSABILIDADES"
+      "a": "Derechos de la víctima y del imputado",
+      "b": "Derechos de los trabajadores",
+      "c": "Derechos de los ciudadanos",
+      "d": "Derechos de los extranjeros"
     },
-    "respuesta_correcta": "b",
-    "fuente": "Constitución Política de los Estados Unidos Mexicanos, Título Tercero, Capítulo III, Artículos 80, 89 (Fracciones VI, VII, VIII y XIII) y 90 (Párrafo 1)"
-  },
-  {
-    "tema": "Legislacion Naval",
-    "tipo": "verdadero_falso",
-    "pregunta": "LA CONSTITUCIÓN ESTABLECE QUE LA COMISIÓN NACIONAL DE DERECHOS HUMANOS TIENE AUTONOMÍA.",
     "respuesta_correcta": "a",
-    "fuente": "Constitución Política de los Estados Unidos Mexicanos, Título Tercero, Capítulo IV, Artículos 94 (Párrafo 1) y 102 (Apartado B., Párrafos 1 y 4)"
+    "fuente": "Constitución Política de los Estados Unidos Mexicanos, Artículo 20"
   },
   {
     "tema": "Legislacion Naval",
     "tipo": "opcion_multiple",
-    "pregunta": "¿QUÉ ESTABLECE LA LEY GENERAL PARA PREVENIR LA TORTURA SOBRE RESPONSABILIDAD?",
+    "pregunta": "¿CUÁLES SON LOS PÁRRAFOS DEL ARTÍCULO 21 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS QUE SE INCLUYEN EN EL TEMARIO?",
     "opciones": {
-      "a": "SOLO RESPONSABILIDAD PENAL",
-      "b": "RESPONSABILIDAD PENAL Y ADMINISTRATIVA",
-      "c": "SOLO RESPONSABILIDAD CIVIL",
-      "d": "NO ESTABLECE RESPONSABILIDAD"
+      "a": "Párrafos 1, 2 y 9",
+      "b": "Párrafos 1 y 2",
+      "c": "Solo el Párrafo 1",
+      "d": "Párrafos 1 a 5"
     },
-    "respuesta_correcta": "b",
-    "fuente": "Ley General para Prevenir, Investigar y Sancionar la Tortura, Título Segundo, Capítulo Primero, Artículos 7, 9, 10 y 13"
+    "respuesta_correcta": "a",
+    "fuente": "Constitución Política de los Estados Unidos Mexicanos, Artículo 21"
   },
   {
     "tema": "Legislacion Naval",
     "tipo": "verdadero_falso",
-    "pregunta": "LA LEY DE ACCESO A LAS MUJERES ESTABLECE MEDIDAS DE PREVENCIÓN Y ATENCIÓN.",
+    "pregunta": "EL ARTÍCULO 22 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS PROHÍBE PENAS INUSITADAS Y TRASCENDENTALES.",
     "respuesta_correcta": "a",
-    "fuente": "Ley General de Acceso a las Mujeres a una Vida Libre de Violencia, Título Primero, Capítulo I, Artículos 5 (Fracciones IV, V, VI, VII, VIII, IX, X, XI, XV y XVII) y 6"
+    "fuente": "Constitución Política de los Estados Unidos Mexicanos, Artículo 22"
   },
   {
     "tema": "Legislacion Naval",
     "tipo": "opcion_multiple",
-    "pregunta": "¿QUÉ ESTABLECE LA LEY NACIONAL SOBRE EL USO DE LA FUERZA RESPECTO A CAPACITACIÓN?",
+    "pregunta": "¿QUÉ REGULA EL ARTÍCULO 23 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS?",
     "opciones": {
-      "a": "QUE NO ES NECESARIA",
-      "b": "QUE ES OBLIGATORIA",
-      "c": "QUE ES OPCIONAL",
-      "d": "QUE NO LA REGULA"
+      "a": "La responsabilidad penal de los servidores públicos",
+      "b": "El derecho a la educación",
+      "c": "La libertad de expresión",
+      "d": "El derecho a la salud"
     },
-    "respuesta_correcta": "b",
-    "fuente": "Ley Nacional sobre el Uso de la Fuerza, Capítulo II, Artículos 4, 5, 6, 7 y 8"
+    "respuesta_correcta": "a",
+    "fuente": "Constitución Política de los Estados Unidos Mexicanos, Artículo 23"
+  },
+  {
+    "tema": "Legislacion Naval",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁL ES EL PÁRRAFO DEL ARTÍCULO 24 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS QUE SE INCLUYE EN EL TEMARIO?",
+    "opciones": {
+      "a": "Párrafo 1",
+      "b": "Párrafos 1 y 2",
+      "c": "Párrafos 1, 2 y 3",
+      "d": "Solo el Párrafo 2"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Constitución Política de los Estados Unidos Mexicanos, Artículo 24"
   },
   {
     "tema": "Legislacion Naval",
     "tipo": "verdadero_falso",
-    "pregunta": "LA LEY DE DISCIPLINA ESTABLECE QUE LOS CORRECTIVOS DEBEN SER PROPORCIONALES A LA FALTA.",
+    "pregunta": "EL ARTÍCULO 27 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS REGULA LA PROPIEDAD DE TIERRAS Y AGUAS.",
+    "respuesta_correcta": "a",
+    "fuente": "Constitución Política de los Estados Unidos Mexicanos, Artículo 27"
+  },
+  {
+    "tema": "Legislacion Naval",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁLES SON LOS PÁRRAFOS DEL ARTÍCULO 29 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS QUE SE INCLUYEN EN EL TEMARIO?",
+    "opciones": {
+      "a": "Párrafos 1 y 2",
+      "b": "Párrafos 1, 2 y 3",
+      "c": "Solo el Párrafo 1",
+      "d": "Párrafos 2 y 3"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Constitución Política de los Estados Unidos Mexicanos, Artículo 29"
+  },
+  {
+    "tema": "Legislacion Naval",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿QUÉ ESTABLECE EL ARTÍCULO 42 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS?",
+    "opciones": {
+      "a": "Las partes integrantes de la Federación",
+      "b": "La estructura del Poder Ejecutivo",
+      "c": "La división de poderes",
+      "d": "Las responsabilidades de servidores públicos"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Constitución Política de los Estados Unidos Mexicanos, Artículo 42"
+  },
+  {
+    "tema": "Legislacion Naval",
+    "tipo": "verdadero_falso",
+    "pregunta": "EL ARTÍCULO 43 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS DEFINE EL TERRITORIO NACIONAL.",
+    "respuesta_correcta": "a",
+    "fuente": "Constitución Política de los Estados Unidos Mexicanos, Artículo 43"
+  },
+  {
+    "tema": "Legislacion Naval",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿QUÉ REGULA EL ARTÍCULO 44 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS?",
+    "opciones": {
+      "a": "La capital de la República",
+      "b": "La estructura del Poder Legislativo",
+      "c": "La división de poderes",
+      "d": "Las responsabilidades de servidores públicos"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Constitución Política de los Estados Unidos Mexicanos, Artículo 44"
+  },
+  {
+    "tema": "Legislacion Naval",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿QUÉ ESTABLECE EL ARTÍCULO 48 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS?",
+    "opciones": {
+      "a": "Las islas adyacentes como parte del territorio nacional",
+      "b": "La estructura del Poder Ejecutivo",
+      "c": "La división de poderes",
+      "d": "Las responsabilidades de servidores públicos"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Constitución Política de los Estados Unidos Mexicanos, Artículo 48"
+  },
+  {
+    "tema": "Legislacion Naval",
+    "tipo": "verdadero_falso",
+    "pregunta": "EL ARTÍCULO 80 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS ESTABLECE LAS ATRIBUCIONES DEL PRESIDENTE.",
+    "respuesta_correcta": "a",
+    "fuente": "Constitución Política de los Estados Unidos Mexicanos, Artículo 80"
+  },
+  {
+    "tema": "Legislacion Naval",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿QUÉ ESTABLECE EL ARTÍCULO 90 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS?",
+    "opciones": {
+      "a": "La estructura de la Administración Pública Federal",
+      "b": "Las atribuciones del Presidente",
+      "c": "La división de poderes",
+      "d": "Las responsabilidades de servidores públicos"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Constitución Política de los Estados Unidos Mexicanos, Artículo 90"
+  },
+  {
+    "tema": "Legislacion Naval",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁL ES EL PÁRRAFO DEL ARTÍCULO 94 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS QUE SE INCLUYE EN EL TEMARIO?",
+    "opciones": {
+      "a": "Párrafo 1",
+      "b": "Párrafos 1 y 2",
+      "c": "Párrafos 1, 2 y 3",
+      "d": "Solo el Párrafo 2"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Constitución Política de los Estados Unidos Mexicanos, Artículo 94"
+  },
+  {
+    "tema": "Legislacion Naval",
+    "tipo": "verdadero_falso",
+    "pregunta": "EL ARTÍCULO 102 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS REGULA LAS FUNCIONES DE LA COMISIÓN NACIONAL DE DERECHOS HUMANOS.",
+    "respuesta_correcta": "a",
+    "fuente": "Constitución Política de los Estados Unidos Mexicanos, Artículo 102"
+  },
+  {
+    "tema": "Legislacion Naval",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁLES SON LOS ARTÍCULOS DE LA LEY GENERAL PARA PREVENIR, INVESTIGAR Y SANCIONAR LA TORTURA QUE DEFINEN EL DELITO DE TORTURA?",
+    "opciones": {
+      "a": "Artículos 24 y 26",
+      "b": "Artículos 7, 9, 10 y 13",
+      "c": "Artículos 5 y 7",
+      "d": "Artículos 1 y 2"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Ley General para Prevenir, Investigar y Sancionar la Tortura, Capítulo Tercero, Artículos 24 y 26"
+  },
+  {
+    "tema": "Legislacion Naval",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿QUÉ ESTABLECE EL ARTÍCULO 7 DE LA LEY GENERAL DE ACCESO A LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA?",
+    "opciones": {
+      "a": "Disposiciones sobre violencia en el ámbito familiar",
+      "b": "Disposiciones sobre violencia laboral",
+      "c": "Disposiciones sobre violencia institucional",
+      "d": "Disposiciones sobre violencia digital"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Ley General de Acceso a las Mujeres a una Vida Libre de Violencia, Capítulo I, Artículo 7"
+  },
+  {
+    "tema": "Legislacion Naval",
+    "tipo": "verdadero_falso",
+    "pregunta": "LA LEY GENERAL DE ACCESO A LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA INCLUYE DISPOSICIONES SOBRE VIOLENCIA DIGITAL Y MEDIÁTICA.",
+    "respuesta_correcta": "a",
+    "fuente": "Ley General de Acceso a las Mujeres a una Vida Libre de Violencia, Capítulo IV Ter, Artículos 20 quáter y 20 quinquies"
+  },
+  {
+    "tema": "Legislacion Naval",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿QUÉ ESTABLECE EL ARTÍCULO 21 DE LA LEY GENERAL DE ACCESO A LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA?",
+    "opciones": {
+      "a": "Disposiciones sobre violencia feminicida y alerta de violencia de género",
+      "b": "Disposiciones sobre violencia laboral",
+      "c": "Disposiciones sobre violencia institucional",
+      "d": "Disposiciones sobre violencia familiar"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Ley General de Acceso a las Mujeres a una Vida Libre de Violencia, Capítulo V, Artículo 21"
+  },
+  {
+    "tema": "Legislacion Naval",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁLES SON LOS ARTÍCULOS DE LA LEY NACIONAL DEL REGISTRO DE DETENCIONES QUE ESTABLECEN DISPOSICIONES GENERALES?",
+    "opciones": {
+      "a": "Artículos 3 y 4",
+      "b": "Artículos 17, 18, 19, 20 y 23",
+      "c": "Artículos 1 y 2",
+      "d": "Artículos 5 y 6"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Ley Nacional del Registro de Detenciones, Capítulo I, Artículos 3 y 4"
+  },
+  {
+    "tema": "Legislacion Naval",
+    "tipo": "verdadero_falso",
+    "pregunta": "LA LEY NACIONAL SOBRE EL USO DE LA FUERZA ESTABLECE QUE EL PROCEDIMIENTO DEL USO DE LA FUERZA DEBE CUMPLIR CON CIERTOS REQUISITOS.",
+    "respuesta_correcta": "a",
+    "fuente": "Ley Nacional sobre el Uso de la Fuerza, Capítulo III, Artículos 9, 10, 11, 12 y 13"
+  },
+  {
+    "tema": "Legislacion Naval",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁLES SON LAS FRACCIONES DEL ARTÍCULO 3 DE LA LEY NACIONAL SOBRE EL USO DE LA FUERZA QUE SE INCLUYEN EN EL TEMARIO?",
+    "opciones": {
+      "a": "Fracciones I, III, IV y XIV",
+      "b": "Fracciones I y II",
+      "c": "Fracciones I a V",
+      "d": "Solo la Fracción I"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Ley Nacional sobre el Uso de la Fuerza, Capítulo I, Artículo 3"
+  },
+  {
+    "tema": "Legislacion Naval",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿QUÉ ESTABLECE EL ARTÍCULO 16 DE LA LEY NACIONAL SOBRE EL USO DE LA FUERZA?",
+    "opciones": {
+      "a": "Los instrumentos del uso de la fuerza",
+      "b": "Los principios del uso de la fuerza",
+      "c": "El procedimiento del uso de la fuerza",
+      "d": "Las detenciones"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Ley Nacional sobre el Uso de la Fuerza, Capítulo IV, Artículo 16"
+  },
+  {
+    "tema": "Legislacion Naval",
+    "tipo": "verdadero_falso",
+    "pregunta": "LA LEY DE DISCIPLINA PARA EL PERSONAL DE LA ARMADA DE MÉXICO ESTABLECE QUE LOS CORRECTIVOS DISCIPLINARIOS DEBEN GRADUARSE SEGÚN CRITERIOS ESPECÍFICOS.",
     "respuesta_correcta": "a",
     "fuente": "Ley de Disciplina para el Personal de la Armada de México, Capítulo V, Sección Segunda, Artículos 67, 68, 70 y 71"
   },
   {
     "tema": "Legislacion Naval",
     "tipo": "opcion_multiple",
-    "pregunta": "¿QUÉ ESTABLECE LA LEY DE NAVEGACIÓN Y COMERCIO MARÍTIMOS SOBRE BUQUES?",
+    "pregunta": "¿QUÉ INCLUYE EL CAPÍTULO V DE LA LEY DE DISCIPLINA PARA EL PERSONAL DE LA ARMADA DE MÉXICO?",
     "opciones": {
-      "a": "SOLO NACIONALIDAD",
-      "b": "REGISTRO Y OPERACIÓN",
-      "c": "SOLO SEGURIDAD",
-      "d": "SOLO COMERCIO"
+      "a": "Medidas preventivas, correctivos disciplinarios y criterios de imposición",
+      "b": "Solo estímulos y reconocimientos",
+      "c": "Solo disposiciones generales",
+      "d": "Solo lineamientos de conducta"
     },
-    "respuesta_correcta": "b",
-    "fuente": "Ley de Navegación y Comercio Marítimos, Título Primero, Capítulo I, Artículos 1, 2 (Fracciones II, III, IV, V, VI, VII, VII Bis, y VII Ter), 3, 4 y 5"
-  },
-  {
-    "tema": "Legislacion Naval",
-    "tipo": "verdadero_falso",
-    "pregunta": "LA LEY DE PUERTOS ESTABLECE FUNCIONES DE LA SECRETARÍA DE MARINA.",
     "respuesta_correcta": "a",
-    "fuente": "Ley de Puertos, Capítulo III, Artículos 16, 18, 19 Bis"
+    "fuente": "Ley de Disciplina para el Personal de la Armada de México, Capítulo V"
   },
   {
     "tema": "Legislacion Naval",
     "tipo": "opcion_multiple",
-    "pregunta": "¿QUÉ ESTABLECE EL REGLAMENTO GENERAL DE DEBERES NAVALES SOBRE DEBERES PARA CON LA ARMADA?",
+    "pregunta": "¿CUÁL ES LA FRACCIÓN DEL ARTÍCULO 7 DE LA LEY DE NAVEGACIÓN Y COMERCIO MARÍTIMOS QUE SE INCLUYE EN EL TEMARIO?",
     "opciones": {
-      "a": "QUE NO EXISTEN",
-      "b": "SU EXISTENCIA Y CONTENIDO",
-      "c": "SOLO SANCIONES",
-      "d": "SOLO PROCEDIMIENTOS"
+      "a": "Fracción I",
+      "b": "Fracciones I y II",
+      "c": "Fracciones I a III",
+      "d": "Solo la Fracción II"
     },
-    "respuesta_correcta": "b",
+    "respuesta_correcta": "a",
+    "fuente": "Ley de Navegación y Comercio Marítimos, Capítulo II, Artículo 7"
+  },
+  {
+    "tema": "Legislacion Naval",
+    "tipo": "verdadero_falso",
+    "pregunta": "LA LEY DE NAVEGACIÓN Y COMERCIO MARÍTIMOS ESTABLECE QUE LA AUTORIDAD MARÍTIMA NACIONAL TIENE ATRIBUCIONES EN MATERIA DE NAVEGACIÓN.",
+    "respuesta_correcta": "a",
+    "fuente": "Ley de Navegación y Comercio Marítimos, Capítulo II, Artículos 8 y 9"
+  },
+  {
+    "tema": "Legislacion Naval",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁLES SON LAS FRACCIONES DEL ARTÍCULO 9 DE LA LEY DE NAVEGACIÓN Y COMERCIO MARÍTIMOS QUE SE INCLUYEN EN EL TEMARIO?",
+    "opciones": {
+      "a": "Fracciones I, II, IV, VI y IX",
+      "b": "Fracciones I y II",
+      "c": "Fracciones I a V",
+      "d": "Solo la Fracción I"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Ley de Navegación y Comercio Marítimos, Artículo 9"
+  },
+  {
+    "tema": "Legislacion Naval",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿QUÉ ESTABLECE EL ARTÍCULO 9 TER DE LA LEY DE NAVEGACIÓN Y COMERCIO MARÍTIMOS?",
+    "opciones": {
+      "a": "Disposiciones adicionales sobre la Autoridad Marítima Nacional",
+      "b": "Definiciones de términos marítimos",
+      "c": "Procedimientos administrativos",
+      "d": "Sanciones por incumplimiento"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Ley de Navegación y Comercio Marítimos, Artículo 9 Ter"
+  },
+  {
+    "tema": "Legislacion Naval",
+    "tipo": "verdadero_falso",
+    "pregunta": "LA LEY DE PUERTOS ESTABLECE QUE LA SECRETARÍA DE MARINA TIENE COMPETENCIA EN MATERIA DE PUERTOS MEXICANOS.",
+    "respuesta_correcta": "a",
+    "fuente": "Ley de Puertos, Capítulo III, Artículos 16, 18 y 19 Bis"
+  },
+  {
+    "tema": "Legislacion Naval",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁL ES EL CONTENIDO DEL REGLAMENTO GENERAL DE DEBERES NAVALES EN CUANTO A DEBERES PARA CON LA ARMADA?",
+    "opciones": {
+      "a": "Deberes específicos hacia la institución",
+      "b": "Deberes administrativos",
+      "c": "Deberes operacionales",
+      "d": "Deberes disciplinarios"
+    },
+    "respuesta_correcta": "a",
     "fuente": "Reglamento General de Deberes Navales, Libro Primero, Título Primero, Capítulo II"
   },
   {
     "tema": "Legislacion Naval",
-    "tipo": "verdadero_falso",
-    "pregunta": "EL CÓDIGO DE CONDUCTA ESTABLECE ÁMBITO DE APLICACIÓN Y OBLIGATORIEDAD.",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿QUÉ DEFINE EL CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE MARINA COMO VALORES FUNDAMENTALES?",
+    "opciones": {
+      "a": "Principios éticos que guían la conducta del personal",
+      "b": "Únicamente normas disciplinarias",
+      "c": "Solo procedimientos administrativos",
+      "d": "Reglas operacionales"
+    },
     "respuesta_correcta": "a",
-    "fuente": "Código de Conducta de la Secretaría de Marina, Ámbito de Aplicación y Obligatoriedad"
+    "fuente": "Código de Conducta de la Secretaría de Marina, Valores fundamentales de la Secretaría de Marina"
+  },
+  {
+    "tema": "Legislacion Naval",
+    "tipo": "verdadero_falso",
+    "pregunta": "LA POLÍTICA NACIONAL MARÍTIMA DEFINE LOS INTERESES MARÍTIMOS NACIONALES Y SUS DEFINICIONES EN UNA TABLA.",
+    "respuesta_correcta": "a",
+    "fuente": "Política Nacional Marítima, Sección V, Tabla de intereses y sus definiciones"
   },
   {
     "tema": "Legislacion Naval",
     "tipo": "opcion_multiple",
-    "pregunta": "¿QUÉ INCLUYE EL GLOSARIO DEL CÓDIGO DE CONDUCTA?",
+    "pregunta": "¿CUÁLES SON LOS PRINCIPALES ROLES ESTABLECIDOS EN EL PROTOCOLO DE ACTUACIÓN DEL PERSONAL NAVAL EN FUNCIONES DE GUARDIA COSTERA?",
     "opciones": {
-      "a": "SOLO DEFINICIONES LEGALES",
-      "b": "TÉRMINOS Y CONCEPTOS RELEVANTES",
-      "c": "SOLO PROCEDIMIENTOS",
-      "d": "SOLO SANCIONES"
+      "a": "Roles operativos del personal en funciones de guardia costera",
+      "b": "Únicamente roles administrativos",
+      "c": "Solo roles de mando",
+      "d": "Roles disciplinarios"
     },
-    "respuesta_correcta": "b",
-    "fuente": "Código de Conducta de la Secretaría de Marina, Glosario"
+    "respuesta_correcta": "a",
+    "fuente": "Protocolo de Actuación del Personal Naval en Funciones de Guardia Costera, Principales roles"
+  },
+  {
+    "tema": "Legislacion Naval",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿QUÉ ESTABLECE EL PROTOCOLO DE ACTUACIÓN DEL PERSONAL NAVAL EN FUNCIONES DE GUARDIA COSTERA RESPECTO A POLÍTICAS DE OPERACIÓN?",
+    "opciones": {
+      "a": "Directrices para la operación del personal en guardia costera",
+      "b": "Únicamente normas disciplinarias",
+      "c": "Solo procedimientos administrativos",
+      "d": "Reglas de seguridad física"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Protocolo de Actuación del Personal Naval en Funciones de Guardia Costera, Políticas de operación"
+  },
+  {
+    "tema": "Legislacion Naval",
+    "tipo": "verdadero_falso",
+    "pregunta": "LA LEY GENERAL PARA PREVENIR, INVESTIGAR Y SANCIONAR LA TORTURA ESTABLECE DISPOSICIONES GENERALES EN SU TÍTULO PRIMERO.",
+    "respuesta_correcta": "a",
+    "fuente": "Ley General para Prevenir, Investigar y Sancionar la Tortura, Título Primero, Capítulo Único"
+  },
+  {
+    "tema": "Legislacion Naval",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁLES SON LOS CAPÍTULOS QUE INTEGRAN EL TÍTULO SEGUNDO DE LA LEY GENERAL PARA PREVENIR, INVESTIGAR Y SANCIONAR LA TORTURA?",
+    "opciones": {
+      "a": "Capítulo Primero y Capítulo Tercero",
+      "b": "Solo Capítulo Primero",
+      "c": "Capítulos Primero, Segundo y Tercero",
+      "d": "Solo Capítulo Tercero"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Ley General para Prevenir, Investigar y Sancionar la Tortura, Título Segundo"
   }
 ]
