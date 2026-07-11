@@ -2,1268 +2,974 @@
   {
     "tema": "Conocimientos Marineros",
     "tipo": "opcion_multiple",
-    "pregunta": "EL CUERPO DEL BUQUE SIN SUPERESTRUCTURAS NI ARBOLADURA, QUE CONSTITUYE SU ESTRUCTURA ESENCIAL Y LE PERMITE NAVEGAR, SE DENOMINA:",
+    "pregunta": "¿CUÁL ES LA PARTE DELANTERA DE UN BUQUE DENOMINADA CONVENCIONALMENTE?",
     "opciones": {
-      "a": "CASCO",
-      "b": "QUILLA",
-      "c": "OBRA VIVA",
-      "d": "CUBIERTA"
+      "a": "POPA",
+      "b": "PROA",
+      "c": "BABOR",
+      "d": "ESTRIBOR"
     },
-    "respuesta_correcta": "a",
-    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1 Estructura del buque"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "verdadero_falso",
-    "pregunta": "LA PROA ES LA PARTE POSTERIOR DEL BUQUE, MIENTRAS QUE LA POPA ES LA PARTE DELANTERA.",
     "respuesta_correcta": "b",
-    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
+    "fuente": "Conocimientos Marineros, Capítulo 1, Estructura del Buque - Proa"
   },
   {
     "tema": "Conocimientos Marineros",
     "tipo": "opcion_multiple",
-    "pregunta": "MIRANDO HACIA LA PROA DESDE LA POPA, EL COSTADO QUE QUEDA A NUESTRA DERECHA SE LLAMA:",
+    "pregunta": "¿CUÁL ES LA PARTE TRASERA O POSTERIOR DE UN BUQUE?",
     "opciones": {
-      "a": "BABOR",
-      "b": "ESTRIBOR",
+      "a": "PROA",
+      "b": "AMURA",
+      "c": "POPA",
+      "d": "ALETA"
+    },
+    "respuesta_correcta": "c",
+    "fuente": "Conocimientos Marineros, Capítulo 1, Estructura del Buque - Popa"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "verdadero_falso",
+    "pregunta": "BABOR ES EL LADO DERECHO DE UN BUQUE CUANDO SE MIRA HACIA LA PROA.",
+    "respuesta_correcta": "b",
+    "fuente": "Conocimientos Marineros, Capítulo 1, Estructura del Buque - Babor y Estribor"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁL ES EL LADO IZQUIERDO DE UN BUQUE CUANDO SE OBSERVA HACIA LA PROA?",
+    "opciones": {
+      "a": "ESTRIBOR",
+      "b": "BABOR",
       "c": "AMURA",
       "d": "ALETA"
     },
     "respuesta_correcta": "b",
-    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
+    "fuente": "Conocimientos Marineros, Capítulo 1, Estructura del Buque - Babor"
   },
   {
     "tema": "Conocimientos Marineros",
     "tipo": "opcion_multiple",
-    "pregunta": "LA PARTE DEL CASCO QUE ESTÁ POR DEBAJO DE LA LÍNEA DE FLOTACIÓN Y, POR TANTO, SIEMPRE SUMERGIDA, SE CONOCE COMO:",
+    "pregunta": "¿QUÉ SE DENOMINA OBRA VIVA EN LA ESTRUCTURA DE UN BUQUE?",
     "opciones": {
-      "a": "OBRA MUERTA",
-      "b": "OBRA VIVA",
-      "c": "FORRO",
-      "d": "DOBLE FONDO"
+      "a": "LA PARTE SUPERIOR DEL CASCO",
+      "b": "LA PARTE SUMERGIDA DEL CASCO",
+      "c": "LAS CUBIERTAS PRINCIPALES",
+      "d": "LAS SUPERESTRUCTURAS"
     },
     "respuesta_correcta": "b",
-    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
+    "fuente": "Conocimientos Marineros, Capítulo 1, Estructura del Buque - Obra Viva"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁL ES LA PARTE NO SUMERGIDA DEL CASCO DE UN BUQUE?",
+    "opciones": {
+      "a": "OBRA VIVA",
+      "b": "OBRA MUERTA",
+      "c": "DOBLE FONDO",
+      "d": "QUILLA"
+    },
+    "respuesta_correcta": "b",
+    "fuente": "Conocimientos Marineros, Capítulo 1, Estructura del Buque - Obra Muerta"
   },
   {
     "tema": "Conocimientos Marineros",
     "tipo": "verdadero_falso",
-    "pregunta": "LA OBRA MUERTA ES LA PARTE SUMERGIDA DEL CASCO, MIENTRAS QUE LA OBRA VIVA ES LA PARTE QUE SOBRESALE POR ENCIMA DEL AGUA.",
-    "respuesta_correcta": "b",
-    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
+    "pregunta": "LA QUILLA ES EL ELEMENTO ESTRUCTURAL PRINCIPAL QUE FORMA LA COLUMNA VERTEBRAL DEL BUQUE.",
+    "respuesta_correcta": "a",
+    "fuente": "Conocimientos Marineros, Capítulo 1, Estructura del Buque - Quilla"
   },
   {
     "tema": "Conocimientos Marineros",
     "tipo": "opcion_multiple",
-    "pregunta": "LA PIEZA LONGITUDINAL QUE RECORRE EL FONDO DEL BUQUE DE PROA A POPA FORMANDO SU ESPINA DORSAL Y SOBRE LA QUE SE ASIENTAN LAS CUADERNAS, RECIBE EL NOMBRE DE:",
-    "opciones": {
-      "a": "RODA",
-      "b": "CODASTE",
-      "c": "QUILLA",
-      "d": "PALMEJAR"
-    },
-    "respuesta_correcta": "c",
-    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "LA PIEZA ESTRUCTURAL QUE CONSTITUYE LA PROLONGACIÓN DE LA QUILLA EN LA PROA, CERRANDO LA ESTRUCTURA HASTA LA CUBIERTA, ES LA:",
+    "pregunta": "¿QUÉ ELEMENTO ESTRUCTURAL DEL BUQUE FORMA LA PROA O PARTE DELANTERA?",
     "opciones": {
       "a": "CODASTE",
       "b": "RODA",
-      "c": "VARENGA",
-      "d": "BAO"
+      "c": "QUILLA",
+      "d": "VARENGA"
     },
     "respuesta_correcta": "b",
-    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "verdadero_falso",
-    "pregunta": "EL CODASTE ES LA PIEZA QUE PROLONGA LA QUILLA EN LA POPA Y SIRVE DE APOYO A LOS EJES DE LA HÉLICE Y AL TIMÓN.",
-    "respuesta_correcta": "a",
-    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
+    "fuente": "Conocimientos Marineros, Capítulo 1, Estructura del Buque - Roda"
   },
   {
     "tema": "Conocimientos Marineros",
     "tipo": "opcion_multiple",
-    "pregunta": "LAS PIEZAS TRANSVERSALES QUE, COMO COSTILLAS DEL BUQUE, SE FIJAN A LA QUILLA Y DAN FORMA Y SOSTÉN AL FORRO SE LLAMAN:",
+    "pregunta": "¿CUÁL ES EL ELEMENTO ESTRUCTURAL QUE FORMA LA POPA O PARTE TRASERA DEL BUQUE?",
     "opciones": {
-      "a": "VARENGAS",
-      "b": "BAOS",
-      "c": "CUADERNAS",
-      "d": "VAGRAS"
-    },
-    "respuesta_correcta": "c",
-    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "LA PIEZA TRANSVERSAL INFERIOR QUE UNE LAS RAMAS DE UNA CUADERNA SOBRE LA QUILLA, EN LA PARTE MÁS BAJA DEL BUQUE, ES LA:",
-    "opciones": {
-      "a": "BAO",
+      "a": "RODA",
       "b": "VARENGA",
+      "c": "CODASTE",
+      "d": "CUADERNA"
+    },
+    "respuesta_correcta": "c",
+    "fuente": "Conocimientos Marineros, Capítulo 1, Estructura del Buque - Codaste"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿QUÉ SON LAS CUADERNAS EN LA ESTRUCTURA DE UN BUQUE?",
+    "opciones": {
+      "a": "ELEMENTOS LONGITUDINALES QUE REFUERZAN LA QUILLA",
+      "b": "ELEMENTOS TRANSVERSALES QUE REFUERZAN EL CASCO",
+      "c": "PLANCHAS QUE FORMAN EL FORRO EXTERIOR",
+      "d": "DIVISIONES INTERNAS DEL BUQUE"
+    },
+    "respuesta_correcta": "b",
+    "fuente": "Conocimientos Marineros, Capítulo 1, Estructura del Buque - Cuaderna"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "verdadero_falso",
+    "pregunta": "LAS VARENGAS SON ELEMENTOS ESTRUCTURALES TRANSVERSALES QUE REFUERZAN LA QUILLA.",
+    "respuesta_correcta": "a",
+    "fuente": "Conocimientos Marineros, Capítulo 1, Estructura del Buque - Varenga"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿QUÉ SE DENOMINA BAO EN LA ESTRUCTURA NAVAL?",
+    "opciones": {
+      "a": "ELEMENTO LONGITUDINAL DE REFUERZO",
+      "b": "VIGA TRANSVERSAL QUE SOSTIENE LAS CUBIERTAS",
+      "c": "PLACA DE PROTECCIÓN DEL CASCO",
+      "d": "ABERTURA EN EL CASCO"
+    },
+    "respuesta_correcta": "b",
+    "fuente": "Conocimientos Marineros, Capítulo 1, Estructura del Buque - Bao"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁL ES LA FUNCIÓN PRINCIPAL DE LA VAGRA EN UN BUQUE?",
+    "opciones": {
+      "a": "FORMAR LA PROA DEL BUQUE",
+      "b": "REFORZAR LONGITUDINALMENTE EL CASCO",
+      "c": "SOSTENER LAS CUBIERTAS",
+      "d": "PROTEGER EL DOBLE FONDO"
+    },
+    "respuesta_correcta": "b",
+    "fuente": "Conocimientos Marineros, Capítulo 1, Estructura del Buque - Vagra"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿QUÉ ES EL PUNTAL EN LA MEDIDA DE UN BUQUE?",
+    "opciones": {
+      "a": "LA DISTANCIA ENTRE PROA Y POPA",
+      "b": "LA DISTANCIA ENTRE BABOR Y ESTRIBOR",
+      "c": "LA ALTURA VERTICAL DEL BUQUE",
+      "d": "LA PROFUNDIDAD DEL AGUA BAJO EL BUQUE"
+    },
+    "respuesta_correcta": "c",
+    "fuente": "Conocimientos Marineros, Capítulo 2, Medidas del Buque - Puntal"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿QUÉ SE ENTIENDE POR PALMEJAR EN LA ESTRUCTURA DE UN BUQUE?",
+    "opciones": {
+      "a": "ELEMENTO QUE REFUERZA TRANSVERSALMENTE",
+      "b": "CURVATURA DEL CASCO EN SENTIDO LONGITUDINAL",
+      "c": "ABERTURA PARA VENTILACIÓN",
+      "d": "PLACA DE PROTECCIÓN EXTERNA"
+    },
+    "respuesta_correcta": "b",
+    "fuente": "Conocimientos Marineros, Capítulo 1, Estructura del Buque - Palmejar"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿QUÉ ES EL FORRO EN LA CONSTRUCCIÓN NAVAL?",
+    "opciones": {
+      "a": "ELEMENTO ESTRUCTURAL INTERNO",
+      "b": "REVESTIMIENTO EXTERIOR DEL CASCO",
+      "c": "DIVISIÓN INTERNA DEL BUQUE",
+      "d": "SISTEMA DE REFUERZO LONGITUDINAL"
+    },
+    "respuesta_correcta": "b",
+    "fuente": "Conocimientos Marineros, Capítulo 1, Estructura del Buque - Forro"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "verdadero_falso",
+    "pregunta": "LOS MAMPAROS SON DIVISIONES INTERNAS QUE SUBDIVIDEN EL INTERIOR DEL BUQUE.",
+    "respuesta_correcta": "a",
+    "fuente": "Conocimientos Marineros, Capítulo 1, Estructura del Buque - Mamparo"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁL ES LA FUNCIÓN DEL DOBLE FONDO EN UN BUQUE?",
+    "opciones": {
+      "a": "AUMENTAR LA VELOCIDAD",
+      "b": "PROPORCIONAR PROTECCIÓN Y ALMACENAMIENTO",
+      "c": "MEJORAR LA MANIOBRABILIDAD",
+      "d": "REDUCIR EL CONSUMO DE COMBUSTIBLE"
+    },
+    "respuesta_correcta": "b",
+    "fuente": "Conocimientos Marineros, Capítulo 1, Estructura del Buque - Doble Fondo"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿QUÉ SON LAS CUBIERTAS EN UN BUQUE?",
+    "opciones": {
+      "a": "ELEMENTOS ESTRUCTURALES VERTICALES",
+      "b": "SUPERFICIES HORIZONTALES QUE DIVIDEN EL BUQUE",
+      "c": "ABERTURAS EN EL CASCO",
+      "d": "SISTEMAS DE PROTECCIÓN EXTERNA"
+    },
+    "respuesta_correcta": "b",
+    "fuente": "Conocimientos Marineros, Capítulo 1, Estructura del Buque - Cubiertas"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿QUÉ SE DENOMINA SUPERESTRUCTURA EN UN BUQUE?",
+    "opciones": {
+      "a": "LA QUILLA Y SUS REFUERZOS",
+      "b": "CONSTRUCCIONES SOBRE LA CUBIERTA PRINCIPAL",
+      "c": "EL SISTEMA DE PROPULSIÓN",
+      "d": "LAS DIVISIONES INTERNAS"
+    },
+    "respuesta_correcta": "b",
+    "fuente": "Conocimientos Marineros, Capítulo 1, Estructura del Buque - Superestructuras"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "verdadero_falso",
+    "pregunta": "LAS ESCOTILLAS SON ABERTURAS EN LAS CUBIERTAS PARA ACCESO Y VENTILACIÓN.",
+    "respuesta_correcta": "a",
+    "fuente": "Conocimientos Marineros, Capítulo 1, Estructura del Buque - Escotillas"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿QUÉ SON LAS PORTAS EN LA ESTRUCTURA DE UN BUQUE?",
+    "opciones": {
+      "a": "ABERTURAS PEQUEÑAS EN EL CASCO",
+      "b": "ABERTURAS GRANDES EN EL CASCO PARA CAÑONES",
+      "c": "DIVISIONES INTERNAS",
+      "d": "ELEMENTOS DE REFUERZO"
+    },
+    "respuesta_correcta": "b",
+    "fuente": "Conocimientos Marineros, Capítulo 1, Estructura del Buque - Portas"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁL ES LA DIFERENCIA ENTRE PORTILLO Y PORTA EN UN BUQUE?",
+    "opciones": {
+      "a": "NO HAY DIFERENCIA, SON SINÓNIMOS",
+      "b": "PORTILLO ES PEQUEÑO Y PORTA ES GRANDE",
+      "c": "PORTA ES PARA VENTILACIÓN Y PORTILLO PARA CAÑONES",
+      "d": "PORTILLO ES INTERNO Y PORTA ES EXTERNA"
+    },
+    "respuesta_correcta": "b",
+    "fuente": "Conocimientos Marineros, Capítulo 1, Estructura del Buque - Portillo y Portas"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿QUÉ ES UNA GATERA EN LA ESTRUCTURA NAVAL?",
+    "opciones": {
+      "a": "ABERTURA PARA PASO DE TUBERÍAS",
+      "b": "ABERTURA PEQUEÑA EN EL CASCO",
+      "c": "DIVISIÓN INTERNA DEL BUQUE",
+      "d": "ELEMENTO DE REFUERZO ESTRUCTURAL"
+    },
+    "respuesta_correcta": "b",
+    "fuente": "Conocimientos Marineros, Capítulo 1, Estructura del Buque - Gatera"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "verdadero_falso",
+    "pregunta": "EL PORTALÓN ES UNA ABERTURA EN EL CASCO PARA EMBARQUE Y DESEMBARQUE DE PERSONAS.",
+    "respuesta_correcta": "a",
+    "fuente": "Conocimientos Marineros, Capítulo 1, Estructura del Buque - Portalón"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁL ES LA FUNCIÓN DE LOS IMBORNALES EN UN BUQUE?",
+    "opciones": {
+      "a": "REFORZAR EL CASCO",
+      "b": "PERMITIR EL DRENAJE DEL AGUA DE LAS CUBIERTAS",
+      "c": "FACILITAR LA VENTILACIÓN",
+      "d": "PROTEGER LAS ABERTURAS"
+    },
+    "respuesta_correcta": "b",
+    "fuente": "Conocimientos Marineros, Capítulo 1, Estructura del Buque - Imbornales"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿QUÉ SON LA FOGONADURA Y LA CARLINGA EN UN BUQUE?",
+    "opciones": {
+      "a": "ELEMENTOS DE REFUERZO LONGITUDINAL",
+      "b": "ABERTURAS PARA VENTILACIÓN",
+      "c": "SOPORTES PARA MÁSTILES Y CHIMENEAS",
+      "d": "DIVISIONES INTERNAS"
+    },
+    "respuesta_correcta": "c",
+    "fuente": "Conocimientos Marineros, Capítulo 1, Estructura del Buque - Fogonadura y Carlinga"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁL ES LA FUNCIÓN DE LAS BITAS Y CORNAMUSAS EN UN BUQUE?",
+    "opciones": {
+      "a": "REFORZAR EL CASCO",
+      "b": "PUNTOS DE AMARRE PARA CABOS Y CABLES",
+      "c": "SOPORTES PARA MÁSTILES",
+      "d": "ELEMENTOS DE PROTECCIÓN"
+    },
+    "respuesta_correcta": "b",
+    "fuente": "Conocimientos Marineros, Capítulo 1, Estructura del Buque - Bita y Cornamusa"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "verdadero_falso",
+    "pregunta": "LOS PASAMANOS SON BARANDILLAS DE PROTECCIÓN EN LAS CUBIERTAS Y COSTADOS DEL BUQUE.",
+    "respuesta_correcta": "a",
+    "fuente": "Conocimientos Marineros, Capítulo 1, Estructura del Buque - Pasamanos"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿QUÉ SON LAS ESCALAS EN LA ESTRUCTURA DE UN BUQUE?",
+    "opciones": {
+      "a": "MEDIDAS DE LONGITUD",
+      "b": "ELEMENTOS DE ACCESO VERTICAL",
+      "c": "DIVISIONES INTERNAS",
+      "d": "SISTEMAS DE DRENAJE"
+    },
+    "respuesta_correcta": "b",
+    "fuente": "Conocimientos Marineros, Capítulo 1, Estructura del Buque - Escalas"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁL ES LA FUNCIÓN DEL ENJARETADO EN UN BUQUE?",
+    "opciones": {
+      "a": "REFORZAR ESTRUCTURALMENTE",
+      "b": "PERMITIR CIRCULACIÓN DE AIRE Y AGUA",
+      "c": "PROTEGER LAS ABERTURAS",
+      "d": "FACILITAR EL AMARRE"
+    },
+    "respuesta_correcta": "b",
+    "fuente": "Conocimientos Marineros, Capítulo 1, Estructura del Buque - Enjaretado"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿QUÉ SON LAS DEFENSAS EN UN BUQUE?",
+    "opciones": {
+      "a": "SISTEMAS DE PROTECCIÓN ARMADA",
+      "b": "ELEMENTOS QUE PROTEGEN EL CASCO DE IMPACTOS",
+      "c": "DIVISIONES INTERNAS",
+      "d": "SISTEMAS DE DRENAJE"
+    },
+    "respuesta_correcta": "b",
+    "fuente": "Conocimientos Marineros, Capítulo 1, Estructura del Buque - Defensas"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "verdadero_falso",
+    "pregunta": "LA AMURA ES LA PARTE DEL CASCO ENTRE LA PROA Y EL TRAVÉS DEL BUQUE.",
+    "respuesta_correcta": "a",
+    "fuente": "Conocimientos Marineros, Capítulo 1, Estructura del Buque - Amura"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿QUÉ ES LA ALETA EN LA ESTRUCTURA DE UN BUQUE?",
+    "opciones": {
+      "a": "PARTE DELANTERA DEL CASCO",
+      "b": "PARTE TRASERA DEL CASCO ENTRE EL TRAVÉS Y LA POPA",
+      "c": "ELEMENTO DE REFUERZO LONGITUDINAL",
+      "d": "ABERTURA EN EL CASCO"
+    },
+    "respuesta_correcta": "b",
+    "fuente": "Conocimientos Marineros, Capítulo 1, Estructura del Buque - Aleta"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿QUÉ SE DENOMINA ESLORA EN LAS MEDIDAS DE UN BUQUE?",
+    "opciones": {
+      "a": "LA ALTURA VERTICAL DEL BUQUE",
+      "b": "LA DISTANCIA ENTRE BABOR Y ESTRIBOR",
+      "c": "LA LONGITUD DEL BUQUE DE PROA A POPA",
+      "d": "LA PROFUNDIDAD DEL AGUA BAJO EL BUQUE"
+    },
+    "respuesta_correcta": "c",
+    "fuente": "Conocimientos Marineros, Capítulo 2, Medidas del Buque - Eslora"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿QUÉ ES LA MANGA EN LAS MEDIDAS DE UN BUQUE?",
+    "opciones": {
+      "a": "LA LONGITUD DEL BUQUE",
+      "b": "LA ALTURA VERTICAL DEL BUQUE",
+      "c": "LA ANCHURA MÁXIMA DEL BUQUE",
+      "d": "LA PROFUNDIDAD DEL AGUA"
+    },
+    "respuesta_correcta": "c",
+    "fuente": "Conocimientos Marineros, Capítulo 2, Medidas del Buque - Manga"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "verdadero_falso",
+    "pregunta": "EL CALADO ES LA PROFUNDIDAD A LA QUE SE SUMERGE UN BUQUE EN EL AGUA.",
+    "respuesta_correcta": "a",
+    "fuente": "Conocimientos Marineros, Capítulo 2, Medidas del Buque - Calado"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿QUÉ SE ENTIENDE POR ARRUFO EN LAS MEDIDAS DE UN BUQUE?",
+    "opciones": {
+      "a": "CURVATURA HACIA ARRIBA DE LA QUILLA EN PROA Y POPA",
+      "b": "CURVATURA HACIA ABAJO DE LA QUILLA",
+      "c": "INCLINACIÓN LATERAL DEL BUQUE",
+      "d": "DIFERENCIA DE CALADO ENTRE PROA Y POPA"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Conocimientos Marineros, Capítulo 2, Medidas del Buque - Arrufo"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿QUÉ ES EL QUEBRANTO EN LAS MEDIDAS DE UN BUQUE?",
+    "opciones": {
+      "a": "CURVATURA HACIA ARRIBA DE LA QUILLA",
+      "b": "CURVATURA HACIA ABAJO DE LA QUILLA EN EL CENTRO",
+      "c": "INCLINACIÓN LATERAL",
+      "d": "DIFERENCIA DE MANGA"
+    },
+    "respuesta_correcta": "b",
+    "fuente": "Conocimientos Marineros, Capítulo 2, Medidas del Buque - Quebranto"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿QUÉ SE DENOMINA PORTE EN LAS MEDIDAS DE UN BUQUE?",
+    "opciones": {
+      "a": "LA LONGITUD TOTAL DEL BUQUE",
+      "b": "LA CAPACIDAD DE CARGA DEL BUQUE",
+      "c": "LA ALTURA VERTICAL",
+      "d": "LA PROFUNDIDAD DEL AGUA"
+    },
+    "respuesta_correcta": "b",
+    "fuente": "Conocimientos Marineros, Capítulo 2, Medidas del Buque - Porte"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "verdadero_falso",
+    "pregunta": "LAS FORMAS DE LOS BUQUES VARÍAN SEGÚN SU TIPO Y FUNCIÓN.",
+    "respuesta_correcta": "a",
+    "fuente": "Conocimientos Marineros, Capítulo 2, Medidas del Buque - Formas de los Buques"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁL ES LA ESTRUCTURA PRINCIPAL QUE FORMA LA COLUMNA VERTEBRAL DE UN BUQUE?",
+    "opciones": {
+      "a": "LAS CUADERNAS",
+      "b": "LOS BAOS",
+      "c": "LA QUILLA",
+      "d": "LAS VARENGAS"
+    },
+    "respuesta_correcta": "c",
+    "fuente": "Conocimientos Marineros, Capítulo 1, Estructura del Buque - Generalidades"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿QUÉ ELEMENTO ESTRUCTURAL REFUERZA TRANSVERSALMENTE EL CASCO DE UN BUQUE?",
+    "opciones": {
+      "a": "LA VAGRA",
+      "b": "LA CUADERNA",
+      "c": "EL BAO",
+      "d": "LA VARENGA"
+    },
+    "respuesta_correcta": "b",
+    "fuente": "Conocimientos Marineros, Capítulo 1, Estructura del Buque - Cuaderna"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "verdadero_falso",
+    "pregunta": "EL CASCO ES LA ESTRUCTURA EXTERIOR QUE FORMA EL ENVOLTORIO DEL BUQUE.",
+    "respuesta_correcta": "a",
+    "fuente": "Conocimientos Marineros, Capítulo 1, Estructura del Buque - Casco"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁL ES LA FUNCIÓN PRINCIPAL DE LAS CUBIERTAS EN UN BUQUE?",
+    "opciones": {
+      "a": "PROTEGER EL CASCO EXTERNO",
+      "b": "DIVIDIR HORIZONTALMENTE EL INTERIOR DEL BUQUE",
+      "c": "REFORZAR ESTRUCTURALMENTE",
+      "d": "FACILITAR EL DRENAJE"
+    },
+    "respuesta_correcta": "b",
+    "fuente": "Conocimientos Marineros, Capítulo 1, Estructura del Buque - Cubiertas"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿QUÉ SON LOS MAMPAROS EN LA ESTRUCTURA INTERNA DE UN BUQUE?",
+    "opciones": {
+      "a": "ELEMENTOS DE REFUERZO EXTERNO",
+      "b": "DIVISIONES VERTICALES INTERNAS",
+      "c": "ABERTURAS EN EL CASCO",
+      "d": "SISTEMAS DE DRENAJE"
+    },
+    "respuesta_correcta": "b",
+    "fuente": "Conocimientos Marineros, Capítulo 1, Estructura del Buque - Mamparo"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "verdadero_falso",
+    "pregunta": "LA RODA ES EL ELEMENTO ESTRUCTURAL QUE FORMA LA PROA DEL BUQUE.",
+    "respuesta_correcta": "a",
+    "fuente": "Conocimientos Marineros, Capítulo 1, Estructura del Buque - Roda"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁL ES EL ELEMENTO ESTRUCTURAL QUE FORMA LA POPA DEL BUQUE?",
+    "opciones": {
+      "a": "LA RODA",
+      "b": "EL CODASTE",
+      "c": "LA QUILLA",
+      "d": "LA VARENGA"
+    },
+    "respuesta_correcta": "b",
+    "fuente": "Conocimientos Marineros, Capítulo 1, Estructura del Buque - Codaste"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿QUÉ FUNCIÓN TIENEN LAS VARENGAS EN LA ESTRUCTURA DE UN BUQUE?",
+    "opciones": {
+      "a": "REFORZAR LONGITUDINALMENTE",
+      "b": "REFORZAR LA QUILLA TRANSVERSALMENTE",
+      "c": "SOSTENER LAS CUBIERTAS",
+      "d": "PROTEGER EL CASCO"
+    },
+    "respuesta_correcta": "b",
+    "fuente": "Conocimientos Marineros, Capítulo 1, Estructura del Buque - Varenga"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "verdadero_falso",
+    "pregunta": "LOS BAOS SON VIGAS TRANSVERSALES QUE SOSTIENEN LAS CUBIERTAS.",
+    "respuesta_correcta": "a",
+    "fuente": "Conocimientos Marineros, Capítulo 1, Estructura del Buque - Bao"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿QUÉ SON LAS VAGAS EN LA ESTRUCTURA NAVAL?",
+    "opciones": {
+      "a": "ELEMENTOS TRANSVERSALES DE REFUERZO",
+      "b": "ELEMENTOS LONGITUDINALES DE REFUERZO",
+      "c": "ABERTURAS EN EL CASCO",
+      "d": "DIVISIONES INTERNAS"
+    },
+    "respuesta_correcta": "b",
+    "fuente": "Conocimientos Marineros, Capítulo 1, Estructura del Buque - Vagra"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁL ES LA MEDIDA QUE INDICA LA ALTURA VERTICAL DE UN BUQUE?",
+    "opciones": {
+      "a": "ESLORA",
+      "b": "MANGA",
       "c": "PUNTAL",
-      "d": "PALMEJAR"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "verdadero_falso",
-    "pregunta": "EL BAO ES UNA PIEZA LONGITUDINAL QUE CORRE A LO LARGO DEL COSTADO DEL BUQUE Y REFUERZA LAS CUADERNAS.",
-    "respuesta_correcta": "b",
-    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "LAS VIGAS TRANSVERSALES QUE SE COLOCAN DE BAND A BAND PARA SOSTENER LAS CUBIERTAS Y ENLAZAR LAS CUADERNAS SE DENOMINAN:",
-    "opciones": {
-      "a": "VAGRAS",
-      "b": "PALMEJARES",
-      "c": "BAOS",
-      "d": "PUNTALES"
+      "d": "CALADO"
     },
     "respuesta_correcta": "c",
-    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
+    "fuente": "Conocimientos Marineros, Capítulo 2, Medidas del Buque - Puntal"
   },
   {
     "tema": "Conocimientos Marineros",
     "tipo": "opcion_multiple",
-    "pregunta": "LOS REFUERZOS LONGITUDINALES QUE SE COLOCAN SOBRE LAS CUADERNAS, PARALELOS A LA QUILLA, Y QUE CONTRIBUYEN A LA RIGIDEZ DEL CASCO SON LAS:",
+    "pregunta": "¿QUÉ MEDIDA INDICA LA LONGITUD DE UN BUQUE DE PROA A POPA?",
     "opciones": {
-      "a": "MAMPAROS",
-      "b": "VAGRAS",
-      "c": "PALMEJARES",
-      "d": "B Y C SON CORRECTAS"
-    },
-    "respuesta_correcta": "d",
-    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "verdadero_falso",
-    "pregunta": "EL PUNTAL ES LA ALTURA INTERIOR DEL BUQUE MEDIDA DESDE LA CARA SUPERIOR DE LA QUILLA HASTA EL CANTO INTERIOR DE LA CUBIERTA PRINCIPAL.",
-    "respuesta_correcta": "b",
-    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 2 Medidas del buque"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "EL ELEMENTO ESTRUCTURAL QUE REFUERZA INTERIORMENTE EL FORRO Y CONSISTE EN UN LISTÓN DE MADERA O PERFIL METÁLICO QUE CORRE LONGITUDINALMENTE EN EL INTERIOR SE LLAMA:",
-    "opciones": {
-      "a": "PALMEJAR",
-      "b": "FORRO",
-      "c": "MAMPARO",
-      "d": "DOBLE FONDO"
-    },
-    "respuesta_correcta": "a",
-    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "EL REVESTIMIENTO EXTERIOR DEL CASCO QUE ASEGURA LA ESTANQUEIDAD Y LA PROTECCIÓN DE LA ESTRUCTURA SE CONOCE COMO:",
-    "opciones": {
-      "a": "DOBLE FONDO",
-      "b": "FORRO",
-      "c": "CUBIERTA",
-      "d": "SUPERESTRUCTURA"
+      "a": "MANGA",
+      "b": "ESLORA",
+      "c": "PUNTAL",
+      "d": "PORTE"
     },
     "respuesta_correcta": "b",
-    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "verdadero_falso",
-    "pregunta": "UN MAMPARO ES UNA DIVISIÓN VERTICAL, LONGITUDINAL O TRANSVERSAL, QUE SUBDIVIDE EL INTERIOR DEL BUQUE EN COMPARTIMENTOS PARA MAYOR SEGURIDAD Y ORDEN.",
-    "respuesta_correcta": "a",
-    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
+    "fuente": "Conocimientos Marineros, Capítulo 2, Medidas del Buque - Eslora"
   },
   {
     "tema": "Conocimientos Marineros",
     "tipo": "opcion_multiple",
-    "pregunta": "EL ESPACIO ESTANCO SITUADO EN LA PARTE MÁS BAJA DEL BUQUE, COMPRENDIDO ENTRE EL FORRO INTERIOR Y EL EXTERIOR, QUE AUMENTA LA SEGURIDAD EN CASO DE VARADA O ABORDAJE, ES EL:",
+    "pregunta": "¿QUÉ MEDIDA INDICA LA ANCHURA MÁXIMA DE UN BUQUE?",
     "opciones": {
-      "a": "PICOS DE PROA Y POPA",
-      "b": "DOBLE FONDO",
-      "c": "SENTINA",
-      "d": "IMBORNAL"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "LOS PISOS O SUELOS HORIZONTALES QUE DIVIDEN EL BUQUE EN ALTURA SE DENOMINAN:",
-    "opciones": {
-      "a": "CUBIERTAS",
-      "b": "PLATAFORMAS",
-      "c": "ENTREPUENTES",
-      "d": "TODAS LAS ANTERIORES PUEDEN CONSIDERARSE COMO TAL"
-    },
-    "respuesta_correcta": "d",
-    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "verdadero_falso",
-    "pregunta": "LAS SUPERESTRUCTURAS SON CONSTRUCCIONES SITUADAS SOBRE LA CUBIERTA PRINCIPAL QUE SE EXTIENDEN DE BAND A BAND DEL BUQUE, COMO EL CASTILLO O LA TOLDA.",
-    "respuesta_correcta": "a",
-    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "LAS ABERTURAS RECTANGULARES PRACTICADAS EN LAS CUBIERTAS PARA PROPORCIONAR ACCESO, VENTILACIÓN E ILUMINACIÓN, Y QUE SE CIERRAN CON UNA TAPA ESTANCA, SON LAS:",
-    "opciones": {
-      "a": "PORTAS",
-      "b": "PORTILLOS",
-      "c": "ESCOTILLAS",
-      "d": "GATERAS"
+      "a": "ESLORA",
+      "b": "PUNTAL",
+      "c": "MANGA",
+      "d": "CALADO"
     },
     "respuesta_correcta": "c",
-    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "LAS ABERTURAS PRACTICADAS EN EL COSTADO O EN LA OBRA MUERTA DEL BUQUE, DESTINADAS AL PASO DE EMBARCACIONES MENORES, MANGUERAS O PARA LA CARGA, SE LLAMAN:",
-    "opciones": {
-      "a": "PORTAS",
-      "b": "PORTILLOS",
-      "c": "IMBORNALES",
-      "d": "PORTALONES"
-    },
-    "respuesta_correcta": "a",
-    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
+    "fuente": "Conocimientos Marineros, Capítulo 2, Medidas del Buque - Manga"
   },
   {
     "tema": "Conocimientos Marineros",
     "tipo": "verdadero_falso",
-    "pregunta": "LOS PORTILLOS SON ABERTURAS CIRCULARES GENERALMENTE PEQUEÑAS QUE SE UTILIZAN PARA DAR LUZ Y VENTILACIÓN A LOS COMPARTIMIENTOS DEL BUQUE.",
+    "pregunta": "EL CALADO MIDE LA PROFUNDIDAD A LA QUE SE SUMERGE UN BUQUE EN EL AGUA.",
     "respuesta_correcta": "a",
-    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
+    "fuente": "Conocimientos Marineros, Capítulo 2, Medidas del Buque - Calado"
   },
   {
     "tema": "Conocimientos Marineros",
     "tipo": "opcion_multiple",
-    "pregunta": "LA ABERTURA PEQUEÑA, NORMALMENTE CIRCULAR, QUE SE ENCUENTRA EN LA AMURA O EN LA ALETA Y QUE PERMITE EL PASO DE CABLES O CADENAS DE FONDEO RECIBE EL NOMBRE DE:",
+    "pregunta": "¿QUÉ INDICA EL ARRUFO EN UN BUQUE?",
     "opciones": {
-      "a": "ESCOTILLA",
-      "b": "GATERA",
-      "c": "FOGONADURA",
-      "d": "PORTILLO"
+      "a": "CURVATURA HACIA ABAJO DE LA QUILLA",
+      "b": "CURVATURA HACIA ARRIBA DE LA QUILLA EN PROA Y POPA",
+      "c": "INCLINACIÓN LATERAL",
+      "d": "DIFERENCIA DE MANGA"
     },
     "respuesta_correcta": "b",
-    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
+    "fuente": "Conocimientos Marineros, Capítulo 2, Medidas del Buque - Arrufo"
   },
   {
     "tema": "Conocimientos Marineros",
     "tipo": "opcion_multiple",
-    "pregunta": "EL ACCESO LATERAL AMPLIO, A LA ALTURA DE LA CUBIERTA PRINCIPAL, QUE PERMITE EL EMBARQUE Y DESEMBARQUE DE PERSONAL Y CARGAMENTO DIRECTO AL MUELLE SE LLAMA:",
+    "pregunta": "¿QUÉ INDICA EL QUEBRANTO EN UN BUQUE?",
     "opciones": {
-      "a": "PORTALÓN",
-      "b": "PORTA",
-      "c": "GATERA",
-      "d": "IMBORNAL"
-    },
-    "respuesta_correcta": "a",
-    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "verdadero_falso",
-    "pregunta": "LOS IMBORNALES SON ORIFICIOS EN LA AMURAY O EN LAS FOGONADURAS QUE PERMITEN LA SALIDA DEL AGUA ALMACENADA EN CUBIERTA.",
-    "respuesta_correcta": "b",
-    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "EL REFUERZO DE LA CUBIERTA POR DONDE ATRAVIESAN LOS PALOS, MACHINAS O EL CABRESTANTE, FORMADO POR UNA ABERTURA CON BOCINA, ES LA:",
-    "opciones": {
-      "a": "GATERA",
-      "b": "FOGONADURA Y CARLINGA",
-      "c": "BITON",
-      "d": "CORNAMUSA"
+      "a": "CURVATURA HACIA ARRIBA DE LA QUILLA",
+      "b": "CURVATURA HACIA ABAJO DE LA QUILLA EN EL CENTRO",
+      "c": "INCLINACIÓN LATERAL DEL BUQUE",
+      "d": "DIFERENCIA DE ESLORA"
     },
     "respuesta_correcta": "b",
-    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
+    "fuente": "Conocimientos Marineros, Capítulo 2, Medidas del Buque - Quebranto"
   },
   {
     "tema": "Conocimientos Marineros",
     "tipo": "opcion_multiple",
-    "pregunta": "EL ELEMENTO METÁLICO EN FORMA DE COLUMNA CORTA QUE, FIJADO A LA CUBIERTA, SIRVE PARA AMARRAR CABOS O ESTACHAS SE CONOCE COMO:",
+    "pregunta": "¿QUÉ INDICA EL PORTE DE UN BUQUE?",
     "opciones": {
-      "a": "CORNAMUSA",
-      "b": "BITON",
-      "c": "BITA",
-      "d": "PASAMANOS"
+      "a": "LA LONGITUD TOTAL",
+      "b": "LA ANCHURA MÁXIMA",
+      "c": "LA CAPACIDAD DE CARGA",
+      "d": "LA ALTURA VERTICAL"
     },
     "respuesta_correcta": "c",
-    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
+    "fuente": "Conocimientos Marineros, Capítulo 2, Medidas del Buque - Porte"
   },
   {
     "tema": "Conocimientos Marineros",
     "tipo": "verdadero_falso",
-    "pregunta": "LA CORNAMUSA ES UNA PIEZA METÁLICA O DE MADERA, CON DOS BRAZOS CORTOS, QUE SE EMPLEA PARA AMARRAR CABOS PEQUEÑOS DE MANERA RÁPIDA.",
+    "pregunta": "LAS FORMAS DE LOS BUQUES DEPENDEN DE SU TIPO Y FUNCIÓN ESPECÍFICA.",
     "respuesta_correcta": "a",
-    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
+    "fuente": "Conocimientos Marineros, Capítulo 2, Medidas del Buque - Formas de los Buques"
   },
   {
     "tema": "Conocimientos Marineros",
     "tipo": "opcion_multiple",
-    "pregunta": "LOS ELEMENTOS VERTICALES O INCLINADOS QUE SIRVEN DE APOYO Y PROTECCIÓN PARA EL TRÁNSITO DE PERSONAS A LO LARGO DE LAS CUBIERTAS SE DENOMINAN:",
-    "opciones": {
-      "a": "ENJARETADOS",
-      "b": "DEFENSAS",
-      "c": "PASAMANOS Y ESCALAS",
-      "d": "IMBORNALES"
-    },
-    "respuesta_correcta": "c",
-    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "EL ENREJILLADO DE MADERA O PLÁSTICO QUE SE COLOCA SOBRE CUBIERTA PARA PERMITIR EL PASO DEL AGUA Y EVITAR RESBALONES ES EL:",
-    "opciones": {
-      "a": "DEFENSA",
-      "b": "ENJARETADO",
-      "c": "PASAMANOS",
-      "d": "IMBORNAL"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "verdadero_falso",
-    "pregunta": "LAS DEFENSAS SON ELEMENTOS COLOCADOS EN LOS COSTADOS DEL BUQUE PARA AMORTIGUAR LOS CHOQUES CONTRA OTROS BUQUES O EL MUELLE.",
-    "respuesta_correcta": "a",
-    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "LA PARTE DEL COSTADO DE UN BUQUE COMPRENDIDA ENTRE LA PROA Y LA SECCIÓN MÁS ANCHA, DONDE EL CASCO EMPIEZA A ESTRECHARSE, SE LLAMA:",
+    "pregunta": "¿CUÁL ES LA PARTE DEL BUQUE COMPRENDIDA ENTRE LA PROA Y EL TRAVÉS?",
     "opciones": {
       "a": "ALETA",
       "b": "AMURA",
-      "c": "TRAVÉS",
-      "d": "OBRA MUERTA"
+      "c": "POPA",
+      "d": "ESTRIBOR"
     },
     "respuesta_correcta": "b",
-    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
+    "fuente": "Conocimientos Marineros, Capítulo 1, Estructura del Buque - Amura"
   },
   {
     "tema": "Conocimientos Marineros",
     "tipo": "opcion_multiple",
-    "pregunta": "LA ZONA DEL COSTADO CERCANA A LA POPA Y QUE, SIMÉTRICAMENTE A LA AMURA, CONSTITUYE LA PARTE TRASERA Y CURVA DEL BUQUE SE CONOCE COMO:",
+    "pregunta": "¿CUÁL ES LA PARTE DEL BUQUE COMPRENDIDA ENTRE EL TRAVÉS Y LA POPA?",
     "opciones": {
       "a": "AMURA",
-      "b": "ALETA",
-      "c": "ESPEJO DE POPA",
-      "d": "CODASTE"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "verdadero_falso",
-    "pregunta": "LA ESLORA ES LA ANCHURA MÁXIMA DEL BUQUE MEDIDA EN LA CUADERNA MAESTRA, DE FORRO A FORRO.",
-    "respuesta_correcta": "b",
-    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 2 Medidas del buque"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "LA MAYOR ANCHURA DE UN BUQUE, MEDIDA EN LA SECCIÓN TRANSVERSAL MÁS ANCHA Y A LA ALTURA DE LA FLOTACIÓN, SE DENOMINA:",
-    "opciones": {
-      "a": "PUNTAL",
-      "b": "CALADO",
-      "c": "MANGA",
-      "d": "ARUFO"
+      "b": "PROA",
+      "c": "ALETA",
+      "d": "BABOR"
     },
     "respuesta_correcta": "c",
-    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 2 Medidas del buque"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "LA DISTANCIA VERTICAL MEDIDA DESDE EL PLANO DE LA QUILLA HASTA LA CUBIERTA PRINCIPAL O DE RESISTENCIA RECIBE EL NOMBRE DE:",
-    "opciones": {
-      "a": "PUNTAL",
-      "b": "CALADO",
-      "c": "FRANCOBORDO",
-      "d": "ALTURA DE OBRA MUERTA"
-    },
-    "respuesta_correcta": "a",
-    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 2 Medidas del buque"
+    "fuente": "Conocimientos Marineros, Capítulo 1, Estructura del Buque - Aleta"
   },
   {
     "tema": "Conocimientos Marineros",
     "tipo": "verdadero_falso",
-    "pregunta": "EL CALADO ES LA DIFERENCIA ENTRE LA ESLORA TOTAL Y LA ESLORA EN FLOTACIÓN.",
-    "respuesta_correcta": "b",
-    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 2 Medidas del buque"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "LA PROFUNDIDAD HASTA LA CUAL SE SUMERGE LA QUILLA DE UN BUQUE EN EL AGUA, MEDIDA DESDE LA SUPERFICIE HASTA EL CANTO INFERIOR DE LA QUILLA, ES EL:",
-    "opciones": {
-      "a": "PUNTAL",
-      "b": "CALADO",
-      "c": "FRANCOBORDO",
-      "d": "DESPLAZAMIENTO"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 2 Medidas del buque"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "CUANDO UN BUQUE PRESENTA LA PROA Y LA POPA MÁS ALTAS QUE EL CENTRO, ES DECIR, CON UNA CURVATURA CÓNCAVA VISTA DE PERFIL, SE DICE QUE TIENE:",
-    "opciones": {
-      "a": "QUEBRANTO",
-      "b": "ARUFO",
-      "c": "ASIENTO POSITIVO",
-      "d": "ESCORA"
-    },
+    "pregunta": "EL FORRO ES EL REVESTIMIENTO EXTERIOR QUE FORMA EL CASCO DEL BUQUE.",
     "respuesta_correcta": "a",
-    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 2"
+    "fuente": "Conocimientos Marineros, Capítulo 1, Estructura del Buque - Forro"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁL ES LA FUNCIÓN PRINCIPAL DEL DOBLE FONDO EN UN BUQUE?",
+    "opciones": {
+      "a": "AUMENTAR LA VELOCIDAD",
+      "b": "PROPORCIONAR PROTECCIÓN Y ALMACENAMIENTO",
+      "c": "MEJORAR LA ESTABILIDAD",
+      "d": "FACILITAR LA MANIOBRABILIDAD"
+    },
+    "respuesta_correcta": "b",
+    "fuente": "Conocimientos Marineros, Capítulo 1, Estructura del Buque - Doble Fondo"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿QUÉ SON LAS SUPERESTRUCTURAS EN UN BUQUE?",
+    "opciones": {
+      "a": "ELEMENTOS DE REFUERZO INTERNO",
+      "b": "CONSTRUCCIONES SOBRE LA CUBIERTA PRINCIPAL",
+      "c": "DIVISIONES INTERNAS",
+      "d": "SISTEMAS DE DRENAJE"
+    },
+    "respuesta_correcta": "b",
+    "fuente": "Conocimientos Marineros, Capítulo 1, Estructura del Buque - Superestructuras"
   },
   {
     "tema": "Conocimientos Marineros",
     "tipo": "verdadero_falso",
-    "pregunta": "EL ARUFO ES LA CURVATURA LONGITUDINAL DEL BUQUE EN LA QUE LA PROA Y LA POPA QUEDAN MÁS BAJAS RESPECTO DEL CENTRO.",
-    "respuesta_correcta": "b",
-    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 2"
+    "pregunta": "LAS ESCOTILLAS SON ABERTURAS EN LAS CUBIERTAS PARA ACCESO Y VENTILACIÓN.",
+    "respuesta_correcta": "a",
+    "fuente": "Conocimientos Marineros, Capítulo 1, Estructura del Buque - Escotillas"
   },
   {
     "tema": "Conocimientos Marineros",
     "tipo": "opcion_multiple",
-    "pregunta": "LA CAPACIDAD DE CARGA O DE TRANSPORTE DE UN BUQUE, EXPRESADA EN TONELADAS DE VOLUMEN O PESO, SE CONOCE COMO:",
+    "pregunta": "¿QUÉ SON LAS PORTAS EN UN BUQUE?",
     "opciones": {
-      "a": "DESPLAZAMIENTO",
-      "b": "PORTE",
+      "a": "ABERTURAS PEQUEÑAS EN EL CASCO",
+      "b": "ABERTURAS GRANDES EN EL CASCO PARA CAÑONES",
+      "c": "DIVISIONES INTERNAS",
+      "d": "ELEMENTOS DE PROTECCIÓN"
+    },
+    "respuesta_correcta": "b",
+    "fuente": "Conocimientos Marineros, Capítulo 1, Estructura del Buque - Portas"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿QUÉ SON LOS PORTILLOS EN LA ESTRUCTURA DE UN BUQUE?",
+    "opciones": {
+      "a": "ABERTURAS GRANDES PARA CAÑONES",
+      "b": "ABERTURAS PEQUEÑAS EN EL CASCO",
+      "c": "DIVISIONES INTERNAS",
+      "d": "SISTEMAS DE AMARRE"
+    },
+    "respuesta_correcta": "b",
+    "fuente": "Conocimientos Marineros, Capítulo 1, Estructura del Buque - Portillo"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "verdadero_falso",
+    "pregunta": "LAS GATERAS SON ABERTURAS PEQUEÑAS EN EL CASCO PARA PASO DE TUBERÍAS.",
+    "respuesta_correcta": "a",
+    "fuente": "Conocimientos Marineros, Capítulo 1, Estructura del Buque - Gatera"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿QUÉ ES EL PORTALÓN EN UN BUQUE?",
+    "opciones": {
+      "a": "ABERTURA PEQUEÑA EN EL CASCO",
+      "b": "ABERTURA PARA EMBARQUE Y DESEMBARQUE",
+      "c": "DIVISIÓN INTERNA",
+      "d": "ELEMENTO DE REFUERZO"
+    },
+    "respuesta_correcta": "b",
+    "fuente": "Conocimientos Marineros, Capítulo 1, Estructura del Buque - Portalón"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁL ES LA FUNCIÓN DE LOS IMBORNALES EN UN BUQUE?",
+    "opciones": {
+      "a": "REFORZAR EL CASCO",
+      "b": "PERMITIR EL DRENAJE DEL AGUA",
+      "c": "FACILITAR LA VENTILACIÓN",
+      "d": "PROTEGER LAS ABERTURAS"
+    },
+    "respuesta_correcta": "b",
+    "fuente": "Conocimientos Marineros, Capítulo 1, Estructura del Buque - Imbornales"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "verdadero_falso",
+    "pregunta": "LA FOGONADURA Y LA CARLINGA SON SOPORTES PARA MÁSTILES Y CHIMENEAS.",
+    "respuesta_correcta": "a",
+    "fuente": "Conocimientos Marineros, Capítulo 1, Estructura del Buque - Fogonadura y Carlinga"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁL ES LA FUNCIÓN DE LAS BITAS Y CORNAMUSAS?",
+    "opciones": {
+      "a": "REFORZAR EL CASCO",
+      "b": "PUNTOS DE AMARRE PARA CABOS",
+      "c": "SOPORTES PARA MÁSTILES",
+      "d": "ELEMENTOS DE PROTECCIÓN"
+    },
+    "respuesta_correcta": "b",
+    "fuente": "Conocimientos Marineros, Capítulo 1, Estructura del Buque - Bita y Cornamusa"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿QUÉ SON LOS PASAMANOS EN UN BUQUE?",
+    "opciones": {
+      "a": "ELEMENTOS DE REFUERZO",
+      "b": "BARANDILLAS DE PROTECCIÓN",
+      "c": "DIVISIONES INTERNAS",
+      "d": "SISTEMAS DE DRENAJE"
+    },
+    "respuesta_correcta": "b",
+    "fuente": "Conocimientos Marineros, Capítulo 1, Estructura del Buque - Pasamanos"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "verdadero_falso",
+    "pregunta": "LAS ESCALAS SON ELEMENTOS DE ACCESO VERTICAL EN UN BUQUE.",
+    "respuesta_correcta": "a",
+    "fuente": "Conocimientos Marineros, Capítulo 1, Estructura del Buque - Escalas"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁL ES LA FUNCIÓN DEL ENJARETADO EN UN BUQUE?",
+    "opciones": {
+      "a": "REFORZAR ESTRUCTURALMENTE",
+      "b": "PERMITIR CIRCULACIÓN DE AIRE Y AGUA",
+      "c": "PROTEGER LAS ABERTURAS",
+      "d": "FACILITAR EL AMARRE"
+    },
+    "respuesta_correcta": "b",
+    "fuente": "Conocimientos Marineros, Capítulo 1, Estructura del Buque - Enjaretado"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿QUÉ SON LAS DEFENSAS EN UN BUQUE?",
+    "opciones": {
+      "a": "SISTEMAS DE PROTECCIÓN ARMADA",
+      "b": "ELEMENTOS QUE PROTEGEN EL CASCO",
+      "c": "DIVISIONES INTERNAS",
+      "d": "SISTEMAS DE DRENAJE"
+    },
+    "respuesta_correcta": "b",
+    "fuente": "Conocimientos Marineros, Capítulo 1, Estructura del Buque - Defensas"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "verdadero_falso",
+    "pregunta": "LA AMURA ES LA PARTE DEL CASCO ENTRE LA PROA Y EL TRAVÉS.",
+    "respuesta_correcta": "a",
+    "fuente": "Conocimientos Marineros, Capítulo 1, Estructura del Buque - Amura"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿QUÉ ES LA ALETA EN UN BUQUE?",
+    "opciones": {
+      "a": "PARTE DELANTERA DEL CASCO",
+      "b": "PARTE TRASERA ENTRE EL TRAVÉS Y LA POPA",
+      "c": "ELEMENTO DE REFUERZO",
+      "d": "ABERTURA EN EL CASCO"
+    },
+    "respuesta_correcta": "b",
+    "fuente": "Conocimientos Marineros, Capítulo 1, Estructura del Buque - Aleta"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁL ES LA MEDIDA QUE INDICA LA LONGITUD DE UN BUQUE?",
+    "opciones": {
+      "a": "MANGA",
+      "b": "PUNTAL",
       "c": "ESLORA",
-      "d": "MANGA"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 2"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "verdadero_falso",
-    "pregunta": "LA FORMA DE UN BUQUE SE DEFINE PRINCIPALMENTE POR SU ESLORA, MANGA Y PUNTAL, ASÍ COMO POR LAS FORMAS DE PROA Y POPA.",
-    "respuesta_correcta": "a",
-    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 2"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "DE LOS SIGUIENTES TÉRMINOS, AQUEL QUE NO ES UNA PARTE DE LA ESTRUCTURA TÍPICA DEL BUQUE ES:",
-    "opciones": {
-      "a": "BAO",
-      "b": "VARENGA",
-      "c": "BORDA",
-      "d": "PALMEJAR"
+      "d": "CALADO"
     },
     "respuesta_correcta": "c",
-    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "verdadero_falso",
-    "pregunta": "LOS IMBORNALES SON CONDUCTOS O ABERTURAS QUE PERMITEN LA EVACUACIÓN DEL AGUA DE LAS CUBIERTAS HACIA EL EXTERIOR.",
-    "respuesta_correcta": "a",
-    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
+    "fuente": "Conocimientos Marineros, Capítulo 2, Medidas del Buque - Eslora"
   },
   {
     "tema": "Conocimientos Marineros",
     "tipo": "opcion_multiple",
-    "pregunta": "LA PIEZA QUE, EN LA PROA, SIRVE DE REMATE A LA RODA Y A MENUDO SE DECORA CON UN MASCARÓN O FIGURA, SE LLAMA:",
+    "pregunta": "¿CUÁL ES LA MEDIDA QUE INDICA LA ANCHURA DE UN BUQUE?",
     "opciones": {
-      "a": "ESPEJO DE PROA",
-      "b": "TAJAMAR",
-      "c": "RODA",
-      "d": "BOTALÓN"
+      "a": "ESLORA",
+      "b": "MANGA",
+      "c": "PUNTAL",
+      "d": "PORTE"
     },
     "respuesta_correcta": "b",
-    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
+    "fuente": "Conocimientos Marineros, Capítulo 2, Medidas del Buque - Manga"
   },
   {
     "tema": "Conocimientos Marineros",
     "tipo": "opcion_multiple",
-    "pregunta": "CUANDO EL BUQUE TIENE UNA FORMA DE POPA QUE TERMINA EN UN PLANO VERTICAL, GENERALMENTE SOBRE LA LÍNEA DE CRUJÍA, SE HABLA DE:",
+    "pregunta": "¿CUÁL ES LA MEDIDA QUE INDICA LA ALTURA DE UN BUQUE?",
     "opciones": {
-      "a": "POPA DE CULATA",
-      "b": "POPA DE ESPEJO",
-      "c": "POPA DE CRUCERO",
-      "d": "POPA DE CUCHARA"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "verdadero_falso",
-    "pregunta": "EL BABOR ES EL COSTADO IZQUIERDO DEL BUQUE MIRANDO DESDE LA POPA HACIA LA PROA.",
-    "respuesta_correcta": "b",
-    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "EN LA CONSTRUCCIÓN NAVAL, EL CONJUNTO DE PIEZAS LONGITUDINALES Y TRANSVERSALES QUE FORMAN EL ARMAZÓN DEL BUQUE SE LLAMA:",
-    "opciones": {
-      "a": "CASCO",
-      "b": "ESTRUCTURA",
-      "c": "FORRO",
-      "d": "SUPERESTRUCTURA"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "EL FRANCOBORDO ES LA DISTANCIA VERTICAL MEDIDA EN EL CENTRO DEL BUQUE DESDE LA LÍNEA DE FLOTACIÓN HASTA:",
-    "opciones": {
-      "a": "EL CANTO SUPERIOR DE LA QUILLA",
-      "b": "EL CANTO SUPERIOR DE LA CUBIERTA PRINCIPAL",
-      "c": "EL PUNTO MÁS ALTO DE LA SUPERESTRUCTURA",
-      "d": "EL FONDO DEL DOBLE FONDO"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 2"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "verdadero_falso",
-    "pregunta": "EL PORTE DE UN BUQUE SE MIDE EN TONELADAS DE REGISTRO Y PUEDE SER BRUTO O NETO.",
-    "respuesta_correcta": "a",
-    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 2"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "SI UN BUQUE TIENE UN CALADO A PROA DE 4 METROS Y A POPA DE 6 METROS, SE DICE QUE TIENE UN ASIENTO:",
-    "opciones": {
-      "a": "NEUTRO",
-      "b": "APOPADO O POSITIVO",
-      "c": "APROADO O NEGATIVO",
-      "d": "ESCORADO"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 2"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "verdadero_falso",
-    "pregunta": "LA ESCORA ES LA INCLINACIÓN LONGITUDINAL DEL BUQUE CAUSADA POR LA MALA DISTRIBUCIÓN DE LA CARGA.",
-    "respuesta_correcta": "b",
-    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 2"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "LAS ABERTURAS DE FORMA OVALADA O REDONDA EN LA AMPURADA O EN EL COSTADO PARA DEJAR PASO A LOS CABLES, ESPECIALMENTE DURANTE EL REMOLQUE, SE LLAMAN:",
-    "opciones": {
-      "a": "PORTILLOS",
-      "b": "GATERAS",
-      "c": "IMBORNALES",
-      "d": "FOGONADURAS"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "verdadero_falso",
-    "pregunta": "LA CARLINGA ES UN REFUERZO DE LA CUBIERTA QUE RODEA LA BASE DE LOS PALOS O DE LA MAQUINARIA DE CUBIERTA.",
-    "respuesta_correcta": "a",
-    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "EL TÉRMINO 'BITA' SE REFIERE A UN TIPO DE:",
-    "opciones": {
-      "a": "REFUERZO ESTRUCTURAL",
-      "b": "PIEZA PARA AMARRAR CABOS",
-      "c": "ABERTURA EN LA CUBIERTA",
-      "d": "ELEMENTO PARA EL FONDEO"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "verdadero_falso",
-    "pregunta": "LAS ESCALAS NAVALES, COMO LA 'ESCALA REAL', SE UTILIZAN SOLO PARA EL ACCESO DE LA DOTACIÓN AL BUQUE.",
-    "respuesta_correcta": "b",
-    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "LA DISTANCIA HORIZONTAL MEDIDA ENTRE LAS PERPENDICULARES DE PROA Y POPA, QUE SIRVE COMO BASE PARA LAS CURVAS Y PLANOS, ES LA:",
-    "opciones": {
-      "a": "ESLORA TOTAL",
-      "b": "ESLORA ENTRE PERPENDICULARES",
-      "c": "ESLORA DE ARQUEO",
-      "d": "ESLORA MÁXIMA"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 2"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "EN UN BUQUE, LA SUPERFICIE SUPERIOR DE LA CUBIERTA PRINCIPAL, QUE CONSTITUYE EL CIERRE ESTANCO POR LA PARTE DE ARRIBA, SE LLAMA:",
-    "opciones": {
-      "a": "TRONERA",
-      "b": "TRONCO",
-      "c": "TRANCANIL",
-      "d": "REGALA"
+      "a": "ESLORA",
+      "b": "MANGA",
+      "c": "PUNTAL",
+      "d": "CALADO"
     },
     "respuesta_correcta": "c",
-    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
+    "fuente": "Conocimientos Marineros, Capítulo 2, Medidas del Buque - Puntal"
   },
   {
     "tema": "Conocimientos Marineros",
     "tipo": "verdadero_falso",
-    "pregunta": "LA ESTRUCTURA LONGITUDINAL QUE REMATA LA OBRA MUERTA EN SU PARTE SUPERIOR, A MODO DE PRETIL, ES LA BORDA.",
+    "pregunta": "EL CALADO ES LA PROFUNDIDAD A LA QUE SE SUMERGE UN BUQUE.",
     "respuesta_correcta": "a",
-    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
+    "fuente": "Conocimientos Marineros, Capítulo 2, Medidas del Buque - Calado"
   },
   {
     "tema": "Conocimientos Marineros",
     "tipo": "opcion_multiple",
-    "pregunta": "LOS AGUJEROS DE PEQUEÑO DIÁMETRO PRACTICADOS EN LA OBRA VIVA PARA EL PASO DE TUBERÍAS, COMO LAS DE REFRIGERACIÓN O DESAGÜE DE SENTINAS, SE DENOMINAN:",
+    "pregunta": "¿QUÉ INDICA EL ARRUFO?",
     "opciones": {
-      "a": "PORTILLOS SUMERGIDOS",
-      "b": "TOMAS DE AGUA DE MAR",
-      "c": "LIMERAS",
-      "d": "IMBORNALES DE FONDO"
+      "a": "CURVATURA HACIA ABAJO",
+      "b": "CURVATURA HACIA ARRIBA EN PROA Y POPA",
+      "c": "INCLINACIÓN LATERAL",
+      "d": "DIFERENCIA DE MANGA"
     },
     "respuesta_correcta": "b",
-    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "verdadero_falso",
-    "pregunta": "EL DOBLE FONDO, ADEMÁS DE PROTEGER EN CASO DE VARADA, PUEDE UTILIZARSE COMO TANQUE DE LASTRE O DE COMBUSTIBLE.",
-    "respuesta_correcta": "a",
-    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
+    "fuente": "Conocimientos Marineros, Capítulo 2, Medidas del Buque - Arrufo"
   },
   {
     "tema": "Conocimientos Marineros",
     "tipo": "opcion_multiple",
-    "pregunta": "LA MANGA DE UN BUQUE SE MIDE EN SU PUNTO MÁS ANCHO, GENERALMENTE A LA ALTURA DE LA:",
+    "pregunta": "¿QUÉ INDICA EL QUEBRANTO?",
     "opciones": {
-      "a": "LÍNEA DE FLOTACIÓN",
-      "b": "CUBIERTA PRINCIPAL",
-      "c": "CUADERNA MAESTRA",
-      "d": "SUPERESTRUCTURA"
+      "a": "CURVATURA HACIA ARRIBA",
+      "b": "CURVATURA HACIA ABAJO EN EL CENTRO",
+      "c": "INCLINACIÓN LATERAL",
+      "d": "DIFERENCIA DE ESLORA"
+    },
+    "respuesta_correcta": "b",
+    "fuente": "Conocimientos Marineros, Capítulo 2, Medidas del Buque - Quebranto"
+  },
+  {
+    "tema": "Conocimientos Marineros",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿QUÉ INDICA EL PORTE?",
+    "opciones": {
+      "a": "LA LONGITUD TOTAL",
+      "b": "LA ANCHURA MÁXIMA",
+      "c": "LA CAPACIDAD DE CARGA",
+      "d": "LA ALTURA VERTICAL"
     },
     "respuesta_correcta": "c",
-    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 2"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "verdadero_falso",
-    "pregunta": "EL ARUFO ES BENEFICIOSO PORQUE MEJORA EL COMPORTAMIENTO MARINERO DEL BUQUE AL EVITAR QUE EMBARQUE AGUA POR LA PROA.",
-    "respuesta_correcta": "a",
-    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 2"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "EL TÉRMINO 'PUNTAL' EN MEDIDAS NAVALES SE REFIERE A LA ALTURA MÁXIMA DESDE LA QUILLA HASTA:",
-    "opciones": {
-      "a": "LA LÍNEA DE FLOTACIÓN",
-      "b": "LA CUBIERTA SUPERIOR CONTINUA",
-      "c": "EL EXTREMO DE LA CHIMENEA",
-      "d": "EL PALO MAYOR"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 2"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "LA ESTRUCTURA QUE, SOBRE LA CUBIERTA PRINCIPAL, NO SE EXTIENDE DE BAND A BAND, COMO UNA CASETA O UN PUENTE DE MANDO, SE CLASIFICA COMO:",
-    "opciones": {
-      "a": "SUPERESTRUCTURA",
-      "b": "CASETA O GUARDACALOR",
-      "c": "CASTILLO",
-      "d": "TOLDA"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "verdadero_falso",
-    "pregunta": "LAS PORTAS SON ABERTURAS PRACTICADAS EN LA OBRA MUERTA O EN EL COSTADO DEL BUQUE, USADAS GENERALMENTE PARA LA CARGA O PARA SITUAR LA ARTILLERÍA EN BUQUES DE GUERRA ANTIGUOS.",
-    "respuesta_correcta": "a",
-    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "EL PLANO HORIZONTAL QUE CIERRA LA PARTE SUPERIOR DE LA CÁMARA DE MÁQUINAS O DE OTRO COMPARTIMENTO Y QUE SIRVE DE PISO SE CONOCE COMO:",
-    "opciones": {
-      "a": "CUBIERTA",
-      "b": "ENTARIMADO",
-      "c": "PLANCHUELA DE FONDO",
-      "d": "DOBLE FONDO SUPERIOR"
-    },
-    "respuesta_correcta": "a",
-    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "verdadero_falso",
-    "pregunta": "LAS DEFENSAS PUEDEN SER FIJAS, COMO LAS BANDAS DE HULE EN LOS REMOLCADORES, O MÓVILES, COMO LAS DEFENSAS DE CABO O NEUMÁTICOS.",
-    "respuesta_correcta": "a",
-    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "LA PARTE DE LA POPA QUE QUEDA POR ENCIMA DE LA FLOTACIÓN Y QUE A MENUDO ES PLANA EN LOS BUQUES MODERNOS, ADEMÁS DEL ESPEJO, SE CONOCE COMO:",
-    "opciones": {
-      "a": "BÓVEDA",
-      "b": "ALETA",
-      "c": "CODASTE",
-      "d": "CUBIERTA DE POPA"
-    },
-    "respuesta_correcta": "a",
-    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "verdadero_falso",
-    "pregunta": "EL QUEBRANTO, ONDULACIÓN CON LA CONCAVIDAD HACIA ABAJO, ES UNA SITUACIÓN PELIGROSA QUE INDICA QUE EL BUQUE ESTÁ DEMASIADO CARGADO EN LOS EXTREMOS Y PUEDE PARTIRSE.",
-    "respuesta_correcta": "a",
-    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 2"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "EL DESPLAZAMIENTO DE UN BUQUE SE DEFINE COMO EL PESO DEL VOLUMEN DE AGUA QUE DESALOJA SU OBRA VIVA, Y SE MIDE EN:",
-    "opciones": {
-      "a": "METROS CÚBICOS",
-      "b": "TONELADAS MÉTRICAS O TONELADAS DE DESPLAZAMIENTO",
-      "c": "LITROS",
-      "d": "KILOGRAMOS FUERZA"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 2"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "verdadero_falso",
-    "pregunta": "LA QUILLA DE BALANCE ES UNA PIEZA LONGITUDINAL SITUADA EN EL COSTADO PARA REDUCIR EL BALANCE DEL BUQUE.",
-    "respuesta_correcta": "a",
-    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "EL CONJUNTO DE ELEMENTOS ESTRUCTURALES QUE FORMAN LA TERMINACIÓN DE LA PROA POR DEBAJO DE LA FLOTACIÓN, INCLUYENDO LA RODA Y LOS REFUERZOS, SE LLAMA:",
-    "opciones": {
-      "a": "TAJAMAR",
-      "b": "BULBO DE PROA",
-      "c": "CASCO DE PROA",
-      "d": "AMURA"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "verdadero_falso",
-    "pregunta": "LAS ESCOTILLAS ESTANCAS CUENTAN CON EMPAQUES Y CIERRES HERMÉTICOS PARA GARANTIZAR LA COMPARTIMENTACIÓN EN CASO DE INUNDACIÓN.",
-    "respuesta_correcta": "a",
-    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "LA DISTANCIA VERTICAL DESDE LA LÍNEA DE FLOTACIÓN HASTA LA CUBIERTA PRINCIPAL, QUE DETERMINA EN GRAN MEDIDA LA RESERVA DE FLOTABILIDAD, ES EL:",
-    "opciones": {
-      "a": "PUNTAL",
-      "b": "CALADO",
-      "c": "FRANCOBORDO",
-      "d": "OBRA MUERTA"
-    },
-    "respuesta_correcta": "c",
-    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 2"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "verdadero_falso",
-    "pregunta": "EL ENJARETADO, ADEMÁS DE EVITAR RESBALONES, PERMITE EL PASO DEL AIRE Y DE LA LUZ HACIA COMPARTIMENTOS INFERIORES.",
-    "respuesta_correcta": "a",
-    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "EN LA NOMENCLATURA MARINERA, LAS 'ALETAS' SON LAS PARTES DEL COSTADO QUE SE SITÚAN:",
-    "opciones": {
-      "a": "ENTRE LA PROA Y LA AMURA",
-      "b": "ENTRE LA POPA Y LA SECCIÓN MAESTRA, HACIA LA POPA",
-      "c": "EN EL FONDO DEL BUQUE",
-      "d": "EXCLUSIVAMENTE SOBRE LA CUBIERTA PRINCIPAL"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "verdadero_falso",
-    "pregunta": "EL CODASTE ES UNA PIEZA EXCLUSIVA DE LOS BUQUES DE MADERA, PUES LOS METÁLICOS USAN UNA PIEZA FUNDIDA DENOMINADA ‘BRANDASTE’.",
-    "respuesta_correcta": "b",
-    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "EL TÉRMINO 'CALADO' SE REFIERE A LA PROFUNDIDAD DEL BUQUE, PERO CUANDO ESTE ES MAYOR EN LA POPA QUE EN LA PROA, SE DICE QUE EL BUQUE ESTÁ:",
-    "opciones": {
-      "a": "APROADO",
-      "b": "APOPADO",
-      "c": "EN LASTRE",
-      "d": "ADRIZADO"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 2"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "LA PIEZA LONGITUDINAL QUE, COLOCADA SOBRE LOS BAOS EN SENTIDO PROA-POPA, SIRVE DE BASE AL ENTARIMADO DE LA CUBIERTA SE CONOCE COMO:",
-    "opciones": {
-      "a": "VAGRA",
-      "b": "PALMEJAR",
-      "c": "TRANCANIL",
-      "d": "DORMIDO"
-    },
-    "respuesta_correcta": "d",
-    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "verdadero_falso",
-    "pregunta": "EL DOBLE FONDO SE EXTIENDE SIEMPRE DESDE EL PICO DE PROA HASTA EL PICO DE POPA, SIN INTERRUPCIÓN, EN TODOS LOS BUQUES.",
-    "respuesta_correcta": "b",
-    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "LA LÍNEA IMAGINARIA QUE RECORRE EL BUQUE DE PROA A POPA POR SU CENTRO, SIRVIENDO DE REFERENCIA PARA LA DISTRIBUCIÓN DE PESOS Y LA ESTRUCTURA, ES LA:",
-    "opciones": {
-      "a": "LÍNEA DE FLOTACIÓN",
-      "b": "LÍNEA DE CRUJÍA",
-      "c": "LÍNEA BASE",
-      "d": "LÍNEA DE TRAZADO"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "verdadero_falso",
-    "pregunta": "LA OBRA VIVA SE RECUBRE CON PATENTE O PINTURA ANTIINCRUSTANTE PARA EVITAR LA ADHERENCIA DE ORGANISMOS MARINOS.",
-    "respuesta_correcta": "a",
-    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "LOS REFUERZOS VERTICALES DEL FORRO, QUE SE COLOCAN SOBRE LAS CUADERNAS PARA AUMENTAR LA RIGIDEZ, SE LLAMAN:",
-    "opciones": {
-      "a": "VAGRAS",
-      "b": "BAOS",
-      "c": "BULARCAMAS",
-      "d": "PALMEJARES"
-    },
-    "respuesta_correcta": "c",
-    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "verdadero_falso",
-    "pregunta": "EL DESPLAZAMIENTO EN ROSCA ES EL PESO DEL BUQUE LISTO PARA NAVEGAR, CON TODA SU DOTACIÓN, PERTRECHOS Y PROVISIONES, PERO SIN COMBUSTIBLE NI CARGA.",
-    "respuesta_correcta": "b",
-    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 2"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "EL CONJUNTO DE MAMPAROS LONGITUDINALES Y TRANSVERSALES QUE SUBDIVIDEN EL INTERIOR DEL BUQUE PARA AUMENTAR SU SEGURIDAD SE DENOMINA:",
-    "opciones": {
-      "a": "COMPARTIMENTACIÓN ESTANCA",
-      "b": "DOBLE FONDO",
-      "c": "CUADERNAJE",
-      "d": "FORRO INTERIOR"
-    },
-    "respuesta_correcta": "a",
-    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "verdadero_falso",
-    "pregunta": "EL PORTALÓN ES UNA ABERTURA PEQUEÑA EN LA CUBIERTA PARA EL PASO DE CABLES Y CABOS.",
-    "respuesta_correcta": "b",
-    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "EL TIPO DE POPA CARACTERIZADA POR UNA FORMA REDONDA Y SUAVE, MUY COMÚN EN YATES Y BUQUES MODERNOS, ES LA POPA DE:",
-    "opciones": {
-      "a": "ESPEJO",
-      "b": "CRUCERO",
-      "c": "CULATA",
-      "d": "CAÍDA"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "verdadero_falso",
-    "pregunta": "EL ARUFO Y EL QUEBRANTO SON DEFORMACIONES LONGITUDINALES DE LA ESTRUCTURA DEL BUQUE QUE PUEDEN MEDIRSE CON LA AYUDA DE MARCAS DE CALADO.",
-    "respuesta_correcta": "a",
-    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 2"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "LA PIEZA QUE CONSTITUYE EL REMATE SUPERIOR DE LA CUADERNA EN LA CUBIERTA, UNIENDO ESTA CON EL COSTADO, SE CONOCE COMO:",
-    "opciones": {
-      "a": "REGALA",
-      "b": "TRANCANIL",
-      "c": "CURVATON",
-      "d": "ESCUADRA"
-    },
-    "respuesta_correcta": "c",
-    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "verdadero_falso",
-    "pregunta": "LOS IMBORNALES SE ENCUENTRAN EXCLUSIVAMENTE EN LA CUBIERTA PRINCIPAL Y NO EXISTEN EN CUBIERTAS INFERIORES.",
-    "respuesta_correcta": "b",
-    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "EL CONJUNTO DE OPERACIONES PARA DETERMINAR EL CALADO MEDIO DE UN BUQUE, A PARTIR DE LAS LECTURAS EN PROA, POPA Y CENTRO, SE LLAMA:",
-    "opciones": {
-      "a": "ARQUEO",
-      "b": "SONDEO",
-      "c": "CÁLCULO DE ASIENTO",
-      "d": "AVERÍA DE CALADOS"
-    },
-    "respuesta_correcta": "d",
-    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 2"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "verdadero_falso",
-    "pregunta": "LA BITON ES UNA PIEZA DE MENOR TAMAÑO QUE LA BITA, PERO CON LA MISMA FUNCIÓN DE SUJECIÓN DE CABOS.",
-    "respuesta_correcta": "a",
-    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "LA ESLORA MÁXIMA DE UN BUQUE INCLUYE:",
-    "opciones": {
-      "a": "SOLO EL CASCO HASTA LAS PERPENDICULARES",
-      "b": "LA DISTANCIA TOTAL ENTRE LOS PUNTOS MÁS SALIENTES DE PROA Y POPA, INCLUYENDO APÉNDICES",
-      "c": "LA DISTANCIA ENTRE LA RODA Y EL CODASTE",
-      "d": "LA LONGITUD DE LA CUBIERTA PRINCIPAL ÚNICAMENTE"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 2"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "verdadero_falso",
-    "pregunta": "EL FORRO INTERIOR DEL DOBLE FONDO RECIBE EL NOMBRE DE VAGRA DEL FONDO O PLANCHUELA DE MARGEN.",
-    "respuesta_correcta": "b",
-    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "LA SUPERFICIE PLANA O LIGERAMENTE CURVA QUE CIERRA LA POPA POR ENCIMA DEL AGUA EN MUCHOS BUQUES, ESPECIALMENTE LOS DE PESCA, SE CONOCE COMO:",
-    "opciones": {
-      "a": "CODASTE",
-      "b": "ESPEJO DE POPA",
-      "c": "BÓVEDA",
-      "d": "ALETA"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "verdadero_falso",
-    "pregunta": "LAS GATERAS SON ABERTURAS QUE SE DISPONEN EN LA AMURA O EN LA ALETA Y TIENEN COMO FIN EXCLUSIVO EL PASO DE CABLES DEL REMOLQUE.",
-    "respuesta_correcta": "b",
-    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "LA RESERVA DE FLOTABILIDAD DE UN BUQUE DEPENDE DIRECTAMENTE DEL VOLUMEN DE SU:",
-    "opciones": {
-      "a": "OBRA VIVA",
-      "b": "OBRA MUERTA Y SUPERESTRUCTURAS ESTANCAS",
-      "c": "DOBLE FONDO",
-      "d": "CASCO SUMERGIDO"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "verdadero_falso",
-    "pregunta": "EL PUNTAL DE ARQUEO ES LA DISTANCIA ENTRE LA CARA SUPERIOR DE LA QUILLA Y LA CARA SUPERIOR DE LA CUBIERTA QUE SE TOMA COMO REFERENCIA PARA EL ARQUEO.",
-    "respuesta_correcta": "a",
-    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 2"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "EN UN BUQUE, LAS 'DEFENSAS' SE COLOCAN PRINCIPALMENTE PARA:",
-    "opciones": {
-      "a": "MEJORAR LA ESTÉTICA DEL BUQUE",
-      "b": "EVITAR QUE EL AGUA ENTRE POR LA CUBIERTA",
-      "c": "PROTEGER EL CASCO DE ROCES Y CHOQUES",
-      "d": "INDICAR LA ESLORA MÁXIMA"
-    },
-    "respuesta_correcta": "c",
-    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "verdadero_falso",
-    "pregunta": "LA CORNAMUSA ES UNA PIEZA QUE, POR SU FORMA, PERMITE AMARRAR UN CABO SIN NECESIDAD DE HACER NUDOS, MEDIANTE VUELTAS CRUZADAS.",
-    "respuesta_correcta": "a",
-    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "LA PARTE DEL CASCO QUE VA DESDE LA QUILLA HASTA LA LÍNEA DE FLOTACIÓN Y QUE, POR TANTO, ESTÁ EN CONTACTO PERMANENTE CON EL AGUA, ES LA:",
-    "opciones": {
-      "a": "OBRA MUERTA",
-      "b": "OBRA VIVA",
-      "c": "CARENA",
-      "d": "B Y C SON EQUIVALENTES"
-    },
-    "respuesta_correcta": "d",
-    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "verdadero_falso",
-    "pregunta": "LA MANGA DE TRAZADO ES LA MANGA MÁXIMA DEL BUQUE MEDIDA EN EL EXTERIOR DEL FORRO.",
-    "respuesta_correcta": "b",
-    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 2"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "LAS ABERTURAS RECTANGULARES PRACTICADAS EN LA CUBIERTA, PROVISTAS DE UNA BRAZOLA Y UNA TAPA, SON LAS:",
-    "opciones": {
-      "a": "PORTAS",
-      "b": "PORTILLOS",
-      "c": "ESCOTILLAS",
-      "d": "FOGONADURAS"
-    },
-    "respuesta_correcta": "c",
-    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "verdadero_falso",
-    "pregunta": "EL BULBO DE PROA, AL AUMENTAR LA ESLORA EN LA FLOTACIÓN, DISMINUYE LA RESISTENCIA POR FORMACIÓN DE OLAS Y MEJORA EL RENDIMIENTO HIDRODINÁMICO.",
-    "respuesta_correcta": "a",
-    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "EL ASIENTO DE UN BUQUE SE DEFINE COMO LA DIFERENCIA ENTRE LOS CALADOS DE:",
-    "opciones": {
-      "a": "BABOR Y ESTRIBOR",
-      "b": "PROA Y POPA",
-      "c": "VERANO E INVIERNO",
-      "d": "ROSES Y SALIDA"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 2"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "verdadero_falso",
-    "pregunta": "LOS PASAMANOS, SIEMPRE QUE SEA POSIBLE, DEBEN SER CONTINUOS Y ESTAR SITUADOS A UNA ALTURA REGLAMENTARIA PARA SERVIR DE APOYO EN CASO DE MAL TIEMPO.",
-    "respuesta_correcta": "a",
-    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "EL ELEMENTO CURVO DE LA ESTRUCTURA QUE REFUERZA LA UNIÓN DEL BAO CON LA CUADERNA SE CONOCE COMO:",
-    "opciones": {
-      "a": "PUNTAL",
-      "b": "CURVATON",
-      "c": "TRANCA",
-      "d": "BULARCAMA"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "verdadero_falso",
-    "pregunta": "EL DESPLAZAMIENTO EN LASTRE ES EL PESO DEL BUQUE CUANDO TRANSPORTA SU CARGA MÁXIMA DE LÍQUIDOS EN LOS TANQUES DE DOBLE FONDO.",
-    "respuesta_correcta": "b",
-    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 2"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "EL CONJUNTO DE PLANCHAS O TABLONES QUE FORMAN EL CIERRE ESTANCO DEL FONDO Y LOS COSTADOS DEL BUQUE SE LLAMA:",
-    "opciones": {
-      "a": "CUBIERTA",
-      "b": "FORRO",
-      "c": "MAMPARO",
-      "d": "DOBLE FONDO"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "verdadero_falso",
-    "pregunta": "EL PORTILLO ES UNA ABERTURA DE MAYOR TAMAÑO QUE LA PORTA, GENERALMENTE RECTANGULAR, Y SITUADA EN LA OBRA MUERTA.",
-    "respuesta_correcta": "b",
-    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "LA DIMENSIÓN VERTICAL MÁXIMA DEL BUQUE, DESDE EL FONDO DE LA QUILLA HASTA EL PUNTO MÁS ALTO DE LA SUPERESTRUCTURA, ES LA:",
-    "opciones": {
-      "a": "PUNTAL DE TRAZADO",
-      "b": "ALTURA TOTAL O DE CONSTRUCCIÓN",
-      "c": "OBRA MUERTA",
-      "d": "FRANCOBORDO"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 2"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "verdadero_falso",
-    "pregunta": "EN UN BUQUE, LAS AMURAS CORRESPONDEN A LA PARTE DEL COSTADO SITUADA HACIA LA PROA, MIENTRAS QUE LAS ALETAS ESTÁN HACIA LA POPA.",
-    "respuesta_correcta": "a",
-    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "EL TÉRMINO 'PORTE BRUTO' SE REFIERE AL VOLUMEN TOTAL DE TODOS LOS ESPACIOS INTERIORES DEL BUQUE, Y SE MIDE EN:",
-    "opciones": {
-      "a": "TONELADAS DE PESO MUERTO",
-      "b": "TONELADAS DE REGISTRO BRUTO",
-      "c": "METROS CÚBICOS DE CARGA",
-      "d": "TONELADAS DE DESPLAZAMIENTO"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 2"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "verdadero_falso",
-    "pregunta": "LA FOGONADURA ES LA ABERTURA EN LA CUBIERTA POR DONDE ATRAVIESA UN PALO O UN MACHIN, Y SE REFUERZA CON LA CARLINGA.",
-    "respuesta_correcta": "a",
-    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "EL ELEMENTO ESTRUCTURAL QUE FORMA EL BORDE SUPERIOR DEL CASCO, DONDE TERMINA EL FORRO Y COMIENZA LA CUBIERTA, ES:",
-    "opciones": {
-      "a": "REGALA",
-      "b": "TRANCANIL",
-      "c": "BORDA",
-      "d": "IMBORNAL"
-    },
-    "respuesta_correcta": "a",
-    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "verdadero_falso",
-    "pregunta": "LA QUILLA VERTICAL ES UNA PLACA SOLDADA LONGITUDINALMENTE EN EL PLANO DE CRUJÍA QUE, JUNTO CON LA QUILLA PLANA, FORMA LA ESPINA DORSAL EN BUQUES METÁLICOS.",
-    "respuesta_correcta": "a",
-    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "EN NAVEGACIÓN, CUANDO SE DICE QUE UN BUQUE TIENE UN 'CALADO EN LASTRE', SIGNIFICA QUE:",
-    "opciones": {
-      "a": "ESTÁ CARGADO A SU MÁXIMA CAPACIDAD",
-      "b": "NAVEGA SIN CARGA COMERCIAL, CON AGUA EN LOS TANQUES PARA ESTABILIDAD",
-      "c": "SU CALADO ES IGUAL EN PROA Y POPA",
-      "d": "NAVEGA CON LA CARGA MÍNIMA DE COMBUSTIBLE"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 2"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "verdadero_falso",
-    "pregunta": "EL DOBLE FONDO SE EXTIENDE LONGITUDINALMENTE DESDE EL MAMPARO DE PROA DE COLISIÓN HASTA EL MAMPARO DE POPA DE LA CÁMARA DE MÁQUINAS, GENERALMENTE.",
-    "respuesta_correcta": "a",
-    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
-  },
-  {
-    "tema": "Conocimientos Marineros",
-    "tipo": "opcion_multiple",
-    "pregunta": "LA PIEZA LONGITUDINAL QUE CORRE POR EL FONDO DEL BUQUE Y SIRVE DE ASIENTO A LAS VARENGAS, SIENDO UN ELEMENTO FUNDAMENTAL EN LA ESTRUCTURA, ES LA:",
-    "opciones": {
-      "a": "VAGRA DEL FONDO",
-      "b": "SOBREQUILLA",
-      "c": "PALMEJAR DEL FONDO",
-      "d": "RODA"
-    },
-    "respuesta_correcta": "a",
-    "fuente": "Conocimientos Marineros. Heroica Escuela Naval Militar, 1993. Cap. 1"
+    "fuente": "Conocimientos Marineros, Capítulo 2, Medidas del Buque - Porte"
   }
 ]
