@@ -96,6 +96,11 @@ button.action:disabled{opacity:.4;cursor:not-allowed;}
 .score-big{font-size:44px;font-weight:700;color:var(--accent);text-align:center;margin:8px 0;}
 .hist-row{display:flex;justify-content:space-between;font-size:13px;padding:10px 0;border-bottom:1px solid var(--border);gap:10px;flex-wrap:wrap;}
 .hist-row .who{color:var(--ink-soft);}
+.resumen-tema-hist{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:10px;margin-bottom:6px;}
+.resumen-tema-item{background:var(--accent-soft);border:1px solid var(--border);border-radius:8px;padding:10px 12px;text-align:center;}
+.resumen-tema-item .rt-tema{font-size:11px;color:var(--ink-soft);text-transform:uppercase;margin-bottom:4px;}
+.resumen-tema-item .rt-valor{font-size:18px;font-weight:700;color:var(--ink);}
+.resumen-tema-item .rt-pct{font-size:12px;color:var(--ink-soft);}
 .empty{font-size:13px;color:var(--ink-faint);font-style:italic;}
 .warn{font-size:12px;color:var(--bad);margin-top:8px;}
 .tema-qty{display:flex;align-items:center;justify-content:space-between;gap:10px;padding:8px 0;border-bottom:1px solid var(--border);}
@@ -642,10 +647,23 @@ function renderHistorial(){
   </div>`;
 }
 function renderDetalleHistorial(h){
+  const resumen = `<div class="resumen-tema-hist">
+    ${TEMAS.map(t=>{
+      const d = h.porTema && h.porTema[t] ? h.porTema[t] : {total:0,ok:0};
+      const pct = d.total>0 ? Math.round(d.ok/d.total*100) : 0;
+      return `<div class="resumen-tema-item">
+        <div class="rt-tema">${t}</div>
+        <div class="rt-valor">${d.ok}/${d.total}</div>
+        <div class="rt-pct">${pct}%</div>
+      </div>`;
+    }).join('')}
+  </div>`;
   if(!h.detalle || h.detalle.length===0){
-    return `<div class="card" style="margin:8px 0 16px;"><p class="empty">Detalle no disponible para este intento (registrado antes de esta actualización).</p></div>`;
+    return `<div style="margin:8px 0 16px;">${resumen}<div class="card" style="margin-top:10px;"><p class="empty">Detalle no disponible para este intento (registrado antes de esta actualización).</p></div></div>`;
   }
   return `<div style="margin:8px 0 16px;">
+    ${resumen}
+    <div style="margin-top:10px;">
     ${h.detalle.map(d=>{
       const opciones = d.opciones;
       if(!opciones){
@@ -666,6 +684,7 @@ function renderDetalleHistorial(h){
         ${d.fuente?`<p style="font-size:12px;color:var(--ink-faint);margin-top:8px;">Fuente: ${d.fuente}</p>`:''}
       </div>`;
     }).join('')}
+    </div>
   </div>`;
 }
 function attachHistorialEvents(){
