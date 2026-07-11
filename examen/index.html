@@ -39,7 +39,7 @@ html{transition:background-color .2s ease;}
 body{transition:background-color .2s ease,color .2s ease;}
 *{box-sizing:border-box;}
 body{margin:0;background:var(--bg);color:var(--ink);font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;}
-.wrap{width:100%;padding:calc(clamp(16px,3vw,40px) + 10px) clamp(16px,5vw,64px) 80px;}
+.wrap{width:100%;max-width:1180px;margin:0 auto;padding:clamp(16px,3vw,40px) clamp(16px,5vw,64px) 80px;}
 .topbar{display:flex;justify-content:space-between;align-items:flex-start;flex-wrap:wrap;gap:16px;border-bottom:1px solid var(--border);padding-bottom:18px;margin-bottom:22px;}
 .topbar h1{font-size:clamp(16px,3.6vw,20px);font-weight:600;margin:0 0 2px;line-height:1.3;}
 .topbar .sub{font-size:13px;color:var(--ink-soft);}
@@ -49,7 +49,8 @@ body{margin:0;background:var(--bg);color:var(--ink);font-family:-apple-system,Bl
 .userbadge .val{font-weight:600;text-align:right;}
 .userbadge button{margin-top:8px;width:100%;}
 
-.theme-switch{position:fixed;top:14px;right:14px;z-index:100;width:52px;height:28px;border-radius:999px;background:var(--surface);border:1px solid var(--border-strong);cursor:pointer;padding:0;box-shadow:0 2px 8px rgba(0,0,0,.18);}
+.theme-switch{position:relative;flex-shrink:0;align-self:flex-start;margin-top:2px;width:52px;height:28px;border-radius:999px;background:var(--surface);border:1px solid var(--border-strong);cursor:pointer;padding:0;box-shadow:0 1px 4px rgba(0,0,0,.12);}
+.badge-group{display:flex;align-items:flex-start;gap:10px;}
 .theme-switch .knob{position:absolute;top:2px;left:2px;width:22px;height:22px;border-radius:50%;background:var(--accent);display:flex;align-items:center;justify-content:center;transition:left .2s ease,background .2s ease;}
 .theme-switch .knob svg{width:13px;height:13px;stroke:#fff;fill:none;stroke-width:2;}
 html[data-theme="dark"] .theme-switch .knob{left:calc(100% - 24px);background:#F2C94C;}
@@ -116,7 +117,8 @@ button.action:disabled{opacity:.4;cursor:not-allowed;}
 @media (max-width:640px){
   .wrap{padding-left:14px;padding-right:14px;}
   .topbar{flex-direction:column;align-items:stretch;}
-  .userbadge{width:100%;min-width:0;}
+  .badge-group{width:100%;}
+  .userbadge{flex:1;min-width:0;}
   nav{gap:6px;}
   nav button{flex:1;text-align:center;padding:10px 8px;}
   .card{padding:16px;}
@@ -137,16 +139,18 @@ button.action:disabled{opacity:.4;cursor:not-allowed;}
 </style>
 </head>
 <body>
-<button class="theme-switch" id="themeSwitch" title="Cambiar tema claro/oscuro" aria-label="Cambiar tema">
-  <span class="knob" id="themeKnob"></span>
-</button>
 <div class="wrap">
   <div class="topbar">
     <div>
       <h1>Examen de Ascenso — PFAM-2026</h1>
       <div class="sub">Para el personal activo de la Secretaría de Marina - Armada de México</div>
     </div>
-    <div class="userbadge" id="userbadge"></div>
+    <div class="badge-group">
+      <button class="theme-switch" id="themeSwitch" title="Cambiar tema claro/oscuro" aria-label="Cambiar tema">
+        <span class="knob" id="themeKnob"></span>
+      </button>
+      <div class="userbadge" id="userbadge"></div>
+    </div>
   </div>
 
   <nav id="nav"></nav>
