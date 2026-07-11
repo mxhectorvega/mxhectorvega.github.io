@@ -20,9 +20,26 @@
   --bad:#B23A3A;
   --bad-soft:#FBEAEA;
 }
+html[data-theme="dark"]{
+  --bg:#12151A;
+  --surface:#1A1E25;
+  --border:#2A2F38;
+  --border-strong:#3A4048;
+  --ink:#E7E9EC;
+  --ink-soft:#A7ADB8;
+  --ink-faint:#767C87;
+  --accent:#3E8EDE;
+  --accent-soft:#1C2938;
+  --ok:#4CAF6D;
+  --ok-soft:#17281D;
+  --bad:#E06666;
+  --bad-soft:#2E1A1A;
+}
+html{transition:background-color .2s ease;}
+body{transition:background-color .2s ease,color .2s ease;}
 *{box-sizing:border-box;}
 body{margin:0;background:var(--bg);color:var(--ink);font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;}
-.wrap{width:100%;padding:clamp(16px,3vw,40px) clamp(16px,5vw,64px) 80px;}
+.wrap{width:100%;padding:calc(clamp(16px,3vw,40px) + 10px) clamp(16px,5vw,64px) 80px;}
 .topbar{display:flex;justify-content:space-between;align-items:flex-start;flex-wrap:wrap;gap:16px;border-bottom:1px solid var(--border);padding-bottom:18px;margin-bottom:22px;}
 .topbar h1{font-size:clamp(16px,3.6vw,20px);font-weight:600;margin:0 0 2px;line-height:1.3;}
 .topbar .sub{font-size:13px;color:var(--ink-soft);}
@@ -31,6 +48,12 @@ body{margin:0;background:var(--bg);color:var(--ink);font-family:-apple-system,Bl
 .userbadge .lbl{color:var(--ink-faint);}
 .userbadge .val{font-weight:600;text-align:right;}
 .userbadge button{margin-top:8px;width:100%;}
+
+.theme-switch{position:fixed;top:14px;right:14px;z-index:100;width:52px;height:28px;border-radius:999px;background:var(--surface);border:1px solid var(--border-strong);cursor:pointer;padding:0;box-shadow:0 2px 8px rgba(0,0,0,.18);}
+.theme-switch .knob{position:absolute;top:2px;left:2px;width:22px;height:22px;border-radius:50%;background:var(--accent);display:flex;align-items:center;justify-content:center;transition:left .2s ease,background .2s ease;}
+.theme-switch .knob svg{width:13px;height:13px;stroke:#fff;fill:none;stroke-width:2;}
+html[data-theme="dark"] .theme-switch .knob{left:calc(100% - 24px);background:#F2C94C;}
+html[data-theme="dark"] .theme-switch .knob svg{stroke:#12151A;}
 
 nav{display:flex;gap:6px;margin-bottom:24px;flex-wrap:wrap;}
 nav button{font-size:13px;font-weight:500;background:transparent;color:var(--ink-soft);border:1px solid var(--border);border-radius:6px;padding:8px 16px;cursor:pointer;}
@@ -45,22 +68,24 @@ nav button:hover:not(.active){background:var(--surface);}
 .stat .n{font-size:22px;font-weight:700;color:var(--accent);}
 .stat .l{font-size:11px;color:var(--ink-soft);margin-top:2px;}
 
-textarea{width:100%;min-height:140px;font-family:"SFMono-Regular",Consolas,monospace;font-size:12px;padding:12px;border:1px solid var(--border-strong);border-radius:8px;background:#fff;color:var(--ink);}
-input[type=text],input[type=number]{font-family:inherit;font-size:13px;padding:8px 10px;border:1px solid var(--border-strong);border-radius:6px;background:#fff;color:var(--ink);width:100%;}
+textarea{width:100%;min-height:140px;font-family:"SFMono-Regular",Consolas,monospace;font-size:12px;padding:12px;border:1px solid var(--border-strong);border-radius:8px;background:var(--bg);color:var(--ink);}
+textarea.small{min-height:90px;}
+select{font-family:inherit;font-size:13px;padding:8px 10px;border:1px solid var(--border-strong);border-radius:6px;background:var(--bg);color:var(--ink);width:100%;}
+input[type=text],input[type=number]{font-family:inherit;font-size:13px;padding:8px 10px;border:1px solid var(--border-strong);border-radius:6px;background:var(--bg);color:var(--ink);width:100%;}
 label.field{display:block;font-size:12px;color:var(--ink-soft);margin-bottom:4px;margin-top:10px;}
 label.opt{display:flex;align-items:center;gap:8px;margin:8px 0;font-size:13px;}
 
 button.action{font-size:13px;font-weight:600;background:var(--accent);color:#fff;border:1px solid var(--accent);border-radius:6px;padding:9px 18px;cursor:pointer;margin-top:10px;margin-right:8px;}
 button.action:hover{opacity:.9;}
-button.action.secondary{background:#fff;color:var(--ink);border-color:var(--border-strong);}
+button.action.secondary{background:var(--bg);color:var(--ink);border-color:var(--border-strong);}
 button.action.secondary:hover{background:var(--surface);}
 button.action.danger{background:var(--bad);border-color:var(--bad);}
 button.action:disabled{opacity:.4;cursor:not-allowed;}
 
-.qbox{border:1px solid var(--border);border-radius:10px;background:#fff;padding:20px;margin-bottom:16px;width:100%;}
+.qbox{border:1px solid var(--border);border-radius:10px;background:var(--bg);padding:20px;margin-bottom:16px;width:100%;}
 .qbox .meta{font-size:11px;text-transform:uppercase;letter-spacing:.04em;color:var(--ink-faint);margin-bottom:10px;}
 .qbox .enun{font-weight:600;font-size:15px;line-height:1.5;margin-bottom:16px;text-transform:uppercase;}
-.qopt{display:block;width:100%;text-align:left;padding:10px 14px;margin:6px 0;border:1px solid var(--border-strong);border-radius:8px;background:#fff;color:var(--ink);font-size:13px;cursor:pointer;}
+.qopt{display:block;width:100%;text-align:left;padding:10px 14px;margin:6px 0;border:1px solid var(--border-strong);border-radius:8px;background:var(--bg);color:var(--ink);font-size:13px;cursor:pointer;}
 .qopt:hover{background:var(--surface);}
 .qopt.selected{background:var(--accent-soft);border-color:var(--accent);}
 .qopt.correct{background:var(--ok-soft);border-color:var(--ok);color:var(--ok);}
@@ -80,7 +105,7 @@ button.action:disabled{opacity:.4;cursor:not-allowed;}
 .modules-row{display:flex;gap:16px;flex-wrap:wrap;align-items:stretch;}
 .modules-row .card{flex:1 1 260px;margin-bottom:0;}
 .otp-row{display:flex;gap:8px;}
-.otp-digit{width:100%;max-width:52px;height:60px;text-align:center;font-size:26px;font-weight:700;border:1px solid var(--border-strong);border-radius:8px;background:#fff;color:var(--ink);padding:0;}
+.otp-digit{width:100%;max-width:52px;height:60px;text-align:center;font-size:26px;font-weight:700;border:1px solid var(--border-strong);border-radius:8px;background:var(--bg);color:var(--ink);padding:0;}
 .otp-digit:focus{outline:none;border-color:var(--accent);box-shadow:0 0 0 3px var(--accent-soft);}
 .btn-row-right{display:flex;justify-content:flex-end;gap:8px;margin-top:10px;}
 .btn-row-right button{margin:0;}
@@ -112,6 +137,9 @@ button.action:disabled{opacity:.4;cursor:not-allowed;}
 </style>
 </head>
 <body>
+<button class="theme-switch" id="themeSwitch" title="Cambiar tema claro/oscuro" aria-label="Cambiar tema">
+  <span class="knob" id="themeKnob"></span>
+</button>
 <div class="wrap">
   <div class="topbar">
     <div>
@@ -133,6 +161,7 @@ let historial = [];
 let usuario = { grado:"", nombre:"", matricula:"" };
 let sesion = null;
 let tab = "banco";
+let historialExpandido = null;
 let editandoUsuario = false;
 let temporizadorId = null;
 
@@ -162,6 +191,28 @@ function actualizarTemporizadorDOM(){
     });
     sesion.cola = [];
     render();
+  }
+}
+
+const ICONO_SOL = '<svg viewBox="0 0 24 24" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="4"></circle><line x1="12" y1="2" x2="12" y2="4"></line><line x1="12" y1="20" x2="12" y2="22"></line><line x1="4.2" y1="4.2" x2="5.6" y2="5.6"></line><line x1="18.4" y1="18.4" x2="19.8" y2="19.8"></line><line x1="2" y1="12" x2="4" y2="12"></line><line x1="20" y1="12" x2="22" y2="12"></line><line x1="4.2" y1="19.8" x2="5.6" y2="18.4"></line><line x1="18.4" y1="5.6" x2="19.8" y2="4.2"></line></svg>';
+const ICONO_LUNA = '<svg viewBox="0 0 24 24" stroke-linecap="round" stroke-linejoin="round"><path d="M20 14.5A8 8 0 1 1 9.5 4a6.5 6.5 0 0 0 10.5 10.5z"></path></svg>';
+
+function aplicarTema(tema){
+  document.documentElement.setAttribute('data-theme', tema);
+  const knob = document.getElementById('themeKnob');
+  if(knob) knob.innerHTML = tema==='dark' ? ICONO_LUNA : ICONO_SOL;
+  try{ localStorage.setItem('sain_tema', tema); }catch(e){}
+}
+function iniciarTema(){
+  let tema = 'light';
+  try{ tema = localStorage.getItem('sain_tema') || 'light'; }catch(e){}
+  aplicarTema(tema);
+  const sw = document.getElementById('themeSwitch');
+  if(sw){
+    sw.onclick = ()=>{
+      const actual = document.documentElement.getAttribute('data-theme');
+      aplicarTema(actual==='dark' ? 'light' : 'dark');
+    };
   }
 }
 
@@ -202,7 +253,10 @@ function contarPorTema(){
   return c;
 }
 
-function setTab(t){ tab=t; render(); }
+function setTab(t){
+  if(t==='examen' && sesion && sesion.terminado){ sesion = null; }
+  tab=t; render();
+}
 
 function renderUserBadge(){
   const b = document.getElementById('userbadge');
@@ -249,10 +303,10 @@ function render(){
   });
   const view = document.getElementById('view');
   if(sesion && !sesion.terminado){ view.innerHTML = renderExamenActivo(); attachExamenEvents(); return; }
-  if(sesion && sesion.terminado){ view.innerHTML = renderResultados(); attachResultadosEvents(); return; }
+  if(sesion && sesion.terminado && tab==='examen'){ view.innerHTML = renderResultados(); attachResultadosEvents(); return; }
   if(tab==='banco'){ view.innerHTML = renderBanco(); attachBancoEvents(); }
   else if(tab==='examen'){ view.innerHTML = renderConfigExamen(); attachConfigEvents(); }
-  else { view.innerHTML = renderHistorial(); }
+  else { view.innerHTML = renderHistorial(); attachHistorialEvents(); }
 }
 
 // Mapa de códigos de 6 dígitos -> archivo JSON (mismo dominio, ej. GitHub Pages)
@@ -359,6 +413,10 @@ function renderConfigExamen(){
   <div class="card wide">
     <h2>Configurar examen</h2>
     <p style="font-size:12px;color:var(--ink-soft);margin-top:0;">Define cuántas preguntas quieres de cada tema. Se eligen al azar dentro de cada segmento.</p>
+    <label class="field" style="margin-top:0;">Iniciar examen con el tema</label>
+    <select id="selTemaInicio">
+      ${TEMAS.map(t=>`<option value="${t}">${t}</option>`).join('')}
+    </select>
     ${TEMAS.map(t=>`
       <div class="tema-qty">
         <label>${t}</label>
@@ -379,9 +437,11 @@ function attachConfigEvents(){
   if(!btn) return;
   btn.onclick=()=>{
     const msg = document.getElementById('configMsg');
+    const temaInicio = document.getElementById('selTemaInicio').value;
+    const ordenTemas = [temaInicio, ...TEMAS.filter(t=>t!==temaInicio)];
     let pool = [];
-    document.querySelectorAll('.temaQty').forEach(inp=>{
-      const tema = inp.dataset.tema;
+    ordenTemas.forEach(tema=>{
+      const inp = document.querySelector(`.temaQty[data-tema="${tema}"]`);
       const n = parseInt(inp.value)||0;
       if(n<=0) return;
       const disponibles = banco.filter(q=>q.tema===tema);
@@ -389,7 +449,6 @@ function attachConfigEvents(){
       pool = pool.concat(elegidas);
     });
     if(pool.length===0){ msg.textContent='Selecciona al menos una pregunta de algún tema.'; return; }
-    pool = pool.sort(()=>Math.random()-0.5);
     sesion = { preguntas: pool, cola: pool.map((_,i)=>i), respuestas: {}, terminado:false, interacciones:0, avisoMostrado:false, mostrarAviso:false, segundaRonda:false, tiempoAgotado:false, finTiempo: Date.now() + EXAMEN_DURACION_MIN*60000 };
     render();
     iniciarTemporizador();
@@ -512,7 +571,11 @@ function finalizarExamen(){
   const porTema = {};
   TEMAS.forEach(t=>porTema[t]={total:0,ok:0});
   Object.values(sesion.respuestas).forEach(r=>{ porTema[r.tema].total++; if(r.ok) porTema[r.tema].ok++; });
-  historial.unshift({ fecha:new Date().toLocaleString('es-MX'), total, correctas, porTema, usuario: {...usuario} });
+  const detalle = sesion.preguntas.map((q,i)=>{
+    const r = sesion.respuestas[i] || { elegida:null, ok:false };
+    return { tema:q.tema, pregunta:q.pregunta, opciones:q.opciones, respuesta_correcta:q.respuesta_correcta, elegida:r.elegida, ok:r.ok, fuente:q.fuente };
+  });
+  historial.unshift({ fecha:new Date().toLocaleString('es-MX'), total, correctas, porTema, usuario: {...usuario}, detalle });
   guardarHistorial();
   render();
 }
@@ -559,16 +622,70 @@ function attachResultadosEvents(){
 
 function renderHistorial(){
   if(historial.length===0) return `<div class="card wide"><p class="empty">Sin intentos registrados aún.</p></div>`;
-  return `<div class="card wide"><h2>Historial de intentos</h2>
-    ${historial.map(h=>`<div class="hist-row">
-      <span class="who">${h.usuario? (h.usuario.grado+' '+h.usuario.nombre+' — '+h.usuario.matricula) : 'Sin datos'}</span>
-      <span>${h.fecha}</span>
-      <span><strong>${h.correctas}/${h.total}</strong> (${Math.round(h.correctas/h.total*100)}%)</span>
-    </div>`).join('')}
+  return `<div class="card wide">
+    <h2>Historial de intentos</h2>
+    ${historial.map((h,i)=>`
+      <div class="hist-row hist-row-click" data-idx="${i}" style="cursor:pointer;">
+        <span class="who">${h.usuario? (h.usuario.grado+' '+h.usuario.nombre+' — '+h.usuario.matricula) : 'Sin datos'}</span>
+        <span>${h.fecha}</span>
+        <span><strong>${h.correctas}/${h.total}</strong> (${Math.round(h.correctas/h.total*100)}%)</span>
+      </div>
+      ${historialExpandido===i ? renderDetalleHistorial(h) : ''}
+    `).join('')}
+    <div class="btn-row-right">
+      <button class="action danger" id="btnLimpiarHistorial">Limpiar historial</button>
+    </div>
   </div>`;
+}
+function renderDetalleHistorial(h){
+  if(!h.detalle || h.detalle.length===0){
+    return `<div class="card" style="margin:8px 0 16px;"><p class="empty">Detalle no disponible para este intento (registrado antes de esta actualización).</p></div>`;
+  }
+  return `<div style="margin:8px 0 16px;">
+    ${h.detalle.map(d=>{
+      const opciones = d.opciones;
+      if(!opciones){
+        return `<div class="card" style="margin-bottom:10px;"><div class="meta" style="font-size:11px;color:var(--ink-faint);text-transform:uppercase;margin-bottom:8px;">${d.tema}</div>
+          <div class="enun" style="font-size:14px;">${d.pregunta}</div>
+          <p style="font-size:13px;margin-top:8px;">Respuesta correcta: <strong>${d.respuesta_correcta==='a'?'VERDADERO':'FALSO'}</strong> — Tu respuesta: <strong>${d.elegida? (d.elegida==='a'?'VERDADERO':'FALSO') : 'Sin responder'}</strong></p>
+        </div>`;
+      }
+      return `<div class="card" style="margin-bottom:10px;">
+        <div class="meta" style="font-size:11px;color:var(--ink-faint);text-transform:uppercase;margin-bottom:8px;">${d.tema}</div>
+        <div class="enun" style="font-size:14px;">${d.pregunta}</div>
+        ${Object.entries(opciones).map(([k,v])=>{
+          let cls='qopt';
+          if(k===d.respuesta_correcta) cls+=' correct';
+          else if(k===d.elegida) cls+=' incorrect';
+          return `<div class="${cls}" style="cursor:default;">${k}) ${v}</div>`;
+        }).join('')}
+        ${d.fuente?`<p style="font-size:12px;color:var(--ink-faint);margin-top:8px;">Fuente: ${d.fuente}</p>`:''}
+      </div>`;
+    }).join('')}
+  </div>`;
+}
+function attachHistorialEvents(){
+  document.querySelectorAll('.hist-row-click').forEach(row=>{
+    row.onclick=()=>{
+      const idx = parseInt(row.dataset.idx);
+      historialExpandido = historialExpandido===idx ? null : idx;
+      render();
+    };
+  });
+  const btn = document.getElementById('btnLimpiarHistorial');
+  if(!btn) return;
+  btn.onclick=()=>{
+    if(confirm('Esto borra todo el historial de intentos. Confirmar?')){
+      historial = [];
+      historialExpandido = null;
+      guardarHistorial();
+      render();
+    }
+  };
 }
 
 cargarTodo();
+iniciarTema();
 </script>
 </body>
 </html>
