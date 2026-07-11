@@ -1,0 +1,714 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Examen de Ascenso — S.A.I.N.</title>
+<style>
+:root{
+  --bg:#FFFFFF;
+  --surface:#F6F6F4;
+  --border:#E3E1DB;
+  --border-strong:#CFCCC2;
+  --ink:#15181D;
+  --ink-soft:#5B6270;
+  --ink-faint:#8A8F99;
+  --accent:#0B3B66;
+  --accent-soft:#EAF0F6;
+  --ok:#2E7D46;
+  --ok-soft:#E9F5EC;
+  --bad:#B23A3A;
+  --bad-soft:#FBEAEA;
+}
+html[data-theme="dark"]{
+  --bg:#12151A;
+  --surface:#1A1E25;
+  --border:#2A2F38;
+  --border-strong:#3A4048;
+  --ink:#E7E9EC;
+  --ink-soft:#A7ADB8;
+  --ink-faint:#767C87;
+  --accent:#3E8EDE;
+  --accent-soft:#1C2938;
+  --ok:#4CAF6D;
+  --ok-soft:#17281D;
+  --bad:#E06666;
+  --bad-soft:#2E1A1A;
+}
+html{transition:background-color .2s ease;}
+body{transition:background-color .2s ease,color .2s ease;}
+*{box-sizing:border-box;}
+body{margin:0;background:var(--bg);color:var(--ink);font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;}
+.wrap{width:100%;max-width:1180px;margin:0 auto;padding:clamp(16px,3vw,40px) clamp(16px,5vw,64px) 80px;}
+.topbar{display:flex;justify-content:space-between;align-items:flex-start;flex-wrap:wrap;gap:16px;border-bottom:1px solid var(--border);padding-bottom:18px;margin-bottom:22px;}
+.topbar h1{font-size:clamp(16px,3.6vw,20px);font-weight:600;margin:0 0 2px;line-height:1.3;}
+.topbar .sub{font-size:13px;color:var(--ink-soft);}
+.userbadge{background:var(--surface);border:1px solid var(--border);border-radius:8px;padding:10px 14px;font-size:12px;min-width:220px;}
+.userbadge .row{display:flex;justify-content:space-between;gap:10px;padding:2px 0;}
+.userbadge .lbl{color:var(--ink-faint);}
+.userbadge .val{font-weight:600;text-align:right;}
+.userbadge button{margin-top:8px;width:100%;}
+
+.theme-switch{position:relative;flex-shrink:0;align-self:flex-start;margin-top:2px;width:52px;height:28px;border-radius:999px;background:var(--surface);border:1px solid var(--border-strong);cursor:pointer;padding:0;box-shadow:0 1px 4px rgba(0,0,0,.12);}
+.badge-group{display:flex;align-items:flex-start;gap:10px;}
+.theme-switch .knob{position:absolute;top:2px;left:2px;width:22px;height:22px;border-radius:50%;background:var(--accent);display:flex;align-items:center;justify-content:center;transition:left .2s ease,background .2s ease;}
+.theme-switch .knob svg{width:13px;height:13px;stroke:#fff;fill:none;stroke-width:2;}
+html[data-theme="dark"] .theme-switch .knob{left:calc(100% - 24px);background:#F2C94C;}
+html[data-theme="dark"] .theme-switch .knob svg{stroke:#12151A;}
+
+nav{display:flex;gap:6px;margin-bottom:24px;flex-wrap:wrap;}
+nav button{font-size:13px;font-weight:500;background:transparent;color:var(--ink-soft);border:1px solid var(--border);border-radius:6px;padding:8px 16px;cursor:pointer;}
+nav button.active{background:var(--accent);color:#fff;border-color:var(--accent);}
+nav button:hover:not(.active){background:var(--surface);}
+
+.card{background:var(--surface);border:1px solid var(--border);border-radius:10px;padding:20px 24px;margin-bottom:18px;max-width:920px;}
+.card.wide{max-width:none;}
+.card h2{font-size:15px;font-weight:600;margin:0 0 14px;}
+.stats-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:10px;margin-bottom:16px;}
+.stat{background:var(--bg);border:1px solid var(--border);border-radius:8px;padding:12px 14px;text-align:center;}
+.stat .n{font-size:22px;font-weight:700;color:var(--accent);}
+.stat .l{font-size:11px;color:var(--ink-soft);margin-top:2px;}
+
+textarea{width:100%;min-height:140px;font-family:"SFMono-Regular",Consolas,monospace;font-size:12px;padding:12px;border:1px solid var(--border-strong);border-radius:8px;background:var(--bg);color:var(--ink);}
+textarea.small{min-height:90px;}
+select{font-family:inherit;font-size:13px;padding:8px 10px;border:1px solid var(--border-strong);border-radius:6px;background:var(--bg);color:var(--ink);width:100%;}
+input[type=text],input[type=number]{font-family:inherit;font-size:13px;padding:8px 10px;border:1px solid var(--border-strong);border-radius:6px;background:var(--bg);color:var(--ink);width:100%;}
+label.field{display:block;font-size:12px;color:var(--ink-soft);margin-bottom:4px;margin-top:10px;}
+label.opt{display:flex;align-items:center;gap:8px;margin:8px 0;font-size:13px;}
+
+button.action{font-size:13px;font-weight:600;background:var(--accent);color:#fff;border:1px solid var(--accent);border-radius:6px;padding:9px 18px;cursor:pointer;margin-top:10px;margin-right:8px;}
+button.action:hover{opacity:.9;}
+button.action.secondary{background:var(--bg);color:var(--ink);border-color:var(--border-strong);}
+button.action.secondary:hover{background:var(--surface);}
+button.action.danger{background:var(--bad);border-color:var(--bad);}
+button.action:disabled{opacity:.4;cursor:not-allowed;}
+
+.qbox{border:1px solid var(--border);border-radius:10px;background:var(--bg);padding:20px;margin-bottom:16px;width:100%;}
+.qbox .meta{font-size:11px;text-transform:uppercase;letter-spacing:.04em;color:var(--ink-faint);margin-bottom:10px;}
+.qbox .enun{font-weight:600;font-size:15px;line-height:1.5;margin-bottom:16px;text-transform:uppercase;}
+.qopt{display:block;width:100%;text-align:left;padding:10px 14px;margin:6px 0;border:1px solid var(--border-strong);border-radius:8px;background:var(--bg);color:var(--ink);font-size:13px;cursor:pointer;}
+.qopt:hover{background:var(--surface);}
+.qopt.selected{background:var(--accent-soft);border-color:var(--accent);}
+.qopt.correct{background:var(--ok-soft);border-color:var(--ok);color:var(--ok);}
+.qopt.incorrect{background:var(--bad-soft);border-color:var(--bad);color:var(--bad);}
+
+.progress{font-size:12px;color:var(--ink-soft);margin-bottom:12px;}
+.score-big{font-size:44px;font-weight:700;color:var(--accent);text-align:center;margin:8px 0;}
+.hist-row{display:flex;justify-content:space-between;font-size:13px;padding:10px 0;border-bottom:1px solid var(--border);gap:10px;flex-wrap:wrap;}
+.hist-row .who{color:var(--ink-soft);}
+.resumen-tema-hist{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:10px;margin-bottom:6px;}
+.resumen-tema-item{background:var(--accent-soft);border:1px solid var(--border);border-radius:8px;padding:10px 12px;text-align:center;}
+.resumen-tema-item .rt-tema{font-size:11px;color:var(--ink-soft);text-transform:uppercase;margin-bottom:4px;}
+.resumen-tema-item .rt-valor{font-size:18px;font-weight:700;color:var(--ink);}
+.resumen-tema-item .rt-pct{font-size:12px;color:var(--ink-soft);}
+.empty{font-size:13px;color:var(--ink-faint);font-style:italic;}
+.warn{font-size:12px;color:var(--bad);margin-top:8px;}
+.tema-qty{display:flex;align-items:center;justify-content:space-between;gap:10px;padding:8px 0;border-bottom:1px solid var(--border);}
+.tema-qty:last-child{border-bottom:none;}
+.tema-qty label{font-size:13px;}
+.tema-qty input{width:80px;}
+.tema-qty .avail{font-size:11px;color:var(--ink-faint);}
+.modules-row{display:flex;gap:16px;flex-wrap:wrap;align-items:stretch;}
+.modules-row .card{flex:1 1 260px;margin-bottom:0;}
+.otp-row{display:flex;gap:8px;}
+.otp-digit{width:100%;max-width:52px;height:60px;text-align:center;font-size:26px;font-weight:700;border:1px solid var(--border-strong);border-radius:8px;background:var(--bg);color:var(--ink);padding:0;}
+.otp-digit:focus{outline:none;border-color:var(--accent);box-shadow:0 0 0 3px var(--accent-soft);}
+.btn-row-right{display:flex;justify-content:flex-end;gap:8px;margin-top:10px;}
+.btn-row-right button{margin:0;}
+.timer-card{text-align:center;padding:14px;}
+.timer-box{font-size:52px;font-weight:800;font-variant-numeric:tabular-nums;color:var(--accent);letter-spacing:.02em;}
+.timer-box.tiempo-critico{color:var(--bad);}
+
+@media (max-width:640px){
+  .wrap{padding-left:14px;padding-right:14px;}
+  .topbar{flex-direction:column;align-items:stretch;}
+  .badge-group{width:100%;}
+  .userbadge{flex:1;min-width:0;}
+  nav{gap:6px;}
+  nav button{flex:1;text-align:center;padding:10px 8px;}
+  .card{padding:16px;}
+  .qbox{padding:14px;}
+  .qbox .enun{font-size:14px;}
+  .qopt{padding:12px 14px;font-size:13px;}
+  .btn-row-right{flex-direction:column;align-items:stretch;}
+  .btn-row-right button{width:100%;font-size:13px;padding:12px 14px;}
+  #btnSig{order:1;}
+  #btnSaltar{order:2;}
+  #btnCancelar{order:3;}
+  .timer-box{font-size:38px;}
+  .otp-digit{max-width:44px;height:52px;font-size:20px;}
+  .stats-grid{grid-template-columns:repeat(2,1fr);}
+  .modules-row{flex-direction:column;}
+  .modules-row .card{flex:1 1 auto;}
+}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <div class="topbar">
+    <div>
+      <h1>Examen de Ascenso — PFAM-2026</h1>
+      <div class="sub">Para el personal activo de la Secretaría de Marina - Armada de México</div>
+    </div>
+    <div class="badge-group">
+      <button class="theme-switch" id="themeSwitch" title="Cambiar tema claro/oscuro" aria-label="Cambiar tema">
+        <span class="knob" id="themeKnob"></span>
+      </button>
+      <div class="userbadge" id="userbadge"></div>
+    </div>
+  </div>
+
+  <nav id="nav"></nav>
+  <div id="view"></div>
+</div>
+
+<script>
+const TEMAS = ["Conocimientos Marineros","Legislacion Naval","Conocimientos Especificos"];
+const EXAMEN_DURACION_MIN = 60; // <-- ajustar aquí la duración del examen en minutos
+let banco = [];
+let historial = [];
+let usuario = { grado:"", nombre:"", matricula:"" };
+let sesion = null;
+let tab = "banco";
+let historialExpandido = null;
+let editandoUsuario = false;
+let temporizadorId = null;
+
+function iniciarTemporizador(){
+  if(temporizadorId) clearInterval(temporizadorId);
+  temporizadorId = setInterval(actualizarTemporizadorDOM, 1000);
+  actualizarTemporizadorDOM();
+}
+function detenerTemporizador(){ if(temporizadorId){ clearInterval(temporizadorId); temporizadorId=null; } }
+function actualizarTemporizadorDOM(){
+  const el = document.getElementById('temporizador');
+  if(!sesion || sesion.terminado){ detenerTemporizador(); return; }
+  const restanteMs = Math.max(0, sesion.finTiempo - Date.now());
+  const totalSeg = Math.floor(restanteMs/1000);
+  const mm = String(Math.floor(totalSeg/60)).padStart(2,'0');
+  const ss = String(totalSeg%60).padStart(2,'0');
+  if(el){
+    el.textContent = mm+':'+ss;
+    el.classList.toggle('tiempo-critico', totalSeg<=300);
+  }
+  if(restanteMs<=0 && !sesion.tiempoAgotado){
+    sesion.tiempoAgotado = true;
+    detenerTemporizador();
+    sesion.cola.forEach(idx=>{
+      const q = sesion.preguntas[idx];
+      if(!sesion.respuestas[idx]) sesion.respuestas[idx] = { tema:q.tema, elegida:null, correcta:q.respuesta_correcta, ok:false };
+    });
+    sesion.cola = [];
+    render();
+  }
+}
+
+const ICONO_SOL = '<svg viewBox="0 0 24 24" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="4"></circle><line x1="12" y1="2" x2="12" y2="4"></line><line x1="12" y1="20" x2="12" y2="22"></line><line x1="4.2" y1="4.2" x2="5.6" y2="5.6"></line><line x1="18.4" y1="18.4" x2="19.8" y2="19.8"></line><line x1="2" y1="12" x2="4" y2="12"></line><line x1="20" y1="12" x2="22" y2="12"></line><line x1="4.2" y1="19.8" x2="5.6" y2="18.4"></line><line x1="18.4" y1="5.6" x2="19.8" y2="4.2"></line></svg>';
+const ICONO_LUNA = '<svg viewBox="0 0 24 24" stroke-linecap="round" stroke-linejoin="round"><path d="M20 14.5A8 8 0 1 1 9.5 4a6.5 6.5 0 0 0 10.5 10.5z"></path></svg>';
+
+function aplicarTema(tema){
+  document.documentElement.setAttribute('data-theme', tema);
+  const knob = document.getElementById('themeKnob');
+  if(knob) knob.innerHTML = tema==='dark' ? ICONO_LUNA : ICONO_SOL;
+  try{ localStorage.setItem('sain_tema', tema); }catch(e){}
+}
+function iniciarTema(){
+  let tema = 'light';
+  try{ tema = localStorage.getItem('sain_tema') || 'light'; }catch(e){}
+  aplicarTema(tema);
+  const sw = document.getElementById('themeSwitch');
+  if(sw){
+    sw.onclick = ()=>{
+      const actual = document.documentElement.getAttribute('data-theme');
+      aplicarTema(actual==='dark' ? 'light' : 'dark');
+    };
+  }
+}
+
+function cargarTodo(){
+  try{ const v = localStorage.getItem('sain_banco'); banco = v? JSON.parse(v): []; }catch(e){ banco = []; }
+  try{ const v = localStorage.getItem('sain_historial'); historial = v? JSON.parse(v): []; }catch(e){ historial = []; }
+  try{ const v = localStorage.getItem('sain_usuario'); usuario = v? JSON.parse(v): {grado:"",nombre:"",matricula:""}; }catch(e){}
+  if(!usuario.grado && !usuario.nombre && !usuario.matricula) editandoUsuario = true;
+  render();
+}
+function guardarBanco(){ try{ localStorage.setItem('sain_banco', JSON.stringify(banco)); }catch(e){ alert('No se pudo guardar: '+e.message); } }
+function guardarHistorial(){ try{ localStorage.setItem('sain_historial', JSON.stringify(historial)); }catch(e){ alert('No se pudo guardar: '+e.message); } }
+function guardarUsuario(){ try{ localStorage.setItem('sain_usuario', JSON.stringify(usuario)); }catch(e){} }
+
+function mezclarPregunta(q){
+  if(q.tipo!=='opcion_multiple'){
+    const flip = Math.random()<0.5;
+    const opciones = flip? {a:'FALSO', b:'VERDADERO'} : {a:'VERDADERO', b:'FALSO'};
+    const significado = q.respuesta_correcta==='a' ? 'VERDADERO' : 'FALSO';
+    const nuevaCorrecta = Object.keys(opciones).find(k=>opciones[k]===significado);
+    return {...q, opciones, respuesta_correcta: nuevaCorrecta};
+  }
+  const correctaTexto = q.opciones[q.respuesta_correcta];
+  const mezclado = Object.values(q.opciones).sort(()=>Math.random()-0.5);
+  const letras = ['a','b','c','d'];
+  const nuevasOpciones = {};
+  let nuevaCorrecta = null;
+  mezclado.forEach((texto,i)=>{
+    nuevasOpciones[letras[i]] = texto;
+    if(texto===correctaTexto) nuevaCorrecta = letras[i];
+  });
+  return {...q, opciones: nuevasOpciones, respuesta_correcta: nuevaCorrecta};
+}
+
+function contarPorTema(){
+  const c = {}; TEMAS.forEach(t=>c[t]=0);
+  banco.forEach(q=>{ if(c[q.tema]!==undefined) c[q.tema]++; });
+  return c;
+}
+
+function setTab(t){
+  if(t==='examen' && sesion && sesion.terminado){ sesion = null; }
+  tab=t; render();
+}
+
+function renderUserBadge(){
+  const b = document.getElementById('userbadge');
+  if(editandoUsuario){
+    b.innerHTML = `
+      <label class="field" style="margin-top:0;">Grado</label>
+      <input type="text" id="inGrado" value="${usuario.grado||''}" placeholder="ej. 3/er Mtre.">
+      <label class="field">Nombre completo</label>
+      <input type="text" id="inNombre" value="${usuario.nombre||''}" placeholder="Nombre y apellidos">
+      <label class="field">Matrícula de guerra</label>
+      <input type="text" id="inMatricula" value="${usuario.matricula||''}" placeholder="Matrícula">
+      <button class="action" id="btnGuardarUsuario" style="width:100%;">Guardar</button>
+    `;
+    document.getElementById('btnGuardarUsuario').onclick=()=>{
+      usuario = {
+        grado: document.getElementById('inGrado').value.trim(),
+        nombre: document.getElementById('inNombre').value.trim(),
+        matricula: document.getElementById('inMatricula').value.trim()
+      };
+      guardarUsuario();
+      editandoUsuario=false;
+      render();
+    };
+  } else {
+    b.innerHTML = `
+      <div class="row"><span class="lbl">Grado</span><span class="val">${usuario.grado||'—'}</span></div>
+      <div class="row"><span class="lbl">Nombre</span><span class="val">${usuario.nombre||'—'}</span></div>
+      <div class="row"><span class="lbl">Matrícula</span><span class="val">${usuario.matricula||'—'}</span></div>
+      <button class="action secondary" id="btnEditarUsuario" style="width:100%;">Editar</button>
+    `;
+    document.getElementById('btnEditarUsuario').onclick=()=>{ editandoUsuario=true; render(); };
+  }
+}
+
+function render(){
+  renderUserBadge();
+  const nav = document.getElementById('nav');
+  nav.innerHTML = "";
+  [["banco","Banco"],["examen","Examen"],["historial","Historial"]].forEach(([k,l])=>{
+    const btn=document.createElement('button');
+    btn.textContent=l; btn.className = tab===k? 'active':'';
+    btn.onclick=()=>setTab(k);
+    nav.appendChild(btn);
+  });
+  const view = document.getElementById('view');
+  if(sesion && !sesion.terminado){ view.innerHTML = renderExamenActivo(); attachExamenEvents(); return; }
+  if(sesion && sesion.terminado && tab==='examen'){ view.innerHTML = renderResultados(); attachResultadosEvents(); return; }
+  if(tab==='banco'){ view.innerHTML = renderBanco(); attachBancoEvents(); }
+  else if(tab==='examen'){ view.innerHTML = renderConfigExamen(); attachConfigEvents(); }
+  else { view.innerHTML = renderHistorial(); attachHistorialEvents(); }
+}
+
+// Mapa de códigos de 6 dígitos -> archivo JSON (mismo dominio, ej. GitHub Pages)
+const CODIGOS_BANCO = {
+  "104729": "conocimientos_marineros.json",
+  "205831": "legislacion_naval.json",
+  "306942": "conocimientos_especificos.json"
+};
+
+function procesarJSON(texto, msgEl){
+  try{
+    const data = JSON.parse(texto);
+    if(!Array.isArray(data)) throw new Error('no es arreglo');
+    let agregadas=0;
+    data.forEach(q=>{
+      if(!q.tema||!q.tipo||!q.pregunta||!q.respuesta_correcta) return;
+      q.id = 'q_'+Date.now()+'_'+Math.random().toString(36).slice(2,8);
+      banco.push(q); agregadas++;
+    });
+    guardarBanco();
+    if(msgEl){ msgEl.textContent = agregadas+' reactivos agregados.'; msgEl.style.color='var(--ok)'; }
+    render();
+    return true;
+  }catch(e){
+    if(msgEl){ msgEl.textContent = 'JSON inválido: '+e.message; msgEl.style.color='var(--bad)'; }
+    return false;
+  }
+}
+
+function renderBanco(){
+  const c = contarPorTema();
+  return `
+  <div class="card wide">
+    <h2>Estado del banco de preguntas</h2>
+    <div class="stats-grid">
+      ${TEMAS.map(t=>`<div class="stat"><div class="n">${c[t]}</div><div class="l">${t}</div></div>`).join('')}
+      <div class="stat"><div class="n">${banco.length}</div><div class="l">Total</div></div>
+    </div>
+  </div>
+  <div class="modules-row">
+    <div class="card">
+      <h2>Cargar banco con código</h2>
+      <p style="font-size:12px;color:var(--ink-soft);margin-top:0;">Ingresa el código de 6 dígitos.</p>
+      <div class="otp-row">
+        ${[0,1,2,3,4,5].map(i=>`<input type="text" inputmode="numeric" maxlength="1" class="otp-digit" data-i="${i}">`).join('')}
+      </div>
+      <span id="codigoMsg" style="font-size:12px;display:block;margin-top:10px;"></span>
+    </div>
+    <div class="card">
+      <h2>Cargar reactivos desde archivo</h2>
+      <p style="font-size:12px;color:var(--ink-soft);margin-top:0;">Selecciona un archivo .json.</p>
+      <input type="file" id="fileImport" accept=".json">
+      <span id="fileMsg" style="font-size:12px;display:block;margin-top:10px;"></span>
+    </div>
+    <div class="card">
+      <h2>Vaciar banco de preguntas</h2>
+      <p style="font-size:12px;color:var(--ink-soft);margin-top:0;">Elimina todos los reactivos cargados.</p>
+      <button class="action danger" id="btnClear">Vaciar banco</button>
+    </div>
+  </div>`;
+}
+function attachBancoEvents(){
+  document.getElementById('btnClear').onclick=()=>{
+    if(confirm('Esto borra todo el banco de preguntas. Confirmar?')){ banco=[]; guardarBanco(); render(); }
+  };
+  document.getElementById('fileImport').onchange=async (e)=>{
+    const msg = document.getElementById('fileMsg');
+    const file = e.target.files[0];
+    if(!file) return;
+    try{
+      const texto = await file.text();
+      procesarJSON(texto, msg);
+    }catch(err){ msg.textContent='Error al leer archivo: '+err.message; msg.style.color='var(--bad)'; }
+  };
+  const digits = Array.from(document.querySelectorAll('.otp-digit'));
+  digits.forEach((inp,i)=>{
+    inp.oninput=()=>{
+      inp.value = inp.value.replace(/[^0-9]/g,'').slice(0,1);
+      if(inp.value && i<digits.length-1) digits[i+1].focus();
+      if(digits.every(d=>d.value.length===1)) intentarCargarCodigo(digits);
+    };
+    inp.onkeydown=(e)=>{
+      if(e.key==='Backspace' && !inp.value && i>0) digits[i-1].focus();
+    };
+  });
+}
+async function intentarCargarCodigo(digits){
+  const codigo = digits.map(d=>d.value).join('');
+  const msg = document.getElementById('codigoMsg');
+  const archivo = CODIGOS_BANCO[codigo];
+  if(!archivo){ msg.textContent='Código no reconocido.'; msg.style.color='var(--bad)'; return; }
+  try{
+    const res = await fetch(`./${archivo}`);
+    if(!res.ok) throw new Error('archivo no encontrado ('+res.status+')');
+    const texto = await res.text();
+    procesarJSON(texto, msg);
+  }catch(err){ msg.textContent='Error al cargar: '+err.message; msg.style.color='var(--bad)'; }
+}
+
+function renderConfigExamen(){
+  const c = contarPorTema();
+  const sinUsuario = !usuario.grado && !usuario.nombre && !usuario.matricula;
+  return `
+  <div class="card wide">
+    <h2>Configurar examen</h2>
+    <p style="font-size:12px;color:var(--ink-soft);margin-top:0;">Define cuántas preguntas quieres de cada tema. Se eligen al azar dentro de cada segmento.</p>
+    <label class="field" style="margin-top:0;">Iniciar examen con el tema</label>
+    <select id="selTemaInicio">
+      ${TEMAS.map(t=>`<option value="${t}">${t}</option>`).join('')}
+    </select>
+    ${TEMAS.map(t=>`
+      <div class="tema-qty">
+        <label>${t}</label>
+        <div style="display:flex;align-items:center;gap:10px;">
+          <span class="avail">${c[t]} disponibles</span>
+          <input type="number" class="temaQty" data-tema="${t}" min="0" max="${c[t]}" value="${Math.min(c[t],10)}" ${c[t]===0?'disabled':''}>
+        </div>
+      </div>`).join('')}
+    <div style="margin-top:14px;">
+      <button class="action" id="btnIniciar" ${sinUsuario?'disabled':''}>Iniciar examen</button>
+    </div>
+    ${sinUsuario?'<p class="warn">Registra grado, nombre y matrícula arriba antes de iniciar.</p>':''}
+    <p id="configMsg" class="warn"></p>
+  </div>`;
+}
+function attachConfigEvents(){
+  const btn = document.getElementById('btnIniciar');
+  if(!btn) return;
+  btn.onclick=()=>{
+    const msg = document.getElementById('configMsg');
+    const temaInicio = document.getElementById('selTemaInicio').value;
+    const ordenTemas = [temaInicio, ...TEMAS.filter(t=>t!==temaInicio)];
+    let pool = [];
+    ordenTemas.forEach(tema=>{
+      const inp = document.querySelector(`.temaQty[data-tema="${tema}"]`);
+      const n = parseInt(inp.value)||0;
+      if(n<=0) return;
+      const disponibles = banco.filter(q=>q.tema===tema);
+      const elegidas = disponibles.slice().sort(()=>Math.random()-0.5).slice(0,n).map(mezclarPregunta);
+      pool = pool.concat(elegidas);
+    });
+    if(pool.length===0){ msg.textContent='Selecciona al menos una pregunta de algún tema.'; return; }
+    sesion = { preguntas: pool, cola: pool.map((_,i)=>i), respuestas: {}, terminado:false, interacciones:0, avisoMostrado:false, mostrarAviso:false, segundaRonda:false, tiempoAgotado:false, finTiempo: Date.now() + EXAMEN_DURACION_MIN*60000 };
+    render();
+    iniciarTemporizador();
+  };
+}
+
+function renderExamenActivo(){
+  if(sesion.tiempoAgotado){ return renderTiempoAgotado(); }
+  if(sesion.mostrarAviso){ return renderAvisoPendientes(); }
+  const idxActual = sesion.cola[0];
+  const q = sesion.preguntas[idxActual];
+  const opciones = q.opciones;
+  const respondidas = Object.keys(sesion.respuestas).length;
+  return `
+  <div class="card wide timer-card"><div class="timer-box" id="temporizador">--:--</div></div>
+  <div class="card wide">
+    <div class="progress">Respondidas ${respondidas} de ${sesion.preguntas.length} — Pendientes: ${sesion.cola.length} — Tema: ${q.tema}</div>
+    <div class="qbox">
+      <div class="meta">${q.tipo==='verdadero_falso'?'VERDADERO O FALSO':'OPCIÓN MÚLTIPLE'}</div>
+      <div class="enun">${q.pregunta}</div>
+      <div id="opts">
+        ${Object.entries(opciones).map(([k,v])=>`<button class="qopt" data-k="${k}">${k}) ${v}</button>`).join('')}
+      </div>
+    </div>
+    <div class="btn-row-right">
+      <button class="action danger" id="btnCancelar">Cancelar examen</button>
+      ${sesion.segundaRonda ? '' : `<button class="action secondary" id="btnSaltar" ${sesion.cola.length<=1?'disabled':''}>Saltar pregunta</button>`}
+      <button class="action" id="btnSig" disabled>Siguiente</button>
+    </div>
+  </div>`;
+}
+function renderTiempoAgotado(){
+  return `
+  <div class="card wide">
+    <h2>Tiempo agotado</h2>
+    <p style="font-size:14px;">Se cumplieron los ${EXAMEN_DURACION_MIN} minutos del examen. Las preguntas sin responder se contabilizan como incorrectas.</p>
+    <div class="btn-row-right">
+      <button class="action" id="btnVerCalificacion">Ver calificación</button>
+    </div>
+  </div>`;
+}
+function renderAvisoPendientes(){
+  const faltan = sesion.cola.length;
+  return `
+  <div class="card wide timer-card"><div class="timer-box" id="temporizador">--:--</div></div>
+  <div class="card wide">
+    <h2>Preguntas pendientes</h2>
+    <p style="font-size:14px;">Te faltaron <strong>${faltan}</strong> pregunta(s) por contestar. ¿Deseas contestarlas ahora o finalizar el examen? Las que queden sin responder se contarán como incorrectas.</p>
+    <div class="btn-row-right">
+      <button class="action danger" id="btnFinalizarAhora">Finalizar examen</button>
+      <button class="action" id="btnContestarPendientes">Contestar pendientes</button>
+    </div>
+  </div>`;
+}
+function attachExamenEvents(){
+  if(sesion.tiempoAgotado){
+    document.getElementById('btnVerCalificacion').onclick=()=>{ finalizarExamen(); };
+    return;
+  }
+  if(sesion.mostrarAviso){
+    document.getElementById('btnContestarPendientes').onclick=()=>{ sesion.mostrarAviso=false; sesion.segundaRonda=true; render(); };
+    document.getElementById('btnFinalizarAhora').onclick=()=>{
+      sesion.cola.forEach(idx=>{
+        const q = sesion.preguntas[idx];
+        sesion.respuestas[idx] = { tema:q.tema, elegida:null, correcta:q.respuesta_correcta, ok:false };
+      });
+      sesion.cola = [];
+      finalizarExamen();
+    };
+    return;
+  }
+  let elegida=null;
+  document.querySelectorAll('.qopt').forEach(btn=>{
+    btn.onclick=()=>{
+      elegida=btn.dataset.k;
+      document.querySelectorAll('.qopt').forEach(b=>b.classList.remove('selected'));
+      btn.classList.add('selected');
+      document.getElementById('btnSig').disabled=false;
+    };
+  });
+  document.getElementById('btnSig').onclick=()=>{
+    if(!elegida) return;
+    const idxActual = sesion.cola.shift();
+    const q = sesion.preguntas[idxActual];
+    sesion.respuestas[idxActual] = { tema:q.tema, elegida, correcta:q.respuesta_correcta, ok: elegida===q.respuesta_correcta };
+    sesion.interacciones = (sesion.interacciones||0) + 1;
+    avanzarSesion();
+  };
+  const btnSaltar = document.getElementById('btnSaltar');
+  if(btnSaltar){
+    btnSaltar.onclick=()=>{
+      if(sesion.cola.length<=1) return;
+      const idxActual = sesion.cola.shift();
+      sesion.cola.push(idxActual);
+      sesion.interacciones = (sesion.interacciones||0) + 1;
+      avanzarSesion();
+    };
+  }
+  document.getElementById('btnCancelar').onclick=()=>{
+    if(confirm('Se perderá el avance de este examen (no se guarda en el historial). Confirmar?')){
+      detenerTemporizador();
+      sesion=null; tab='examen'; render();
+    }
+  };
+}
+function avanzarSesion(){
+  if(sesion.cola.length===0){ finalizarExamen(); return; }
+  if(!sesion.avisoMostrado && sesion.interacciones===sesion.preguntas.length){
+    sesion.avisoMostrado = true;
+    sesion.mostrarAviso = true;
+  }
+  render();
+}
+
+function finalizarExamen(){
+  detenerTemporizador();
+  sesion.terminado=true;
+  const total = sesion.preguntas.length;
+  const correctas = Object.values(sesion.respuestas).filter(r=>r.ok).length;
+  const porTema = {};
+  TEMAS.forEach(t=>porTema[t]={total:0,ok:0});
+  Object.values(sesion.respuestas).forEach(r=>{ porTema[r.tema].total++; if(r.ok) porTema[r.tema].ok++; });
+  const detalle = sesion.preguntas.map((q,i)=>{
+    const r = sesion.respuestas[i] || { elegida:null, ok:false };
+    return { tema:q.tema, pregunta:q.pregunta, opciones:q.opciones, respuesta_correcta:q.respuesta_correcta, elegida:r.elegida, ok:r.ok, fuente:q.fuente };
+  });
+  historial.unshift({ fecha:new Date().toLocaleString('es-MX'), total, correctas, porTema, usuario: {...usuario}, detalle });
+  guardarHistorial();
+  render();
+}
+
+function renderResultados(){
+  const total = sesion.preguntas.length;
+  const correctas = Object.values(sesion.respuestas).filter(r=>r.ok).length;
+  const pct = Math.round((correctas/total)*100);
+  const porTema = {};
+  TEMAS.forEach(t=>porTema[t]={total:0,ok:0});
+  Object.values(sesion.respuestas).forEach(r=>{ porTema[r.tema].total++; if(r.ok) porTema[r.tema].ok++; });
+  return `
+  <div class="card wide">
+    <h2>Resultado — ${usuario.grado||''} ${usuario.nombre||''}</h2>
+    <div class="score-big">${correctas} / ${total} — ${pct}%</div>
+    <div class="stats-grid">
+      ${TEMAS.map(t=>`<div class="stat"><div class="n">${porTema[t].ok}/${porTema[t].total}</div><div class="l">${t}</div></div>`).join('')}
+    </div>
+    <button class="action secondary" id="btnRevisar">Revisar reactivos</button>
+    <button class="action" id="btnReiniciar">Nuevo examen</button>
+  </div>
+  <div id="revision"></div>`;
+}
+function attachResultadosEvents(){
+  document.getElementById('btnReiniciar').onclick=()=>{ sesion=null; tab='examen'; render(); };
+  document.getElementById('btnRevisar').onclick=()=>{
+    const rev = document.getElementById('revision');
+    rev.innerHTML = sesion.preguntas.map((q,i)=>{
+      const r = sesion.respuestas[i];
+      const opciones = q.opciones;
+      return `<div class="card wide"><div class="meta" style="color:var(--ink-faint);">${q.tema}</div>
+        <div class="enun" style="font-size:14px;">${q.pregunta}</div>
+        ${Object.entries(opciones).map(([k,v])=>{
+          let cls='qopt';
+          if(k===q.respuesta_correcta) cls+=' correct';
+          else if(r && k===r.elegida) cls+=' incorrect';
+          return `<div class="${cls}" style="cursor:default;">${k}) ${v}</div>`;
+        }).join('')}
+        ${q.fuente?`<p style="font-size:12px;color:var(--ink-faint);margin-top:8px;">Fuente: ${q.fuente}</p>`:''}
+      </div>`;
+    }).join('');
+  };
+}
+
+function renderHistorial(){
+  if(historial.length===0) return `<div class="card wide"><p class="empty">Sin intentos registrados aún.</p></div>`;
+  return `<div class="card wide">
+    <h2>Historial de intentos</h2>
+    ${historial.map((h,i)=>`
+      <div class="hist-row hist-row-click" data-idx="${i}" style="cursor:pointer;">
+        <span class="who">${h.usuario? (h.usuario.grado+' '+h.usuario.nombre+' — '+h.usuario.matricula) : 'Sin datos'}</span>
+        <span>${h.fecha}</span>
+        <span><strong>${h.correctas}/${h.total}</strong> (${Math.round(h.correctas/h.total*100)}%)</span>
+      </div>
+      ${historialExpandido===i ? renderDetalleHistorial(h) : ''}
+    `).join('')}
+    <div class="btn-row-right">
+      <button class="action danger" id="btnLimpiarHistorial">Limpiar historial</button>
+    </div>
+  </div>`;
+}
+function renderDetalleHistorial(h){
+  const resumen = `<div class="resumen-tema-hist">
+    ${TEMAS.map(t=>{
+      const d = h.porTema && h.porTema[t] ? h.porTema[t] : {total:0,ok:0};
+      const pct = d.total>0 ? Math.round(d.ok/d.total*100) : 0;
+      return `<div class="resumen-tema-item">
+        <div class="rt-tema">${t}</div>
+        <div class="rt-valor">${d.ok}/${d.total}</div>
+        <div class="rt-pct">${pct}%</div>
+      </div>`;
+    }).join('')}
+  </div>`;
+  if(!h.detalle || h.detalle.length===0){
+    return `<div style="margin:8px 0 16px;">${resumen}<div class="card" style="margin-top:10px;"><p class="empty">Detalle no disponible para este intento (registrado antes de esta actualización).</p></div></div>`;
+  }
+  return `<div style="margin:8px 0 16px;">
+    ${resumen}
+    <div style="margin-top:10px;">
+    ${h.detalle.map(d=>{
+      const opciones = d.opciones;
+      if(!opciones){
+        return `<div class="card" style="margin-bottom:10px;"><div class="meta" style="font-size:11px;color:var(--ink-faint);text-transform:uppercase;margin-bottom:8px;">${d.tema}</div>
+          <div class="enun" style="font-size:14px;">${d.pregunta}</div>
+          <p style="font-size:13px;margin-top:8px;">Respuesta correcta: <strong>${d.respuesta_correcta==='a'?'VERDADERO':'FALSO'}</strong> — Tu respuesta: <strong>${d.elegida? (d.elegida==='a'?'VERDADERO':'FALSO') : 'Sin responder'}</strong></p>
+        </div>`;
+      }
+      return `<div class="card" style="margin-bottom:10px;">
+        <div class="meta" style="font-size:11px;color:var(--ink-faint);text-transform:uppercase;margin-bottom:8px;">${d.tema}</div>
+        <div class="enun" style="font-size:14px;">${d.pregunta}</div>
+        ${Object.entries(opciones).map(([k,v])=>{
+          let cls='qopt';
+          if(k===d.respuesta_correcta) cls+=' correct';
+          else if(k===d.elegida) cls+=' incorrect';
+          return `<div class="${cls}" style="cursor:default;">${k}) ${v}</div>`;
+        }).join('')}
+        ${d.fuente?`<p style="font-size:12px;color:var(--ink-faint);margin-top:8px;">Fuente: ${d.fuente}</p>`:''}
+      </div>`;
+    }).join('')}
+    </div>
+  </div>`;
+}
+function attachHistorialEvents(){
+  document.querySelectorAll('.hist-row-click').forEach(row=>{
+    row.onclick=()=>{
+      const idx = parseInt(row.dataset.idx);
+      historialExpandido = historialExpandido===idx ? null : idx;
+      render();
+    };
+  });
+  const btn = document.getElementById('btnLimpiarHistorial');
+  if(!btn) return;
+  btn.onclick=()=>{
+    if(confirm('Esto borra todo el historial de intentos. Confirmar?')){
+      historial = [];
+      historialExpandido = null;
+      guardarHistorial();
+      render();
+    }
+  };
+}
+
+cargarTodo();
+iniciarTema();
+</script>
+</body>
+</html>
