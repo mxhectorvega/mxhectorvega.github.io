@@ -2,1607 +2,963 @@
   {
     "tema": "Legislacion Naval",
     "tipo": "opcion_multiple",
-    "pregunta": "DE ACUERDO CON EL ARTÍCULO 1° DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, TODAS LAS PERSONAS GOZARÁN DE LOS DERECHOS HUMANOS RECONOCIDOS EN LA CONSTITUCIÓN Y EN LOS TRATADOS INTERNACIONALES DE LOS QUE EL ESTADO MEXICANO SEA PARTE, ASÍ COMO DE LAS GARANTÍAS PARA SU PROTECCIÓN, Y SU EJERCICIO:",
+    "pregunta": "¿CUÁL ES EL ARTÍCULO DE LA CONSTITUCIÓN POLÍTICA QUE ESTABLECE LOS DERECHOS HUMANOS Y SUS GARANTÍAS?",
     "opciones": {
-      "a": "PODRÁ SUSPENDERSE POR DECRETO ADMINISTRATIVO",
-      "b": "NO PODRÁ RESTRINGIRSE NI SUSPENDERSE, SALVO EN LOS CASOS Y BAJO LAS CONDICIONES QUE LA PROPIA CONSTITUCIÓN ESTABLECE",
-      "c": "SE LIMITARÁ A LO DISPUESTO POR LAS LEYES SECUNDARIAS",
-      "d": "SE GARANTIZA SÓLO A LOS CIUDADANOS MEXICANOS"
+      "a": "ARTÍCULO 1",
+      "b": "ARTÍCULO 16",
+      "c": "ARTÍCULO 49",
+      "d": "ARTÍCULO 89"
     },
-    "respuesta_correcta": "b",
-    "fuente": "Constitución Política de los Estados Unidos Mexicanos, Artículo 1"
+    "respuesta_correcta": "a",
+    "fuente": "Constitución Política de los Estados Unidos Mexicanos, Título Primero, Capítulo I, Artículo 1"
   },
   {
     "tema": "Legislacion Naval",
     "tipo": "verdadero_falso",
-    "pregunta": "EL PÁRRAFO SEGUNDO DEL ARTÍCULO 2° DE LA CONSTITUCIÓN MEXICANA RECONOCE EL CARÁCTER PLURICULTURAL DE LA NACIÓN SUSTENTADA ORIGINALMENTE EN SUS PUEBLOS INDÍGENAS.",
+    "pregunta": "SEGÚN LA CONSTITUCIÓN POLÍTICA, EL ARTÍCULO 2 PÁRRAFO 1 RECONOCE LOS DERECHOS DE LOS PUEBLOS INDÍGENAS.",
     "respuesta_correcta": "a",
-    "fuente": "Constitución Política de los Estados Unidos Mexicanos, Artículo 2"
+    "fuente": "Constitución Política de los Estados Unidos Mexicanos, Título Primero, Capítulo I, Artículo 2 (Párrafo 1)"
   },
   {
     "tema": "Legislacion Naval",
     "tipo": "opcion_multiple",
-    "pregunta": "EL ARTÍCULO 8° CONSTITUCIONAL GARANTIZA EL DERECHO DE PETICIÓN, ESTABLECIENDO QUE LOS FUNCIONARIOS Y EMPLEADOS PÚBLICOS DEBEN RESPONDER POR ESCRITO A LA PETICIÓN EN UN TÉRMINO QUE NO EXCEDA DE:",
+    "pregunta": "¿QUÉ ARTÍCULO DE LA CONSTITUCIÓN TRATA SOBRE LA EDUCACIÓN?",
     "opciones": {
-      "a": "15 DÍAS HÁBILES",
-      "b": "20 DÍAS HÁBILES",
-      "c": "4 MESES",
-      "d": "TIEMPO INDEFINIDO"
+      "a": "ARTÍCULO 3",
+      "b": "ARTÍCULO 4",
+      "c": "ARTÍCULO 6",
+      "d": "ARTÍCULO 8"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Constitución Política de los Estados Unidos Mexicanos, Título Primero, Capítulo I, Artículo 3 (Párrafos 1 y 2)"
+  },
+  {
+    "tema": "Legislacion Naval",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁL ARTÍCULO CONSTITUCIONAL ESTABLECE DERECHOS COMO ALIMENTACIÓN, VIVIENDA Y ACCESO A LA SALUD?",
+    "opciones": {
+      "a": "ARTÍCULO 2",
+      "b": "ARTÍCULO 4",
+      "c": "ARTÍCULO 6",
+      "d": "ARTÍCULO 10"
+    },
+    "respuesta_correcta": "b",
+    "fuente": "Constitución Política de los Estados Unidos Mexicanos, Título Primero, Capítulo I, Artículo 4 (Párrafos 1, 2, 3, 4, 5 y 6)"
+  },
+  {
+    "tema": "Legislacion Naval",
+    "tipo": "verdadero_falso",
+    "pregunta": "EL ARTÍCULO 6 CONSTITUCIONAL ESTABLECE DISPOSICIONES SOBRE LIBERTAD DE EXPRESIÓN E INFORMACIÓN.",
+    "respuesta_correcta": "a",
+    "fuente": "Constitución Política de los Estados Unidos Mexicanos, Título Primero, Capítulo I, Artículo 6 (Párrafos 1, 2 y 4 apartado A, Fracciones I y II)"
+  },
+  {
+    "tema": "Legislacion Naval",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿QUÉ ARTÍCULO CONSTITUCIONAL GARANTIZA LA LIBERTAD DE PETICIÓN?",
+    "opciones": {
+      "a": "ARTÍCULO 8",
+      "b": "ARTÍCULO 9",
+      "c": "ARTÍCULO 10",
+      "d": "ARTÍCULO 11"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Constitución Política de los Estados Unidos Mexicanos, Título Primero, Capítulo I, Artículo 8"
+  },
+  {
+    "tema": "Legislacion Naval",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁL ARTÍCULO CONSTITUCIONAL PROTEGE LA LIBERTAD DE ASOCIACIÓN Y REUNIÓN?",
+    "opciones": {
+      "a": "ARTÍCULO 8",
+      "b": "ARTÍCULO 9",
+      "c": "ARTÍCULO 10",
+      "d": "ARTÍCULO 13"
+    },
+    "respuesta_correcta": "b",
+    "fuente": "Constitución Política de los Estados Unidos Mexicanos, Título Primero, Capítulo I, Artículo 9"
+  },
+  {
+    "tema": "Legislacion Naval",
+    "tipo": "verdadero_falso",
+    "pregunta": "EL ARTÍCULO 10 CONSTITUCIONAL ESTABLECE EL DERECHO A POSEER ARMAS PARA LA LEGÍTIMA DEFENSA.",
+    "respuesta_correcta": "a",
+    "fuente": "Constitución Política de los Estados Unidos Mexicanos, Título Primero, Capítulo I, Artículo 10"
+  },
+  {
+    "tema": "Legislacion Naval",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿QUÉ ARTÍCULO CONSTITUCIONAL GARANTIZA LA LIBERTAD DE TRÁNSITO?",
+    "opciones": {
+      "a": "ARTÍCULO 10",
+      "b": "ARTÍCULO 11",
+      "c": "ARTÍCULO 13",
+      "d": "ARTÍCULO 16"
+    },
+    "respuesta_correcta": "b",
+    "fuente": "Constitución Política de los Estados Unidos Mexicanos, Título Primero, Capítulo I, Artículo 11"
+  },
+  {
+    "tema": "Legislacion Naval",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁL ARTÍCULO CONSTITUCIONAL ESTABLECE GARANTÍAS DE SEGURIDAD JURÍDICA?",
+    "opciones": {
+      "a": "ARTÍCULO 13",
+      "b": "ARTÍCULO 16",
+      "c": "ARTÍCULO 19",
+      "d": "ARTÍCULO 21"
+    },
+    "respuesta_correcta": "b",
+    "fuente": "Constitución Política de los Estados Unidos Mexicanos, Título Primero, Capítulo I, Artículo 16 (Párrafos 1, 5, 11, 12 y 13)"
+  },
+  {
+    "tema": "Legislacion Naval",
+    "tipo": "verdadero_falso",
+    "pregunta": "EL ARTÍCULO 17 CONSTITUCIONAL ESTABLECE QUE TODA PERSONA TIENE DERECHO A LA JUSTICIA.",
+    "respuesta_correcta": "a",
+    "fuente": "Constitución Política de los Estados Unidos Mexicanos, Título Primero, Capítulo I, Artículo 17 (Párrafos 1 y 2)"
+  },
+  {
+    "tema": "Legislacion Naval",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿QUÉ ARTÍCULO CONSTITUCIONAL PROHÍBE LA ESCLAVITUD?",
+    "opciones": {
+      "a": "ARTÍCULO 16",
+      "b": "ARTÍCULO 19",
+      "c": "ARTÍCULO 20",
+      "d": "ARTÍCULO 21"
+    },
+    "respuesta_correcta": "b",
+    "fuente": "Constitución Política de los Estados Unidos Mexicanos, Título Primero, Capítulo I, Artículo 19 (Párrafos 1 y 2)"
+  },
+  {
+    "tema": "Legislacion Naval",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁL ARTÍCULO CONSTITUCIONAL ESTABLECE DERECHOS EN MATERIA PENAL?",
+    "opciones": {
+      "a": "ARTÍCULO 19",
+      "b": "ARTÍCULO 20",
+      "c": "ARTÍCULO 21",
+      "d": "ARTÍCULO 23"
+    },
+    "respuesta_correcta": "b",
+    "fuente": "Constitución Política de los Estados Unidos Mexicanos, Título Primero, Capítulo I, Artículo 20 (apartados B. y C.)"
+  },
+  {
+    "tema": "Legislacion Naval",
+    "tipo": "verdadero_falso",
+    "pregunta": "EL ARTÍCULO 21 CONSTITUCIONAL ESTABLECE QUE LA IMPOSICIÓN DE PENAS ES PROPIA DE LA AUTORIDAD JUDICIAL.",
+    "respuesta_correcta": "a",
+    "fuente": "Constitución Política de los Estados Unidos Mexicanos, Título Primero, Capítulo I, Artículo 21 (Párrafos 1, 2 y 9)"
+  },
+  {
+    "tema": "Legislacion Naval",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿QUÉ ARTÍCULO CONSTITUCIONAL TRATA SOBRE LA NACIONALIDAD MEXICANA?",
+    "opciones": {
+      "a": "ARTÍCULO 20",
+      "b": "ARTÍCULO 22",
+      "c": "ARTÍCULO 23",
+      "d": "ARTÍCULO 24"
     },
     "respuesta_correcta": "c",
-    "fuente": "Constitución Política de los Estados Unidos Mexicanos, Artículo 8"
-  },
-  {
-    "tema": "Legislacion Naval",
-    "tipo": "verdadero_falso",
-    "pregunta": "CONFORME AL ARTÍCULO 10 CONSTITUCIONAL, LOS HABITANTES DE LOS ESTADOS UNIDOS MEXICANOS TIENEN DERECHO A POSEER ARMAS DE CUALQUIER TIPO EN SU DOMICILIO PARA SU SEGURIDAD Y LEGÍTIMA DEFENSA, SIN NINGUNA RESTRICCIÓN.",
-    "respuesta_correcta": "b",
-    "fuente": "Constitución Política de los Estados Unidos Mexicanos, Artículo 10"
+    "fuente": "Constitución Política de los Estados Unidos Mexicanos, Título Primero, Capítulo I, Artículo 23"
   },
   {
     "tema": "Legislacion Naval",
     "tipo": "opcion_multiple",
-    "pregunta": "EL ARTÍCULO 13 DE LA CONSTITUCIÓN PROHÍBE LOS TRIBUNALES ESPECIALES Y ESTABLECE QUE NINGUNA PERSONA O CORPORACIÓN PUEDE TENER FUERO, SALVO EN EL CASO DE:",
+    "pregunta": "¿CUÁL ARTÍCULO CONSTITUCIONAL ESTABLECE DERECHOS POLÍTICOS?",
     "opciones": {
-      "a": "SERVIDORES PÚBLICOS FEDERALES",
-      "b": "MILITARES EN SERVICIO ACTIVO O EN SITUACIÓN DE RETIRO",
-      "c": "FUERO CONSTITUCIONAL PARA ALTOS FUNCIONARIOS",
-      "d": "EXCLUSIVAMENTE EL PRESIDENTE DE LA REPÚBLICA"
+      "a": "ARTÍCULO 22",
+      "b": "ARTÍCULO 23",
+      "c": "ARTÍCULO 24",
+      "d": "ARTÍCULO 27"
     },
     "respuesta_correcta": "c",
-    "fuente": "Constitución Política de los Estados Unidos Mexicanos, Artículo 13"
+    "fuente": "Constitución Política de los Estados Unidos Mexicanos, Título Primero, Capítulo I, Artículo 24 (Párrafo 1)"
   },
   {
     "tema": "Legislacion Naval",
     "tipo": "verdadero_falso",
-    "pregunta": "EL ARTÍCULO 16 CONSTITUCIONAL SEÑALA QUE NADIE PUEDE SER MOLESTADO EN SU PERSONA, FAMILIA, DOMICILIO, PAPELES O POSESIONES, SINO EN VIRTUD DE MANDAMIENTO ESCRITO DE LA AUTORIDAD COMPETENTE QUE FUNDE Y MOTIVE LA CAUSA LEGAL DEL PROCEDIMIENTO.",
+    "pregunta": "EL ARTÍCULO 27 CONSTITUCIONAL ESTABLECE QUE LA PROPIEDAD DE LAS TIERRAS Y AGUAS CORRESPONDE ORIGINARIAMENTE A LA NACIÓN.",
     "respuesta_correcta": "a",
-    "fuente": "Constitución Política de los Estados Unidos Mexicanos, Artículo 16"
+    "fuente": "Constitución Política de los Estados Unidos Mexicanos, Título Primero, Capítulo I, Artículo 27 (Párrafos 1, 4, 5 y 9)"
   },
   {
     "tema": "Legislacion Naval",
     "tipo": "opcion_multiple",
-    "pregunta": "DE ACUERDO CON EL ARTÍCULO 19 CONSTITUCIONAL, LA DETENCIÓN ANTE AUTORIDAD JUDICIAL POR DELITO QUE MEREZCA PRISIÓN PREVENTIVA OFICIOSA NO PODRÁ EXCEDER DE:",
+    "pregunta": "¿QUÉ ARTÍCULO CONSTITUCIONAL TRATA SOBRE GARANTÍAS INDIVIDUALES EN CASO DE INVASIÓN O PERTURBACIÓN DE LA PAZ?",
     "opciones": {
-      "a": "48 HORAS",
-      "b": "72 HORAS, SALVO CASOS EXCEPCIONALES",
-      "c": "144 HORAS, PRORROGABLES",
-      "d": "96 HORAS"
+      "a": "ARTÍCULO 27",
+      "b": "ARTÍCULO 29",
+      "c": "ARTÍCULO 42",
+      "d": "ARTÍCULO 49"
     },
     "respuesta_correcta": "b",
-    "fuente": "Constitución Política de los Estados Unidos Mexicanos, Artículo 19"
+    "fuente": "Constitución Política de los Estados Unidos Mexicanos, Título Primero, Capítulo I, Artículo 29 (Párrafos 1 y 2)"
+  },
+  {
+    "tema": "Legislacion Naval",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁL ARTÍCULO CONSTITUCIONAL ESTABLECE LAS PARTES INTEGRANTES DE LA FEDERACIÓN?",
+    "opciones": {
+      "a": "ARTÍCULO 42",
+      "b": "ARTÍCULO 43",
+      "c": "ARTÍCULO 44",
+      "d": "ARTÍCULO 48"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Constitución Política de los Estados Unidos Mexicanos, Título Segundo, Capítulo II, Artículos 42, 43, 44 y 48"
   },
   {
     "tema": "Legislacion Naval",
     "tipo": "verdadero_falso",
-    "pregunta": "EL ARTÍCULO 21 CONSTITUCIONAL ESTABLECE QUE LA SEGURIDAD PÚBLICA ES UNA FUNCIÓN A CARGO EXCLUSIVO DE LA FEDERACIÓN, SIN PARTICIPACIÓN DE LOS ESTADOS Y MUNICIPIOS.",
-    "respuesta_correcta": "b",
-    "fuente": "Constitución Política de los Estados Unidos Mexicanos, Artículo 21"
+    "pregunta": "EL ARTÍCULO 49 CONSTITUCIONAL ESTABLECE LA DIVISIÓN DE PODERES EN EJECUTIVO, LEGISLATIVO Y JUDICIAL.",
+    "respuesta_correcta": "a",
+    "fuente": "Constitución Política de los Estados Unidos Mexicanos, Título Tercero, Capítulo I, Artículo 49"
   },
   {
     "tema": "Legislacion Naval",
     "tipo": "opcion_multiple",
-    "pregunta": "EL ARTÍCULO 80 CONSTITUCIONAL DEPOSITA EL EJERCICIO DEL SUPREMO PODER EJECUTIVO DE LA UNIÓN EN UN SOLO INDIVIDUO QUE SE DENOMINA:",
+    "pregunta": "¿QUÉ ARTÍCULO CONSTITUCIONAL ESTABLECE LAS FACULTADES DEL PRESIDENTE DE LA REPÚBLICA?",
     "opciones": {
-      "a": "PRESIDENTE DE LOS ESTADOS UNIDOS MEXICANOS",
-      "b": "PRIMER MINISTRO",
-      "c": "SECRETARIO DE GOBERNACIÓN",
-      "d": "COMANDANTE SUPREMO DE LAS FUERZAS ARMADAS"
-    },
-    "respuesta_correcta": "a",
-    "fuente": "Constitución Política de los Estados Unidos Mexicanos, Artículo 80"
-  },
-  {
-    "tema": "Legislacion Naval",
-    "tipo": "verdadero_falso",
-    "pregunta": "CONFORME AL ARTÍCULO 89 FRACCIÓN VI DE LA CONSTITUCIÓN, ES FACULTAD DEL PRESIDENTE DE LA REPÚBLICA DISPONER DE LA TOTALIDAD DE LAS FUERZAS ARMADAS PARA LA SEGURIDAD INTERIOR Y DEFENSA EXTERIOR DE LA FEDERACIÓN.",
-    "respuesta_correcta": "a",
-    "fuente": "Constitución Política de los Estados Unidos Mexicanos, Artículo 89, Fracción VI"
-  },
-  {
-    "tema": "Legislacion Naval",
-    "tipo": "opcion_multiple",
-    "pregunta": "SEGÚN LA LEY GENERAL PARA PREVENIR, INVESTIGAR Y SANCIONAR LA TORTURA, SE ENTIENDE POR TORTURA CUALQUIER ACTO POR EL QUE SE INFLIJA INTENCIONALMENTE A UNA PERSONA DOLORES O SUFRIMIENTOS GRAVES, YA SEAN FÍSICOS O PSÍQUICOS, CON EL FIN DE OBTENER DE ELLA O DE UN TERCERO INFORMACIÓN O UNA CONFESIÓN, O CASTIGARLA POR UN ACTO QUE HAYA COMETIDO. ESTE DELITO ES:",
-    "opciones": {
-      "a": "SUBSANABLE SI SE REPARA EL DAÑO",
-      "b": "IMPRESCRIPTIBLE E INAMISTIABLE",
-      "c": "SÓLO PERSEGUIBLE A PETICIÓN DE LA VÍCTIMA",
-      "d": "DE COMPETENCIA EXCLUSIVA DE LA JUSTICIA MILITAR"
+      "a": "ARTÍCULO 80",
+      "b": "ARTÍCULO 89",
+      "c": "ARTÍCULO 90",
+      "d": "ARTÍCULO 94"
     },
     "respuesta_correcta": "b",
-    "fuente": "Ley General para Prevenir, Investigar y Sancionar la Tortura, Artículos 7, 9 y 10"
+    "fuente": "Constitución Política de los Estados Unidos Mexicanos, Título Tercero, Capítulo III, Artículos 80, 89 (Fracciones VI, VII, VIII y XIII) y 90 (Párrafo 1)"
   },
   {
     "tema": "Legislacion Naval",
     "tipo": "opcion_multiple",
-    "pregunta": "DE ACUERDO CON EL ARTÍCULO 1° DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, TODAS LAS PERSONAS GOZARÁN DE LOS DERECHOS HUMANOS RECONOCIDOS EN LA CONSTITUCIÓN Y EN LOS TRATADOS INTERNACIONALES DE LOS QUE EL ESTADO MEXICANO SEA PARTE, ASÍ COMO DE LAS GARANTÍAS PARA SU PROTECCIÓN, Y SU EJERCICIO:",
+    "pregunta": "¿CUÁL ARTÍCULO CONSTITUCIONAL ESTABLECE LA ESTRUCTURA DEL PODER JUDICIAL?",
     "opciones": {
-      "a": "PODRÁ SUSPENDERSE POR DECRETO ADMINISTRATIVO",
-      "b": "NO PODRÁ RESTRINGIRSE NI SUSPENDERSE, SALVO EN LOS CASOS Y BAJO LAS CONDICIONES QUE LA PROPIA CONSTITUCIÓN ESTABLECE",
-      "c": "SE LIMITARÁ A LO DISPUESTO POR LAS LEYES SECUNDARIAS",
-      "d": "SE GARANTIZA SÓLO A LOS CIUDADANOS MEXICANOS"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "Constitución Política de los Estados Unidos Mexicanos, Artículo 1"
-  },
-  {
-    "tema": "Legislacion Naval",
-    "tipo": "verdadero_falso",
-    "pregunta": "EL PÁRRAFO SEGUNDO DEL ARTÍCULO 2° DE LA CONSTITUCIÓN MEXICANA RECONOCE EL CARÁCTER PLURICULTURAL DE LA NACIÓN SUSTENTADA ORIGINALMENTE EN SUS PUEBLOS INDÍGENAS.",
-    "respuesta_correcta": "a",
-    "fuente": "Constitución Política de los Estados Unidos Mexicanos, Artículo 2"
-  },
-  {
-    "tema": "Legislacion Naval",
-    "tipo": "opcion_multiple",
-    "pregunta": "EL ARTÍCULO 8° CONSTITUCIONAL GARANTIZA EL DERECHO DE PETICIÓN, ESTABLECIENDO QUE LOS FUNCIONARIOS Y EMPLEADOS PÚBLICOS DEBEN RESPONDER POR ESCRITO A LA PETICIÓN EN UN TÉRMINO QUE NO EXCEDA DE:",
-    "opciones": {
-      "a": "15 DÍAS HÁBILES",
-      "b": "20 DÍAS HÁBILES",
-      "c": "4 MESES",
-      "d": "TIEMPO INDEFINIDO"
+      "a": "ARTÍCULO 89",
+      "b": "ARTÍCULO 90",
+      "c": "ARTÍCULO 94",
+      "d": "ARTÍCULO 102"
     },
     "respuesta_correcta": "c",
-    "fuente": "Constitución Política de los Estados Unidos Mexicanos, Artículo 8"
+    "fuente": "Constitución Política de los Estados Unidos Mexicanos, Título Tercero, Capítulo IV, Artículos 94 (Párrafo 1) y 102 (Apartado B., Párrafos 1 y 4)"
   },
   {
     "tema": "Legislacion Naval",
     "tipo": "verdadero_falso",
-    "pregunta": "CONFORME AL ARTÍCULO 10 CONSTITUCIONAL, LOS HABITANTES DE LOS ESTADOS UNIDOS MEXICANOS TIENEN DERECHO A POSEER ARMAS DE CUALQUIER TIPO EN SU DOMICILIO PARA SU SEGURIDAD Y LEGÍTIMA DEFENSA, SIN NINGUNA RESTRICCIÓN.",
-    "respuesta_correcta": "b",
-    "fuente": "Constitución Política de los Estados Unidos Mexicanos, Artículo 10"
-  },
-  {
-    "tema": "Legislacion Naval",
-    "tipo": "opcion_multiple",
-    "pregunta": "EL ARTÍCULO 13 DE LA CONSTITUCIÓN PROHÍBE LOS TRIBUNALES ESPECIALES Y ESTABLECE QUE NINGUNA PERSONA O CORPORACIÓN PUEDE TENER FUERO, SALVO EN EL CASO DE:",
-    "opciones": {
-      "a": "SERVIDORES PÚBLICOS FEDERALES",
-      "b": "MILITARES EN SERVICIO ACTIVO O EN SITUACIÓN DE RETIRO",
-      "c": "FUERO CONSTITUCIONAL PARA ALTOS FUNCIONARIOS",
-      "d": "EXCLUSIVAMENTE EL PRESIDENTE DE LA REPÚBLICA"
-    },
-    "respuesta_correcta": "c",
-    "fuente": "Constitución Política de los Estados Unidos Mexicanos, Artículo 13"
-  },
-  {
-    "tema": "Legislacion Naval",
-    "tipo": "verdadero_falso",
-    "pregunta": "EL ARTÍCULO 16 CONSTITUCIONAL SEÑALA QUE NADIE PUEDE SER MOLESTADO EN SU PERSONA, FAMILIA, DOMICILIO, PAPELES O POSESIONES, SINO EN VIRTUD DE MANDAMIENTO ESCRITO DE LA AUTORIDAD COMPETENTE QUE FUNDE Y MOTIVE LA CAUSA LEGAL DEL PROCEDIMIENTO.",
+    "pregunta": "EL ARTÍCULO 108 CONSTITUCIONAL ESTABLECE LAS RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS.",
     "respuesta_correcta": "a",
-    "fuente": "Constitución Política de los Estados Unidos Mexicanos, Artículo 16"
+    "fuente": "Constitución Política de los Estados Unidos Mexicanos, Título Cuarto, Artículo 108 (Párrafo 1)"
   },
   {
     "tema": "Legislacion Naval",
     "tipo": "opcion_multiple",
-    "pregunta": "DE ACUERDO CON EL ARTÍCULO 19 CONSTITUCIONAL, LA DETENCIÓN ANTE AUTORIDAD JUDICIAL POR DELITO QUE MEREZCA PRISIÓN PREVENTIVA OFICIOSA NO PODRÁ EXCEDER DE:",
+    "pregunta": "¿QUÉ DEFINE LA LEY GENERAL PARA PREVENIR, INVESTIGAR Y SANCIONAR LA TORTURA COMO DELITO?",
     "opciones": {
-      "a": "48 HORAS",
-      "b": "72 HORAS, SALVO CASOS EXCEPCIONALES",
-      "c": "144 HORAS, PRORROGABLES",
-      "d": "96 HORAS"
+      "a": "ACTO DE VIOLENCIA FÍSICA",
+      "b": "ACTO INTENCIONAL QUE CAUSA SUFRIMIENTO GRAVE",
+      "c": "ACTO DE REPRESIÓN POLÍTICA",
+      "d": "ACTO DE DISCRIMINACIÓN"
     },
     "respuesta_correcta": "b",
-    "fuente": "Constitución Política de los Estados Unidos Mexicanos, Artículo 19"
+    "fuente": "Ley General para Prevenir, Investigar y Sancionar la Tortura, Título Primero, Capítulo Único, Artículo 5 (Fracción XVIII)"
   },
   {
     "tema": "Legislacion Naval",
     "tipo": "verdadero_falso",
-    "pregunta": "EL ARTÍCULO 21 CONSTITUCIONAL ESTABLECE QUE LA SEGURIDAD PÚBLICA ES UNA FUNCIÓN A CARGO EXCLUSIVO DE LA FEDERACIÓN, SIN PARTICIPACIÓN DE LOS ESTADOS Y MUNICIPIOS.",
-    "respuesta_correcta": "b",
-    "fuente": "Constitución Política de los Estados Unidos Mexicanos, Artículo 21"
+    "pregunta": "SEGÚN LA LEY GENERAL PARA PREVENIR LA TORTURA, ESTA INCLUYE ACTOS COMETIDOS POR SERVIDORES PÚBLICOS.",
+    "respuesta_correcta": "a",
+    "fuente": "Ley General para Prevenir, Investigar y Sancionar la Tortura, Título Segundo, Capítulo Primero, Artículos 7, 9, 10 y 13"
   },
   {
     "tema": "Legislacion Naval",
     "tipo": "opcion_multiple",
-    "pregunta": "EL ARTÍCULO 80 CONSTITUCIONAL DEPOSITA EL EJERCICIO DEL SUPREMO PODER EJECUTIVO DE LA UNIÓN EN UN SOLO INDIVIDUO QUE SE DENOMINA:",
+    "pregunta": "¿CUÁL ES LA SANCIÓN PRINCIPAL POR EL DELITO DE TORTURA SEGÚN LA LEY?",
     "opciones": {
-      "a": "PRESIDENTE DE LOS ESTADOS UNIDOS MEXICANOS",
-      "b": "PRIMER MINISTRO",
-      "c": "SECRETARIO DE GOBERNACIÓN",
-      "d": "COMANDANTE SUPREMO DE LAS FUERZAS ARMADAS"
-    },
-    "respuesta_correcta": "a",
-    "fuente": "Constitución Política de los Estados Unidos Mexicanos, Artículo 80"
-  },
-  {
-    "tema": "Legislacion Naval",
-    "tipo": "verdadero_falso",
-    "pregunta": "CONFORME AL ARTÍCULO 89 FRACCIÓN VI DE LA CONSTITUCIÓN, ES FACULTAD DEL PRESIDENTE DE LA REPÚBLICA DISPONER DE LA TOTALIDAD DE LAS FUERZAS ARMADAS PARA LA SEGURIDAD INTERIOR Y DEFENSA EXTERIOR DE LA FEDERACIÓN.",
-    "respuesta_correcta": "a",
-    "fuente": "Constitución Política de los Estados Unidos Mexicanos, Artículo 89, Fracción VI"
-  },
-  {
-    "tema": "Legislacion Naval",
-    "tipo": "opcion_multiple",
-    "pregunta": "SEGÚN LA LEY GENERAL PARA PREVENIR, INVESTIGAR Y SANCIONAR LA TORTURA, SE ENTIENDE POR TORTURA CUALQUIER ACTO POR EL QUE SE INFLIJA INTENCIONALMENTE A UNA PERSONA DOLORES O SUFRIMIENTOS GRAVES, YA SEAN FÍSICOS O PSÍQUICOS, CON EL FIN DE OBTENER DE ELLA O DE UN TERCERO INFORMACIÓN O UNA CONFESIÓN. ESTE DELITO ES:",
-    "opciones": {
-      "a": "SUBSANABLE SI SE REPARA EL DAÑO",
-      "b": "IMPRESCRIPTIBLE E INAMISTIABLE",
-      "c": "SÓLO PERSEGUIBLE A PETICIÓN DE LA VÍCTIMA",
-      "d": "DE COMPETENCIA EXCLUSIVA DE LA JUSTICIA MILITAR"
+      "a": "MULTA ECONÓMICA",
+      "b": "PRISIÓN Y REPARACIÓN DEL DAÑO",
+      "c": "SUSPENSIÓN DE DERECHOS",
+      "d": "AMONESTACIÓN PÚBLICA"
     },
     "respuesta_correcta": "b",
-    "fuente": "Ley General para Prevenir, Investigar y Sancionar la Tortura, Artículos 7, 9 y 10"
-  },
-  {
-    "tema": "Legislacion Naval",
-    "tipo": "verdadero_falso",
-    "pregunta": "LA LEY GENERAL DE ACCESO A LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEFINE LA VIOLENCIA LABORAL COMO AQUELLA QUE SE EJERCE POR LAS PERSONAS QUE TIENEN UN VÍNCULO LABORAL O ANÁLOGO CON LA VÍCTIMA, INDEPENDIENTEMENTE DE LA RELACIÓN JERÁRQUICA.",
-    "respuesta_correcta": "a",
-    "fuente": "Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, Artículo 10"
+    "fuente": "Ley General para Prevenir, Investigar y Sancionar la Tortura, Título Segundo, Capítulo Tercero, Artículos 24 y 26 (Párrafo 1)"
   },
   {
     "tema": "Legislacion Naval",
     "tipo": "opcion_multiple",
-    "pregunta": "EL ARTÍCULO 5 DE LA LEY GENERAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEFINE LA VIOLENCIA INSTITUCIONAL COMO LOS ACTOS U OMISIONES DE LAS PERSONAS SERVIDORAS PÚBLICAS QUE DISCRIMINEN O TENGAN COMO FIN DILATAR, OBSTACULIZAR O IMPEDIR EL GOCE Y EJERCICIO DE LOS DERECHOS HUMANOS DE LAS MUJERES. ESTA CONDUCTA:",
+    "pregunta": "¿QUÉ DEFINE LA LEY GENERAL DE ACCESO A LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA?",
     "opciones": {
-      "a": "SÓLO APLICA A SERVIDORES PÚBLICOS FEDERALES",
-      "b": "ES EXCLUSIVA DEL ÁMBITO DE LA SALUD",
-      "c": "ES UNA MODALIDAD DE VIOLENCIA CONTRA LAS MUJERES",
-      "d": "NO ESTÁ CONTEMPLADA EN LA LEY"
+      "a": "SOLO VIOLENCIA FÍSICA",
+      "b": "TODA ACCIÓN U OMISIÓN QUE CAUSA DAÑO O SUFRIMIENTO",
+      "c": "VIOLENCIA POLÍTICA ÚNICAMENTE",
+      "d": "VIOLENCIA ECONÓMICA SOLAMENTE"
     },
-    "respuesta_correcta": "c",
-    "fuente": "Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, Artículo 18"
+    "respuesta_correcta": "b",
+    "fuente": "Ley General de Acceso a las Mujeres a una Vida Libre de Violencia, Título Primero, Capítulo I, Artículos 5 (Fracciones IV, V, VI, VII, VIII, IX, X, XI, XV y XVII) y 6"
   },
   {
     "tema": "Legislacion Naval",
     "tipo": "verdadero_falso",
-    "pregunta": "LA LEY NACIONAL DEL REGISTRO DE DETENCIONES ESTABLECE QUE TODA DETENCIÓN DEBERÁ SER REGISTRADA INMEDIATAMENTE EN EL REGISTRO NACIONAL, SIN EXCEPCIÓN ALGUNA.",
+    "pregunta": "LA LEY GENERAL DE ACCESO A LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA INCLUYE VIOLENCIA EN EL ÁMBITO FAMILIAR.",
     "respuesta_correcta": "a",
-    "fuente": "Ley Nacional del Registro de Detenciones, Artículo 3"
+    "fuente": "Ley General de Acceso a las Mujeres a una Vida Libre de Violencia, Título II, Capítulo I, Artículo 7"
   },
   {
     "tema": "Legislacion Naval",
     "tipo": "opcion_multiple",
-    "pregunta": "DE ACUERDO CON LA LEY NACIONAL SOBRE EL USO DE LA FUERZA, LOS PRINCIPIOS RECTORES QUE DEBEN OBSERVAR LOS AGENTES DEL ESTADO AL HACER USO DE LA FUERZA SON:",
+    "pregunta": "¿QUÉ TIPOS DE VIOLENCIA LABORAL RECONOCE LA LEY DE ACCESO A LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA?",
     "opciones": {
-      "a": "RACIONALIDAD, PROPORCIONALIDAD, NECESIDAD Y LEGALIDAD",
-      "b": "LEGALIDAD, CONGRUENCIA, OPORTUNIDAD Y PROPORCIONALIDAD",
-      "c": "LEGALIDAD, NECESIDAD, PROPORCIONALIDAD Y RACIONALIDAD",
-      "d": "LEGALIDAD, NECESIDAD, PROPORCIONALIDAD Y HUMANIDAD"
+      "a": "SOLO ACOSO SEXUAL",
+      "b": "DISCRIMINACIÓN Y ACOSO SEXUAL",
+      "c": "SOLO DISCRIMINACIÓN",
+      "d": "VIOLENCIA FÍSICA ÚNICAMENTE"
     },
-    "respuesta_correcta": "c",
-    "fuente": "Ley Nacional sobre el Uso de la Fuerza, Artículo 4"
+    "respuesta_correcta": "b",
+    "fuente": "Ley General de Acceso a las Mujeres a una Vida Libre de Violencia, Título II, Capítulo II, Artículos 10, 11, 12 y 13"
   },
   {
     "tema": "Legislacion Naval",
     "tipo": "verdadero_falso",
-    "pregunta": "LA LEY ORGÁNICA DE LA ARMADA DE MÉXICO ESTABLECE QUE LA ARMADA DE MÉXICO ES UNA INSTITUCIÓN MILITAR NACIONAL, DE CARÁCTER PERMANENTE, CUYA MISIÓN ES EMPLEAR EL PODER NAVAL DE LA FEDERACIÓN PARA LA DEFENSA EXTERIOR Y COADYUVAR EN LA SEGURIDAD INTERIOR DEL PAÍS.",
+    "pregunta": "LA LEY DE ACCESO A LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA RECONOCE LA VIOLENCIA INSTITUCIONAL.",
+    "respuesta_correcta": "a",
+    "fuente": "Ley General de Acceso a las Mujeres a una Vida Libre de Violencia, Título II, Capítulo IV, Artículo 18"
+  },
+  {
+    "tema": "Legislacion Naval",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿QUÉ INCLUYE LA VIOLENCIA DIGITAL Y MEDIÁTICA SEGÚN LA LEY?",
+    "opciones": {
+      "a": "SOLO PUBLICACIONES EN REDES SOCIALES",
+      "b": "DIFUSIÓN DE CONTENIDO ÍNTIMO SIN CONSENTIMIENTO",
+      "c": "SOLO MENSAJES OFENSIVOS",
+      "d": "COMENTARIOS NEGATIVOS EN INTERNET"
+    },
+    "respuesta_correcta": "b",
+    "fuente": "Ley General de Acceso a las Mujeres a una Vida Libre de Violencia, Título II, Capítulo IV TER, Artículos 20 quáter (Párrafo 1), 20 quinquies (Párrafo 1)"
+  },
+  {
+    "tema": "Legislacion Naval",
+    "tipo": "verdadero_falso",
+    "pregunta": "LA LEY DE ACCESO A LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA RECONOCE EL FEMINICIDIO COMO FORMA DE VIOLENCIA.",
+    "respuesta_correcta": "a",
+    "fuente": "Ley General de Acceso a las Mujeres a una Vida Libre de Violencia, Título II, Capítulo V, Artículo 21 (Párrafo 1)"
+  },
+  {
+    "tema": "Legislacion Naval",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁL ES EL OBJETIVO PRINCIPAL DE LA LEY NACIONAL DEL REGISTRO DE DETENCIONES?",
+    "opciones": {
+      "a": "REGISTRAR ANTECEDENTES PENALES",
+      "b": "CREAR UN REGISTRO CENTRALIZADO DE DETENCIONES",
+      "c": "ESTABLECER PENAS PARA DELITOS",
+      "d": "REGULAR PROCEDIMIENTOS JUDICIALES"
+    },
+    "respuesta_correcta": "b",
+    "fuente": "Ley Nacional del Registro de Detenciones, Capítulo I, Artículos 3 y 4"
+  },
+  {
+    "tema": "Legislacion Naval",
+    "tipo": "verdadero_falso",
+    "pregunta": "LA LEY NACIONAL DEL REGISTRO DE DETENCIONES ESTABLECE PROCEDIMIENTOS PARA INTERCAMBIO DE INFORMACIÓN.",
+    "respuesta_correcta": "a",
+    "fuente": "Ley Nacional del Registro de Detenciones, Capítulo VI, Artículos 17, 18, 19, 20 y 23"
+  },
+  {
+    "tema": "Legislacion Naval",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁL ES EL PROPÓSITO PRINCIPAL DE LA LEY NACIONAL SOBRE EL USO DE LA FUERZA?",
+    "opciones": {
+      "a": "AUTORIZAR EL USO IRRESTRICTO DE FUERZA",
+      "b": "REGULAR Y LIMITAR EL USO DE LA FUERZA",
+      "c": "PROHIBIR COMPLETAMENTE EL USO DE FUERZA",
+      "d": "ESTABLECER TIPOS DE ARMAS PERMITIDAS"
+    },
+    "respuesta_correcta": "b",
+    "fuente": "Ley Nacional sobre el Uso de la Fuerza, Capítulo I, Artículos 1, 3 (Fracciones I, III, IV y XIV)"
+  },
+  {
+    "tema": "Legislacion Naval",
+    "tipo": "verdadero_falso",
+    "pregunta": "LA LEY NACIONAL SOBRE EL USO DE LA FUERZA ESTABLECE PRINCIPIOS COMO LEGALIDAD Y PROPORCIONALIDAD.",
+    "respuesta_correcta": "a",
+    "fuente": "Ley Nacional sobre el Uso de la Fuerza, Capítulo II, Artículos 4, 5, 6, 7 y 8"
+  },
+  {
+    "tema": "Legislacion Naval",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿QUÉ ESTABLECE EL CAPÍTULO III DE LA LEY NACIONAL SOBRE EL USO DE LA FUERZA?",
+    "opciones": {
+      "a": "TIPOS DE ARMAS PERMITIDAS",
+      "b": "PROCEDIMIENTO DEL USO DE LA FUERZA",
+      "c": "SANCIONES POR MAL USO",
+      "d": "CAPACITACIÓN REQUERIDA"
+    },
+    "respuesta_correcta": "b",
+    "fuente": "Ley Nacional sobre el Uso de la Fuerza, Capítulo III, Artículos 9, 10, 11, 12 y 13"
+  },
+  {
+    "tema": "Legislacion Naval",
+    "tipo": "verdadero_falso",
+    "pregunta": "LA LEY NACIONAL SOBRE EL USO DE LA FUERZA REGULA LOS INSTRUMENTOS QUE PUEDEN UTILIZARSE.",
+    "respuesta_correcta": "a",
+    "fuente": "Ley Nacional sobre el Uso de la Fuerza, Capítulo IV, Artículos 14, 15 y 16 (Párrafo 3)"
+  },
+  {
+    "tema": "Legislacion Naval",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿QUÉ ESTABLECE EL CAPÍTULO VI DE LA LEY NACIONAL SOBRE EL USO DE LA FUERZA?",
+    "opciones": {
+      "a": "PROCEDIMIENTOS DE DETENCIÓN",
+      "b": "TIPOS DE ARMAS",
+      "c": "CAPACITACIÓN POLICIAL",
+      "d": "INVESTIGACIÓN DE DELITOS"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Ley Nacional sobre el Uso de la Fuerza, Capítulo VI, Artículos 21, 22, 24, 25 y 26"
+  },
+  {
+    "tema": "Legislacion Naval",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁL ES LA FUNCIÓN PRINCIPAL DE LA LEY ORGÁNICA DE LA ARMADA DE MÉXICO?",
+    "opciones": {
+      "a": "ESTABLECER ESTRUCTURA Y ORGANIZACIÓN DE LA ARMADA",
+      "b": "REGULAR SOLO OPERACIONES NAVALES",
+      "c": "DEFINIR SANCIONES DISCIPLINARIAS",
+      "d": "ESTABLECER TRATADOS INTERNACIONALES"
+    },
     "respuesta_correcta": "a",
     "fuente": "Ley Orgánica de la Armada de México"
   },
   {
     "tema": "Legislacion Naval",
     "tipo": "opcion_multiple",
-    "pregunta": "SEGÚN LA LEY DE PROTECCIÓN DEL ESPACIO AÉREO MEXICANO, CORRESPONDE A LA SECRETARÍA DE MARINA COORDINARSE CON OTRAS AUTORIDADES PARA:",
+    "pregunta": "¿QUÉ REGULA LA LEY DE PROTECCIÓN DEL ESPACIO AÉREO MEXICANO?",
     "opciones": {
-      "a": "REGULAR EL TRÁFICO AÉREO CIVIL",
-      "b": "PROTEGER LA SOBERANÍA DEL ESPACIO AÉREO NACIONAL, EN EL ÁMBITO DE SU COMPETENCIA",
-      "c": "EMITIR LICENCIAS DE PILOTO AERONÁUTICO",
-      "d": "CONSTRUIR AEROPUERTOS INTERNACIONALES"
+      "a": "SOLO VUELOS COMERCIALES",
+      "b": "PROTECCIÓN Y DEFENSA DEL ESPACIO AÉREO",
+      "c": "REGULACIÓN DE AEROPUERTOS",
+      "d": "LICENCIAS DE PILOTOS"
     },
     "respuesta_correcta": "b",
-    "fuente": "Ley de Protección del Espacio Aéreo Mexicano, Artículos 1, 2 y 3"
+    "fuente": "Ley de Protección del Espacio Aéreo Mexicano, Capítulo I, Artículos 1, 2, 3, 4 y 5"
   },
   {
     "tema": "Legislacion Naval",
     "tipo": "verdadero_falso",
-    "pregunta": "LA LEY DE DISCIPLINA PARA EL PERSONAL DE LA ARMADA DE MÉXICO ESTABLECE QUE EL CORRECTIVO DISCIPLINARIO DE ARRESTO NO PODRÁ EXCEDER DE QUINCE DÍAS PARA LA MARINERÍA Y CLASES.",
+    "pregunta": "LA LEY DE DISCIPLINA PARA EL PERSONAL DE LA ARMADA ESTABLECE LINEAMIENTOS DE CONDUCTA.",
     "respuesta_correcta": "a",
-    "fuente": "Ley de Disciplina para el Personal de la Armada de México, Artículo 52"
+    "fuente": "Ley de Disciplina para el Personal de la Armada de México, Capítulo III, Artículos 13 al 37"
   },
   {
     "tema": "Legislacion Naval",
     "tipo": "opcion_multiple",
-    "pregunta": "CONFORME A LA LEY DE DISCIPLINA, SON ESTÍMULOS QUE SE OTORGAN AL PERSONAL NAVAL POR SU CONDUCTA EJEMPLAR:",
+    "pregunta": "¿QUÉ INCLUYE LA LEY DE DISCIPLINA PARA EL PERSONAL DE LA ARMADA?",
     "opciones": {
-      "a": "FELICITACIÓN PÚBLICA, MENCIONES HONORÍFICAS Y CONDECORACIONES",
-      "b": "SOLO ASCENSOS EXTRAORDINARIOS",
-      "c": "ÚNICAMENTE PERMISOS EXTRAORDINARIOS",
-      "d": "EXCLUSIVAMENTE RECOMPENSAS ECONÓMICAS"
-    },
-    "respuesta_correcta": "a",
-    "fuente": "Ley de Disciplina para el Personal de la Armada de México, Artículos 38, 39 y 40"
-  },
-  {
-    "tema": "Legislacion Naval",
-    "tipo": "verdadero_falso",
-    "pregunta": "LA LEY DE NAVEGACIÓN Y COMERCIO MARÍTIMOS CONSIDERA COMO AUTORIDAD MARÍTIMA NACIONAL A LA SECRETARÍA DE MARINA, POR CONDUCTO DE LA UNIDAD DE CAPITANÍAS DE PUERTO Y ASUNTOS MARÍTIMOS.",
-    "respuesta_correcta": "a",
-    "fuente": "Ley de Navegación y Comercio Marítimos, Artículo 7"
-  },
-  {
-    "tema": "Legislacion Naval",
-    "tipo": "opcion_multiple",
-    "pregunta": "DE ACUERDO CON LA LEY DE PUERTOS, CORRESPONDE A LA SECRETARÍA DE MARINA:",
-    "opciones": {
-      "a": "FIJAR LAS TARIFAS DE LAS MANIOBRAS PORTUARIAS",
-      "b": "AUTORIZAR, VERIFICAR Y SUPERVISAR EL FUNCIONAMIENTO DE LAS MARINAS, PUERTOS Y TERMINALES",
-      "c": "OTORGAR CONCESIONES PARA LA EXPLOTACIÓN COMERCIAL DE PUERTOS",
-      "d": "CONSTRUIR VIVIENDAS PARA LOS TRABAJADORES PORTUARIOS"
+      "a": "SOLO SANCIONES",
+      "b": "DISPOSICIONES GENERALES Y ESTÍMULOS",
+      "c": "SOLO PROCEDIMIENTOS JUDICIALES",
+      "d": "REGULACIÓN DE SALARIOS"
     },
     "respuesta_correcta": "b",
-    "fuente": "Ley de Puertos, Artículo 16"
+    "fuente": "Ley de Disciplina para el Personal de la Armada de México, Capítulos I, III y IV"
   },
   {
     "tema": "Legislacion Naval",
     "tipo": "verdadero_falso",
-    "pregunta": "EL REGLAMENTO GENERAL DE DEBERES NAVALES ESTABLECE QUE LA DISCIPLINA ES LA BASE FUNDAMENTAL DE LA ARMADA Y OBLIGA A TODOS SUS MIEMBROS A OBSERVARLA EN TODO MOMENTO.",
+    "pregunta": "LA LEY DE DISCIPLINA PARA EL PERSONAL DE LA ARMADA ESTABLECE MEDIDAS PREVENTIVAS Y CORRECTIVOS.",
     "respuesta_correcta": "a",
-    "fuente": "Reglamento General de Deberes Navales, Capítulo V, Régimen disciplinario"
+    "fuente": "Ley de Disciplina para el Personal de la Armada de México, Capítulo V, Sección Primera"
   },
   {
     "tema": "Legislacion Naval",
     "tipo": "opcion_multiple",
-    "pregunta": "SEGÚN EL CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE MARINA, UNO DE LOS VALORES FUNDAMENTALES QUE DEBE OBSERVAR TODO PERSONAL NAVAL ES:",
+    "pregunta": "¿QUÉ ESTABLECE LA LEY DE DISCIPLINA RESPECTO A CIRCUNSTANCIAS ATENUANTES?",
     "opciones": {
-      "a": "RENTABILIDAD",
-      "b": "LEALTAD",
-      "c": "COMPETITIVIDAD",
-      "d": "INNOVACIÓN"
+      "a": "QUE NO EXISTEN",
+      "b": "QUE PUEDEN REDUCIR LA SANCIÓN",
+      "c": "QUE AUMENTAN LA SANCIÓN",
+      "d": "QUE ANULAN LA SANCIÓN"
     },
     "respuesta_correcta": "b",
-    "fuente": "Código de Conducta de la Secretaría de Marina, Valores fundamentales"
+    "fuente": "Ley de Disciplina para el Personal de la Armada de México, Capítulo V, Sección Tercera, Artículo 72"
   },
   {
     "tema": "Legislacion Naval",
     "tipo": "verdadero_falso",
-    "pregunta": "LA POLÍTICA NACIONAL MARÍTIMA ESTABLECE QUE LOS INTERESES MARÍTIMOS NACIONALES SON AQUELLOS BIENES, RECURSOS, ACTIVIDADES Y SERVICIOS QUE EL ESTADO REALIZA EN LOS ESPACIOS MARÍTIMOS PARA SU DESARROLLO Y SEGURIDAD.",
+    "pregunta": "LA LEY DE DISCIPLINA PARA EL PERSONAL DE LA ARMADA RECONOCE CIRCUNSTANCIAS AGRAVANTES.",
     "respuesta_correcta": "a",
-    "fuente": "Política Nacional Marítima, V. Los intereses marítimos nacionales"
+    "fuente": "Ley de Disciplina para el Personal de la Armada de México, Capítulo V, Sección Cuarta, Artículo 73"
   },
   {
     "tema": "Legislacion Naval",
     "tipo": "opcion_multiple",
-    "pregunta": "EL PROTOCOLO DE ACTUACIÓN DEL PERSONAL NAVAL EN FUNCIONES DE GUARDIA COSTERA ESTABLECE QUE LOS SUJETOS DEL PROTOCOLO SON:",
+    "pregunta": "¿QUÉ ESTABLECE LA LEY DE DISCIPLINA SOBRE ORGANISMOS DISCIPLINARIOS?",
     "opciones": {
-      "a": "EXCLUSIVAMENTE LOS OFICIALES DE MANDO",
-      "b": "TODO EL PERSONAL NAVAL QUE REALIZA FUNCIONES DE GUARDIA COSTERA, EN EL ÁMBITO DE SUS COMPETENCIAS",
-      "c": "SOLO LOS ELEMENTOS DE INFANTERÍA DE MARINA",
-      "d": "ÚNICAMENTE EL PERSONAL DE LAS CAPITANÍAS DE PUERTO"
+      "a": "QUE NO EXISTEN",
+      "b": "SU ESTRUCTURA Y FUNCIONES",
+      "c": "SOLO SUS SANCIONES",
+      "d": "SOLO SUS PROCEDIMIENTOS"
     },
     "respuesta_correcta": "b",
-    "fuente": "Protocolo de actuación del personal naval en funciones de guardia costera, Sujetos del protocolo"
-  },
-  {
-    "tema": "Legislacion Naval",
-    "tipo": "verdadero_falso",
-    "pregunta": "LA SÍNTESIS DE CULTURA NAVAL SEÑALA QUE EL ORIGEN DE LA ARMADA DE MÉXICO SE REMONTA A LA CREACIÓN DE LA FLOTA NAVAL QUE CONSUMÓ LA INDEPENDENCIA CON LA TOMA DE SAN JUAN DE ULÚA EN 1825.",
-    "respuesta_correcta": "a",
-    "fuente": "Síntesis de Cultura Naval"
+    "fuente": "Ley de Disciplina para el Personal de la Armada de México, Capítulo VI, Artículos 74, 76 y 77"
   },
   {
     "tema": "Legislacion Naval",
     "tipo": "opcion_multiple",
-    "pregunta": "EL MARINO QUE COMANDÓ LAS FUERZAS NAVALES MEXICANAS QUE FORZARON LA RENDICIÓN DEL ÚLTIMO REDUCTO ESPAÑOL EN SAN JUAN DE ULÚA, EL 23 DE NOVIEMBRE DE 1825, FUE:",
+    "pregunta": "¿CUÁL ES EL ÁMBITO DE APLICACIÓN DE LA LEY DE NAVEGACIÓN Y COMERCIO MARÍTIMOS?",
     "opciones": {
-      "a": "PEDRO SAINZ DE BARANDA Y BORREYRO",
-      "b": "MIGUEL HIDALGO Y COSTILLA",
-      "c": "JOSÉ MARÍA MORELOS Y PAVÓN",
-      "d": "AGUSTÍN DE ITURBIDE"
+      "a": "SOLO AGUAS INTERIORES",
+      "b": "NAVEGACIÓN Y COMERCIO EN AGUAS MEXICANAS",
+      "c": "SOLO PUERTOS",
+      "d": "SOLO BUQUES MILITARES"
     },
-    "respuesta_correcta": "a",
-    "fuente": "Síntesis de Cultura Naval"
+    "respuesta_correcta": "b",
+    "fuente": "Ley de Navegación y Comercio Marítimos, Título Primero, Capítulo I, Artículos 1, 2 (Fracciones II, III, IV, V, VI, VII, VII Bis, y VII Ter), 3, 4 y 5"
   },
   {
     "tema": "Legislacion Naval",
     "tipo": "verdadero_falso",
-    "pregunta": "LA ESCUELA NAVAL MILITAR FUE FUNDADA EL 1 DE JULIO DE 1897 POR EL PRESIDENTE PORFIRIO DÍAZ Y EL SECRETARIO DE GUERRA Y MARINA, GENERAL FELIPE BERRIOZÁBAL.",
+    "pregunta": "LA LEY DE NAVEGACIÓN Y COMERCIO MARÍTIMOS ESTABLECE LA AUTORIDAD MARÍTIMA NACIONAL.",
     "respuesta_correcta": "a",
-    "fuente": "Síntesis de Cultura Naval"
+    "fuente": "Ley de Navegación y Comercio Marítimos, Título Primero, Capítulo II, Artículos 7 (Fracción I), 8, 9 (Fracciones I, II, IV, VI, IX) y 9 Ter"
   },
   {
     "tema": "Legislacion Naval",
     "tipo": "opcion_multiple",
-    "pregunta": "EL LEMA DE LA HEROICA ESCUELA NAVAL MILITAR ES:",
+    "pregunta": "¿QUÉ REGULA LA LEY DE PUERTOS?",
     "opciones": {
-      "a": "POR LA PATRIA TODO, POR EL HONOR HASTA LA MUERTE",
-      "b": "EN LA TIERRA, EN EL AIRE Y EN EL MAR, LA ARMADA VENCERÁ",
-      "c": "UNIDAD, DISCIPLINA Y TRABAJO",
-      "d": "HONOR, DEBER, LEALTAD, PATRIOTISMO"
+      "a": "SOLO OPERACIONES NAVALES",
+      "b": "ADMINISTRACIÓN Y OPERACIÓN DE PUERTOS",
+      "c": "SOLO COMERCIO MARÍTIMO",
+      "d": "SOLO SEGURIDAD PORTUARIA"
+    },
+    "respuesta_correcta": "b",
+    "fuente": "Ley de Puertos, Capítulo III, Artículos 16, 18, 19 Bis"
+  },
+  {
+    "tema": "Legislacion Naval",
+    "tipo": "verdadero_falso",
+    "pregunta": "EL REGLAMENTO GENERAL DE DEBERES NAVALES ESTABLECE DEBERES DEL PERSONAL NAVAL.",
+    "respuesta_correcta": "a",
+    "fuente": "Reglamento General de Deberes Navales, Libro Primero, Título Primero, Capítulo I, Artículos 2, 3, 4, 5, 6 y 7"
+  },
+  {
+    "tema": "Legislacion Naval",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿QUÉ INCLUYE EL REGLAMENTO GENERAL DE DEBERES NAVALES?",
+    "opciones": {
+      "a": "SOLO DEBERES GENERALES",
+      "b": "DEBERES GENERALES Y RÉGIMEN DISCIPLINARIO",
+      "c": "SOLO PROCEDIMIENTOS JUDICIALES",
+      "d": "SOLO SANCIONES"
+    },
+    "respuesta_correcta": "b",
+    "fuente": "Reglamento General de Deberes Navales, Libro Primero, Título Primero, Capítulos I, II, III y V"
+  },
+  {
+    "tema": "Legislacion Naval",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁL ES EL PROPÓSITO DEL CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE MARINA?",
+    "opciones": {
+      "a": "ESTABLECER SANCIONES ÚNICAMENTE",
+      "b": "GUIAR LA CONDUCTA ÉTICA DEL PERSONAL",
+      "c": "REGULAR SOLO OPERACIONES",
+      "d": "ESTABLECER PROCEDIMIENTOS JUDICIALES"
+    },
+    "respuesta_correcta": "b",
+    "fuente": "Código de Conducta de la Secretaría de Marina, Ámbito de Aplicación y Obligatoriedad, Glosario, Riesgos Éticos, Valores Fundamentales"
+  },
+  {
+    "tema": "Legislacion Naval",
+    "tipo": "verdadero_falso",
+    "pregunta": "EL CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE MARINA IDENTIFICA RIESGOS ÉTICOS.",
+    "respuesta_correcta": "a",
+    "fuente": "Código de Conducta de la Secretaría de Marina, Riesgos Éticos"
+  },
+  {
+    "tema": "Legislacion Naval",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿QUÉ ESTABLECE LA POLÍTICA NACIONAL MARÍTIMA?",
+    "opciones": {
+      "a": "SOLO OPERACIONES NAVALES",
+      "b": "INTERESES MARÍTIMOS NACIONALES",
+      "c": "SOLO COMERCIO MARÍTIMO",
+      "d": "SOLO DEFENSA COSTERA"
+    },
+    "respuesta_correcta": "b",
+    "fuente": "Política Nacional Marítima, V. Los Intereses Marítimos Nacionales (Párrafo 1), Anexo 2. Glosario"
+  },
+  {
+    "tema": "Legislacion Naval",
+    "tipo": "verdadero_falso",
+    "pregunta": "EL PROTOCOLO DE ACTUACIÓN DEL PERSONAL NAVAL EN FUNCIONES DE GUARDIA COSTERA ESTABLECE OBJETIVOS Y POLÍTICAS.",
+    "respuesta_correcta": "a",
+    "fuente": "Protocolo de Actuación del Personal Naval en Funciones de Guardia Costera, Presentación, Objetivos, Sujetos del Protocolo, Principales Roles, Políticas de Operación"
+  },
+  {
+    "tema": "Legislacion Naval",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿QUÉ INCLUYE EL PROTOCOLO DE ACTUACIÓN DEL PERSONAL NAVAL EN FUNCIONES DE GUARDIA COSTERA?",
+    "opciones": {
+      "a": "SOLO OBJETIVOS",
+      "b": "OBJETIVOS, ROLES Y POLÍTICAS DE OPERACIÓN",
+      "c": "SOLO PROCEDIMIENTOS JUDICIALES",
+      "d": "SOLO SANCIONES"
+    },
+    "respuesta_correcta": "b",
+    "fuente": "Protocolo de Actuación del Personal Naval en Funciones de Guardia Costera, Presentación, Objetivos, Sujetos del Protocolo, Principales Roles, Políticas de Operación"
+  },
+  {
+    "tema": "Legislacion Naval",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁL ARTÍCULO CONSTITUCIONAL ESTABLECE QUE NADIE PUEDE SER JUZGADO DOS VECES POR EL MISMO DELITO?",
+    "opciones": {
+      "a": "ARTÍCULO 16",
+      "b": "ARTÍCULO 19",
+      "c": "ARTÍCULO 20",
+      "d": "ARTÍCULO 21"
     },
     "respuesta_correcta": "c",
-    "fuente": "Síntesis de Cultura Naval"
+    "fuente": "Constitución Política de los Estados Unidos Mexicanos, Título Primero, Capítulo I, Artículo 20 (apartados B. y C.)"
   },
   {
     "tema": "Legislacion Naval",
     "tipo": "verdadero_falso",
-    "pregunta": "EL 4 DE OCTUBRE DE 1821, AL CREARSE EL MINISTERIO DE GUERRA Y MARINA, SE DISPUSO QUE QUEDARAN UNIDAS AMBAS RAMAS Y SUS FUERZAS TOMARAN EL NOMBRE DE EJÉRCITO Y ARMADA DEL IMPERIO MEXICANO.",
+    "pregunta": "LA CONSTITUCIÓN POLÍTICA ESTABLECE QUE LA JUSTICIA DEBE SER PRONTA Y EXPEDITA.",
     "respuesta_correcta": "a",
-    "fuente": "Síntesis de Cultura Naval"
+    "fuente": "Constitución Política de los Estados Unidos Mexicanos, Título Primero, Capítulo I, Artículo 17 (Párrafos 1 y 2)"
   },
   {
     "tema": "Legislacion Naval",
     "tipo": "opcion_multiple",
-    "pregunta": "LA PRIMERA LEY QUE ORGANIZÓ LA MARINA DE GUERRA NACIONAL, DENOMINADA 'LEY PARA EL ARREGLO DE LA MARINA', FUE EXPEDIDA EL:",
+    "pregunta": "¿QUÉ ESTABLECE EL ARTÍCULO 22 CONSTITUCIONAL?",
     "opciones": {
-      "a": "16 DE SEPTIEMBRE DE 1810",
-      "b": "22 DE FEBRERO DE 1822",
-      "c": "14 DE JUNIO DE 1917",
-      "d": "1 DE JUNIO DE 1925"
+      "a": "DERECHOS POLÍTICOS",
+      "b": "PROHIBICIÓN DE PENAS CRUELES",
+      "c": "LIBERTAD DE EXPRESIÓN",
+      "d": "DERECHO A LA EDUCACIÓN"
     },
     "respuesta_correcta": "b",
-    "fuente": "Síntesis de Cultura Naval"
+    "fuente": "Constitución Política de los Estados Unidos Mexicanos, Título Primero, Capítulo I, Artículo 22 (Párrafo 1)"
   },
   {
     "tema": "Legislacion Naval",
     "tipo": "verdadero_falso",
-    "pregunta": "EL HIMNO DE LA ARMADA DE MÉXICO FUE ESCRITO POR LA PROFESORA ALICIA GARIBAY Y LA MÚSICA COMPUESTA POR EL MAESTRO ESTEBAN A. RODRÍGUEZ.",
-    "respuesta_correcta": "b",
-    "fuente": "Síntesis de Cultura Naval"
+    "pregunta": "LA LEY GENERAL PARA PREVENIR LA TORTURA ESTABLECE RESPONSABILIDADES DE SERVIDORES PÚBLICOS.",
+    "respuesta_correcta": "a",
+    "fuente": "Ley General para Prevenir, Investigar y Sancionar la Tortura, Título Segundo, Capítulo Primero, Artículos 7, 9, 10 y 13"
   },
   {
     "tema": "Legislacion Naval",
     "tipo": "opcion_multiple",
-    "pregunta": "EL ESCUDO DE ARMAS DE LA SECRETARÍA DE MARINA, APROBADO EN 1942, INCLUYE UN ÁNCORA, UN CAÑÓN CRUZADO CON UN MOSQUETE, UN SOL NACIENDO EN EL HORIZONTE MARINO Y EL LEMA:",
+    "pregunta": "¿QUÉ MODALIDADES DE VIOLENCIA RECONOCE LA LEY DE ACCESO A LAS MUJERES?",
     "opciones": {
-      "a": "POR LA PATRIA TODO, POR EL HONOR HASTA LA MUERTE",
-      "b": "EN LA TIERRA, EN EL AIRE Y EN EL MAR, LA ARMADA VENCERÁ",
-      "c": "ARMADA DE MÉXICO",
-      "d": "PATRIA Y HONOR"
-    },
-    "respuesta_correcta": "c",
-    "fuente": "Síntesis de Cultura Naval"
-  },
-  {
-    "tema": "Legislacion Naval",
-    "tipo": "verdadero_falso",
-    "pregunta": "LA FUERZA NAVAL DEL GOLFO, CREADA EL 15 DE AGOSTO DE 1941, TUVO SU PRINCIPAL BASE DE OPERACIONES EN EL PUERTO DE TAMPICO, TAMAULIPAS.",
-    "respuesta_correcta": "b",
-    "fuente": "Síntesis de Cultura Naval"
-  },
-  {
-    "tema": "Legislacion Naval",
-    "tipo": "opcion_multiple",
-    "pregunta": "EL 1 DE JUNIO DE 1917 SE PUBLICÓ EN EL DIARIO OFICIAL LA LEY DE SECRETARÍAS DE ESTADO, MEDIANTE LA CUAL LA MARINA DE GUERRA QUEDÓ INCORPORADA EN LA SECRETARÍA DE GUERRA Y MARINA, PERO EL VERDADERO IMPULSO A LA MODERNIZACIÓN DE LA ARMADA COMENZÓ A PARTIR DE:",
-    "opciones": {
-      "a": "LA REVOLUCIÓN MEXICANA EN 1910",
-      "b": "LA CREACIÓN DE LA SECRETARÍA DE MARINA EN 1940",
-      "c": "LA GUERRA DE LOS PASTELES EN 1838",
-      "d": "LA INTERVENCIÓN NORTEAMERICANA EN 1847"
+      "a": "SOLO VIOLENCIA FÍSICA",
+      "b": "FAMILIAR, LABORAL, INSTITUCIONAL Y DIGITAL",
+      "c": "SOLO VIOLENCIA LABORAL",
+      "d": "SOLO VIOLENCIA FAMILIAR"
     },
     "respuesta_correcta": "b",
-    "fuente": "Síntesis de Cultura Naval"
+    "fuente": "Ley General de Acceso a las Mujeres a una Vida Libre de Violencia, Título II, Capítulos I, II, IV, IV TER y V"
   },
   {
     "tema": "Legislacion Naval",
     "tipo": "verdadero_falso",
-    "pregunta": "EL 23 DE NOVIEMBRE SE CELEBRA EL DÍA DE LA ARMADA DE MÉXICO, EN CONMEMORACIÓN DE LA RENDICIÓN DE SAN JUAN DE ULÚA EN 1825.",
+    "pregunta": "LA LEY NACIONAL DEL REGISTRO DE DETENCIONES ESTABLECE PROCEDIMIENTOS DE ACTUALIZACIÓN DE INFORMACIÓN.",
     "respuesta_correcta": "a",
-    "fuente": "Síntesis de Cultura Naval"
+    "fuente": "Ley Nacional del Registro de Detenciones, Capítulo VI, Artículos 17, 18, 19, 20 y 23"
   },
   {
     "tema": "Legislacion Naval",
     "tipo": "opcion_multiple",
-    "pregunta": "ENTRE LOS BUQUES QUE PARTICIPARON EN LA CONSOLIDACIÓN DE LA INDEPENDENCIA NACIONAL SE ENCUENTRAN LOS BERGANTINES:",
+    "pregunta": "¿CUÁLES SON LOS PRINCIPIOS FUNDAMENTALES DEL USO DE LA FUERZA?",
     "opciones": {
-      "a": "CONGRESO E INDEPENDENCIA",
-      "b": "VELOZ Y AUDAZ",
-      "c": "BRAVO Y VICTORIA",
-      "d": "GUADALUPE Y ZARAGOZA"
-    },
-    "respuesta_correcta": "c",
-    "fuente": "Síntesis de Cultura Naval"
-  },
-  {
-    "tema": "Legislacion Naval",
-    "tipo": "verdadero_falso",
-    "pregunta": "LA PATRONA DE LA ARMADA DE MÉXICO ES LA VIRGEN DE GUADALUPE, CELEBRADA CADA 12 DE DICIEMBRE.",
-    "respuesta_correcta": "b",
-    "fuente": "Síntesis de Cultura Naval"
-  },
-  {
-    "tema": "Legislacion Naval",
-    "tipo": "opcion_multiple",
-    "pregunta": "EL PRIMER JEFE DE LA MARINA DE GUERRA DE MÉXICO INDEPENDIENTE FUE EL COMODORO:",
-    "opciones": {
-      "a": "FRANCISCO DE PAULA MILÁN",
-      "b": "DAVID PORTER",
-      "c": "EDUARDO SANTAELLA",
-      "d": "LUIS G. URBINA"
+      "a": "SOLO LEGALIDAD",
+      "b": "LEGALIDAD, PROPORCIONALIDAD Y NECESIDAD",
+      "c": "SOLO PROPORCIONALIDAD",
+      "d": "SOLO NECESIDAD"
     },
     "respuesta_correcta": "b",
-    "fuente": "Síntesis de Cultura Naval"
+    "fuente": "Ley Nacional sobre el Uso de la Fuerza, Capítulo II, Artículos 4, 5, 6, 7 y 8"
   },
   {
     "tema": "Legislacion Naval",
     "tipo": "verdadero_falso",
-    "pregunta": "LA ORGANIZACIÓN TERRITORIAL DE LA ARMADA DE MÉXICO EN ZONAS Y SECTORES NAVALES FUE ESTABLECIDA EN LA LEY ORGÁNICA DE LA ARMADA DE MÉXICO DE 1940.",
+    "pregunta": "LA LEY NACIONAL SOBRE EL USO DE LA FUERZA REGULA PROCEDIMIENTOS DE DETENCIÓN.",
     "respuesta_correcta": "a",
-    "fuente": "Síntesis de Cultura Naval"
+    "fuente": "Ley Nacional sobre el Uso de la Fuerza, Capítulo VI, Artículos 21, 22, 24, 25 y 26"
   },
   {
     "tema": "Legislacion Naval",
     "tipo": "opcion_multiple",
-    "pregunta": "EL BUQUE ESCUELA ACTUAL DE LA ARMADA DE MÉXICO, UTILIZADO PARA EL CRUCERO DE INSTRUCCIÓN DE CADETES DE LA HEROICA ESCUELA NAVAL MILITAR, ES EL:",
+    "pregunta": "¿QUÉ ESTABLECE LA LEY DE DISCIPLINA SOBRE ESTÍMULOS AL PERSONAL?",
     "opciones": {
-      "a": "ARM GUANAJUATO",
-      "b": "ARM CUAUHTÉMOC",
-      "c": "ARM GUERRERO",
-      "d": "ARM YUCATÁN"
+      "a": "QUE NO EXISTEN",
+      "b": "SU EXISTENCIA Y TIPOS",
+      "c": "SOLO SANCIONES",
+      "d": "SOLO PROCEDIMIENTOS"
     },
     "respuesta_correcta": "b",
-    "fuente": "Síntesis de Cultura Naval"
+    "fuente": "Ley de Disciplina para el Personal de la Armada de México, Capítulo IV, Artículos 38, 39 y 40"
   },
   {
     "tema": "Legislacion Naval",
     "tipo": "verdadero_falso",
-    "pregunta": "EL COMPONENTE DE INFANTERÍA DE MARINA DE LA ARMADA DE MÉXICO TIENE SUS ORÍGENES EL 14 DE NOVIEMBRE DE 1822, AL CREARSE EL BATALLÓN DE MARINA NÚMERO 1.",
+    "pregunta": "LA LEY DE DISCIPLINA ESTABLECE CRITERIOS PARA LA IMPOSICIÓN Y GRADUACIÓN DE CORRECTIVOS.",
     "respuesta_correcta": "a",
-    "fuente": "Síntesis de Cultura Naval"
+    "fuente": "Ley de Disciplina para el Personal de la Armada de México, Capítulo V, Sección Segunda, Artículos 67, 68, 70 y 71"
   },
   {
     "tema": "Legislacion Naval",
     "tipo": "opcion_multiple",
-    "pregunta": "CONFORME AL PROTOCOLO DE ACTUACIÓN DEL PERSONAL NAVAL EN FUNCIONES DE GUARDIA COSTERA, ANTE LA DETECCIÓN DE UNA EMBARCACIÓN SOSPECHOSA, EL PRIMER PASO ES:",
+    "pregunta": "¿QUÉ DEFINE LA LEY DE NAVEGACIÓN Y COMERCIO MARÍTIMOS COMO AUTORIDAD MARÍTIMA?",
     "opciones": {
-      "a": "ABRIR FUEGO DE ADVERTENCIA",
-      "b": "REALIZAR UNA LLAMADA DE ALERTA Y ORDENAR LA DETENCIÓN DE LA EMBARCACIÓN CONFORME A LOS PROCEDIMIENTOS ESTABLECIDOS",
-      "c": "ABORDAJE INMEDIATO SIN PREVIO AVISO",
-      "d": "ESPERAR INSTRUCCIONES DE LA ZONA NAVAL"
+      "a": "SOLO PUERTOS",
+      "b": "ENTIDAD RESPONSABLE DE NAVEGACIÓN Y COMERCIO",
+      "c": "SOLO BUQUES",
+      "d": "SOLO DEFENSA COSTERA"
     },
     "respuesta_correcta": "b",
-    "fuente": "Protocolo de actuación del personal naval en funciones de guardia costera, Políticas de operación"
+    "fuente": "Ley de Navegación y Comercio Marítimos, Título Primero, Capítulo II, Artículos 7 (Fracción I), 8, 9 (Fracciones I, II, IV, VI, IX) y 9 Ter"
   },
   {
     "tema": "Legislacion Naval",
     "tipo": "verdadero_falso",
-    "pregunta": "LA LEY NACIONAL SOBRE EL USO DE LA FUERZA PERMITE EL USO DE ARMAS DE FUEGO COMO MEDIO DE PERSUASIÓN EN MANIFESTACIONES PÚBLICAS PACÍFICAS.",
-    "respuesta_correcta": "b",
-    "fuente": "Ley Nacional sobre el Uso de la Fuerza, Artículos 4 y 5"
+    "pregunta": "EL REGLAMENTO GENERAL DE DEBERES NAVALES ESTABLECE DEBERES COMUNES PARA EL PERSONAL NAVAL.",
+    "respuesta_correcta": "a",
+    "fuente": "Reglamento General de Deberes Navales, Libro Primero, Título Primero, Capítulo III"
   },
   {
     "tema": "Legislacion Naval",
     "tipo": "opcion_multiple",
-    "pregunta": "DE ACUERDO CON LA LEY GENERAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA, LA VIOLENCIA FEMINICIDA SE DEFINE COMO:",
+    "pregunta": "¿QUÉ ESTABLECE EL CÓDIGO DE CONDUCTA SOBRE VALORES FUNDAMENTALES?",
     "opciones": {
-      "a": "CUALQUIER AGRESIÓN VERBAL EN EL ÁMBITO DOMÉSTICO",
-      "b": "LA FORMA EXTREMA DE VIOLENCIA DE GÉNERO CONTRA LAS MUJERES, PRODUCTO DE LA VIOLACIÓN DE SUS DERECHOS HUMANOS, QUE PUEDE CULMINAR EN HOMICIDIO",
-      "c": "EXCLUSIVAMENTE EL ASESINATO DE MUJERES EN EL ESPACIO PÚBLICO",
-      "d": "UNA CONDUCTA QUE SÓLO SE PRESENTA EN ZONAS RURALES"
+      "a": "QUE NO EXISTEN",
+      "b": "LOS VALORES DE LA SECRETARÍA DE MARINA",
+      "c": "SOLO PROCEDIMIENTOS",
+      "d": "SOLO SANCIONES"
     },
     "respuesta_correcta": "b",
-    "fuente": "Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, Artículo 21"
+    "fuente": "Código de Conducta de la Secretaría de Marina, Valores Fundamentales de la Secretaría de Marina"
   },
   {
     "tema": "Legislacion Naval",
     "tipo": "verdadero_falso",
-    "pregunta": "LA LEY DE DISCIPLINA PARA EL PERSONAL DE LA ARMADA DE MÉXICO CONTEMPLA LA SUSPENSIÓN TEMPORAL DE EMPLEO COMO CORRECTIVO DISCIPLINARIO PARA FALTAS LEVES.",
-    "respuesta_correcta": "b",
-    "fuente": "Ley de Disciplina para el Personal de la Armada de México, Artículos 42 y 43"
-  },
-  {
-    "tema": "Legislacion Naval",
-    "tipo": "opcion_multiple",
-    "pregunta": "EL ARTÍCULO 108 CONSTITUCIONAL ESTABLECE QUE SE REPUTARÁN COMO SERVIDORES PÚBLICOS, ENTRE OTROS, A:",
-    "opciones": {
-      "a": "LOS MIEMBROS DE LAS FUERZAS ARMADAS MEXICANAS",
-      "b": "ÚNICAMENTE A LOS FUNCIONARIOS DE ELECCIÓN POPULAR",
-      "c": "SÓLO A LOS EMPLEADOS DE LA ADMINISTRACIÓN PÚBLICA FEDERAL",
-      "d": "EXCLUSIVAMENTE A LOS MINISTROS DE LA SUPREMA CORTE"
-    },
-    "respuesta_correcta": "a",
-    "fuente": "Constitución Política de los Estados Unidos Mexicanos, Artículo 108"
-  },
-  {
-    "tema": "Legislacion Naval",
-    "tipo": "verdadero_falso",
-    "pregunta": "EL CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE MARINA INCLUYE LA PREVENCIÓN DE RIESGOS ÉTICOS, COMO EL CONFLICTO DE INTERÉS Y EL USO INDEBIDO DE INFORMACIÓN.",
-    "respuesta_correcta": "a",
-    "fuente": "Código de Conducta de la Secretaría de Marina, Riesgos éticos"
-  },
-  {
-    "tema": "Legislacion Naval",
-    "tipo": "opcion_multiple",
-    "pregunta": "SEGÚN LA LEY DE NAVEGACIÓN Y COMERCIO MARÍTIMOS, SE ENTIENDE POR 'BUQUE' TODA CONSTRUCCIÓN FLOTANTE CON CAPACIDAD DE DESPLAZAMIENTO AUTÓNOMO, QUE ESTÉ DESTINADA AL TRANSPORTE POR AGUA, CUALQUIERA QUE SEA SU FINALIDAD. ESTA DEFINICIÓN INCLUYE:",
-    "opciones": {
-      "a": "SÓLO EMBARCACIONES DE RECREO",
-      "b": "EXCLUSIVAMENTE BUQUES DE GUERRA",
-      "c": "ARTEFACTOS NAVALES, PLATAFORMAS FIJAS Y SEMISUMERGIBLES",
-      "d": "ÚNICAMENTE BUQUES MERCANTES CON MÁS DE 500 TONELADAS DE REGISTRO"
-    },
-    "respuesta_correcta": "c",
-    "fuente": "Ley de Navegación y Comercio Marítimos, Artículo 2"
-  },
-  {
-    "tema": "Legislacion Naval",
-    "tipo": "verdadero_falso",
-    "pregunta": "LA LEY ORGÁNICA DE LA ARMADA DE MÉXICO FACULTA A LA INSTITUCIÓN PARA LLEVAR A CABO ACCIONES DE CARÁCTER CÍVICO Y SOCIAL QUE CONTRIBUYAN AL DESARROLLO NACIONAL.",
-    "respuesta_correcta": "a",
-    "fuente": "Ley Orgánica de la Armada de México"
-  },
-  {
-    "tema": "Legislacion Naval",
-    "tipo": "opcion_multiple",
-    "pregunta": "LA LEY NACIONAL DEL REGISTRO DE DETENCIONES OBLIGA A LAS AUTORIDADES A PROPORCIONAR AL REGISTRO, INMEDIATAMENTE DESPUÉS DE LA DETENCIÓN Y PREVIA LECTURA DE DERECHOS, LOS DATOS DE:",
-    "opciones": {
-      "a": "LA PERSONA DETENIDA, EL LUGAR Y LA AUTORIDAD QUE REALIZA LA DETENCIÓN",
-      "b": "SOLO EL NOMBRE DEL DETENIDO",
-      "c": "EXCLUSIVAMENTE EL MOTIVO DE LA DETENCIÓN",
-      "d": "ÚNICAMENTE LA HORA DE LA DETENCIÓN"
-    },
-    "respuesta_correcta": "a",
-    "fuente": "Ley Nacional del Registro de Detenciones, Artículo 17"
-  },
-  {
-    "tema": "Legislacion Naval",
-    "tipo": "verdadero_falso",
-    "pregunta": "CONFORME AL ARTÍCULO 42 DE LA CONSTITUCIÓN, EL TERRITORIO NACIONAL COMPRENDE EL DE LAS PARTES INTEGRANTES DE LA FEDERACIÓN, LAS ISLAS, LA PLATAFORMA CONTINENTAL Y LOS MARES TERRITORIALES.",
-    "respuesta_correcta": "a",
-    "fuente": "Constitución Política de los Estados Unidos Mexicanos, Artículo 42"
-  },
-  {
-    "tema": "Legislacion Naval",
-    "tipo": "opcion_multiple",
-    "pregunta": "EL PROTOCOLO DE GUARDIA COSTERA ESTABLECE QUE, DURANTE UNA OPERACIÓN DE INTERDICCIÓN MARÍTIMA, SE DEBE PRIORIZAR:",
-    "opciones": {
-      "a": "LA SEGURIDAD DE LA DOTACIÓN Y DE LAS PERSONAS INVOLUCRADAS",
-      "b": "EL ASEGURAMIENTO DE LA CARGA POR ENCIMA DE TODO",
-      "c": "LA VELOCIDAD DE LA OPERACIÓN AUNQUE COMPROMETA LA SEGURIDAD",
-      "d": "LA INTERVENCIÓN DE LOS MEDIOS DE COMUNICACIÓN"
-    },
-    "respuesta_correcta": "a",
-    "fuente": "Protocolo de actuación del personal naval en funciones de guardia costera, Principales roles"
-  },
-  {
-    "tema": "Legislacion Naval",
-    "tipo": "verdadero_falso",
-    "pregunta": "LA FRAGATA 'LIBERTAD', ADQUIRIDA EN 1821, FUE EL PRIMER BUQUE DE GUERRA DE LA ARMADA MEXICANA Y PARTICIPÓ EN LA DEFENSA DEL GOLFO DE MÉXICO.",
-    "respuesta_correcta": "a",
-    "fuente": "Síntesis de Cultura Naval"
-  },
-  {
-    "tema": "Legislacion Naval",
-    "tipo": "opcion_multiple",
-    "pregunta": "LA HEROICA ESCUELA NAVAL MILITAR TIENE SU ANTECEDENTE EN LA ESCUELA NÁUTICA DE VERACRUZ, INAUGURADA EN 1822. SIN EMBARGO, LA SEDE ACTUAL, EN ANTÓN LIZARDO, VERACRUZ, FUE INAUGURADA EN EL AÑO:",
-    "opciones": {
-      "a": "1905",
-      "b": "1946",
-      "c": "1958",
-      "d": "1971"
-    },
-    "respuesta_correcta": "c",
-    "fuente": "Síntesis de Cultura Naval"
-  },
-  {
-    "tema": "Legislacion Naval",
-    "tipo": "verdadero_falso",
-    "pregunta": "EL ESTANDARTE DE LA ARMADA DE MÉXICO CONSISTE EN LA BANDERA NACIONAL CON EL ESCUDO DE LA ARMADA AL CENTRO, EN COLOR DORADO.",
-    "respuesta_correcta": "a",
-    "fuente": "Síntesis de Cultura Naval"
-  },
-  {
-    "tema": "Legislacion Naval",
-    "tipo": "opcion_multiple",
-    "pregunta": "EL DÍA DE LA INFANTERÍA DE MARINA SE CONMEMORA EL 14 DE NOVIEMBRE, EN RECUERDO DE LA CREACIÓN, EN 1822, DEL:",
-    "opciones": {
-      "a": "PRIMER REGIMIENTO DE MARINA",
-      "b": "BATALLÓN DE MARINA NÚMERO 1",
-      "c": "CUERPO DE ARTILLERÍA DE MARINA",
-      "d": "BATALLÓN DE INFANTERÍA DE MARINA DEL GOLFO"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "Síntesis de Cultura Naval"
-  },
-  {
-    "tema": "Legislacion Naval",
-    "tipo": "verdadero_falso",
-    "pregunta": "LA ARMADA DE MÉXICO OBTUVO SU PRIMERA VICTORIA NAVAL EN LA BATALLA DE PUEBLO VIEJO, VERACRUZ, EL 28 DE SEPTIEMBRE DE 1838, DURANTE LA GUERRA DE LOS PASTELES.",
-    "respuesta_correcta": "b",
-    "fuente": "Síntesis de Cultura Naval"
-  },
-  {
-    "tema": "Legislacion Naval",
-    "tipo": "opcion_multiple",
-    "pregunta": "EL HIMNO NACIONAL DE LA ARMADA DE MÉXICO MENCIONA EN SU PRIMERA ESTROFA:",
-    "opciones": {
-      "a": "MARCHANDO POR EL MAR CON DENUEDO, VALIENTE GRANADERO",
-      "b": "A LOS MARES LA GLORIA CANTA, DE LA PATRIA EL LAUREL INMORTAL",
-      "c": "UN MARINO VALIENTE Y DECIDIDO, EN LA MAR, EN LA TIERRA Y EN EL AIRE",
-      "d": "SOLDADOS SON, DE LA MAR Y DE LA TIERRA, VIGÍAS DEL HONOR NACIONAL"
-    },
-    "respuesta_correcta": "d",
-    "fuente": "Síntesis de Cultura Naval"
-  },
-  {
-    "tema": "Legislacion Naval",
-    "tipo": "verdadero_falso",
-    "pregunta": "LA BASE AERONAVAL DE VERACRUZ FUE EL PRIMER PORTAAVIONES DE LA ARMADA DE MÉXICO, CON LA INCORPORACIÓN DEL BUQUE ARM 'LIBERTAD'.",
-    "respuesta_correcta": "b",
-    "fuente": "Síntesis de Cultura Naval"
-  },
-  {
-    "tema": "Legislacion Naval",
-    "tipo": "opcion_multiple",
-    "pregunta": "EL EMBLEMA DE LOS OFICIALES DE LA ARMADA DE MÉXICO INCLUYE UN ÁNCORA Y UN SOL RADIANTE, Y EN EL CENTRO, EL ESCUDO NACIONAL. ESTE DISTINTIVO SE PORTA EN:",
-    "opciones": {
-      "a": "EL UNIFORME DE GALA, SOBRE LA CHARTERA DERECHA",
-      "b": "LAS HOMBRERAS Y EL PECHO DEL UNIFORME DE CAMPAÑA",
-      "c": "LA GORRA DE PLATO Y EN EL PORTA GAFETE",
-      "d": "EXCLUSIVAMENTE EN LA BANDERA DE MANDO"
-    },
-    "respuesta_correcta": "c",
-    "fuente": "Síntesis de Cultura Naval"
-  },
-  {
-    "tema": "Legislacion Naval",
-    "tipo": "verdadero_falso",
-    "pregunta": "LA FLOTA NAVAL MEXICANA QUE CONSUMÓ LA INDEPENDENCIA ESTABA COMPUESTA POR UNA FRAGATA, DOS BERGANTINES, DOS CORBETAS Y VARIAS GOETAS, TRIPULADAS POR 1,500 HOMBRES.",
-    "respuesta_correcta": "a",
-    "fuente": "Síntesis de Cultura Naval"
-  },
-  {
-    "tema": "Legislacion Naval",
-    "tipo": "opcion_multiple",
-    "pregunta": "EN EL PROTOCOLO DE ACTUACIÓN DEL PERSONAL NAVAL EN FUNCIONES DE GUARDIA COSTERA, SE CONSIDERA COMO UNA POLÍTICA DE OPERACIÓN:",
-    "opciones": {
-      "a": "EL USO DE LA FUERZA SOLO CUANDO SEA ESTRICTAMENTE NECESARIO Y PROPORCIONAL A LA AMENAZA",
-      "b": "LA PRIORIDAD DE PROTEGER LA CARGA COMERCIAL",
-      "c": "EVITAR LA COMUNICACIÓN CON OTRAS INSTITUCIONES",
-      "d": "LIBERTAD PARA REALIZAR DETENCIONES SIN FUNDAMENTO LEGAL"
-    },
-    "respuesta_correcta": "a",
-    "fuente": "Protocolo de actuación del personal naval en funciones de guardia costera, Políticas de operación"
-  },
-  {
-    "tema": "Legislacion Naval",
-    "tipo": "verdadero_falso",
-    "pregunta": "LA LEY DE PROTECCIÓN DEL ESPACIO AÉREO MEXICANO FACULTA A LA ARMADA DE MÉXICO PARA INTERCEPTAR Y DERRIBAR AERONAVES CIVILES QUE NO ATIENDAN LAS INSTRUCCIONES DE LAS AUTORIDADES COMPETENTES, SIN AVISO PREVIO.",
-    "respuesta_correcta": "b",
-    "fuente": "Ley de Protección del Espacio Aéreo Mexicano, Artículo 4"
-  },
-  {
-    "tema": "Legislacion Naval",
-    "tipo": "opcion_multiple",
-    "pregunta": "SEGÚN EL REGLAMENTO GENERAL DE DEBERES NAVALES, SON DEBERES COMUNES PARA EL PERSONAL NAVAL:",
-    "opciones": {
-      "a": "CUMPLIR LAS ÓRDENES, GUARDAR EL DECORO Y MANTENER LA DISCIPLINA",
-      "b": "SÓLO PRESENTARSE A REVISTA LOS LUNES",
-      "c": "EXCLUSIVAMENTE VELAR POR EL ARMAMENTO",
-      "d": "ÚNICAMENTE MANTENER LIMPIO EL UNIFORME"
-    },
-    "respuesta_correcta": "a",
-    "fuente": "Reglamento General de Deberes Navales, Capítulo III"
-  },
-  {
-    "tema": "Legislacion Naval",
-    "tipo": "verdadero_falso",
-    "pregunta": "LA LEY DE DISCIPLINA ESTABLECE QUE EL SUPERIOR JERÁRQUICO DEBE AGOTAR LOS MEDIOS DE PERSUASIÓN Y AMONESTACIÓN VERBAL ANTES DE IMPONER UN CORRECTIVO DISCIPLINARIO.",
-    "respuesta_correcta": "a",
-    "fuente": "Ley de Disciplina para el Personal de la Armada de México, Artículo 41"
-  },
-  {
-    "tema": "Legislacion Naval",
-    "tipo": "opcion_multiple",
-    "pregunta": "DE ACUERDO CON LA POLÍTICA NACIONAL MARÍTIMA, UNO DE LOS INTERESES MARÍTIMOS NACIONALES ES LA INDUSTRIA NAVAL, DEFINIDA COMO:",
-    "opciones": {
-      "a": "LA PESCA COMERCIAL EN ALTAMAR",
-      "b": "EL CONJUNTO DE ASTILLEROS Y TALLERES QUE CONSTRUYEN, REPARAN Y DESGUAZAN BUQUES",
-      "c": "EL TRANSPORTE MARÍTIMO DE PASAJEROS",
-      "d": "LA EXTRACCIÓN DE PETRÓLEO EN PLATAFORMAS"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "Política Nacional Marítima, V. Los intereses marítimos nacionales"
-  },
-  {
-    "tema": "Legislacion Naval",
-    "tipo": "verdadero_falso",
-    "pregunta": "EL GLOSARIO DE LA POLÍTICA NACIONAL MARÍTIMA DEFINE 'MAR PATRIMONIAL' COMO LA ZONA ECONÓMICA EXCLUSIVA, DONDE MÉXICO EJERCE DERECHOS DE SOBERANÍA PARA LA EXPLORACIÓN, EXPLOTACIÓN, CONSERVACIÓN Y ADMINISTRACIÓN DE LOS RECURSOS NATURALES.",
+    "pregunta": "LA POLÍTICA NACIONAL MARÍTIMA INCLUYE UN GLOSARIO DE TÉRMINOS.",
     "respuesta_correcta": "a",
     "fuente": "Política Nacional Marítima, Anexo 2. Glosario"
   },
   {
     "tema": "Legislacion Naval",
     "tipo": "opcion_multiple",
-    "pregunta": "LA LEY DE PUERTOS ATRIBUYE A LA SECRETARÍA DE MARINA LA FUNCIÓN DE:",
+    "pregunta": "¿CUÁL ES EL OBJETIVO GENERAL DEL PROTOCOLO DE ACTUACIÓN DEL PERSONAL NAVAL EN GUARDIA COSTERA?",
     "opciones": {
-      "a": "RECAUDAR LOS IMPUESTOS PORTUARIOS",
-      "b": "EJERCER LA AUTORIDAD EN LAS ZONAS MARINAS MEXICANAS Y LOS RECINTOS PORTUARIOS",
-      "c": "DISEÑAR LA POLÍTICA MONETARIA DE LOS PUERTOS",
-      "d": "EXPLOTAR COMERCIALMENTE LAS TERMINALES DE CONTENEDORES"
+      "a": "SOLO DEFENSA",
+      "b": "ESTABLECER PROCEDIMIENTOS DE ACTUACIÓN",
+      "c": "SOLO COMERCIO",
+      "d": "SOLO INVESTIGACIÓN"
     },
     "respuesta_correcta": "b",
-    "fuente": "Ley de Puertos, Artículos 18 y 19 Bis"
+    "fuente": "Protocolo de Actuación del Personal Naval en Funciones de Guardia Costera, Objetivos General y Específicos"
   },
   {
     "tema": "Legislacion Naval",
     "tipo": "verdadero_falso",
-    "pregunta": "EL CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE MARINA ESTABLECE QUE LA LEALTAD IMPLICA FIDELIDAD A LA INSTITUCIÓN, A LOS SUPERIORES, A LOS SUBORDINADOS Y A LA PATRIA, SIEMPRE DENTRO DEL MARCO DE LA LEY.",
+    "pregunta": "EL PROTOCOLO DE GUARDIA COSTERA ESTABLECE SUJETOS Y ROLES DEL PERSONAL.",
     "respuesta_correcta": "a",
-    "fuente": "Código de Conducta de la Secretaría de Marina, Valores fundamentales"
+    "fuente": "Protocolo de Actuación del Personal Naval en Funciones de Guardia Costera, Sujetos del Protocolo, Principales Roles"
   },
   {
     "tema": "Legislacion Naval",
     "tipo": "opcion_multiple",
-    "pregunta": "LA LEY DE NAVEGACIÓN Y COMERCIO MARÍTIMOS ESTABLECE QUE LA AUTORIDAD MARÍTIMA NACIONAL PUEDE ORDENAR LA DETENCIÓN DE UN BUQUE CUANDO:",
+    "pregunta": "¿QUÉ ESTABLECE LA CONSTITUCIÓN SOBRE DERECHOS DE LOS PUEBLOS INDÍGENAS?",
     "opciones": {
-      "a": "NO CUENTE CON LOS CERTIFICADOS EXIGIDOS POR LOS TRATADOS INTERNACIONALES",
-      "b": "EL BUQUE SEA DE BANDERA EXTRANJERA Y ESTÉ EN TRÁNSITO INOCENTE",
-      "c": "NO HAYA PAGADO LA CUOTA DE MUELLAJE",
-      "d": "TANTO A COMO C SON CORRECTAS"
+      "a": "QUE NO EXISTEN",
+      "b": "RECONOCIMIENTO Y PROTECCIÓN",
+      "c": "SOLO DERECHOS POLÍTICOS",
+      "d": "SOLO DERECHOS ECONÓMICOS"
     },
-    "respuesta_correcta": "d",
-    "fuente": "Ley de Navegación y Comercio Marítimos, Artículo 9"
+    "respuesta_correcta": "b",
+    "fuente": "Constitución Política de los Estados Unidos Mexicanos, Título Primero, Capítulo I, Artículo 2 (Párrafo 1)"
   },
   {
     "tema": "Legislacion Naval",
     "tipo": "verdadero_falso",
-    "pregunta": "LA LEY ORGÁNICA DE LA ARMADA DE MÉXICO ESTABLECE QUE EL ALTO MANDO DE LA ARMADA LO EJERCE EL SECRETARIO DE MARINA, QUIEN ES NOMBRADO DIRECTAMENTE POR EL CONGRESO DE LA UNIÓN.",
-    "respuesta_correcta": "b",
-    "fuente": "Ley Orgánica de la Armada de México"
-  },
-  {
-    "tema": "Legislacion Naval",
-    "tipo": "opcion_multiple",
-    "pregunta": "EL 15 DE SEPTIEMBRE DE 1914, LA ESCUELA NAVAL FUE CLAUSURADA DEBIDO A LA OCUPACIÓN NORTEAMERICANA DEL PUERTO DE VERACRUZ. POSTERIORMENTE, REABRIÓ SUS PUERTAS EN EL AÑO:",
-    "opciones": {
-      "a": "1917",
-      "b": "1919",
-      "c": "1925",
-      "d": "1932"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "Síntesis de Cultura Naval"
-  },
-  {
-    "tema": "Legislacion Naval",
-    "tipo": "verdadero_falso",
-    "pregunta": "EL TENIENTE DE NAVÍO JOSÉ AZUETA FUE UN HÉROE NAVAL QUE MURIÓ DEFENDIENDO EL PUERTO DE VERACRUZ DEL DESEMBARCO DE TROPAS GUATEMALTECAS EN 1842.",
-    "respuesta_correcta": "b",
-    "fuente": "Síntesis de Cultura Naval"
-  },
-  {
-    "tema": "Legislacion Naval",
-    "tipo": "opcion_multiple",
-    "pregunta": "EL LEMA DE LA INFANTERÍA DE MARINA DE MÉXICO ES:",
-    "opciones": {
-      "a": "EN LA TIERRA, EN EL AIRE Y EN EL MAR, LA ARMADA VENCERÁ",
-      "b": "POR LA PATRIA TODO, POR EL HONOR HASTA LA MUERTE",
-      "c": "UNIDAD, DISCIPLINA Y TRABAJO",
-      "d": "POR EL MAR Y POR LA TIERRA, CON LEALTAD Y VALOR"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "Síntesis de Cultura Naval"
-  },
-  {
-    "tema": "Legislacion Naval",
-    "tipo": "verdadero_falso",
-    "pregunta": "LA ESCUELA NÁUTICA DE VERACRUZ, ANTECEDENTE DE LA ACTUAL HEROICA ESCUELA NAVAL MILITAR, FUE FUNDADA POR EL COMANDANTE PEDRO SAINZ DE BARANDA.",
+    "pregunta": "LA CONSTITUCIÓN ESTABLECE QUE LA EDUCACIÓN DEBE SER LAICA Y GRATUITA.",
     "respuesta_correcta": "a",
-    "fuente": "Síntesis de Cultura Naval"
+    "fuente": "Constitución Política de los Estados Unidos Mexicanos, Título Primero, Capítulo I, Artículo 3 (Párrafos 1 y 2)"
   },
   {
     "tema": "Legislacion Naval",
     "tipo": "opcion_multiple",
-    "pregunta": "LA BANDERA NACIONAL EN LOS BUQUES DE LA ARMADA DE MÉXICO SE IZA A LAS 08:00 HORAS Y SE ARRIA A LAS 18:00 HORAS, PERO EN PUERTO, SI HAY OTROS BUQUES DE GUERRA EXTRANJEROS, SE DEBE:",
+    "pregunta": "¿QUÉ INCLUYE EL ARTÍCULO 4 CONSTITUCIONAL?",
     "opciones": {
-      "a": "IZARLA ÚNICAMENTE AL MEDIODÍA",
-      "b": "IZARLA ANTES QUE LOS EXTRANJEROS Y ARRIARLA DESPUÉS QUE ELLOS",
-      "c": "SEGUIR LA COSTUMBRE INTERNACIONAL DE SALUDO PROTOCULARIO",
-      "d": "B Y C SON CORRECTAS"
+      "a": "SOLO DERECHOS POLÍTICOS",
+      "b": "DERECHOS SOCIALES Y ECONÓMICOS",
+      "c": "SOLO LIBERTADES",
+      "d": "SOLO GARANTÍAS"
     },
-    "respuesta_correcta": "d",
-    "fuente": "Síntesis de Cultura Naval"
+    "respuesta_correcta": "b",
+    "fuente": "Constitución Política de los Estados Unidos Mexicanos, Título Primero, Capítulo I, Artículo 4 (Párrafos 1, 2, 3, 4, 5 y 6)"
   },
   {
     "tema": "Legislacion Naval",
     "tipo": "verdadero_falso",
-    "pregunta": "EL BUQUE ESCUELA ARM CUAUHTÉMOC FUE CONSTRUIDO EN LOS ASTILLEROS DE LA SECRETARÍA DE MARINA EN ACAPULCO, GUERRERO.",
-    "respuesta_correcta": "b",
-    "fuente": "Síntesis de Cultura Naval"
+    "pregunta": "LA CONSTITUCIÓN ESTABLECE DISPOSICIONES SOBRE LIBERTAD DE EXPRESIÓN E INFORMACIÓN.",
+    "respuesta_correcta": "a",
+    "fuente": "Constitución Política de los Estados Unidos Mexicanos, Título Primero, Capítulo I, Artículo 6 (Párrafos 1, 2 y 4 apartado A, Fracciones I y II)"
   },
   {
     "tema": "Legislacion Naval",
     "tipo": "opcion_multiple",
-    "pregunta": "EL DISTINTIVO DE LOS CUERPOS DE MARINA, COMO EL DE MAQUINISTAS, SE LLEVA EN:",
+    "pregunta": "¿QUÉ ESTABLECE EL ARTÍCULO 13 CONSTITUCIONAL?",
     "opciones": {
-      "a": "EL PECHO IZQUIERDO DEL UNIFORME",
-      "b": "LAS MANGAS O LAS PALAS DE HOMBRO",
-      "c": "EL CINTURÓN DE FAENA",
-      "d": "LA GORRA DE CAMPAÑA"
+      "a": "LIBERTAD DE TRÁNSITO",
+      "b": "PROHIBICIÓN DE LEYES PRIVATIVAS",
+      "c": "DERECHOS POLÍTICOS",
+      "d": "GARANTÍAS JUDICIALES"
     },
     "respuesta_correcta": "b",
-    "fuente": "Síntesis de Cultura Naval"
+    "fuente": "Constitución Política de los Estados Unidos Mexicanos, Título Primero, Capítulo I, Artículo 13"
   },
   {
     "tema": "Legislacion Naval",
     "tipo": "verdadero_falso",
-    "pregunta": "EL 1 DE JUNIO DE 1940 SE PUBLICÓ EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL DECRETO QUE CREÓ LA SECRETARÍA DE MARINA, SEPARÁNDOLA DE LA DE GUERRA.",
-    "respuesta_correcta": "b",
-    "fuente": "Síntesis de Cultura Naval"
+    "pregunta": "LA CONSTITUCIÓN ESTABLECE QUE TODA PERSONA TIENE DERECHO A LA PROPIEDAD.",
+    "respuesta_correcta": "a",
+    "fuente": "Constitución Política de los Estados Unidos Mexicanos, Título Primero, Capítulo I, Artículo 27 (Párrafos 1, 4, 5 y 9)"
   },
   {
     "tema": "Legislacion Naval",
     "tipo": "opcion_multiple",
-    "pregunta": "LA LEY DE DISCIPLINA CONSIDERA COMO CIRCUNSTANCIA ATENUANTE DE LA RESPONSABILIDAD DISCIPLINARIA:",
+    "pregunta": "¿QUÉ ESTABLECE EL ARTÍCULO 43 CONSTITUCIONAL?",
     "opciones": {
-      "a": "HABER OBRADO EN CUMPLIMIENTO DE UNA ORDEN DEL SUPERIOR, SIEMPRE QUE ESTA NO SEA CONSTITUTIVA DE DELITO",
-      "b": "LA REINCIDENCIA EN LA FALTA EN UN BREVE PERIODO",
-      "c": "EL HABER COMETIDO LA FALTA EN ESTADO DE EBRIEDAD",
-      "d": "LA PREMEDITACIÓN"
+      "a": "PARTES INTEGRANTES DE LA FEDERACIÓN",
+      "b": "TERRITORIO NACIONAL",
+      "c": "DIVISIÓN DE PODERES",
+      "d": "RESPONSABILIDADES"
     },
     "respuesta_correcta": "a",
-    "fuente": "Ley de Disciplina para el Personal de la Armada de México, Artículo 72"
+    "fuente": "Constitución Política de los Estados Unidos Mexicanos, Título Segundo, Capítulo II, Artículos 42, 43, 44 y 48"
   },
   {
     "tema": "Legislacion Naval",
     "tipo": "verdadero_falso",
-    "pregunta": "LA LEY NACIONAL SOBRE EL USO DE LA FUERZA ESTABLECE QUE, AL HACER USO DE LA FUERZA, SE DEBE PROCURAR MINIMIZAR LOS DAÑOS Y LESIONES, GARANTIZANDO LA PROTECCIÓN DE LA VIDA HUMANA.",
+    "pregunta": "LA CONSTITUCIÓN ESTABLECE QUE EL PODER EJECUTIVO RESIDE EN EL PRESIDENTE.",
     "respuesta_correcta": "a",
-    "fuente": "Ley Nacional sobre el Uso de la Fuerza, Artículo 6"
+    "fuente": "Constitución Política de los Estados Unidos Mexicanos, Título Tercero, Capítulo III, Artículos 80, 89 (Fracciones VI, VII, VIII y XIII) y 90 (Párrafo 1)"
   },
   {
     "tema": "Legislacion Naval",
     "tipo": "opcion_multiple",
-    "pregunta": "DE ACUERDO CON EL ARTÍCULO 29 CONSTITUCIONAL, EN CASOS DE INVASIÓN, PERTURBACIÓN GRAVE DE LA PAZ PÚBLICA O CUALQUIER OTRO QUE PONGA A LA SOCIEDAD EN GRAVE PELIGRO O CONFLICTO, SOLAMENTE EL PRESIDENTE DE LA REPÚBLICA, CON APROBACIÓN DEL CONGRESO, PODRÁ RESTRINGIR O SUSPENDER EL EJERCICIO DE LOS DERECHOS Y GARANTÍAS. ESTE PROCEDIMIENTO SE CONOCE COMO:",
+    "pregunta": "¿QUÉ ESTABLECE EL ARTÍCULO 90 CONSTITUCIONAL?",
     "opciones": {
-      "a": "ESTADO DE EXCEPCIÓN",
-      "b": "ESTADO DE SITIO",
-      "c": "SUSPENSIÓN DE GARANTÍAS",
-      "d": "ESTADO DE PREVENCIÓN"
+      "a": "ESTRUCTURA DEL PODER JUDICIAL",
+      "b": "ADMINISTRACIÓN PÚBLICA FEDERAL",
+      "c": "FACULTADES PRESIDENCIALES",
+      "d": "RESPONSABILIDADES"
     },
-    "respuesta_correcta": "c",
-    "fuente": "Constitución Política de los Estados Unidos Mexicanos, Artículo 29"
+    "respuesta_correcta": "b",
+    "fuente": "Constitución Política de los Estados Unidos Mexicanos, Título Tercero, Capítulo III, Artículos 80, 89 (Fracciones VI, VII, VIII y XIII) y 90 (Párrafo 1)"
   },
   {
     "tema": "Legislacion Naval",
     "tipo": "verdadero_falso",
-    "pregunta": "EL PROTOCOLO DE GUARDIA COSTERA ESTABLECE QUE EL PERSONAL NAVAL EN FUNCIONES DE GUARDIA COSTERA PUEDE REALIZAR INSPECCIONES Y VISITAS A BUQUES DE BANDERA EXTRANJERA EN ALTA MAR, SIN NINGUNA LIMITACIÓN, INCLUSO SIN CONSENTIMIENTO DEL CAPITÁN.",
-    "respuesta_correcta": "b",
-    "fuente": "Protocolo de actuación del personal naval en funciones de guardia costera, Políticas de operación"
-  },
-  {
-    "tema": "Legislacion Naval",
-    "tipo": "opcion_multiple",
-    "pregunta": "LA LEY GENERAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEFINE EL TÉRMINO 'PERSPECTIVA DE GÉNERO' COMO:",
-    "opciones": {
-      "a": "UN CONCEPTO QUE BUSCA LA IGUALDAD SALARIAL EXCLUSIVAMENTE",
-      "b": "UNA VISIÓN QUE PERMITE ANALIZAR LAS DESIGUALDADES ENTRE HOMBRES Y MUJERES PARA DISEÑAR ESTRATEGIAS QUE LAS ELIMINEN",
-      "c": "UNA POLÍTICA DE CUOTAS PARA MUJERES EN PUESTOS PÚBLICOS",
-      "d": "UN MÉTODO ESTADÍSTICO PARA MEDIR LA VIOLENCIA"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, Artículo 5"
-  },
-  {
-    "tema": "Legislacion Naval",
-    "tipo": "verdadero_falso",
-    "pregunta": "LA LEY DE PROTECCIÓN DEL ESPACIO AÉREO MEXICANO FACULTA A LA SECRETARÍA DE MARINA A PARTICIPAR EN LA IDENTIFICACIÓN Y SEGUIMIENTO DE AERONAVES DE INTERÉS PARA LA SEGURIDAD NACIONAL.",
+    "pregunta": "LA CONSTITUCIÓN ESTABLECE QUE LA COMISIÓN NACIONAL DE DERECHOS HUMANOS TIENE AUTONOMÍA.",
     "respuesta_correcta": "a",
-    "fuente": "Ley de Protección del Espacio Aéreo Mexicano, Artículo 5"
+    "fuente": "Constitución Política de los Estados Unidos Mexicanos, Título Tercero, Capítulo IV, Artículos 94 (Párrafo 1) y 102 (Apartado B., Párrafos 1 y 4)"
   },
   {
     "tema": "Legislacion Naval",
     "tipo": "opcion_multiple",
-    "pregunta": "EL REGLAMENTO GENERAL DE DEBERES NAVALES ESTABLECE QUE EL SALUDO NAVAL ENTRE PERSONAL DE DIFERENTE JERARQUÍA ES OBLIGATORIO. EL INFERIOR DEBE SALUDAR PRIMERO Y EL SUPERIOR DEBE CONTESTAR. ESTE DEBER:",
+    "pregunta": "¿QUÉ ESTABLECE LA LEY GENERAL PARA PREVENIR LA TORTURA SOBRE RESPONSABILIDAD?",
     "opciones": {
-      "a": "SE OMITE CUANDO LLUEVE",
-      "b": "SOLO APLICA EN TIERRA, NO A BORDO",
-      "c": "ES IRRELEVANTE SI EL SUPERIOR ESTÁ DISTRAÍDO",
-      "d": "SE CUMPLE EN TODO LUGAR Y OCASIÓN, EXPRESANDO RESPETO Y DISCIPLINA"
+      "a": "SOLO RESPONSABILIDAD PENAL",
+      "b": "RESPONSABILIDAD PENAL Y ADMINISTRATIVA",
+      "c": "SOLO RESPONSABILIDAD CIVIL",
+      "d": "NO ESTABLECE RESPONSABILIDAD"
     },
-    "respuesta_correcta": "d",
-    "fuente": "Reglamento General de Deberes Navales, Capítulo II"
+    "respuesta_correcta": "b",
+    "fuente": "Ley General para Prevenir, Investigar y Sancionar la Tortura, Título Segundo, Capítulo Primero, Artículos 7, 9, 10 y 13"
   },
   {
     "tema": "Legislacion Naval",
     "tipo": "verdadero_falso",
-    "pregunta": "EL ARTÍCULO 7 DE LA LEY GENERAL PARA PREVENIR, INVESTIGAR Y SANCIONAR LA TORTURA SEÑALA QUE NO SE CONSIDERARÁN COMO TORTURA LAS MOLESTIAS O PENALIDADES QUE SEAN CONSECUENCIA ÚNICAMENTE DE SANCIONES LEGALES O QUE DERIVEN DE UN ACTO LEGÍTIMO DE AUTORIDAD.",
+    "pregunta": "LA LEY DE ACCESO A LAS MUJERES ESTABLECE MEDIDAS DE PREVENCIÓN Y ATENCIÓN.",
     "respuesta_correcta": "a",
-    "fuente": "Ley General para Prevenir, Investigar y Sancionar la Tortura, Artículo 7"
+    "fuente": "Ley General de Acceso a las Mujeres a una Vida Libre de Violencia, Título Primero, Capítulo I, Artículos 5 (Fracciones IV, V, VI, VII, VIII, IX, X, XI, XV y XVII) y 6"
   },
   {
     "tema": "Legislacion Naval",
     "tipo": "opcion_multiple",
-    "pregunta": "EN LA LEY NACIONAL SOBRE EL USO DE LA FUERZA, EL PRINCIPIO DE 'PROPORCIONALIDAD' IMPLICA QUE:",
+    "pregunta": "¿QUÉ ESTABLECE LA LEY NACIONAL SOBRE EL USO DE LA FUERZA RESPECTO A CAPACITACIÓN?",
     "opciones": {
-      "a": "SE DEBE USAR SIEMPRE LA FUERZA MÁXIMA PARA GARANTIZAR EL ÉXITO",
-      "b": "LA FUERZA EMPLEADA DEBE SER ADECUADA Y NO EXCESIVA RESPECTO DE LA AMENAZA O RESISTENCIA DEL INFRACTOR",
-      "c": "EL NÚMERO DE AGENTES DEBE SER IGUAL AL DE INFRACTORES",
-      "d": "LA FUERZA SE PUEDE UTILIZAR DISCRECIONALMENTE POR CADA ELEMENTO"
+      "a": "QUE NO ES NECESARIA",
+      "b": "QUE ES OBLIGATORIA",
+      "c": "QUE ES OPCIONAL",
+      "d": "QUE NO LA REGULA"
     },
     "respuesta_correcta": "b",
-    "fuente": "Ley Nacional sobre el Uso de la Fuerza, Artículo 5"
+    "fuente": "Ley Nacional sobre el Uso de la Fuerza, Capítulo II, Artículos 4, 5, 6, 7 y 8"
   },
   {
     "tema": "Legislacion Naval",
     "tipo": "verdadero_falso",
-    "pregunta": "LA POLÍTICA NACIONAL MARÍTIMA MENCIONA QUE LA MARINA MERCANTE ES UN INTERÉS MARÍTIMO QUE CONTRIBUYE AL COMERCIO EXTERIOR Y AL ABASTECIMIENTO NACIONAL.",
+    "pregunta": "LA LEY DE DISCIPLINA ESTABLECE QUE LOS CORRECTIVOS DEBEN SER PROPORCIONALES A LA FALTA.",
     "respuesta_correcta": "a",
-    "fuente": "Política Nacional Marítima, V. Los intereses marítimos nacionales"
+    "fuente": "Ley de Disciplina para el Personal de la Armada de México, Capítulo V, Sección Segunda, Artículos 67, 68, 70 y 71"
   },
   {
     "tema": "Legislacion Naval",
     "tipo": "opcion_multiple",
-    "pregunta": "EL CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE MARINA DEFINE EL CONFLICTO DE INTERÉS COMO UNA SITUACIÓN EN LA QUE:",
+    "pregunta": "¿QUÉ ESTABLECE LA LEY DE NAVEGACIÓN Y COMERCIO MARÍTIMOS SOBRE BUQUES?",
     "opciones": {
-      "a": "DOS SERVIDORES PÚBLICOS DISCUTEN POR RECURSOS MATERIALES",
-      "b": "EL INTERÉS PERSONAL O PRIVADO DEL SERVIDOR PÚBLICO INFLUYE O PUEDE INFLUIR EN EL DESEMPEÑO DE SUS FUNCIONES",
-      "c": "SE PRESENTA UN DESACUERDO ENTRE DOS UNIDADES ADMINISTRATIVAS",
-      "d": "UN SUPERIOR EMITE UNA ORDEN QUE EL SUBALTERNO CONSIDERA INCORRECTA"
+      "a": "SOLO NACIONALIDAD",
+      "b": "REGISTRO Y OPERACIÓN",
+      "c": "SOLO SEGURIDAD",
+      "d": "SOLO COMERCIO"
     },
     "respuesta_correcta": "b",
-    "fuente": "Código de Conducta de la Secretaría de Marina, Riesgos éticos"
+    "fuente": "Ley de Navegación y Comercio Marítimos, Título Primero, Capítulo I, Artículos 1, 2 (Fracciones II, III, IV, V, VI, VII, VII Bis, y VII Ter), 3, 4 y 5"
   },
   {
     "tema": "Legislacion Naval",
     "tipo": "verdadero_falso",
-    "pregunta": "LA LEY DE DISCIPLINA PARA EL PERSONAL DE LA ARMADA DE MÉXICO PERMITE IMPONER COMO CORRECTIVO LA REDUCCIÓN DE HABERES POR UN MES, SIN DERECHO A AUDIENCIA.",
-    "respuesta_correcta": "b",
-    "fuente": "Ley de Disciplina para el Personal de la Armada de México, Artículo 46"
-  },
-  {
-    "tema": "Legislacion Naval",
-    "tipo": "opcion_multiple",
-    "pregunta": "EL ARTÍCULO 4° DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS RECONOCE EL DERECHO HUMANO AL AGUA Y A UN MEDIO AMBIENTE SANO PARA EL DESARROLLO Y BIENESTAR. ESTE DERECHO IMPLICA QUE:",
-    "opciones": {
-      "a": "EL AGUA ES UN BIEN PRIVATIZABLE",
-      "b": "EL ESTADO GARANTIZARÁ EL ACCESO, DISPOSICIÓN Y SANEAMIENTO DE AGUA SUFICIENTE, SALUBRE, ACEPTABLE Y ASEQUIBLE",
-      "c": "SOLO LAS GRANDES CIUDADES TIENEN OBLIGACIÓN DE PROVEER AGUA",
-      "d": "LOS PARTICULARES SON LOS ÚNICOS RESPONSABLES DE SU ABASTECIMIENTO"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "Constitución Política de los Estados Unidos Mexicanos, Artículo 4"
-  },
-  {
-    "tema": "Legislacion Naval",
-    "tipo": "verdadero_falso",
-    "pregunta": "LA LEY GENERAL DE ARCHIVOS, PERTENECIENTE A LOS TEMAS ESPECÍFICOS, TAMBIÉN CLASIFICA COMO SUJETOS OBLIGADOS A LAS DEPENDENCIAS DE LA ADMINISTRACIÓN PÚBLICA FEDERAL, INCLUYENDO A LA SECRETARÍA DE MARINA.",
+    "pregunta": "LA LEY DE PUERTOS ESTABLECE FUNCIONES DE LA SECRETARÍA DE MARINA.",
     "respuesta_correcta": "a",
-    "fuente": "Ley General de Archivos, Artículo LVI"
+    "fuente": "Ley de Puertos, Capítulo III, Artículos 16, 18, 19 Bis"
   },
   {
     "tema": "Legislacion Naval",
     "tipo": "opcion_multiple",
-    "pregunta": "CONFORME A LA LEY DE NAVEGACIÓN Y COMERCIO MARÍTIMOS, EL 'ARRIBÓ FORZOSO' SE DEFINE COMO:",
+    "pregunta": "¿QUÉ ESTABLECE EL REGLAMENTO GENERAL DE DEBERES NAVALES SOBRE DEBERES PARA CON LA ARMADA?",
     "opciones": {
-      "a": "LA LLEGADA DE UN BUQUE A PUERTO POR CAUSAS FORTUITAS O DE FUERZA MAYOR QUE PONGAN EN PELIGRO LA EMBARCACIÓN O LAS PERSONAS A BORDO",
-      "b": "LA ESCALA PROGRAMADA PARA RECIBIR COMBUSTIBLE",
-      "c": "EL ARRIBO OBLIGATORIO POR ÓRDENES DE LA CAPITANÍA DE PUERTO",
-      "d": "LA ENTRADA A DIQUE SECO PARA REPARACIONES PROGRAMADAS"
+      "a": "QUE NO EXISTEN",
+      "b": "SU EXISTENCIA Y CONTENIDO",
+      "c": "SOLO SANCIONES",
+      "d": "SOLO PROCEDIMIENTOS"
     },
+    "respuesta_correcta": "b",
+    "fuente": "Reglamento General de Deberes Navales, Libro Primero, Título Primero, Capítulo II"
+  },
+  {
+    "tema": "Legislacion Naval",
+    "tipo": "verdadero_falso",
+    "pregunta": "EL CÓDIGO DE CONDUCTA ESTABLECE ÁMBITO DE APLICACIÓN Y OBLIGATORIEDAD.",
     "respuesta_correcta": "a",
-    "fuente": "Ley de Navegación y Comercio Marítimos, Artículo 2"
-  },
-  {
-    "tema": "Legislacion Naval",
-    "tipo": "verdadero_falso",
-    "pregunta": "LA LEY ORGÁNICA DE LA ARMADA DE MÉXICO CONSIDERA A LA ARMADA COMO UNA FUERZA ARMADA PERMANENTE, CUYA MISIÓN INCLUYE GARANTIZAR LA SOBERANÍA NACIONAL Y LA SEGURIDAD MARÍTIMA.",
-    "respuesta_correcta": "a",
-    "fuente": "Ley Orgánica de la Armada de México"
+    "fuente": "Código de Conducta de la Secretaría de Marina, Ámbito de Aplicación y Obligatoriedad"
   },
   {
     "tema": "Legislacion Naval",
     "tipo": "opcion_multiple",
-    "pregunta": "EL EMBLEMA DE LA HEROICA ESCUELA NAVAL MILITAR ESTÁ CONSTITUIDO POR DOS ANCLAS CRUZADAS, UN LIBRO ABIERTO, UNA ESTRELLA Y UNA BANDERA. LA ESTRELLA REPRESENTA:",
+    "pregunta": "¿QUÉ INCLUYE EL GLOSARIO DEL CÓDIGO DE CONDUCTA?",
     "opciones": {
-      "a": "LA GUÍA HACIA LA EXCELENCIA ACADÉMICA",
-      "b": "LA ESPERANZA DE UN FUTURO MEJOR",
-      "c": "EL ÁNIMO DE LUCHAR POR LA PATRIA",
-      "d": "EL RUMBO QUE TODO MARINO DEBE SEGUIR"
-    },
-    "respuesta_correcta": "a",
-    "fuente": "Síntesis de Cultura Naval"
-  },
-  {
-    "tema": "Legislacion Naval",
-    "tipo": "verdadero_falso",
-    "pregunta": "LA BANDERA DE PROA, TAMBIÉN LLAMADA TORROTITO, ES UNA BANDERA CUADRADA QUE SE IZA EN EL PICO DE PROA DURANTE LAS HORAS DE SOL, Y EN LOS BUQUES DE LA ARMADA LLEVA LOS COLORES NACIONALES SIN ESCUDO.",
-    "respuesta_correcta": "a",
-    "fuente": "Síntesis de Cultura Naval"
-  },
-  {
-    "tema": "Legislacion Naval",
-    "tipo": "opcion_multiple",
-    "pregunta": "LA MEDALLA DE LA 'HEROICA ESCUELA NAVAL MILITAR' SE OTORGA AL PERSONAL QUE HA CONCLUIDO SUS ESTUDIOS EN DICHO PLANTEL Y SE DESTACA COMO DISTINTIVO EN EL UNIFORME:",
-    "opciones": {
-      "a": "EN LA SOLAPA IZQUIERDA SOBRE LA PECHERA",
-      "b": "EN EL BOLSILLO DERECHO DE LA CAMISOLA",
-      "c": "EN LA MANGA DERECHA DEL CHAQUETÍN",
-      "d": "EN EL CINTURÓN DE DIARIO"
-    },
-    "respuesta_correcta": "a",
-    "fuente": "Síntesis de Cultura Naval"
-  },
-  {
-    "tema": "Legislacion Naval",
-    "tipo": "verdadero_falso",
-    "pregunta": "EL CONSEJO DE GUERRA DE MARINA ES UN ORGANISMO DISCIPLINARIO PREVISTO EN LA LEY DE DISCIPLINA PARA EL PERSONAL DE LA ARMADA DE MÉXICO.",
-    "respuesta_correcta": "a",
-    "fuente": "Ley de Disciplina para el Personal de la Armada de México, Artículo 76"
-  },
-  {
-    "tema": "Legislacion Naval",
-    "tipo": "opcion_multiple",
-    "pregunta": "DE ACUERDO CON LA LEY NACIONAL DEL REGISTRO DE DETENCIONES, LA INFORMACIÓN DEL REGISTRO DEBE SER SUMINISTRADA, INTERCAMBIADA Y ACTUALIZADA DE MANERA:",
-    "opciones": {
-      "a": "INMEDIATA Y PERMANENTE",
-      "b": "CADA 24 HORAS",
-      "c": "SOLO CUANDO SE SOLICITE POR UN JUEZ",
-      "d": "EXCLUSIVAMENTE AL FINALIZAR EL TURNO DEL AGENTE CAPTOR"
-    },
-    "respuesta_correcta": "a",
-    "fuente": "Ley Nacional del Registro de Detenciones, Artículo 19"
-  },
-  {
-    "tema": "Legislacion Naval",
-    "tipo": "verdadero_falso",
-    "pregunta": "EL PROTOCOLO DE ACTUACIÓN DEL PERSONAL NAVAL EN FUNCIONES DE GUARDIA COSTERA TIENE COMO OBJETIVO GENERAL ESTABLECER LOS LINEAMIENTOS PARA EL EMPLEO SISTEMÁTICO DEL PODER NAVAL EN LA MAR, ORIENTADO A LA PROTECCIÓN MARÍTIMA Y PORTUARIA.",
-    "respuesta_correcta": "a",
-    "fuente": "Protocolo de actuación del personal naval en funciones de guardia costera, Objetivos"
-  },
-  {
-    "tema": "Legislacion Naval",
-    "tipo": "opcion_multiple",
-    "pregunta": "LA SÍNTESIS DE CULTURA NAVAL MENCIONA QUE EL EMBLEMA DEL CUERPO DE INFANTERÍA DE MARINA CONSISTE EN:",
-    "opciones": {
-      "a": "UN ÁNCORA CRUZADA CON UN FUSIL Y UN SOL NACIENTE",
-      "b": "DOS FUSILES CRUZADOS SOBRE UN ÁNCORA, CON UN SOL Y UNA ESTRELLA",
-      "c": "UNA GRANADA CON UNA LLAMA Y UN ÁNCORA AL CENTRO",
-      "d": "UN ESCUDO CON UN LEÓN RAMPANTE Y UN CAÑÓN"
+      "a": "SOLO DEFINICIONES LEGALES",
+      "b": "TÉRMINOS Y CONCEPTOS RELEVANTES",
+      "c": "SOLO PROCEDIMIENTOS",
+      "d": "SOLO SANCIONES"
     },
     "respuesta_correcta": "b",
-    "fuente": "Síntesis de Cultura Naval"
-  },
-  {
-    "tema": "Legislacion Naval",
-    "tipo": "verdadero_falso",
-    "pregunta": "EL 22 DE FEBRERO DE 1822, AL EXPEDIRSE LA LEY PARA EL ARREGLO DE LA MARINA, SE CREÓ EL ALMIRANTAZGO, MÁXIMA AUTORIDAD DE LA MARINA NACIONAL DE AQUELLA ÉPOCA.",
-    "respuesta_correcta": "a",
-    "fuente": "Síntesis de Cultura Naval"
-  },
-  {
-    "tema": "Legislacion Naval",
-    "tipo": "opcion_multiple",
-    "pregunta": "EL DISTINTIVO DE MANDO DEL COMANDANTE DE UNA UNIDAD DE SUPERFICIE SE IZA EN EL PALO MAYOR O EN EL PICO DE PROA, Y SU COLOR DE FONDO DEPENDE DE LA JERARQUÍA DEL COMANDANTE. PARA UN ALMIRANTE, EL DISTINTIVO ES:",
-    "opciones": {
-      "a": "BLANCO CON ESTRELLAS ROJAS",
-      "b": "AZUL CON ESTRELLAS BLANCAS",
-      "c": "ROJO CON ESTRELLAS DORADAS",
-      "d": "NEGRO CON ESTRELLAS PLATEADAS"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "Síntesis de Cultura Naval"
-  },
-  {
-    "tema": "Legislacion Naval",
-    "tipo": "verdadero_falso",
-    "pregunta": "LA POLÍTICA NACIONAL MARÍTIMA RECONOCE COMO PARTE DE LOS INTERESES MARÍTIMOS A LOS PUERTOS, DEFINIDOS COMO EL CONJUNTO DE OBRAS E INSTALACIONES QUE PERMITEN EL INTERCAMBIO DE BIENES Y SERVICIOS ENTRE LOS MODOS DE TRANSPORTE MARÍTIMO Y TERRESTRE.",
-    "respuesta_correcta": "a",
-    "fuente": "Política Nacional Marítima, V. Los intereses marítimos nacionales"
-  },
-  {
-    "tema": "Legislacion Naval",
-    "tipo": "opcion_multiple",
-    "pregunta": "LA LEY DE DISCIPLINA ESTABLECE QUE EL CORRECTIVO DE ARRESTO SE CUMPLIRÁ:",
-    "opciones": {
-      "a": "EN EL DOMICILIO PARTICULAR DEL INFRACTOR",
-      "b": "EN EL LUGAR QUE DESIGNE EL MANDO, PUDIENDO SER A BORDO O EN TIERRA, SIN MENOSCABO DE SU DIGNIDAD",
-      "c": "EN UNA CELDA COMÚN JUNTO CON DELINCUENTES DEL FUERO COMÚN",
-      "d": "SIEMPRE EN LA UNIDAD A LA QUE PERTENEZCA"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "Ley de Disciplina para el Personal de la Armada de México, Artículos 48 y 49"
-  },
-  {
-    "tema": "Legislacion Naval",
-    "tipo": "verdadero_falso",
-    "pregunta": "EL CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE MARINA CONSIDERA LA HONESTIDAD COMO UN VALOR FUNDAMENTAL QUE IMPLICA ACTUAR CON RECTITUD, PROBIDAD Y TRANSPARENCIA EN EL EJERCICIO DE LAS FUNCIONES.",
-    "respuesta_correcta": "a",
-    "fuente": "Código de Conducta de la Secretaría de Marina, Valores fundamentales"
-  },
-  {
-    "tema": "Legislacion Naval",
-    "tipo": "opcion_multiple",
-    "pregunta": "LA LEY DE PUERTOS ATRIBUYE A LA SECRETARÍA DE MARINA LA FUNCIÓN DE OTORGAR CONCESIONES PARA LA CONSTRUCCIÓN Y OPERACIÓN DE MARINAS TURÍSTICAS. ESTA ATRIBUCIÓN ESTÁ SEÑALADA EN EL ARTÍCULO:",
-    "opciones": {
-      "a": "16 BIS",
-      "b": "19 BIS",
-      "c": "18 FRACCIÓN III",
-      "d": "NINGUNO, CORRESPONDE A LA SECRETARÍA DE TURISMO"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "Ley de Puertos, Artículo 19 Bis"
-  },
-  {
-    "tema": "Legislacion Naval",
-    "tipo": "verdadero_falso",
-    "pregunta": "LA LEY DE NAVEGACIÓN Y COMERCIO MARÍTIMOS ESTABLECE QUE LA SECRETARÍA DE MARINA ES LA ÚNICA AUTORIDAD COMPETENTE PARA INVESTIGAR LOS ACCIDENTES MARÍTIMOS OCURRIDOS EN AGUAS NACIONALES.",
-    "respuesta_correcta": "a",
-    "fuente": "Ley de Navegación y Comercio Marítimos, Artículo 9 Ter"
-  },
-  {
-    "tema": "Legislacion Naval",
-    "tipo": "opcion_multiple",
-    "pregunta": "EL GLOSARIO DE LA POLÍTICA NACIONAL MARÍTIMA DEFINE 'SOBERANÍA MARÍTIMA' COMO:",
-    "opciones": {
-      "a": "EL DOMINIO ABSOLUTO SOBRE TODOS LOS OCÉANOS",
-      "b": "LA JURISDICCIÓN QUE EJERCE EL ESTADO MEXICANO EN EL MAR TERRITORIAL, LA ZONA CONTIGUA, LA ZONA ECONÓMICA EXCLUSIVA Y LA PLATAFORMA CONTINENTAL",
-      "c": "LA CAPACIDAD DE EXPLOTAR LOS RECURSOS PESQUEROS EN CUALQUIER PARTE DEL MUNDO",
-      "d": "EL CONTROL DEL TRÁFICO MARÍTIMO INTERNACIONAL"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "Política Nacional Marítima, Anexo 2. Glosario"
-  },
-  {
-    "tema": "Legislacion Naval",
-    "tipo": "verdadero_falso",
-    "pregunta": "EN LA SÍNTESIS DE CULTURA NAVAL SE MENCIONA QUE LA MEDALLA DE HONOR 'PEDRO SAINZ DE BARANDA' SE OTORGA AL PERSONAL NAVAL QUE HA DEMOSTRADO VALOR HEROICO EN ACCIONES DE GUERRA.",
-    "respuesta_correcta": "b",
-    "fuente": "Síntesis de Cultura Naval"
-  },
-  {
-    "tema": "Legislacion Naval",
-    "tipo": "opcion_multiple",
-    "pregunta": "EL REGLAMENTO GENERAL DE DEBERES NAVALES SEÑALA QUE EL PERSONAL NAVAL DEBE GUARDAR SILENCIO Y COMPOSTURA DURANTE LA CEREMONIA DE IZADO Y ARRIO DE LA BANDERA. ESTA OBLIGACIÓN DIMANA DEL DEBER DE:",
-    "opciones": {
-      "a": "RESPETO A LOS SÍMBOLOS PATRIOS",
-      "b": "DISCIPLINA EN FORMACIÓN",
-      "c": "ACATAMIENTO A LA VOZ DE MANDO",
-      "d": "CORTESÍA MILITAR"
-    },
-    "respuesta_correcta": "a",
-    "fuente": "Reglamento General de Deberes Navales, Capítulo II"
-  },
-  {
-    "tema": "Legislacion Naval",
-    "tipo": "verdadero_falso",
-    "pregunta": "LA LEY DE PROTECCIÓN DEL ESPACIO AÉREO MEXICANO ESTABLECE QUE LA SECRETARÍA DE MARINA, EN COORDINACIÓN CON LA SECRETARÍA DE LA DEFENSA NACIONAL, PODRÁN ESTABLECER MEDIDAS DE VIGILANCIA Y CONTROL DEL ESPACIO AÉREO PARA GARANTIZAR LA SEGURIDAD NACIONAL.",
-    "respuesta_correcta": "a",
-    "fuente": "Ley de Protección del Espacio Aéreo Mexicano, Artículo 4"
-  },
-  {
-    "tema": "Legislacion Naval",
-    "tipo": "opcion_multiple",
-    "pregunta": "LA LEY GENERAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA ESTABLECE QUE LA ALERTA DE VIOLENCIA DE GÉNERO ES UN MECANISMO DE PROTECCIÓN COLECTIVA QUE SE ACTIVA CUANDO:",
-    "opciones": {
-      "a": "SE REGISTRA UN SOLO FEMINICIDIO",
-      "b": "EXISTE UN AGRAVIO COMPARATIVO QUE IMPIDA EL EJERCICIO PLENO DE LOS DERECHOS DE LAS MUJERES EN UNA REGIÓN DETERMINADA",
-      "c": "UNA MUJER SOLICITA PROTECCIÓN POLICIAL",
-      "d": "LAS ORGANIZACIONES FEMINISTAS CONVOCAN A UNA MARCHA"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, Artículo 21, párrafo 1"
-  },
-  {
-    "tema": "Legislacion Naval",
-    "tipo": "verdadero_falso",
-    "pregunta": "EL ARTÍCULO 49 DE LA CONSTITUCIÓN ESTABLECE QUE EL SUPREMO PODER DE LA FEDERACIÓN SE DIVIDE, PARA SU EJERCICIO, EN LEGISLATIVO, EJECUTIVO Y JUDICIAL, Y QUE NO PODRÁN REUNIRSE DOS O MÁS DE ESTOS PODERES EN UNA SOLA PERSONA O CORPORACIÓN, SALVO EL CASO DE FACULTADES EXTRAORDINARIAS PARA LEGISLAR.",
-    "respuesta_correcta": "a",
-    "fuente": "Constitución Política de los Estados Unidos Mexicanos, Artículo 49"
-  },
-  {
-    "tema": "Legislacion Naval",
-    "tipo": "opcion_multiple",
-    "pregunta": "EL 'DÍA DEL MARINO', CELEBRADO EL 1 DE JUNIO, RECUERDA LA FECHA EN QUE:",
-    "opciones": {
-      "a": "LA ARMADA DE MÉXICO DERROTÓ A LA FLOTA ESPAÑOLA EN 1825",
-      "b": "SE PUBLICÓ EL DECRETO QUE CREÓ LA SECRETARÍA DE MARINA EN 1940",
-      "c": "ZARPÓ LA FLOTA QUE TOMÓ SAN JUAN DE ULÚA EN 1825",
-      "d": "SE PROMULGÓ LA LEY ORGÁNICA DE LA ARMADA DE MÉXICO"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "Síntesis de Cultura Naval"
-  },
-  {
-    "tema": "Legislacion Naval",
-    "tipo": "verdadero_falso",
-    "pregunta": "EL REGLAMENTO GENERAL DE DEBERES NAVALES OBLIGA AL PERSONAL NAVAL A PROPORCIONAR AUXILIO A TODO BUQUE O PERSONA EN PELIGRO, SIEMPRE QUE NO SE COMPROMETA LA SEGURIDAD DE LA PROPIA UNIDAD.",
-    "respuesta_correcta": "a",
-    "fuente": "Reglamento General de Deberes Navales, Capítulo III"
-  },
-  {
-    "tema": "Legislacion Naval",
-    "tipo": "opcion_multiple",
-    "pregunta": "LA LEY DE DISCIPLINA ESTABLECE QUE, CONTRA LA IMPOSICIÓN DE UN CORRECTIVO DISCIPLINARIO, EL AFECTADO PODRÁ INTERPONER EL RECURSO DE:",
-    "opciones": {
-      "a": "QUEJA ANTE LA COMISIÓN DE DERECHOS HUMANOS",
-      "b": "INCONFORMIDAD ANTE EL SUPERIOR INMEDIATO DEL QUE IMPUSO EL CORRECTIVO",
-      "c": "AMPARO DIRECTO",
-      "d": "REVISIÓN JUDICIAL"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "Ley de Disciplina para el Personal de la Armada de México, Artículo 65"
-  },
-  {
-    "tema": "Legislacion Naval",
-    "tipo": "verdadero_falso",
-    "pregunta": "LA LEY NACIONAL SOBRE EL USO DE LA FUERZA PROHÍBE EL USO DE ARMAS DE FUEGO CONTRA VEHÍCULOS QUE NO ACATEN LA ORDEN DE ALTO, SALVO QUE EXISTA UN RIESGO INMINENTE DE MUERTE O LESIONES GRAVES PARA EL AGENTE O TERCEROS.",
-    "respuesta_correcta": "a",
-    "fuente": "Ley Nacional sobre el Uso de la Fuerza, Artículo 13"
-  },
-  {
-    "tema": "Legislacion Naval",
-    "tipo": "opcion_multiple",
-    "pregunta": "EL PROTOCOLO DE GUARDIA COSTERA ESPECIFICA QUE, DURANTE UNA VISITA DE INSPECCIÓN A UN BUQUE, EL PERSONAL NAVAL DEBE:",
-    "opciones": {
-      "a": "UTILIZAR LA FUERZA DE INMEDIATO",
-      "b": "IDENTIFICARSE, EXPONER EL MOTIVO DE LA VISITA Y ACTUAR CON PROFESIONALISMO Y RESPETO",
-      "c": "PROCEDER AL ASEGURAMIENTO DE LA TRIPULACIÓN SIN EXPLICACIONES",
-      "d": "ESPERAR AUTORIZACIÓN DE LA ZONA NAVAL AUN EN FLAGRANCIA"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "Protocolo de actuación del personal naval en funciones de guardia costera, Políticas de operación"
-  },
-  {
-    "tema": "Legislacion Naval",
-    "tipo": "verdadero_falso",
-    "pregunta": "LA SÍNTESIS DE CULTURA NAVAL INDICA QUE EL DISTINTIVO DEL CUERPO DE MAQUINISTAS ES UNA RUEDA DENTADA CON UN ÁNCORA EN EL CENTRO.",
-    "respuesta_correcta": "a",
-    "fuente": "Síntesis de Cultura Naval"
-  },
-  {
-    "tema": "Legislacion Naval",
-    "tipo": "opcion_multiple",
-    "pregunta": "CONFORME AL ARTÍCULO 102, APARTADO B, DE LA CONSTITUCIÓN, LA INVESTIGACIÓN DE LOS DELITOS DEL ORDEN MILITAR CUANDO INVOLUCREN A PERSONAL NAVAL CORRESPONDE A:",
-    "opciones": {
-      "a": "LA FISCALÍA GENERAL DE LA REPÚBLICA",
-      "b": "LA PROCURADURÍA GENERAL DE JUSTICIA MILITAR",
-      "c": "LA FISCALÍA ESPECIALIZADA EN DELITOS MARÍTIMOS",
-      "d": "LOS TRIBUNALES UNITARIOS DE CIRCUITO"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "Constitución Política de los Estados Unidos Mexicanos, Artículo 102 Apartado B"
-  },
-  {
-    "tema": "Legislacion Naval",
-    "tipo": "verdadero_falso",
-    "pregunta": "EL CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE MARINA CONSIDERA LA PROTECCIÓN DE LA INFORMACIÓN COMO UN RIESGO ÉTICO, POR LO QUE PROHÍBE AL PERSONAL DIVULGAR DATOS CLASIFICADOS.",
-    "respuesta_correcta": "a",
-    "fuente": "Código de Conducta de la Secretaría de Marina, Riesgos éticos"
-  },
-  {
-    "tema": "Legislacion Naval",
-    "tipo": "opcion_multiple",
-    "pregunta": "LA LEY ORGÁNICA DE LA ARMADA DE MÉXICO DEFINE A LA ARMADA COMO UNA INSTITUCIÓN MILITAR NACIONAL, PERMANENTE, CUYA MISIÓN ES EMPLEAR EL PODER NAVAL DE LA FEDERACIÓN PARA LA DEFENSA EXTERIOR Y COADYUVAR EN LA SEGURIDAD INTERIOR. ESTA MISIÓN SE LLEVA A CABO PRINCIPALMENTE A TRAVÉS DE:",
-    "opciones": {
-      "a": "LA SECRETARÍA DE LA DEFENSA NACIONAL",
-      "b": "LAS FUERZAS, UNIDADES Y ESTABLECIMIENTOS QUE LA COMPONEN, BAJO EL MANDO DEL SECRETARIO DE MARINA",
-      "c": "LAS CAPITANÍAS DE PUERTO Y ADUANAS MARÍTIMAS",
-      "d": "LOS CONVENIOS CON EMPRESAS NAVIERAS PRIVADAS"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "Ley Orgánica de la Armada de México"
-  },
-  {
-    "tema": "Legislacion Naval",
-    "tipo": "verdadero_falso",
-    "pregunta": "LA LEY DE NAVEGACIÓN Y COMERCIO MARÍTIMOS CONSIDERA COMO ZONA MARÍTIMA DE PROTECCIÓN ECOLÓGICA AQUELLA EN LA QUE MÉXICO EJERCE CONTROL EXCLUSIVO PARA LA CONSERVACIÓN DE LOS RECURSOS VIVOS.",
-    "respuesta_correcta": "a",
-    "fuente": "Ley de Navegación y Comercio Marítimos, Artículo 4"
-  },
-  {
-    "tema": "Legislacion Naval",
-    "tipo": "opcion_multiple",
-    "pregunta": "LA POLÍTICA NACIONAL MARÍTIMA DEFINE EL 'PODER MARÍTIMO' COMO LA CAPACIDAD DEL ESTADO PARA HACER USO DE SUS RECURSOS MARINOS Y COSTEROS EN BENEFICIO DEL DESARROLLO NACIONAL, Y SE SUSTENTA EN:",
-    "opciones": {
-      "a": "LA EXTENSIÓN DE SUS COSTAS",
-      "b": "LA ARMADA DE MÉXICO, LA MARINA MERCANTE Y LA INDUSTRIA NAVAL",
-      "c": "ÚNICAMENTE LA PESCA DE ALTURA",
-      "d": "LOS CONVENIOS INTERNACIONALES DE NAVEGACIÓN"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "Política Nacional Marítima, Glosario"
-  },
-  {
-    "tema": "Legislacion Naval",
-    "tipo": "verdadero_falso",
-    "pregunta": "LA LEY DE DISCIPLINA PARA EL PERSONAL DE LA ARMADA DE MÉXICO SE APLICA EXCLUSIVAMENTE AL PERSONAL EN SITUACIÓN DE RETIRO.",
-    "respuesta_correcta": "b",
-    "fuente": "Ley de Disciplina para el Personal de la Armada de México, Artículo 3"
-  },
-  {
-    "tema": "Legislacion Naval",
-    "tipo": "opcion_multiple",
-    "pregunta": "EN EL REGLAMENTO GENERAL DE DEBERES NAVALES, EL DEBER DE 'OBEDIENCIA' IMPLICA QUE EL SUBALTERNO:",
-    "opciones": {
-      "a": "DEBE CUESTIONAR TODAS LAS ÓRDENES RECIBIDAS",
-      "b": "DEBE CUMPLIR LAS ÓRDENES DEL SUPERIOR JERÁRQUICO, SIEMPRE QUE NO CONSTITUYAN DELITO MANIFIESTO",
-      "c": "SOLO OBEDECE SI ESTÁ DE ACUERDO CON LA ORDEN",
-      "d": "TIENE LIBERTAD DE DESOBEDECER SI LA ORDEN LE PARECE INCONVENIENTE"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "Reglamento General de Deberes Navales, Capítulo I"
-  },
-  {
-    "tema": "Legislacion Naval",
-    "tipo": "verdadero_falso",
-    "pregunta": "EL PROTOCOLO DE ACTUACIÓN DEL PERSONAL NAVAL EN FUNCIONES DE GUARDIA COSTERA ESTABLECE QUE, EN NINGÚN CASO, EL PERSONAL PODRÁ USAR LA FUERZA LETAL PARA REPELER UNA AGRESIÓN DIRECTA QUE PONGA EN RIESGO SU VIDA.",
-    "respuesta_correcta": "b",
-    "fuente": "Protocolo de actuación del personal naval en funciones de guardia costera, Políticas de operación"
-  },
-  {
-    "tema": "Legislacion Naval",
-    "tipo": "opcion_multiple",
-    "pregunta": "EL ESCUDO DE LA SECRETARÍA DE MARINA ACTUAL, CON LA LEYENDA 'ARMADA DE MÉXICO', FUE APROBADO POR EL C. PRESIDENTE DE LA REPÚBLICA EN EL AÑO:",
-    "opciones": {
-      "a": "1910",
-      "b": "1925",
-      "c": "1942",
-      "d": "1960"
-    },
-    "respuesta_correcta": "c",
-    "fuente": "Síntesis de Cultura Naval"
-  },
-  {
-    "tema": "Legislacion Naval",
-    "tipo": "verdadero_falso",
-    "pregunta": "EL DISTINTIVO DE LOS CUERPOS DE ADMINISTRACIÓN E INTENDENCIA NAVAL CONSISTE EN UN ÁNCORA CON UN SOL Y UNA PLUMA, REPRESENTANDO LA LABOR ADMINISTRATIVA.",
-    "respuesta_correcta": "b",
-    "fuente": "Síntesis de Cultura Naval"
-  },
-  {
-    "tema": "Legislacion Naval",
-    "tipo": "opcion_multiple",
-    "pregunta": "CONFORME A LA LEY NACIONAL DEL REGISTRO DE DETENCIONES, EL PLAZO MÁXIMO PARA QUE LA AUTORIDAD QUE REALIZA UNA DETENCIÓN INGRESE LOS DATOS AL REGISTRO ES DE:",
-    "opciones": {
-      "a": "UNA HORA",
-      "b": "INMEDIATAMENTE DESPUÉS DE REALIZADA LA DETENCIÓN",
-      "c": "24 HORAS",
-      "d": "AL TÉRMINO DEL TURNO DEL AGENTE"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "Ley Nacional del Registro de Detenciones, Artículo 20"
-  },
-  {
-    "tema": "Legislacion Naval",
-    "tipo": "verdadero_falso",
-    "pregunta": "LA LEY GENERAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA INCLUYE LA MODALIDAD DE VIOLENCIA DIGITAL, QUE COMPRENDE AQUELLAS ACCIONES DIFUNDIDAS A TRAVÉS DE TECNOLOGÍAS DE LA INFORMACIÓN QUE ATENTEN CONTRA LA INTEGRIDAD O LA DIGNIDAD DE LAS MUJERES.",
-    "respuesta_correcta": "a",
-    "fuente": "Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, Artículo 20 quáter"
-  },
-  {
-    "tema": "Legislacion Naval",
-    "tipo": "opcion_multiple",
-    "pregunta": "LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN SU ARTÍCULO 6°, ESTABLECE QUE EL DERECHO A LA INFORMACIÓN SERÁ GARANTIZADO POR EL ESTADO. ESTO IMPLICA QUE TODA PERSONA TIENE DERECHO AL LIBRE ACCESO A INFORMACIÓN PLURAL Y OPORTUNA, ASÍ COMO A BUSCAR, RECIBIR Y DIFUNDIR INFORMACIÓN E IDEAS POR CUALQUIER MEDIO. LA FRACCIÓN I DEL APARTADO A DEL MISMO ARTÍCULO SEÑALA QUE:",
-    "opciones": {
-      "a": "LA INFORMACIÓN EN POSESIÓN DE CUALQUIER AUTORIDAD, ENTIDAD, ÓRGANO Y ORGANISMO DE LOS PODERES EJECUTIVO, LEGISLATIVO Y JUDICIAL, ÓRGANOS AUTÓNOMOS, PARTIDOS POLÍTICOS, FIDEICOMISOS Y FONDOS PÚBLICOS ES PÚBLICA Y SÓLO PODRÁ SER RESERVADA TEMPORALMENTE POR RAZONES DE INTERÉS PÚBLICO Y SEGURIDAD NACIONAL",
-      "b": "LA INFORMACIÓN ES EXCLUSIVA DEL GOBIERNO FEDERAL",
-      "c": "EL ACCESO A LA INFORMACIÓN SE LIMITARÁ A CIUDADANOS MAYORES DE EDAD",
-      "d": "LOS MEDIOS DE COMUNICACIÓN SON LOS ÚNICOS FACULTADOS PARA SOLICITAR INFORMACIÓN"
-    },
-    "respuesta_correcta": "a",
-    "fuente": "Constitución Política de los Estados Unidos Mexicanos, Artículo 6, Apartado A, Fracción I"
-  },
-  {
-    "tema": "Legislacion Naval",
-    "tipo": "verdadero_falso",
-    "pregunta": "LA LEY DE DISCIPLINA CONSIDERA COMO CIRCUNSTANCIA AGRAVANTE LA COMISIÓN DE UNA FALTA APROVECHANDO LAS CIRCUNSTANCIAS DE TIEMPO, LUGAR O AUXILIO DE OTRA PERSONA.",
-    "respuesta_correcta": "a",
-    "fuente": "Ley de Disciplina para el Personal de la Armada de México, Artículo 73"
-  },
-  {
-    "tema": "Legislacion Naval",
-    "tipo": "opcion_multiple",
-    "pregunta": "EL PRINCIPIO DE 'RACIONALIDAD' EN EL USO DE LA FUERZA, SEGÚN LA LEY NACIONAL SOBRE EL USO DE LA FUERZA, IMPLICA:",
-    "opciones": {
-      "a": "QUE EL AGENTE PUEDE UTILIZAR LA FUERZA A SU CRITERIO PERSONAL",
-      "b": "QUE LA FUERZA SE EMPLEA CUANDO SEA EL ÚNICO MEDIO DISPONIBLE PARA LOGRAR EL OBJETIVO LEGAL, VALORANDO LA SITUACIÓN",
-      "c": "QUE SIEMPRE DEBE USARSE LA FUERZA LETAL",
-      "d": "QUE LA FUERZA ES IRRACIONAL POR NATURALEZA"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "Ley Nacional sobre el Uso de la Fuerza, Artículo 6"
-  },
-  {
-    "tema": "Legislacion Naval",
-    "tipo": "verdadero_falso",
-    "pregunta": "EL CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE MARINA ESTABLECE QUE LA COOPERACIÓN INTERINSTITUCIONAL ES UN VALOR SECUNDARIO FRENTE A LA COMPETITIVIDAD PERSONAL.",
-    "respuesta_correcta": "b",
-    "fuente": "Código de Conducta de la Secretaría de Marina, Valores fundamentales"
-  },
-  {
-    "tema": "Legislacion Naval",
-    "tipo": "opcion_multiple",
-    "pregunta": "LA 'FLOTA DEL PACÍFICO', CREADA EN 1943 DURANTE LA SEGUNDA GUERRA MUNDIAL, TUVO SU PRINCIPAL BASE DE OPERACIONES EN:",
-    "opciones": {
-      "a": "PUERTO CORTÉS, BAJA CALIFORNIA SUR",
-      "b": "ACAPULCO, GUERRERO",
-      "c": "MANZANILLO, COLIMA",
-      "d": "ENSENADA, BAJA CALIFORNIA"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "Síntesis de Cultura Naval"
-  },
-  {
-    "tema": "Legislacion Naval",
-    "tipo": "verdadero_falso",
-    "pregunta": "EL 20 DE NOVIEMBRE DE 1910, DURANTE EL INICIO DE LA REVOLUCIÓN MEXICANA, LA ARMADA DE MÉXICO APOYÓ CON BUQUES DE GUERRA LAS ACCIONES DE LOS CONSTITUCIONALISTAS EN VERACRUZ.",
-    "respuesta_correcta": "b",
-    "fuente": "Síntesis de Cultura Naval"
-  },
-  {
-    "tema": "Legislacion Naval",
-    "tipo": "opcion_multiple",
-    "pregunta": "LA LEY DE PUERTOS DEFINE A UNA 'MARINA' COMO EL CONJUNTO DE INSTALACIONES PORTUARIAS DESTINADAS EXCLUSIVAMENTE A LA RECREACIÓN, EL DEPORTE NÁUTICO Y EL RESGUARDO DE EMBARCACIONES DE PLACER. SU REGULACIÓN Y VIGILANCIA CORRESPONDE A:",
-    "opciones": {
-      "a": "LA SECRETARÍA DE TURISMO FEDERAL",
-      "b": "LA ADMINISTRACIÓN PORTUARIA INTEGRAL LOCAL",
-      "c": "LA SECRETARÍA DE MARINA",
-      "d": "LOS GOBIERNOS ESTATALES Y MUNICIPALES, SIN INJERENCIA FEDERAL"
-    },
-    "respuesta_correcta": "c",
-    "fuente": "Ley de Puertos, Artículo 19 Bis"
-  },
-  {
-    "tema": "Legislacion Naval",
-    "tipo": "verdadero_falso",
-    "pregunta": "EL REGLAMENTO GENERAL DE DEBERES NAVALES DISPONE QUE TODO PERSONAL TIENE EL DEBER DE VELAR POR LA ECONOMÍA DE LOS BIENES DEL ESTADO, EVITANDO EL DESPERDICIO DE MATERIALES Y RECURSOS.",
-    "respuesta_correcta": "a",
-    "fuente": "Reglamento General de Deberes Navales, Capítulo III"
-  },
-  {
-    "tema": "Legislacion Naval",
-    "tipo": "opcion_multiple",
-    "pregunta": "LA SÍNTESIS DE CULTURA NAVAL SEÑALA QUE LA PRIMERA INTERVENCIÓN AÉREA DE LA ARMADA DE MÉXICO OCURRIÓ EN 1925, CUANDO SE ADQUIRIERON LOS PRIMEROS HIDROAVIONES, Y SE ESTABLECIÓ LA BASE AERONAVAL EN:",
-    "opciones": {
-      "a": "VERACRUZ, VERACRUZ",
-      "b": "LA PAZ, BAJA CALIFORNIA SUR",
-      "c": "PUERTO CORTÉS, BAJA CALIFORNIA SUR",
-      "d": "COZUMEL, QUINTANA ROO"
-    },
-    "respuesta_correcta": "c",
-    "fuente": "Síntesis de Cultura Naval"
-  },
-  {
-    "tema": "Legislacion Naval",
-    "tipo": "verdadero_falso",
-    "pregunta": "LA LEY DE PROTECCIÓN DEL ESPACIO AÉREO MEXICANO FACULTA A LA ARMADA A UTILIZAR LA FUERZA LETAL CONTRA AERONAVES QUE SEAN CONSIDERADAS HOSTILES, SIEMPRE QUE SE HAYAN AGOTADO LOS MEDIOS DE PERSUASIÓN Y SE CUENTE CON AUTORIZACIÓN DEL ALTO MANDO.",
-    "respuesta_correcta": "b",
-    "fuente": "Ley de Protección del Espacio Aéreo Mexicano, Artículo 1, 2 y 3"
-  },
-  {
-    "tema": "Legislacion Naval",
-    "tipo": "opcion_multiple",
-    "pregunta": "LA LEY NACIONAL SOBRE EL USO DE LA FUERZA PROHÍBE EL EMPLEO DE LA FUERZA EN CONTRA DE PERSONAS EN MANIFESTACIONES PACÍFICAS, A MENOS QUE SE PRESENTEN ACTOS DE VIOLENCIA QUE PONGAN EN RIESGO LA SEGURIDAD DE LAS PERSONAS O BIENES. ESTO SE SUSTENTA EN EL PRINCIPIO DE:",
-    "opciones": {
-      "a": "LEGALIDAD",
-      "b": "NECESIDAD",
-      "c": "PROPORCIONALIDAD",
-      "d": "EXCEPCIONALIDAD"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "Ley Nacional sobre el Uso de la Fuerza, Artículo 4 y 7"
-  },
-  {
-    "tema": "Legislacion Naval",
-    "tipo": "verdadero_falso",
-    "pregunta": "EL CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE MARINA CONSIDERA LA RENDICIÓN DE CUENTAS COMO UN RIESGO ÉTICO, POR LO QUE ALIENTA AL PERSONAL A EVITAR JUSTIFICAR DECISIONES ANTE LA SUPERIORIDAD.",
-    "respuesta_correcta": "b",
-    "fuente": "Código de Conducta de la Secretaría de Marina, Riesgos éticos"
-  },
-  {
-    "tema": "Legislacion Naval",
-    "tipo": "opcion_multiple",
-    "pregunta": "LA LEY DE DISCIPLINA PARA EL PERSONAL DE LA ARMADA DE MÉXICO DEFINE EL TÉRMINO 'SUPERIOR JERÁRQUICO' COMO TODO AQUEL QUE:",
-    "opciones": {
-      "a": "OSTENTA UN GRADO MILITAR O EMPLEO SUPERIOR AL DEL SUBALTERNO",
-      "b": "ESTÁ DESTINADO EN LA MISMA UNIDAD O DEPENDENCIA",
-      "c": "TIENE MÁS ANTIGÜEDAD EN EL SERVICIO",
-      "d": "HA SIDO DESIGNADO OFICIAL DE GUARDIA"
-    },
-    "respuesta_correcta": "a",
-    "fuente": "Ley de Disciplina para el Personal de la Armada de México, Artículo 5"
-  },
-  {
-    "tema": "Legislacion Naval",
-    "tipo": "verdadero_falso",
-    "pregunta": "LA LEY ORGÁNICA DE LA ARMADA DE MÉXICO ESTABLECE QUE EL PERSONAL NAVAL SE REGIRÁ POR SU PROPIA LEGISLACIÓN EN LO REFERENTE A LA DISCIPLINA MILITAR, QUEDANDO EXENTOS DE LA APLICACIÓN DE LAS LEYES COMUNES EN ACTOS DEL SERVICIO.",
-    "respuesta_correcta": "b",
-    "fuente": "Ley Orgánica de la Armada de México"
-  },
-  {
-    "tema": "Legislacion Naval",
-    "tipo": "opcion_multiple",
-    "pregunta": "EL 'HIMNO DE LA ARMADA DE MÉXICO', COMPUESTO POR ALICIA GARIBAY Y MÚSICA DE GONZALO CURIEL, FUE ADOPTADO OFICIALMENTE EN EL AÑO:",
-    "opciones": {
-      "a": "1942",
-      "b": "1965",
-      "c": "1977",
-      "d": "1990"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "Síntesis de Cultura Naval"
+    "fuente": "Código de Conducta de la Secretaría de Marina, Glosario"
   }
 ]
