@@ -2,210 +2,144 @@
   {
     "tema": "Conocimientos Especificos",
     "tipo": "opcion_multiple",
-    "pregunta": "¿CUÁL ES LA DEFINICIÓN DE GESTIÓN DOCUMENTAL SEGÚN LA LEY GENERAL DE ARCHIVOS?",
+    "pregunta": "SEGÚN LA LEY GENERAL DE ARCHIVOS, ¿CUÁL ES EL PROPÓSITO PRINCIPAL DE LA GESTIÓN DOCUMENTAL EN LOS ARCHIVOS DE LA ADMINISTRACIÓN PÚBLICA?",
     "opciones": {
-      "a": "PROCESO DE ORGANIZACIÓN Y ALMACENAMIENTO FÍSICO DE DOCUMENTOS",
-      "b": "CONJUNTO DE ACTIVIDADES ADMINISTRATIVAS Y TÉCNICAS TENDIENTES A LA PLANIFICACIÓN, MANEJO Y ORGANIZACIÓN DE LA DOCUMENTACIÓN",
-      "c": "SISTEMA DE CLASIFICACIÓN EXCLUSIVAMENTE PARA ARCHIVOS HISTÓRICOS",
-      "d": "MÉTODO DE DIGITALIZACIÓN DE TODOS LOS DOCUMENTOS INSTITUCIONALES"
+      "a": "ORGANIZAR Y ADMINISTRAR DE FORMA HOMOGÉNEA LOS DOCUMENTOS PARA GARANTIZAR SU ACCESO Y CONSERVACIÓN",
+      "b": "ELIMINAR DOCUMENTOS ANTIGUOS PARA LIBERAR ESPACIO EN LAS INSTALACIONES",
+      "c": "TRANSFERIR TODOS LOS ARCHIVOS A FORMATO DIGITAL SIN EXCEPCIÓN",
+      "d": "CENTRALIZAR ÚNICAMENTE LOS DOCUMENTOS CLASIFICADOS EN UNA SOLA DEPENDENCIA"
     },
-    "respuesta_correcta": "b",
-    "fuente": "Ley General de Archivos - Título Segundo: De la gestión documental y administración de archivos"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "verdadero_falso",
-    "pregunta": "LA VALORACIÓN DOCUMENTAL ES EL PROCESO QUE DETERMINA EL VALOR Y TIEMPO DE CONSERVACIÓN DE LOS DOCUMENTOS EN UN ARCHIVO.",
     "respuesta_correcta": "a",
-    "fuente": "Ley General de Archivos - Título Tercero: De la valoración y conservación de los archivos"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CUÁL ES EL PROPÓSITO PRINCIPAL DE LA DIRECTIVA PARA LA ASIGNACIÓN DE RECURSOS FINANCIEROS DE PASAJES Y VIÁTICOS?",
-    "opciones": {
-      "a": "ESTABLECER NORMAS PARA ADQUISICIÓN DE BIENES Y SERVICIOS",
-      "b": "REGULAR LA ASIGNACIÓN Y CONTROL DE RECURSOS PARA PASAJES Y VIÁTICOS",
-      "c": "DEFINIR POLÍTICAS DE CONTRATACIÓN DE PERSONAL",
-      "d": "AUTORIZAR GASTOS DE OPERACIÓN DE UNIDADES NAVALES"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "Directiva.-DIGADMON.-DEP.-SCC.-DPV.-001/2023. Directiva para la Asignación de Recursos Financieros de Pasajes y Viáticos"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿QUÉ SON LOS PROCESOS TÉCNICOS ARCHIVÍSTICOS SEGÚN EL MANUAL DE ADMINISTRACIÓN ARCHIVÍSTICA?",
-    "opciones": {
-      "a": "PROCEDIMIENTOS DE LIMPIEZA Y MANTENIMIENTO DE DOCUMENTOS",
-      "b": "CONJUNTO DE OPERACIONES TÉCNICAS PARA ORGANIZAR, DESCRIBIR Y CONSERVAR DOCUMENTOS",
-      "c": "MÉTODOS EXCLUSIVOS PARA DIGITALIZACIÓN DE ARCHIVOS",
-      "d": "SISTEMAS DE SEGURIDAD FÍSICA DE LAS INSTALACIONES"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "Manual de Administración Archivística - Definición de los procesos técnicos archivísticos"
+    "fuente": "Ley General de Archivos - Libro I, Título Segundo: De la gestión documental y administración de archivos"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "verdadero_falso",
-    "pregunta": "LA GESTIÓN DE LA INFORMACIÓN AL INTERIOR DE LA INSTITUCIÓN INCLUYE PROCESOS DE RECOPILACIÓN, ORGANIZACIÓN Y DISTRIBUCIÓN DE INFORMACIÓN.",
+    "pregunta": "LA VALORACIÓN DOCUMENTAL ES UN PROCESO TÉCNICO ARCHIVÍSTICO QUE DETERMINA EL VALOR Y EL TIEMPO DE CONSERVACIÓN DE LOS DOCUMENTOS EN LOS ARCHIVOS.",
     "respuesta_correcta": "a",
-    "fuente": "Manual de Gestión de la Información de la Secretaría de Marina - Gestión de la información al interior de la institución"
+    "fuente": "Manual de Administración Archivística - Definición de los procesos técnicos archivísticos y Valoración documental"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "opcion_multiple",
-    "pregunta": "¿CUÁL ES LA FUNCIÓN PRINCIPAL DE LA GESTIÓN DE SOCIALIZACIÓN DE LA INFORMACIÓN?",
+    "pregunta": "¿CUÁL DE LOS SIGUIENTES DOCUMENTOS NAVALES SE DEFINE COMO UN ESCRITO QUE CERTIFICA UN HECHO O CIRCUNSTANCIA ESPECÍFICA OCURRIDA EN UNA UNIDAD O DEPENDENCIA DE LA ARMADA?",
     "opciones": {
-      "a": "ALMACENAR DOCUMENTOS EN BÓVEDAS SEGURAS",
-      "b": "DIFUNDIR Y COMPARTIR INFORMACIÓN INSTITUCIONAL CON PÚBLICOS INTERNOS Y EXTERNOS",
-      "c": "CLASIFICAR DOCUMENTOS POR ANTIGÜEDAD",
-      "d": "DESTRUIR DOCUMENTOS OBSOLETOS"
+      "a": "PARTE RADIOTELEGRÁFICO",
+      "b": "CERTIFICADO",
+      "c": "ACTA",
+      "d": "COPIA CERTIFICADA"
     },
     "respuesta_correcta": "b",
-    "fuente": "Manual de Gestión de la Información de la Secretaría de Marina - Gestión de socialización de la información"
+    "fuente": "Documentación Naval I - Documentación diversa que se genera en las unidades y dependencias de la Armada de México"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "opcion_multiple",
-    "pregunta": "¿QUÉ ES UN PARTE RADIOTELEGRÁFICO EN LA DOCUMENTACIÓN NAVAL?",
+    "pregunta": "EN MICROSOFT WORD 2016, ¿CUÁL ES LA FUNCIÓN PRINCIPAL DE LA HERRAMIENTA DE GRÁFICOS EN UN DOCUMENTO?",
     "opciones": {
-      "a": "DOCUMENTO QUE CERTIFICA LA IDENTIDAD DE UNA PERSONA",
-      "b": "COMUNICACIÓN OFICIAL TRANSMITIDA POR RADIO O TELÉGRAFO",
-      "c": "ACTA DE REUNIÓN ENTRE OFICIALES NAVALES",
-      "d": "CERTIFICADO DE COMPETENCIA PROFESIONAL"
+      "a": "INSERTAR REPRESENTACIONES VISUALES DE DATOS PARA MEJORAR LA PRESENTACIÓN DEL CONTENIDO",
+      "b": "ELIMINAR AUTOMÁTICAMENTE ERRORES DE ORTOGRAFÍA EN EL TEXTO",
+      "c": "CONVERTIR TODO EL DOCUMENTO A FORMATO PDF",
+      "d": "CREAR TABLAS DE CONTENIDO AUTOMÁTICAMENTE"
     },
-    "respuesta_correcta": "b",
-    "fuente": "Documentación Naval I - Partes radiotelegráficos"
+    "respuesta_correcta": "a",
+    "fuente": "Microsoft Word 2016. Manual práctico paso a paso - Gráficos"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "verdadero_falso",
-    "pregunta": "UN CERTIFICADO Y UNA CERTIFICACIÓN SON DOCUMENTOS IDÉNTICOS EN SU CONTENIDO Y PROPÓSITO.",
-    "respuesta_correcta": "b",
+    "pregunta": "LA ACENTUACIÓN EN LA ORTOGRAFÍA DEL IDIOMA ESPAÑOL INCLUYE REGLAS ESPECÍFICAS PARA PALABRAS AGUDAS, GRAVES Y ESDRÚJULAS.",
+    "respuesta_correcta": "a",
+    "fuente": "La ortografía del idioma español. Libro con ejercicios - La acentuación"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁL ES LA DIFERENCIA PRINCIPAL ENTRE UN CERTIFICADO Y UNA CERTIFICACIÓN EN LA DOCUMENTACIÓN NAVAL?",
+    "opciones": {
+      "a": "EL CERTIFICADO ES UN DOCUMENTO SIMPLE MIENTRAS QUE LA CERTIFICACIÓN REQUIERE VALIDACIÓN OFICIAL",
+      "b": "AMBOS SON IDÉNTICOS Y SE USAN INDISTINTAMENTE",
+      "c": "LA CERTIFICACIÓN SOLO SE EMITE EN FORMATO DIGITAL",
+      "d": "EL CERTIFICADO TIENE VALIDEZ INTERNACIONAL Y LA CERTIFICACIÓN SOLO NACIONAL"
+    },
+    "respuesta_correcta": "a",
     "fuente": "Documentación Naval I - Certificado y Certificación"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "opcion_multiple",
-    "pregunta": "¿CUÁL ES LA DIFERENCIA PRINCIPAL ENTRE UNA COPIA CERTIFICADA Y UNA COPIA SIMPLE?",
+    "pregunta": "EN EXCEL BÁSICO, ¿CUÁL ES EL PROPÓSITO PRINCIPAL DE UTILIZAR FÓRMULAS EN UNA HOJA DE CÁLCULO?",
     "opciones": {
-      "a": "LA COPIA CERTIFICADA TIENE VALIDEZ LEGAL Y ESTÁ AUTENTICADA",
-      "b": "LA COPIA SIMPLE ES MÁS ECONÓMICA PERO MENOS LEGIBLE",
-      "c": "LA COPIA CERTIFICADA SOLO SE USA EN ARCHIVOS HISTÓRICOS",
-      "d": "NO EXISTE DIFERENCIA LEGAL ENTRE AMBAS"
+      "a": "REALIZAR CÁLCULOS AUTOMÁTICOS Y PROCESAMIENTO DE DATOS DE MANERA EFICIENTE",
+      "b": "CAMBIAR EL COLOR DE LAS CELDAS SEGÚN EL CONTENIDO",
+      "c": "INSERTAR IMÁGENES EN LA HOJA DE CÁLCULO",
+      "d": "PROTEGER LA HOJA DE CÁLCULO CONTRA MODIFICACIONES"
     },
     "respuesta_correcta": "a",
-    "fuente": "Documentación Naval I - Copias certificadas"
+    "fuente": "Manual de Excel Básico - Uso de fórmulas"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "verdadero_falso",
+    "pregunta": "LOS SIGNOS DE PUNTUACIÓN Y SIGNOS AUXILIARES SON ELEMENTOS FUNDAMENTALES PARA LA CORRECTA ORTOGRAFÍA Y CLARIDAD DEL TEXTO EN ESPAÑOL.",
+    "respuesta_correcta": "a",
+    "fuente": "La ortografía del idioma español. Libro con ejercicios - Signos de puntuación y signos auxiliares"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "opcion_multiple",
-    "pregunta": "¿QUÉ INFORMACIÓN DEBE CONTENER UN ACTA SEGÚN LA DOCUMENTACIÓN NAVAL?",
+    "pregunta": "¿CUÁL DE LAS SIGUIENTES OPCIONES DESCRIBE CORRECTAMENTE QUÉ ES UN ACTA EN LA DOCUMENTACIÓN NAVAL?",
     "opciones": {
-      "a": "SOLO NOMBRES Y FECHAS DE LOS PARTICIPANTES",
-      "b": "REGISTRO DETALLADO DE HECHOS, DECISIONES Y ACUERDOS DE UNA REUNIÓN O EVENTO",
-      "c": "ÚNICAMENTE DATOS FINANCIEROS Y PRESUPUESTARIOS",
-      "d": "INFORMACIÓN CLASIFICADA Y CONFIDENCIAL"
+      "a": "UN DOCUMENTO QUE REGISTRA LOS HECHOS Y ACUERDOS DE UNA REUNIÓN O EVENTO OFICIAL",
+      "b": "UN COMUNICADO RADIOTELEGRÁFICO DE EMERGENCIA",
+      "c": "UNA COPIA AUTENTICADA DE UN DOCUMENTO ORIGINAL",
+      "d": "UN CERTIFICADO DE COMPETENCIA PROFESIONAL"
     },
-    "respuesta_correcta": "b",
+    "respuesta_correcta": "a",
     "fuente": "Documentación Naval I - Actas"
   },
   {
     "tema": "Conocimientos Especificos",
-    "tipo": "verdadero_falso",
-    "pregunta": "EN MICROSOFT WORD 2016, LOS GRÁFICOS PUEDEN INSERTARSE DIRECTAMENTE DESDE LA PESTAÑA INSERTAR.",
+    "tipo": "opcion_multiple",
+    "pregunta": "EN POWER POINT BÁSICO 2016, ¿CUÁL ES LA FUNCIÓN DE LAS VISTAS EN LA PRESENTACIÓN?",
+    "opciones": {
+      "a": "PERMITIR DIFERENTES FORMAS DE VISUALIZAR Y EDITAR LAS DIAPOSITIVAS SEGÚN LA NECESIDAD",
+      "b": "CAMBIAR AUTOMÁTICAMENTE EL IDIOMA DE LA PRESENTACIÓN",
+      "c": "ELIMINAR DIAPOSITIVAS NO DESEADAS",
+      "d": "EXPORTAR LA PRESENTACIÓN A DIFERENTES FORMATOS"
+    },
     "respuesta_correcta": "a",
-    "fuente": "Microsoft Word 2016. Manual Práctico Paso a Paso - Gráficos"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CUÁL ES LA REGLA PRINCIPAL PARA LA ACENTUACIÓN EN ESPAÑOL?",
-    "opciones": {
-      "a": "TODAS LAS PALABRAS DEBEN LLEVAR ACENTO ORTOGRÁFICO",
-      "b": "LAS PALABRAS AGUDAS TERMINADAS EN VOCAL, N O S LLEVAN ACENTO",
-      "c": "SOLO LAS PALABRAS ESDRÚJULAS LLEVAN ACENTO",
-      "d": "LA ACENTUACIÓN DEPENDE DEL CONTEXTO DE LA ORACIÓN"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "La Ortografía del Idioma Español - La acentuación"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CUÁL ES LA FUNCIÓN DEL PUNTO Y COMA EN LA PUNTUACIÓN?",
-    "opciones": {
-      "a": "SEPARAR PALABRAS DENTRO DE UNA ORACIÓN",
-      "b": "INDICAR UNA PAUSA MAYOR QUE LA COMA PERO MENOR QUE EL PUNTO",
-      "c": "REEMPLAZAR SIEMPRE AL PUNTO FINAL",
-      "d": "SEPARAR ÚNICAMENTE NÚMEROS EN LISTAS"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "La Ortografía del Idioma Español - Signos de puntuación y signos auxiliares"
+    "fuente": "Power Point Básico 2016. Manual Actualización Tecnológica - Las vistas"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "verdadero_falso",
-    "pregunta": "LOS VERBOS EN INFINITIVO SIEMPRE TERMINAN EN -AR, -ER O -IR EN ESPAÑOL.",
+    "pregunta": "LA GESTIÓN DE LA INFORMACIÓN EN LA SECRETARÍA DE MARINA INCLUYE PROCESOS DE SOCIALIZACIÓN DE LA INFORMACIÓN INSTITUCIONAL.",
     "respuesta_correcta": "a",
-    "fuente": "La Ortografía del Idioma Español - El verbo"
+    "fuente": "Manual de Gestión de la Información de la Secretaría de Marina – Armada de México - Gestión de socialización de la información de la institución"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "opcion_multiple",
-    "pregunta": "¿CUÁNDO SE UTILIZA LA LETRA 'Z' EN LUGAR DE 'C' EN ESPAÑOL?",
+    "pregunta": "¿CUÁL ES EL OBJETIVO PRINCIPAL DE LA DIRECTIVA PARA LA ASIGNACIÓN DE RECURSOS FINANCIEROS DE PASAJES Y VIÁTICOS EN LA SECRETARÍA DE MARINA?",
     "opciones": {
-      "a": "SIEMPRE QUE PRECEDA A LAS VOCALES A, O, U",
-      "b": "SOLO EN PALABRAS DE ORIGEN GRIEGO",
-      "c": "NUNCA, LA 'C' SIEMPRE ES CORRECTA",
-      "d": "DEPENDE DEL PAÍS HISPANOHABLANTE"
+      "a": "ESTABLECER NORMAS Y CRITERIOS PARA LA ASIGNACIÓN ORDENADA DE RECURSOS DE VIAJE",
+      "b": "PROHIBIR COMPLETAMENTE LOS VIAJES DEL PERSONAL NAVAL",
+      "c": "CENTRALIZAR TODOS LOS FONDOS EN UNA SOLA DEPENDENCIA",
+      "d": "ELIMINAR LOS GASTOS DE TRANSPORTE DEL PRESUPUESTO ANUAL"
     },
     "respuesta_correcta": "a",
-    "fuente": "La Ortografía del Idioma Español - Ortografía de las letras"
+    "fuente": "Directiva.-DIGADMON.-DEP.-SCC.-DPV.-001/2023. Directiva para la Asignación de Recursos Financieros de Pasajes y Viáticos de la Secretaría de Marina"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "opcion_multiple",
-    "pregunta": "¿QUÉ ES UNA FÓRMULA EN EXCEL?",
+    "pregunta": "EN EXCEL BÁSICO, ¿QUÉ SON LAS LISTAS DE DATOS Y CUÁL ES SU UTILIDAD PRINCIPAL?",
     "opciones": {
-      "a": "UN TEXTO DESCRIPTIVO DENTRO DE UNA CELDA",
-      "b": "UNA ECUACIÓN QUE REALIZA CÁLCULOS CON VALORES DE CELDAS",
-      "c": "UN FORMATO DE CELDA PARA MOSTRAR NÚMEROS",
-      "d": "UN TIPO DE GRÁFICO ESTADÍSTICO"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "Manual de Excel Básico - Uso de fórmulas"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "verdadero_falso",
-    "pregunta": "EN EXCEL, LAS FÓRMULAS SIEMPRE COMIENZAN CON EL SÍMBOLO DE IGUAL (=).",
-    "respuesta_correcta": "a",
-    "fuente": "Manual de Excel Básico - Uso de fórmulas"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CUÁL ES LA FUNCIÓN PRINCIPAL DE LOS GRÁFICOS EN EXCEL?",
-    "opciones": {
-      "a": "DECORAR LA HOJA DE CÁLCULO",
-      "b": "REPRESENTAR VISUALMENTE DATOS PARA FACILITAR SU ANÁLISIS",
-      "c": "REEMPLAZAR LAS FÓRMULAS MATEMÁTICAS",
-      "d": "PROTEGER LOS DATOS DE LA HOJA"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "Manual de Excel Básico - Gráficos"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿QUÉ ES UNA LISTA DE DATOS EN EXCEL?",
-    "opciones": {
-      "a": "UN CONJUNTO DE CELDAS ORGANIZADAS EN FILAS Y COLUMNAS CON INFORMACIÓN RELACIONADA",
-      "b": "UN TIPO DE GRÁFICO CIRCULAR",
-      "c": "UNA FÓRMULA PARA SUMAR NÚMEROS",
-      "d": "UN FORMATO DE CELDA ESPECIAL"
+      "a": "CONJUNTOS ORGANIZADOS DE INFORMACIÓN QUE PERMITEN FILTRAR, ORDENAR Y ANALIZAR DATOS EFICIENTEMENTE",
+      "b": "ARCHIVOS EXTERNOS QUE SE IMPORTAN DESDE OTRAS APLICACIONES",
+      "c": "GRÁFICOS ESTADÍSTICOS PREDEFINIDOS EN LA APLICACIÓN",
+      "d": "FÓRMULAS COMPLEJAS QUE SOLO PUEDEN USARSE EN HOJAS PROTEGIDAS"
     },
     "respuesta_correcta": "a",
     "fuente": "Manual de Excel Básico - Listas de datos"
@@ -213,984 +147,998 @@
   {
     "tema": "Conocimientos Especificos",
     "tipo": "verdadero_falso",
-    "pregunta": "LA EDICIÓN DE UNA HOJA DE CÁLCULO EN EXCEL INCLUYE OPERACIONES COMO INSERTAR, ELIMINAR Y MODIFICAR CELDAS.",
+    "pregunta": "EN POWER POINT BÁSICO 2016, TRABAJAR CON DIAPOSITIVAS INCLUYE FUNCIONES PARA CREAR, DUPLICAR, ELIMINAR Y REORGANIZAR DIAPOSITIVAS EN LA PRESENTACIÓN.",
+    "respuesta_correcta": "a",
+    "fuente": "Power Point Básico 2016. Manual Actualización Tecnológica - Trabajar con diapositivas"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁL ES LA FUNCIÓN PRINCIPAL DE LA SEGURIDAD DE LA INFORMACIÓN EN LA SECRETARÍA DE MARINA SEGÚN EL DAM 1.9?",
+    "opciones": {
+      "a": "PROTEGER LA INFORMACIÓN INSTITUCIONAL MEDIANTE UN MODELO DOCTRINARIO INTEGRAL",
+      "b": "ELIMINAR TODOS LOS DOCUMENTOS DIGITALES DE LA INSTITUCIÓN",
+      "c": "CENTRALIZAR LA INFORMACIÓN EN UN ÚNICO SERVIDOR SIN RESPALDO",
+      "d": "PERMITIR ACCESO IRRESTRICTO A TODA LA INFORMACIÓN CLASIFICADA"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "DAM. 1.9. Seguridad de la Información - Conceptualización de la seguridad de la información en la Secretaría de Marina - Armada de México"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁL DE LAS SIGUIENTES OPCIONES DESCRIBE CORRECTAMENTE QUÉ ES UNA COPIA CERTIFICADA EN LA DOCUMENTACIÓN NAVAL?",
+    "opciones": {
+      "a": "UNA REPRODUCCIÓN AUTENTICADA DE UN DOCUMENTO ORIGINAL QUE TIENE VALIDEZ LEGAL",
+      "b": "UNA COPIA SIMPLE SIN VALIDACIÓN OFICIAL",
+      "c": "UN DOCUMENTO ORIGINAL QUE NO REQUIERE AUTENTICACIÓN",
+      "d": "UNA COPIA TEMPORAL QUE PIERDE VALIDEZ DESPUÉS DE TREINTA DÍAS"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Documentación Naval I - Copias certificadas"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "verdadero_falso",
+    "pregunta": "LA EDICIÓN DE UNA HOJA DE CÁLCULO EN EXCEL BÁSICO INCLUYE OPERACIONES COMO INSERTAR, ELIMINAR Y MODIFICAR CELDAS, FILAS Y COLUMNAS.",
     "respuesta_correcta": "a",
     "fuente": "Manual de Excel Básico - Edición de una hoja de cálculo"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "opcion_multiple",
-    "pregunta": "¿CUÁL ES LA FUNCIÓN DE LAS VISTAS EN POWERPOINT?",
+    "pregunta": "EN MICROSOFT WORD 2016, ¿CUÁL ES LA UTILIDAD DE LOS GRÁFICOS EN UN DOCUMENTO OFICIAL?",
     "opciones": {
-      "a": "MOSTRAR DIFERENTES FORMAS DE VER Y TRABAJAR CON LAS DIAPOSITIVAS",
-      "b": "CAMBIAR EL COLOR DE FONDO DE LAS DIAPOSITIVAS",
-      "c": "INSERTAR IMÁGENES EN LAS PRESENTACIONES",
-      "d": "PROTEGER LA PRESENTACIÓN CON CONTRASEÑA"
+      "a": "PRESENTAR INFORMACIÓN VISUAL Y ESTADÍSTICA DE MANERA CLARA Y PROFESIONAL",
+      "b": "REEMPLAZAR COMPLETAMENTE EL TEXTO ESCRITO",
+      "c": "AUMENTAR AUTOMÁTICAMENTE EL TAMAÑO DEL DOCUMENTO",
+      "d": "PROTEGER EL DOCUMENTO CONTRA COPIAS NO AUTORIZADAS"
     },
     "respuesta_correcta": "a",
-    "fuente": "Power Point Básico 2016. Manual Actualización Tecnológica - Las vistas"
+    "fuente": "Microsoft Word 2016. Manual práctico paso a paso - Gráficos"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "opcion_multiple",
-    "pregunta": "¿QUÉ PERMITE HACER LA OPCIÓN 'TRABAJAR CON DIAPOSITIVAS' EN POWERPOINT?",
+    "pregunta": "¿CUÁL ES EL PROPÓSITO PRINCIPAL DE LA GESTIÓN DE LA INFORMACIÓN AL INTERIOR DE LA SECRETARÍA DE MARINA?",
     "opciones": {
-      "a": "CREAR, DUPLICAR, ELIMINAR Y REORGANIZAR DIAPOSITIVAS",
-      "b": "SOLO VISUALIZAR LAS DIAPOSITIVAS EXISTENTES",
-      "c": "CAMBIAR EL IDIOMA DE LA PRESENTACIÓN",
-      "d": "EXPORTAR LA PRESENTACIÓN A OTROS FORMATOS"
+      "a": "ORGANIZAR, PROCESAR Y DISTRIBUIR LA INFORMACIÓN INSTITUCIONAL DE MANERA EFICIENTE Y SEGURA",
+      "b": "MANTENER TODA LA INFORMACIÓN CLASIFICADA SIN ACCESO ALGUNO",
+      "c": "ELIMINAR REGISTROS HISTÓRICOS PARA REDUCIR ALMACENAMIENTO",
+      "d": "TRANSFERIR TODA LA INFORMACIÓN A TERCEROS SIN RESTRICCIÓN"
     },
     "respuesta_correcta": "a",
-    "fuente": "Power Point Básico 2016. Manual Actualización Tecnológica - Trabajar con diapositivas"
+    "fuente": "Manual de Gestión de la Información de la Secretaría de Marina – Armada de México - Gestión de la información al interior de la institución"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "verdadero_falso",
-    "pregunta": "EN POWERPOINT, LOS OBJETOS COMO FORMAS, IMÁGENES Y TEXTO PUEDEN MANIPULARSE DIRECTAMENTE EN LAS DIAPOSITIVAS.",
+    "pregunta": "EN POWER POINT BÁSICO 2016, MANEJAR OBJETOS PERMITE INSERTAR, MODIFICAR Y POSICIONAR ELEMENTOS COMO IMÁGENES, FORMAS Y TEXTO EN LAS DIAPOSITIVAS.",
     "respuesta_correcta": "a",
     "fuente": "Power Point Básico 2016. Manual Actualización Tecnológica - Manejar objetos"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "opcion_multiple",
-    "pregunta": "¿QUÉ INCLUYE EL CONCEPTO DE SEGURIDAD DE LA INFORMACIÓN EN LA SECRETARÍA DE MARINA?",
+    "pregunta": "¿CUÁL DE LAS SIGUIENTES OPCIONES DESCRIBE CORRECTAMENTE LA FUNCIÓN DE UN PARTE RADIOTELEGRÁFICO EN LA DOCUMENTACIÓN NAVAL?",
     "opciones": {
-      "a": "SOLO LA PROTECCIÓN FÍSICA DE DOCUMENTOS",
-      "b": "PROTECCIÓN DE DATOS, SISTEMAS Y PROCESOS CONTRA ACCESOS NO AUTORIZADOS",
-      "c": "ÚNICAMENTE LA VIGILANCIA DE INSTALACIONES",
-      "d": "LA DESTRUCCIÓN DE INFORMACIÓN CLASIFICADA"
+      "a": "UN COMUNICADO OFICIAL TRANSMITIDO POR RADIO QUE REGISTRA INFORMACIÓN IMPORTANTE DE LA UNIDAD",
+      "b": "UN DOCUMENTO IMPRESO QUE SOLO SE ARCHIVA EN PAPEL",
+      "c": "UN CERTIFICADO DE COMPETENCIA PROFESIONAL DEL PERSONAL",
+      "d": "UN ACTA DE REUNIÓN ENTRE OFICIALES NAVALES"
     },
-    "respuesta_correcta": "b",
-    "fuente": "DAM. 1.9. Seguridad de la Información - Conceptualización de la seguridad de la información"
+    "respuesta_correcta": "a",
+    "fuente": "Documentación Naval I - Partes radiotelegráficos"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "opcion_multiple",
-    "pregunta": "¿CUÁL ES EL PROPÓSITO DEL MODELO DOCTRINARIO DE SEGURIDAD DE LA INFORMACIÓN?",
+    "pregunta": "EN EXCEL BÁSICO, ¿CUÁL ES LA FUNCIÓN PRINCIPAL DE LOS GRÁFICOS EN UNA HOJA DE CÁLCULO?",
     "opciones": {
-      "a": "ESTABLECER NORMAS PARA COMPRAS DE EQUIPO INFORMÁTICO",
-      "b": "PROPORCIONAR UN MARCO CONCEPTUAL PARA PROTEGER LA INFORMACIÓN INSTITUCIONAL",
-      "c": "DEFINIR SALARIOS DEL PERSONAL DE TECNOLOGÍA",
-      "d": "AUTORIZAR EL USO DE REDES SOCIALES"
+      "a": "REPRESENTAR VISUALMENTE LOS DATOS PARA FACILITAR SU ANÁLISIS E INTERPRETACIÓN",
+      "b": "ELIMINAR AUTOMÁTICAMENTE DATOS DUPLICADOS",
+      "c": "CONVERTIR FÓRMULAS EN VALORES PERMANENTES",
+      "d": "PROTEGER LAS CELDAS CONTRA MODIFICACIONES EXTERNAS"
     },
-    "respuesta_correcta": "b",
-    "fuente": "DAM. 1.9. Seguridad de la Información - Modelo doctrinario de Seguridad de la Información"
+    "respuesta_correcta": "a",
+    "fuente": "Manual de Excel Básico - Gráficos"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "verdadero_falso",
-    "pregunta": "EL GLOSARIO DE TÉRMINOS EN SEGURIDAD DE LA INFORMACIÓN DEFINE CONCEPTOS CLAVE PARA ENTENDER LAS POLÍTICAS DE PROTECCIÓN DE DATOS.",
+    "pregunta": "LA ORTOGRAFÍA DE LAS LETRAS EN ESPAÑOL INCLUYE REGLAS ESPECÍFICAS PARA EL USO CORRECTO DE LETRAS COMO LA B, V, C, Z, S Y J.",
+    "respuesta_correcta": "a",
+    "fuente": "La ortografía del idioma español. Libro con ejercicios - Ortografía de las letras"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁL ES EL OBJETIVO PRINCIPAL DE LA VALORACIÓN Y CONSERVACIÓN DE ARCHIVOS SEGÚN LA LEY GENERAL DE ARCHIVOS?",
+    "opciones": {
+      "a": "DETERMINAR EL VALOR HISTÓRICO Y LEGAL DE LOS DOCUMENTOS PARA ASEGURAR SU PRESERVACIÓN ADECUADA",
+      "b": "ELIMINAR TODOS LOS DOCUMENTOS ANTIGUOS SIN EXCEPCIÓN",
+      "c": "TRANSFERIR ARCHIVOS A INSTITUCIONES PRIVADAS",
+      "d": "DIGITALIZAR ÚNICAMENTE LOS DOCUMENTOS RECIENTES"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Ley General de Archivos - Libro I, Título Tercero: De la valoración y conservación de los archivos"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "EN MICROSOFT WORD 2016, ¿CUÁL ES LA VENTAJA DE UTILIZAR GRÁFICOS EN DOCUMENTOS ADMINISTRATIVOS Y TÉCNICOS?",
+    "opciones": {
+      "a": "MEJORAR LA PRESENTACIÓN VISUAL Y FACILITAR LA COMPRENSIÓN DE DATOS COMPLEJOS",
+      "b": "REDUCIR EL NÚMERO DE PÁGINAS DEL DOCUMENTO",
+      "c": "ELIMINAR LA NECESIDAD DE ESCRIBIR TEXTO EXPLICATIVO",
+      "d": "AUMENTAR AUTOMÁTICAMENTE EL TAMAÑO DE FUENTE"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Microsoft Word 2016. Manual práctico paso a paso - Gráficos"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "verdadero_falso",
+    "pregunta": "EL VERBO EN ESPAÑOL TIENE CARACTERÍSTICAS COMO CONJUGACIÓN, TIEMPO, MODO Y ASPECTO QUE DEBEN APLICARSE CORRECTAMENTE EN LA ESCRITURA.",
+    "respuesta_correcta": "a",
+    "fuente": "La ortografía del idioma español. Libro con ejercicios - El verbo"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁL ES EL CONTENIDO PRINCIPAL DEL GLOSARIO DE TÉRMINOS EN EL DAM 1.9 SOBRE SEGURIDAD DE LA INFORMACIÓN?",
+    "opciones": {
+      "a": "DEFINICIONES DE CONCEPTOS CLAVE RELACIONADOS CON LA SEGURIDAD DE LA INFORMACIÓN INSTITUCIONAL",
+      "b": "LISTA DE EMPLEADOS AUTORIZADOS PARA ACCEDER A INFORMACIÓN CLASIFICADA",
+      "c": "PROCEDIMIENTOS PARA ELIMINAR INFORMACIÓN CONFIDENCIAL",
+      "d": "DIRECTRICES PARA COMPARTIR INFORMACIÓN CON ENTIDADES EXTERNAS"
+    },
     "respuesta_correcta": "a",
     "fuente": "DAM. 1.9. Seguridad de la Información - Anexo A. Glosario de términos"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "opcion_multiple",
-    "pregunta": "¿CUÁL ES LA IMPORTANCIA DE LA GESTIÓN DOCUMENTAL EN UNA INSTITUCIÓN?",
+    "pregunta": "EN EXCEL BÁSICO, ¿CUÁL ES LA DIFERENCIA ENTRE UNA FÓRMULA Y UN VALOR EN UNA CELDA?",
     "opciones": {
-      "a": "SOLO CUMPLIR CON REQUISITOS LEGALES",
-      "b": "ORGANIZAR, CONTROLAR Y PRESERVAR INFORMACIÓN PARA FACILITAR SU ACCESO Y USO",
-      "c": "ELIMINAR DOCUMENTOS ANTIGUOS",
-      "d": "REDUCIR COSTOS DE OPERACIÓN"
+      "a": "LA FÓRMULA REALIZA CÁLCULOS AUTOMÁTICOS MIENTRAS QUE EL VALOR ES UN DATO ESTÁTICO",
+      "b": "AMBOS SON IDÉNTICOS Y SE USAN INDISTINTAMENTE",
+      "c": "EL VALOR SIEMPRE ES NUMÉRICO Y LA FÓRMULA SOLO TEXTUAL",
+      "d": "LA FÓRMULA NO PUEDE MODIFICARSE UNA VEZ INGRESADA"
     },
-    "respuesta_correcta": "b",
-    "fuente": "Ley General de Archivos - Título Segundo: De la gestión documental y administración de archivos"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿QUÉ DETERMINA LA VALORACIÓN DOCUMENTAL?",
-    "opciones": {
-      "a": "EL COSTO ECONÓMICO DE LOS DOCUMENTOS",
-      "b": "EL VALOR HISTÓRICO, LEGAL Y ADMINISTRATIVO DE LOS DOCUMENTOS",
-      "c": "EL TAMAÑO FÍSICO DE LOS ARCHIVOS",
-      "d": "LA ANTIGÜEDAD DE LOS DOCUMENTOS"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "Manual de Administración Archivística - Valoración documental"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "verdadero_falso",
-    "pregunta": "LA CONSERVACIÓN DE ARCHIVOS INCLUYE MEDIDAS PARA PROTEGER LOS DOCUMENTOS DEL DETERIORO Y DAÑO.",
-    "respuesta_correcta": "a",
-    "fuente": "Ley General de Archivos - Título Tercero: De la valoración y conservación de los archivos"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CUÁL ES EL OBJETIVO DE LA DIRECTIVA DE PASAJES Y VIÁTICOS?",
-    "opciones": {
-      "a": "PROHIBIR TODOS LOS VIAJES DEL PERSONAL",
-      "b": "REGULAR Y CONTROLAR LA ASIGNACIÓN DE RECURSOS PARA DESPLAZAMIENTOS",
-      "c": "AUMENTAR INDEFINIDAMENTE LOS GASTOS DE VIÁTICOS",
-      "d": "ELIMINAR LOS VIAJES OFICIALES"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "Directiva.-DIGADMON.-DEP.-SCC.-DPV.-001/2023. Directiva para la Asignación de Recursos Financieros de Pasajes y Viáticos"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿QUÉ TIPOS DE DOCUMENTACIÓN NAVAL SE GENERAN EN LAS UNIDADES Y DEPENDENCIAS?",
-    "opciones": {
-      "a": "SOLO REPORTES FINANCIEROS",
-      "b": "PARTES RADIOTELEGRÁFICOS, CERTIFICADOS, ACTAS Y COPIAS CERTIFICADAS",
-      "c": "ÚNICAMENTE ACTAS DE REUNIONES",
-      "d": "SOLO DOCUMENTOS HISTÓRICOS"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "Documentación Naval I - Documentación diversa que se genera en las unidades y dependencias"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "verdadero_falso",
-    "pregunta": "LOS GRÁFICOS EN MICROSOFT WORD PUEDEN EDITARSE DIRECTAMENTE DENTRO DEL DOCUMENTO.",
-    "respuesta_correcta": "a",
-    "fuente": "Microsoft Word 2016. Manual Práctico Paso a Paso - Gráficos"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CUÁL ES LA REGLA PARA ACENTUAR PALABRAS ESDRÚJULAS EN ESPAÑOL?",
-    "opciones": {
-      "a": "NUNCA LLEVAN ACENTO",
-      "b": "SIEMPRE LLEVAN ACENTO ORTOGRÁFICO",
-      "c": "SOLO SI TERMINAN EN VOCAL",
-      "d": "DEPENDE DE SU ORIGEN ETIMOLÓGICO"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "La Ortografía del Idioma Español - La acentuación"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CUÁL ES LA FUNCIÓN DE LOS SIGNOS AUXILIARES EN LA ESCRITURA?",
-    "opciones": {
-      "a": "DECORAR EL TEXTO",
-      "b": "FACILITAR LA COMPRENSIÓN Y CLARIDAD DEL MENSAJE ESCRITO",
-      "c": "REEMPLAZAR LAS PALABRAS",
-      "d": "INDICAR ERRORES GRAMATICALES"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "La Ortografía del Idioma Español - Signos de puntuación y signos auxiliares"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "verdadero_falso",
-    "pregunta": "LOS VERBOS CONJUGADOS SIEMPRE MANTIENEN LA MISMA RAÍZ QUE EL INFINITIVO.",
-    "respuesta_correcta": "a",
-    "fuente": "La Ortografía del Idioma Español - El verbo"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CUÁNDO SE UTILIZA LA LETRA 'H' EN ESPAÑOL?",
-    "opciones": {
-      "a": "SIEMPRE AL INICIO DE PALABRAS",
-      "b": "EN PALABRAS QUE COMIENZAN CON LOS DIPTONGOS 'UE' Y 'UES'",
-      "c": "NUNCA, ES UNA LETRA OBSOLETA",
-      "d": "SOLO EN PALABRAS DE ORIGEN LATINO"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "La Ortografía del Idioma Español - Ortografía de las letras"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿QUÉ OPERACIONES BÁSICAS PUEDEN REALIZARSE EN UNA HOJA DE CÁLCULO DE EXCEL?",
-    "opciones": {
-      "a": "SOLO VISUALIZAR DATOS",
-      "b": "INSERTAR, ELIMINAR, COPIAR Y MODIFICAR CELDAS Y SUS CONTENIDOS",
-      "c": "ÚNICAMENTE CREAR GRÁFICOS",
-      "d": "SOLO IMPRIMIR DOCUMENTOS"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "Manual de Excel Básico - Edición de una hoja de cálculo"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "verdadero_falso",
-    "pregunta": "EN EXCEL, UNA FÓRMULA PUEDE CONTENER REFERENCIAS A OTRAS CELDAS.",
     "respuesta_correcta": "a",
     "fuente": "Manual de Excel Básico - Uso de fórmulas"
   },
   {
     "tema": "Conocimientos Especificos",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CUÁLES SON LOS TIPOS DE GRÁFICOS MÁS COMUNES EN EXCEL?",
-    "opciones": {
-      "a": "SOLO GRÁFICOS DE BARRAS",
-      "b": "BARRAS, LÍNEAS, CIRCULARES Y DE DISPERSIÓN",
-      "c": "ÚNICAMENTE GRÁFICOS CIRCULARES",
-      "d": "SOLO GRÁFICOS DE ÁREA"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "Manual de Excel Básico - Gráficos"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CUÁL ES LA VISTA NORMAL EN POWERPOINT?",
-    "opciones": {
-      "a": "LA QUE MUESTRA SOLO EL ESQUEMA DEL TEXTO",
-      "b": "LA QUE PERMITE EDITAR DIAPOSITIVAS INDIVIDUALES CON TODOS SUS ELEMENTOS",
-      "c": "LA QUE MUESTRA TODAS LAS DIAPOSITIVAS EN MINIATURA",
-      "d": "LA QUE SOLO PERMITE VER NOTAS"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "Power Point Básico 2016. Manual Actualización Tecnológica - Las vistas"
-  },
-  {
-    "tema": "Conocimientos Especificos",
     "tipo": "verdadero_falso",
-    "pregunta": "EN POWERPOINT, LAS DIAPOSITIVAS PUEDEN REORGANIZARSE USANDO LA VISTA DE CLASIFICADOR DE DIAPOSITIVAS.",
+    "pregunta": "LA GESTIÓN DE LA INFORMACIÓN EN LA SECRETARÍA DE MARINA INCLUYE PROCESOS DE SOCIALIZACIÓN PARA DIFUNDIR INFORMACIÓN INSTITUCIONAL ENTRE EL PERSONAL.",
     "respuesta_correcta": "a",
-    "fuente": "Power Point Básico 2016. Manual Actualización Tecnológica - Trabajar con diapositivas"
+    "fuente": "Manual de Gestión de la Información de la Secretaría de Marina – Armada de México - Gestión de socialización de la información de la institución"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "opcion_multiple",
-    "pregunta": "¿QUÉ TIPOS DE OBJETOS PUEDEN MANIPULARSE EN POWERPOINT?",
+    "pregunta": "¿CUÁL ES EL PROPÓSITO PRINCIPAL DE LA ADMINISTRACIÓN ARCHIVÍSTICA SEGÚN EL MANUAL CORRESPONDIENTE?",
     "opciones": {
-      "a": "SOLO TEXTO",
-      "b": "FORMAS, IMÁGENES, TEXTO, TABLAS Y GRÁFICOS",
-      "c": "ÚNICAMENTE IMÁGENES",
-      "d": "SOLO TABLAS"
+      "a": "ORGANIZAR, CONSERVAR Y FACILITAR EL ACCESO A LOS DOCUMENTOS DE FORMA SISTEMÁTICA",
+      "b": "ELIMINAR DOCUMENTOS PARA LIBERAR ESPACIO FÍSICO",
+      "c": "CENTRALIZAR TODOS LOS ARCHIVOS EN UNA ÚNICA UBICACIÓN",
+      "d": "TRANSFERIR ARCHIVOS A INSTITUCIONES EXTERNAS"
     },
-    "respuesta_correcta": "b",
-    "fuente": "Power Point Básico 2016. Manual Actualización Tecnológica - Manejar objetos"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CUÁL ES LA DIFERENCIA ENTRE CONFIDENCIALIDAD E INTEGRIDAD EN SEGURIDAD DE LA INFORMACIÓN?",
-    "opciones": {
-      "a": "SON TÉRMINOS SINÓNIMOS",
-      "b": "CONFIDENCIALIDAD PROTEGE CONTRA ACCESO NO AUTORIZADO; INTEGRIDAD PROTEGE CONTRA MODIFICACIÓN NO AUTORIZADA",
-      "c": "INTEGRIDAD ES MÁS IMPORTANTE QUE CONFIDENCIALIDAD",
-      "d": "NO EXISTE DIFERENCIA PRÁCTICA"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "DAM. 1.9. Seguridad de la Información - Conceptualización de la seguridad de la información"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "verdadero_falso",
-    "pregunta": "LA DISPONIBILIDAD ES UN COMPONENTE CLAVE DE LA SEGURIDAD DE LA INFORMACIÓN.",
-    "respuesta_correcta": "a",
-    "fuente": "DAM. 1.9. Seguridad de la Información - Modelo doctrinario de Seguridad de la Información"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CUÁL ES EL PRIMER PASO EN EL PROCESO DE GESTIÓN DOCUMENTAL?",
-    "opciones": {
-      "a": "DESTRUIR DOCUMENTOS ANTIGUOS",
-      "b": "IDENTIFICAR Y CLASIFICAR LOS DOCUMENTOS A GESTIONAR",
-      "c": "ARCHIVAR TODOS LOS DOCUMENTOS",
-      "d": "DIGITALIZAR INMEDIATAMENTE"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "Ley General de Archivos - Título Segundo: De la gestión documental y administración de archivos"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿QUÉ ESTABLECE LA CONSERVACIÓN DE ARCHIVOS?",
-    "opciones": {
-      "a": "SOLO GUARDAR DOCUMENTOS RECIENTES",
-      "b": "MANTENER DOCUMENTOS EN CONDICIONES ÓPTIMAS DURANTE SU PERÍODO DE RETENCIÓN",
-      "c": "ELIMINAR TODOS LOS DOCUMENTOS DESPUÉS DE UN AÑO",
-      "d": "GUARDAR DOCUMENTOS SIN PROTECCIÓN"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "Ley General de Archivos - Título Tercero: De la valoración y conservación de los archivos"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "verdadero_falso",
-    "pregunta": "LA ADMINISTRACIÓN ARCHIVÍSTICA INCLUYE PROCESOS DE ORGANIZACIÓN, DESCRIPCIÓN Y CONSERVACIÓN DE DOCUMENTOS.",
     "respuesta_correcta": "a",
     "fuente": "Manual de Administración Archivística - Definición de los procesos técnicos archivísticos"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "opcion_multiple",
-    "pregunta": "¿CUÁL ES EL PROPÓSITO DE LA GESTIÓN DE INFORMACIÓN AL INTERIOR DE LA INSTITUCIÓN?",
+    "pregunta": "EN POWER POINT BÁSICO 2016, ¿CUÁL ES LA FUNCIÓN PRINCIPAL DE LAS VISTAS EN LA EDICIÓN DE PRESENTACIONES?",
     "opciones": {
-      "a": "MANTENER INFORMACIÓN OCULTA",
-      "b": "RECOPILAR, ORGANIZAR Y DISTRIBUIR INFORMACIÓN PARA APOYAR DECISIONES",
-      "c": "ELIMINAR INFORMACIÓN INNECESARIA",
-      "d": "SOLO ARCHIVAR DOCUMENTOS"
+      "a": "PROPORCIONAR DIFERENTES PERSPECTIVAS PARA VISUALIZAR Y EDITAR EL CONTENIDO DE LAS DIAPOSITIVAS",
+      "b": "CAMBIAR AUTOMÁTICAMENTE EL TEMA DE LA PRESENTACIÓN",
+      "c": "EXPORTAR LA PRESENTACIÓN A DIFERENTES FORMATOS",
+      "d": "PROTEGER LA PRESENTACIÓN CONTRA ACCESO NO AUTORIZADO"
     },
-    "respuesta_correcta": "b",
-    "fuente": "Manual de Gestión de la Información de la Secretaría de Marina - Gestión de la información al interior de la institución"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿QUIÉN PUEDE ACCEDER A LA INFORMACIÓN SOCIALIZADA POR LA INSTITUCIÓN?",
-    "opciones": {
-      "a": "SOLO PERSONAL MILITAR",
-      "b": "PÚBLICOS INTERNOS Y EXTERNOS SEGÚN POLÍTICAS INSTITUCIONALES",
-      "c": "NADIE FUERA DE LA INSTITUCIÓN",
-      "d": "SOLO DIRECTIVOS"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "Manual de Gestión de la Información de la Secretaría de Marina - Gestión de socialización de la información"
+    "respuesta_correcta": "a",
+    "fuente": "Power Point Básico 2016. Manual Actualización Tecnológica - Las vistas"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "verdadero_falso",
-    "pregunta": "UN CERTIFICADO NAVAL VALIDA LA AUTENTICIDAD DE UN DOCUMENTO O HECHO.",
+    "pregunta": "LOS PROCESOS TÉCNICOS ARCHIVÍSTICOS INCLUYEN ACTIVIDADES COMO CLASIFICACIÓN, DESCRIPCIÓN Y VALORACIÓN DE DOCUMENTOS.",
+    "respuesta_correcta": "a",
+    "fuente": "Manual de Administración Archivística - Definición de los procesos técnicos archivísticos"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁL ES EL MODELO DOCTRINARIO DE SEGURIDAD DE LA INFORMACIÓN EN LA SECRETARÍA DE MARINA SEGÚN EL DAM 1.9?",
+    "opciones": {
+      "a": "UN MARCO INTEGRAL QUE ESTABLECE PRINCIPIOS Y PROCEDIMIENTOS PARA PROTEGER LA INFORMACIÓN INSTITUCIONAL",
+      "b": "UN SISTEMA QUE SOLO PROTEGE INFORMACIÓN CLASIFICADA",
+      "c": "UN PROTOCOLO QUE PERMITE ACCESO IRRESTRICTO A TODOS LOS DATOS",
+      "d": "UN CONJUNTO DE REGLAS QUE PROHÍBE TODA DIGITALIZACIÓN DE DOCUMENTOS"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "DAM. 1.9. Seguridad de la Información - Modelo doctrinario de Seguridad de la Información"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "EN MICROSOFT WORD 2016, ¿CUÁLES SON LOS ELEMENTOS PRINCIPALES QUE PUEDEN INCLUIRSE EN UN GRÁFICO?",
+    "opciones": {
+      "a": "DATOS, EJES, LEYENDA, TÍTULO Y ETIQUETAS PARA REPRESENTAR INFORMACIÓN VISUAL",
+      "b": "SOLO NÚMEROS SIN POSIBILIDAD DE PERSONALIZACIÓN",
+      "c": "ÚNICAMENTE IMÁGENES PREDEFINIDAS DEL PROGRAMA",
+      "d": "TEXTO SIMPLE SIN ELEMENTOS VISUALES ADICIONALES"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Microsoft Word 2016. Manual práctico paso a paso - Gráficos"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "verdadero_falso",
+    "pregunta": "EN EXCEL BÁSICO, LAS LISTAS DE DATOS PERMITEN APLICAR FILTROS Y ORDENAMIENTOS PARA ANALIZAR INFORMACIÓN DE MANERA MÁS EFICIENTE.",
+    "respuesta_correcta": "a",
+    "fuente": "Manual de Excel Básico - Listas de datos"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁL ES LA IMPORTANCIA DE LA ACENTUACIÓN EN LA ORTOGRAFÍA DEL IDIOMA ESPAÑOL?",
+    "opciones": {
+      "a": "DISTINGUIR SIGNIFICADOS DE PALABRAS Y FACILITAR LA CORRECTA PRONUNCIACIÓN Y COMPRENSIÓN",
+      "b": "DECORAR EL TEXTO PARA HACERLO MÁS ATRACTIVO",
+      "c": "AUMENTAR EL NÚMERO DE PALABRAS EN UN DOCUMENTO",
+      "d": "REEMPLAZAR SIGNOS DE PUNTUACIÓN"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "La ortografía del idioma español. Libro con ejercicios - La acentuación"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "EN POWER POINT BÁSICO 2016, ¿CUÁL ES LA FUNCIÓN DE MANEJAR OBJETOS EN UNA DIAPOSITIVA?",
+    "opciones": {
+      "a": "INSERTAR, MODIFICAR, POSICIONAR Y PERSONALIZAR ELEMENTOS VISUALES COMO IMÁGENES Y FORMAS",
+      "b": "ELIMINAR AUTOMÁTICAMENTE TODAS LAS DIAPOSITIVAS",
+      "c": "CAMBIAR EL IDIOMA DE LA PRESENTACIÓN",
+      "d": "EXPORTAR LA PRESENTACIÓN A FORMATO VIDEO"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Power Point Básico 2016. Manual Actualización Tecnológica - Manejar objetos"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "verdadero_falso",
+    "pregunta": "LA LEY GENERAL DE ARCHIVOS ESTABLECE NORMAS PARA LA ORGANIZACIÓN Y ADMINISTRACIÓN HOMOGÉNEA DE LOS ARCHIVOS EN LA ADMINISTRACIÓN PÚBLICA.",
+    "respuesta_correcta": "a",
+    "fuente": "Ley General de Archivos - Libro I. De la Organización y administración homogénea de los archivos"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁL ES EL PROPÓSITO PRINCIPAL DE LOS SIGNOS DE PUNTUACIÓN EN LA ORTOGRAFÍA DEL IDIOMA ESPAÑOL?",
+    "opciones": {
+      "a": "ORGANIZAR EL TEXTO, CLARIFICAR SIGNIFICADOS Y FACILITAR LA LECTURA Y COMPRENSIÓN",
+      "b": "DECORAR EL DOCUMENTO CON ELEMENTOS VISUALES",
+      "c": "AUMENTAR EL NÚMERO DE PALABRAS EN UN TEXTO",
+      "d": "REEMPLAZAR COMPLETAMENTE LAS LETRAS"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "La ortografía del idioma español. Libro con ejercicios - Signos de puntuación y signos auxiliares"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "EN EXCEL BÁSICO, ¿CUÁL ES LA UTILIDAD PRINCIPAL DE EDITAR UNA HOJA DE CÁLCULO?",
+    "opciones": {
+      "a": "MODIFICAR, INSERTAR Y ELIMINAR DATOS Y ESTRUCTURAS PARA MANTENER LA INFORMACIÓN ACTUALIZADA",
+      "b": "ELIMINAR PERMANENTEMENTE TODOS LOS DATOS",
+      "c": "CONVERTIR LA HOJA EN UN DOCUMENTO DE SOLO LECTURA",
+      "d": "TRANSFERIR LA INFORMACIÓN A OTRA APLICACIÓN"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Manual de Excel Básico - Edición de una hoja de cálculo"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "verdadero_falso",
+    "pregunta": "EN POWER POINT BÁSICO 2016, TRABAJAR CON DIAPOSITIVAS INCLUYE OPERACIONES COMO CREAR, DUPLICAR, ELIMINAR Y REORGANIZAR DIAPOSITIVAS.",
+    "respuesta_correcta": "a",
+    "fuente": "Power Point Básico 2016. Manual Actualización Tecnológica - Trabajar con diapositivas"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁL ES LA FUNCIÓN PRINCIPAL DE LA DIRECTIVA DIGADMON PARA PASAJES Y VIÁTICOS EN LA SECRETARÍA DE MARINA?",
+    "opciones": {
+      "a": "ESTABLECER CRITERIOS Y NORMAS PARA LA ASIGNACIÓN ORDENADA DE RECURSOS DE VIAJE",
+      "b": "PROHIBIR TODOS LOS VIAJES DEL PERSONAL",
+      "c": "CENTRALIZAR FONDOS SIN CONTROL ALGUNO",
+      "d": "ELIMINAR PRESUPUESTO PARA TRANSPORTE"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Directiva.-DIGADMON.-DEP.-SCC.-DPV.-001/2023. Directiva para la Asignación de Recursos Financieros de Pasajes y Viáticos de la Secretaría de Marina"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "EN MICROSOFT WORD 2016, ¿CUÁL ES LA VENTAJA DE INSERTAR GRÁFICOS EN DOCUMENTOS TÉCNICOS Y ADMINISTRATIVOS?",
+    "opciones": {
+      "a": "PRESENTAR DATOS COMPLEJOS DE FORMA VISUAL Y COMPRENSIBLE",
+      "b": "REDUCIR EL CONTENIDO TEXTUAL SIN PERDER INFORMACIÓN",
+      "c": "AUMENTAR AUTOMÁTICAMENTE EL NÚMERO DE PÁGINAS",
+      "d": "ELIMINAR LA NECESIDAD DE REVISIÓN ORTOGRÁFICA"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Microsoft Word 2016. Manual práctico paso a paso - Gráficos"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "verdadero_falso",
+    "pregunta": "LA VALORACIÓN DOCUMENTAL DETERMINA EL VALOR HISTÓRICO, LEGAL Y ADMINISTRATIVO DE LOS DOCUMENTOS PARA DECIDIR SU CONSERVACIÓN O ELIMINACIÓN.",
+    "respuesta_correcta": "a",
+    "fuente": "Manual de Administración Archivística - Valoración documental"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁL DE LAS SIGUIENTES OPCIONES DESCRIBE CORRECTAMENTE LA FUNCIÓN DE UN CERTIFICADO EN LA DOCUMENTACIÓN NAVAL?",
+    "opciones": {
+      "a": "DOCUMENTO QUE CERTIFICA UN HECHO, DERECHO O CIRCUNSTANCIA ESPECÍFICA OCURRIDA EN LA UNIDAD",
+      "b": "COMUNICADO RADIOTELEGRÁFICO DE EMERGENCIA",
+      "c": "REGISTRO DE ASISTENCIA A REUNIONES OFICIALES",
+      "d": "COMPROBANTE DE PAGO DE SERVICIOS NAVALES"
+    },
     "respuesta_correcta": "a",
     "fuente": "Documentación Naval I - Certificado"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "opcion_multiple",
-    "pregunta": "¿CUÁL ES LA CARACTERÍSTICA PRINCIPAL DE UNA COPIA CERTIFICADA?",
+    "pregunta": "EN EXCEL BÁSICO, ¿CUÁL ES LA FUNCIÓN PRINCIPAL DE LOS GRÁFICOS EN EL ANÁLISIS DE DATOS?",
     "opciones": {
-      "a": "ES UNA REPRODUCCIÓN EXACTA SIN VALIDEZ LEGAL",
-      "b": "ES UNA REPRODUCCIÓN AUTENTICADA CON VALIDEZ LEGAL EQUIVALENTE AL ORIGINAL",
-      "c": "ES SOLO PARA USO INTERNO",
-      "d": "NO TIENE NINGÚN VALOR OFICIAL"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "Documentación Naval I - Copias certificadas"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿QUÉ INFORMACIÓN DEBE REGISTRARSE EN UN ACTA OFICIAL?",
-    "opciones": {
-      "a": "SOLO NOMBRES DE ASISTENTES",
-      "b": "FECHA, HORA, PARTICIPANTES, TEMAS TRATADOS, DECISIONES Y ACUERDOS",
-      "c": "ÚNICAMENTE DECISIONES FINALES",
-      "d": "INFORMACIÓN CONFIDENCIAL"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "Documentación Naval I - Actas"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "verdadero_falso",
-    "pregunta": "LOS GRÁFICOS EN WORD PUEDEN VINCULARSE A DATOS EXTERNOS.",
-    "respuesta_correcta": "a",
-    "fuente": "Microsoft Word 2016. Manual Práctico Paso a Paso - Gráficos"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CUÁL ES LA REGLA PARA ACENTUAR PALABRAS GRAVES O LLANAS?",
-    "opciones": {
-      "a": "SIEMPRE LLEVAN ACENTO",
-      "b": "NUNCA LLEVAN ACENTO",
-      "c": "LLEVAN ACENTO CUANDO TERMINAN EN CONSONANTE DISTINTA DE N O S",
-      "d": "SOLO SI SON PALABRAS EXTRANJERAS"
-    },
-    "respuesta_correcta": "c",
-    "fuente": "La Ortografía del Idioma Español - La acentuación"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CUÁL ES LA FUNCIÓN DE LA COMA EN LA PUNTUACIÓN?",
-    "opciones": {
-      "a": "INDICAR EL FIN DE UNA ORACIÓN",
-      "b": "SEPARAR ELEMENTOS DE UNA ENUMERACIÓN O INDICAR PAUSAS",
-      "c": "REEMPLAZAR AL PUNTO FINAL",
-      "d": "SOLO SEPARAR NÚMEROS"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "La Ortografía del Idioma Español - Signos de puntuación y signos auxiliares"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "verdadero_falso",
-    "pregunta": "LOS VERBOS IRREGULARES CAMBIAN SU RAÍZ EN ALGUNAS CONJUGACIONES.",
-    "respuesta_correcta": "a",
-    "fuente": "La Ortografía del Idioma Español - El verbo"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CUÁNDO SE UTILIZA LA LETRA 'J' EN LUGAR DE 'G' EN ESPAÑOL?",
-    "opciones": {
-      "a": "SIEMPRE QUE PRECEDA A LAS VOCALES E E I",
-      "b": "NUNCA, SIEMPRE SE USA 'G'",
-      "c": "SOLO EN PALABRAS DE ORIGEN ÁRABE",
-      "d": "DEPENDE DEL CONTEXTO REGIONAL"
+      "a": "VISUALIZAR TENDENCIAS Y PATRONES EN LOS DATOS PARA FACILITAR SU INTERPRETACIÓN",
+      "b": "ELIMINAR DATOS DUPLICADOS AUTOMÁTICAMENTE",
+      "c": "CONVERTIR FÓRMULAS EN VALORES PERMANENTES",
+      "d": "PROTEGER LAS CELDAS CONTRA MODIFICACIONES"
     },
     "respuesta_correcta": "a",
-    "fuente": "La Ortografía del Idioma Español - Ortografía de las letras"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿QUÉ PERMITE HACER LA FUNCIÓN SUMA EN EXCEL?",
-    "opciones": {
-      "a": "RESTAR VALORES DE CELDAS",
-      "b": "SUMAR AUTOMÁTICAMENTE VALORES DE UN RANGO DE CELDAS",
-      "c": "MULTIPLICAR NÚMEROS",
-      "d": "DIVIDIR VALORES"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "Manual de Excel Básico - Uso de fórmulas"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "verdadero_falso",
-    "pregunta": "EN EXCEL, LAS REFERENCIAS ABSOLUTAS CAMBIAN CUANDO SE COPIA UNA FÓRMULA.",
-    "respuesta_correcta": "b",
-    "fuente": "Manual de Excel Básico - Uso de fórmulas"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CUÁL ES LA VENTAJA DE USAR GRÁFICOS EN LUGAR DE SOLO NÚMEROS?",
-    "opciones": {
-      "a": "OCUPAN MENOS ESPACIO",
-      "b": "FACILITAN LA VISUALIZACIÓN Y COMPRENSIÓN RÁPIDA DE TENDENCIAS",
-      "c": "SON MÁS PRECISOS",
-      "d": "REDUCEN ERRORES DE CÁLCULO"
-    },
-    "respuesta_correcta": "b",
     "fuente": "Manual de Excel Básico - Gráficos"
   },
   {
     "tema": "Conocimientos Especificos",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿QUÉ ES UNA LISTA DE DATOS ORDENADA EN EXCEL?",
-    "opciones": {
-      "a": "UN CONJUNTO DESORDENADO DE NÚMEROS",
-      "b": "DATOS ORGANIZADOS EN FILAS Y COLUMNAS CON ENCABEZADOS",
-      "c": "UN TIPO DE GRÁFICO",
-      "d": "UNA FÓRMULA ESPECIAL"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "Manual de Excel Básico - Listas de datos"
+    "tipo": "verdadero_falso",
+    "pregunta": "EN MICROSOFT WORD 2016, LOS GRÁFICOS PUEDEN PERSONALIZARSE CON TÍTULOS, LEYENDAS Y ETIQUETAS PARA MEJORAR SU PRESENTACIÓN.",
+    "respuesta_correcta": "a",
+    "fuente": "Microsoft Word 2016. Manual práctico paso a paso - Gráficos"
   },
   {
     "tema": "Conocimientos Especificos",
-    "tipo": "verdadero_falso",
-    "pregunta": "LA VISTA DE ESQUEMA EN POWERPOINT MUESTRA SOLO EL TEXTO DE LAS DIAPOSITIVAS.",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁL ES EL OBJETIVO PRINCIPAL DE LA GESTIÓN DE LA INFORMACIÓN EN LA SECRETARÍA DE MARINA?",
+    "opciones": {
+      "a": "ORGANIZAR, PROTEGER Y DISTRIBUIR LA INFORMACIÓN INSTITUCIONAL DE MANERA EFICIENTE Y SEGURA",
+      "b": "MANTENER TODA LA INFORMACIÓN CLASIFICADA SIN ACCESO",
+      "c": "ELIMINAR REGISTROS HISTÓRICOS REGULARMENTE",
+      "d": "COMPARTIR INFORMACIÓN CON ENTIDADES EXTERNAS SIN RESTRICCIÓN"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Manual de Gestión de la Información de la Secretaría de Marina – Armada de México - Gestión de la información al interior de la institución"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "EN POWER POINT BÁSICO 2016, ¿CUÁL ES LA UTILIDAD DE LAS DIFERENTES VISTAS DISPONIBLES?",
+    "opciones": {
+      "a": "PERMITIR DIFERENTES FORMAS DE VISUALIZAR Y TRABAJAR CON LAS DIAPOSITIVAS SEGÚN LA NECESIDAD",
+      "b": "CAMBIAR AUTOMÁTICAMENTE EL CONTENIDO DE LAS DIAPOSITIVAS",
+      "c": "EXPORTAR LA PRESENTACIÓN A MÚLTIPLES FORMATOS",
+      "d": "PROTEGER LA PRESENTACIÓN CONTRA MODIFICACIONES"
+    },
     "respuesta_correcta": "a",
     "fuente": "Power Point Básico 2016. Manual Actualización Tecnológica - Las vistas"
   },
   {
     "tema": "Conocimientos Especificos",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CUÁL ES LA FUNCIÓN DE LA VISTA DE CLASIFICADOR DE DIAPOSITIVAS?",
-    "opciones": {
-      "a": "EDITAR TEXTO DETALLADAMENTE",
-      "b": "VER TODAS LAS DIAPOSITIVAS EN MINIATURA PARA REORGANIZARLAS",
-      "c": "MOSTRAR SOLO NOTAS",
-      "d": "IMPRIMIR DIAPOSITIVAS"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "Power Point Básico 2016. Manual Actualización Tecnológica - Las vistas"
+    "tipo": "verdadero_falso",
+    "pregunta": "LA ORTOGRAFÍA DE LAS LETRAS EN ESPAÑOL INCLUYE REGLAS ESPECÍFICAS PARA DISTINGUIR ENTRE LETRAS QUE SUENAN SIMILAR PERO TIENEN USOS DIFERENTES.",
+    "respuesta_correcta": "a",
+    "fuente": "La ortografía del idioma español. Libro con ejercicios - Ortografía de las letras"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "opcion_multiple",
-    "pregunta": "¿CÓMO SE PUEDEN ALINEAR OBJETOS EN POWERPOINT?",
+    "pregunta": "¿CUÁL ES EL CONTENIDO PRINCIPAL DEL TÍTULO SEGUNDO DE LA LEY GENERAL DE ARCHIVOS?",
     "opciones": {
-      "a": "SOLO MANUALMENTE",
-      "b": "USANDO OPCIONES DE ALINEACIÓN AUTOMÁTICA DEL PROGRAMA",
-      "c": "NO ES POSIBLE ALINEAR OBJETOS",
-      "d": "SOLO PARA IMÁGENES"
+      "a": "NORMAS SOBRE GESTIÓN DOCUMENTAL Y ADMINISTRACIÓN DE ARCHIVOS",
+      "b": "PROCEDIMIENTOS PARA ELIMINAR DOCUMENTOS",
+      "c": "AUTORIDADES RESPONSABLES DE LOS ARCHIVOS",
+      "d": "SANCIONES POR INCUMPLIMIENTO DE NORMAS"
     },
-    "respuesta_correcta": "b",
+    "respuesta_correcta": "a",
+    "fuente": "Ley General de Archivos - Libro I, Título Segundo: De la gestión documental y administración de archivos"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "EN EXCEL BÁSICO, ¿CUÁL ES LA DIFERENCIA ENTRE EDITAR UNA CELDA Y MODIFICAR UNA FÓRMULA?",
+    "opciones": {
+      "a": "EDITAR CAMBIA EL CONTENIDO MIENTRAS QUE MODIFICAR FÓRMULA ALTERA EL CÁLCULO",
+      "b": "AMBAS OPERACIONES SON IDÉNTICAS",
+      "c": "EDITAR SOLO FUNCIONA CON NÚMEROS",
+      "d": "MODIFICAR FÓRMULA NO AFECTA EL RESULTADO"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Manual de Excel Básico - Edición de una hoja de cálculo"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "verdadero_falso",
+    "pregunta": "EN POWER POINT BÁSICO 2016, MANEJAR OBJETOS INCLUYE FUNCIONES PARA INSERTAR, MOVER, REDIMENSIONAR Y PERSONALIZAR ELEMENTOS VISUALES.",
+    "respuesta_correcta": "a",
     "fuente": "Power Point Básico 2016. Manual Actualización Tecnológica - Manejar objetos"
   },
   {
     "tema": "Conocimientos Especificos",
-    "tipo": "verdadero_falso",
-    "pregunta": "LA SEGURIDAD DE LA INFORMACIÓN SOLO INCLUYE PROTECCIÓN CONTRA AMENAZAS EXTERNAS.",
-    "respuesta_correcta": "b",
-    "fuente": "DAM. 1.9. Seguridad de la Información - Conceptualización de la seguridad de la información"
-  },
-  {
-    "tema": "Conocimientos Especificos",
     "tipo": "opcion_multiple",
-    "pregunta": "¿CUÁLES SON LOS PILARES FUNDAMENTALES DE LA SEGURIDAD DE LA INFORMACIÓN?",
+    "pregunta": "¿CUÁL ES LA FUNCIÓN PRINCIPAL DE UNA CERTIFICACIÓN EN LA DOCUMENTACIÓN NAVAL?",
     "opciones": {
-      "a": "SOLO CONFIDENCIALIDAD",
-      "b": "CONFIDENCIALIDAD, INTEGRIDAD Y DISPONIBILIDAD",
-      "c": "SOLO DISPONIBILIDAD",
-      "d": "SOLO INTEGRIDAD"
+      "a": "VALIDAR OFICIALMENTE UN DOCUMENTO O HECHO MEDIANTE FIRMA Y SELLO AUTORIZADO",
+      "b": "CREAR COPIAS SIMPLES DE DOCUMENTOS",
+      "c": "REGISTRAR ASISTENCIA A EVENTOS",
+      "d": "EMITIR PERMISOS DE VIAJE"
     },
-    "respuesta_correcta": "b",
-    "fuente": "DAM. 1.9. Seguridad de la Información - Modelo doctrinario de Seguridad de la Información"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿QUÉ INCLUYE EL GLOSARIO DE SEGURIDAD DE LA INFORMACIÓN?",
-    "opciones": {
-      "a": "SOLO DEFINICIONES TÉCNICAS",
-      "b": "DEFINICIONES DE TÉRMINOS CLAVE PARA ENTENDER POLÍTICAS DE PROTECCIÓN",
-      "c": "ÚNICAMENTE SIGLAS",
-      "d": "SOLO NOMBRES DE SISTEMAS"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "DAM. 1.9. Seguridad de la Información - Anexo A. Glosario de términos"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "verdadero_falso",
-    "pregunta": "LA GESTIÓN DOCUMENTAL FACILITA EL ACCESO A LA INFORMACIÓN CUANDO SE NECESITA.",
     "respuesta_correcta": "a",
-    "fuente": "Ley General de Archivos - Título Segundo: De la gestión documental y administración de archivos"
+    "fuente": "Documentación Naval I - Certificación"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "opcion_multiple",
-    "pregunta": "¿CUÁL ES EL CICLO DE VIDA DE UN DOCUMENTO?",
+    "pregunta": "EN MICROSOFT WORD 2016, ¿CUÁLES SON LOS PASOS BÁSICOS PARA INSERTAR UN GRÁFICO EN UN DOCUMENTO?",
     "opciones": {
-      "a": "SOLO CREACIÓN Y ALMACENAMIENTO",
-      "b": "CREACIÓN, USO, CONSERVACIÓN Y DISPOSICIÓN FINAL",
-      "c": "ÚNICAMENTE DISPOSICIÓN FINAL",
-      "d": "SOLO CONSERVACIÓN"
+      "a": "ACCEDER AL MENÚ INSERTAR, SELECCIONAR GRÁFICO Y PERSONALIZAR CON DATOS Y FORMATO",
+      "b": "COPIAR UN GRÁFICO DE OTRA APLICACIÓN DIRECTAMENTE",
+      "c": "USAR SOLO GRÁFICOS PREDEFINIDOS SIN PERSONALIZACIÓN",
+      "d": "INSERTAR SOLO IMÁGENES ESTÁTICAS"
     },
-    "respuesta_correcta": "b",
+    "respuesta_correcta": "a",
+    "fuente": "Microsoft Word 2016. Manual práctico paso a paso - Gráficos"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "verdadero_falso",
+    "pregunta": "LA GESTIÓN DE SOCIALIZACIÓN DE LA INFORMACIÓN EN LA SECRETARÍA DE MARINA BUSCA DIFUNDIR CONOCIMIENTO INSTITUCIONAL ENTRE EL PERSONAL.",
+    "respuesta_correcta": "a",
+    "fuente": "Manual de Gestión de la Información de la Secretaría de Marina – Armada de México - Gestión de socialización de la información de la institución"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁL ES EL PROPÓSITO PRINCIPAL DE LA ADMINISTRACIÓN ARCHIVÍSTICA EN LAS INSTITUCIONES?",
+    "opciones": {
+      "a": "ORGANIZAR, CONSERVAR Y FACILITAR EL ACCESO A DOCUMENTOS DE FORMA SISTEMÁTICA Y ORDENADA",
+      "b": "ELIMINAR DOCUMENTOS PARA LIBERAR ESPACIO",
+      "c": "CENTRALIZAR TODOS LOS ARCHIVOS EN UNA SOLA UBICACIÓN",
+      "d": "TRANSFERIR ARCHIVOS A INSTITUCIONES EXTERNAS"
+    },
+    "respuesta_correcta": "a",
     "fuente": "Manual de Administración Archivística - Definición de los procesos técnicos archivísticos"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "opcion_multiple",
-    "pregunta": "¿QUÉ DETERMINA EL TIEMPO DE RETENCIÓN DE UN DOCUMENTO?",
+    "pregunta": "EN EXCEL BÁSICO, ¿CUÁL ES LA VENTAJA DE UTILIZAR LISTAS DE DATOS?",
     "opciones": {
-      "a": "SOLO LA ANTIGÜEDAD",
-      "b": "SU VALOR LEGAL, ADMINISTRATIVO E HISTÓRICO",
-      "c": "EL TAMAÑO DEL ARCHIVO",
-      "d": "LA PREFERENCIA DEL PERSONAL"
+      "a": "PERMITE FILTRAR, ORDENAR Y ANALIZAR INFORMACIÓN DE MANERA MÁS EFICIENTE",
+      "b": "ELIMINA AUTOMÁTICAMENTE DATOS DUPLICADOS",
+      "c": "CONVIERTE TODOS LOS DATOS EN GRÁFICOS",
+      "d": "PROTEGE LAS CELDAS CONTRA MODIFICACIONES"
     },
-    "respuesta_correcta": "b",
-    "fuente": "Manual de Administración Archivística - Valoración documental"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "verdadero_falso",
-    "pregunta": "LA INFORMACIÓN SOCIALIZADA DEBE SER ACCESIBLE Y COMPRENSIBLE PARA SUS PÚBLICOS.",
     "respuesta_correcta": "a",
-    "fuente": "Manual de Gestión de la Información de la Secretaría de Marina - Gestión de socialización de la información"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CUÁL ES LA DIFERENCIA ENTRE UN CERTIFICADO Y UNA CERTIFICACIÓN?",
-    "opciones": {
-      "a": "NO EXISTE DIFERENCIA",
-      "b": "EL CERTIFICADO VALIDA UN HECHO; LA CERTIFICACIÓN VALIDA UN DOCUMENTO",
-      "c": "SON TÉRMINOS COMPLETAMENTE SINÓNIMOS",
-      "d": "LA CERTIFICACIÓN ES MÁS ANTIGUA"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "Documentación Naval I - Certificado y Certificación"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿QUIÉN PUEDE EMITIR UNA COPIA CERTIFICADA?",
-    "opciones": {
-      "a": "CUALQUIER PERSONA",
-      "b": "SOLO PERSONAL AUTORIZADO O NOTARIOS",
-      "c": "SOLO DIRECTIVOS",
-      "d": "NADIE, NO EXISTEN COPIAS CERTIFICADAS"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "Documentación Naval I - Copias certificadas"
+    "fuente": "Manual de Excel Básico - Listas de datos"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "verdadero_falso",
-    "pregunta": "UN ACTA DEBE FIRMARSE POR LOS PARTICIPANTES PARA TENER VALIDEZ OFICIAL.",
+    "pregunta": "EN POWER POINT BÁSICO 2016, LAS VISTAS PERMITEN TRABAJAR CON DIAPOSITIVAS DE DIFERENTES FORMAS SEGÚN EL CONTEXTO Y NECESIDAD.",
+    "respuesta_correcta": "a",
+    "fuente": "Power Point Básico 2016. Manual Actualización Tecnológica - Las vistas"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁL ES LA IMPORTANCIA DE LOS SIGNOS AUXILIARES EN LA ORTOGRAFÍA DEL IDIOMA ESPAÑOL?",
+    "opciones": {
+      "a": "COMPLEMENTAR LA PUNTUACIÓN PARA CLARIFICAR SIGNIFICADOS Y MEJORAR LA COMPRENSIÓN",
+      "b": "REEMPLAZAR COMPLETAMENTE LOS SIGNOS DE PUNTUACIÓN",
+      "c": "DECORAR EL TEXTO SIN FUNCIÓN GRAMATICAL",
+      "d": "AUMENTAR EL NÚMERO DE PALABRAS EN UN DOCUMENTO"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "La ortografía del idioma español. Libro con ejercicios - Signos de puntuación y signos auxiliares"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "EN MICROSOFT WORD 2016, ¿CUÁL ES LA UTILIDAD DE PERSONALIZAR UN GRÁFICO?",
+    "opciones": {
+      "a": "ADAPTAR EL GRÁFICO AL CONTEXTO Y MEJORAR SU PRESENTACIÓN VISUAL",
+      "b": "CAMBIAR AUTOMÁTICAMENTE LOS DATOS DEL GRÁFICO",
+      "c": "ELIMINAR ELEMENTOS INNECESARIOS DEL DOCUMENTO",
+      "d": "CONVERTIR EL GRÁFICO EN UNA IMAGEN ESTÁTICA"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Microsoft Word 2016. Manual práctico paso a paso - Gráficos"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "verdadero_falso",
+    "pregunta": "LA LEY GENERAL DE ARCHIVOS ESTABLECE NORMAS PARA LA VALORACIÓN Y CONSERVACIÓN DE DOCUMENTOS EN LA ADMINISTRACIÓN PÚBLICA.",
+    "respuesta_correcta": "a",
+    "fuente": "Ley General de Archivos - Libro I, Título Tercero: De la valoración y conservación de los archivos"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁL ES EL OBJETIVO PRINCIPAL DE LA DIRECTIVA DIGADMON SOBRE PASAJES Y VIÁTICOS?",
+    "opciones": {
+      "a": "ESTABLECER NORMAS CLARAS PARA LA ASIGNACIÓN Y CONTROL DE RECURSOS DE VIAJE",
+      "b": "PROHIBIR TODOS LOS DESPLAZAMIENTOS DEL PERSONAL",
+      "c": "CENTRALIZAR FONDOS SIN SUPERVISIÓN",
+      "d": "ELIMINAR PRESUPUESTO PARA TRANSPORTE"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Directiva.-DIGADMON.-DEP.-SCC.-DPV.-001/2023. Directiva para la Asignación de Recursos Financieros de Pasajes y Viáticos de la Secretaría de Marina"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "EN EXCEL BÁSICO, ¿CUÁL ES LA FUNCIÓN PRINCIPAL DE LAS FÓRMULAS?",
+    "opciones": {
+      "a": "REALIZAR CÁLCULOS AUTOMÁTICOS Y PROCESAMIENTO DE DATOS",
+      "b": "CAMBIAR EL COLOR DE LAS CELDAS",
+      "c": "INSERTAR IMÁGENES EN LA HOJA",
+      "d": "PROTEGER LA HOJA CONTRA MODIFICACIONES"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Manual de Excel Básico - Uso de fórmulas"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "verdadero_falso",
+    "pregunta": "EN POWER POINT BÁSICO 2016, TRABAJAR CON DIAPOSITIVAS PERMITE CREAR, DUPLICAR, ELIMINAR Y REORGANIZAR DIAPOSITIVAS EN LA PRESENTACIÓN.",
+    "respuesta_correcta": "a",
+    "fuente": "Power Point Básico 2016. Manual Actualización Tecnológica - Trabajar con diapositivas"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁL ES LA FUNCIÓN PRINCIPAL DE UN ACTA EN LA DOCUMENTACIÓN NAVAL?",
+    "opciones": {
+      "a": "REGISTRAR OFICIALMENTE LOS HECHOS Y ACUERDOS DE UNA REUNIÓN O EVENTO",
+      "b": "COMUNICAR INFORMACIÓN POR RADIO",
+      "c": "CERTIFICAR COMPETENCIAS PROFESIONALES",
+      "d": "AUTORIZAR PERMISOS DE VIAJE"
+    },
     "respuesta_correcta": "a",
     "fuente": "Documentación Naval I - Actas"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "opcion_multiple",
-    "pregunta": "¿CUÁL ES LA FUNCIÓN PRINCIPAL DE LOS GRÁFICOS EN WORD?",
+    "pregunta": "EN MICROSOFT WORD 2016, ¿CUÁLES SON LOS ELEMENTOS BÁSICOS QUE COMPONEN UN GRÁFICO?",
     "opciones": {
-      "a": "SOLO DECORACIÓN",
-      "b": "REPRESENTAR DATOS VISUALMENTE DENTRO DE DOCUMENTOS",
-      "c": "REEMPLAZAR TEXTO",
-      "d": "AUMENTAR EL TAMAÑO DEL ARCHIVO"
+      "a": "DATOS, EJES, LEYENDA, TÍTULO Y ETIQUETAS",
+      "b": "SOLO NÚMEROS SIN ELEMENTOS VISUALES",
+      "c": "ÚNICAMENTE IMÁGENES PREDEFINIDAS",
+      "d": "TEXTO SIMPLE SIN PERSONALIZACIÓN"
     },
-    "respuesta_correcta": "b",
-    "fuente": "Microsoft Word 2016. Manual Práctico Paso a Paso - Gráficos"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CUÁL ES LA REGLA PARA ACENTUAR PALABRAS AGUDAS?",
-    "opciones": {
-      "a": "NUNCA LLEVAN ACENTO",
-      "b": "SIEMPRE LLEVAN ACENTO",
-      "c": "LLEVAN ACENTO CUANDO TERMINAN EN VOCAL, N O S",
-      "d": "SOLO SI SON MONOSÍLABAS"
-    },
-    "respuesta_correcta": "c",
-    "fuente": "La Ortografía del Idioma Español - La acentuación"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CUÁL ES LA FUNCIÓN DE LOS PARÉNTESIS EN LA PUNTUACIÓN?",
-    "opciones": {
-      "a": "SEPARAR PALABRAS",
-      "b": "ENCERRAR INFORMACIÓN ACLARATORIA O SECUNDARIA",
-      "c": "REEMPLAZAR COMAS",
-      "d": "INDICAR ÉNFASIS"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "La Ortografía del Idioma Español - Signos de puntuación y signos auxiliares"
+    "respuesta_correcta": "a",
+    "fuente": "Microsoft Word 2016. Manual práctico paso a paso - Gráficos"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "verdadero_falso",
-    "pregunta": "LOS VERBOS REFLEXIVOS SIEMPRE INCLUYEN UN PRONOMBRE PERSONAL.",
+    "pregunta": "LA GESTIÓN DE LA INFORMACIÓN AL INTERIOR DE LA SECRETARÍA DE MARINA INCLUYE PROCESOS DE ORGANIZACIÓN, PROTECCIÓN Y DISTRIBUCIÓN DE INFORMACIÓN.",
     "respuesta_correcta": "a",
-    "fuente": "La Ortografía del Idioma Español - El verbo"
+    "fuente": "Manual de Gestión de la Información de la Secretaría de Marina – Armada de México - Gestión de la información al interior de la institución"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "opcion_multiple",
-    "pregunta": "¿CUÁNDO SE UTILIZA LA LETRA 'LL' EN LUGAR DE 'Y' EN ESPAÑOL?",
+    "pregunta": "¿CUÁL ES EL PROPÓSITO PRINCIPAL DE LA VALORACIÓN DOCUMENTAL EN ARCHIVOS?",
     "opciones": {
-      "a": "SIEMPRE QUE PRECEDA A VOCALES",
-      "b": "EN PALABRAS ESPECÍFICAS DONDE HISTÓRICAMENTE SE ESCRIBÍA 'LL'",
-      "c": "NUNCA, SIEMPRE SE USA 'Y'",
-      "d": "SOLO EN PALABRAS EXTRANJERAS"
+      "a": "DETERMINAR EL VALOR Y TIEMPO DE CONSERVACIÓN DE LOS DOCUMENTOS",
+      "b": "ELIMINAR TODOS LOS DOCUMENTOS ANTIGUOS",
+      "c": "TRANSFERIR ARCHIVOS A INSTITUCIONES EXTERNAS",
+      "d": "DIGITALIZAR ÚNICAMENTE DOCUMENTOS RECIENTES"
     },
-    "respuesta_correcta": "b",
-    "fuente": "La Ortografía del Idioma Español - Ortografía de las letras"
+    "respuesta_correcta": "a",
+    "fuente": "Manual de Administración Archivística - Valoración documental"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "opcion_multiple",
-    "pregunta": "¿QUÉ PERMITE HACER LA FUNCIÓN PROMEDIO EN EXCEL?",
+    "pregunta": "EN EXCEL BÁSICO, ¿CUÁL ES LA UTILIDAD DE EDITAR UNA HOJA DE CÁLCULO?",
     "opciones": {
-      "a": "CONTAR CELDAS",
-      "b": "CALCULAR EL VALOR PROMEDIO DE UN RANGO DE CELDAS",
-      "c": "ENCONTRAR EL VALOR MÁXIMO",
-      "d": "BUSCAR VALORES ESPECÍFICOS"
+      "a": "MODIFICAR, INSERTAR Y ELIMINAR DATOS PARA MANTENER LA INFORMACIÓN ACTUALIZADA",
+      "b": "ELIMINAR PERMANENTEMENTE TODOS LOS DATOS",
+      "c": "CONVERTIR LA HOJA EN DOCUMENTO DE SOLO LECTURA",
+      "d": "TRANSFERIR INFORMACIÓN A OTRA APLICACIÓN"
     },
-    "respuesta_correcta": "b",
-    "fuente": "Manual de Excel Básico - Uso de fórmulas"
+    "respuesta_correcta": "a",
+    "fuente": "Manual de Excel Básico - Edición de una hoja de cálculo"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "verdadero_falso",
-    "pregunta": "EN EXCEL, LAS REFERENCIAS RELATIVAS CAMBIAN CUANDO SE COPIA UNA FÓRMULA A OTRA CELDA.",
+    "pregunta": "EN POWER POINT BÁSICO 2016, MANEJAR OBJETOS PERMITE INSERTAR, MODIFICAR Y PERSONALIZAR ELEMENTOS VISUALES EN LAS DIAPOSITIVAS.",
     "respuesta_correcta": "a",
-    "fuente": "Manual de Excel Básico - Uso de fórmulas"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CUÁL ES EL GRÁFICO MÁS APROPIADO PARA MOSTRAR CAMBIOS A LO LARGO DEL TIEMPO?",
-    "opciones": {
-      "a": "GRÁFICO CIRCULAR",
-      "b": "GRÁFICO DE LÍNEAS",
-      "c": "GRÁFICO DE DISPERSIÓN",
-      "d": "GRÁFICO DE BARRAS APILADAS"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "Manual de Excel Básico - Gráficos"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CUÁL ES LA FUNCIÓN DE LOS FILTROS EN UNA LISTA DE DATOS?",
-    "opciones": {
-      "a": "ELIMINAR DATOS",
-      "b": "MOSTRAR SOLO LOS DATOS QUE CUMPLEN CRITERIOS ESPECÍFICOS",
-      "c": "COPIAR DATOS",
-      "d": "CAMBIAR EL FORMATO"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "Manual de Excel Básico - Listas de datos"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "verdadero_falso",
-    "pregunta": "LA VISTA DE PRESENTACIÓN EN POWERPOINT MUESTRA LAS DIAPOSITIVAS A PANTALLA COMPLETA.",
-    "respuesta_correcta": "a",
-    "fuente": "Power Point Básico 2016. Manual Actualización Tecnológica - Las vistas"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CUÁL ES LA FUNCIÓN DE LAS NOTAS EN POWERPOINT?",
-    "opciones": {
-      "a": "DECORAR LAS DIAPOSITIVAS",
-      "b": "PROPORCIONAR INFORMACIÓN ADICIONAL PARA EL PRESENTADOR",
-      "c": "CAMBIAR EL DISEÑO",
-      "d": "INSERTAR IMÁGENES"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "Power Point Básico 2016. Manual Actualización Tecnológica - Las vistas"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CÓMO SE PUEDEN AGRUPAR OBJETOS EN POWERPOINT?",
-    "opciones": {
-      "a": "NO ES POSIBLE AGRUPAR OBJETOS",
-      "b": "SELECCIONANDO MÚLTIPLES OBJETOS Y USANDO LA OPCIÓN AGRUPAR",
-      "c": "SOLO IMÁGENES PUEDEN AGRUPARSE",
-      "d": "SOLO TEXTO PUEDE AGRUPARSE"
-    },
-    "respuesta_correcta": "b",
     "fuente": "Power Point Básico 2016. Manual Actualización Tecnológica - Manejar objetos"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "opcion_multiple",
-    "pregunta": "¿CUÁL ES EL OBJETIVO DE IMPLEMENTAR POLÍTICAS DE SEGURIDAD DE LA INFORMACIÓN?",
+    "pregunta": "¿CUÁL ES LA FUNCIÓN PRINCIPAL DE UNA COPIA CERTIFICADA EN LA DOCUMENTACIÓN NAVAL?",
     "opciones": {
-      "a": "SOLO CUMPLIR REQUISITOS LEGALES",
-      "b": "PROTEGER ACTIVOS DE INFORMACIÓN CONTRA AMENAZAS Y RIESGOS",
-      "c": "AUMENTAR COSTOS OPERACIONALES",
-      "d": "RESTRINGIR ACCESO A TODOS LOS DATOS"
+      "a": "PROPORCIONAR UNA REPRODUCCIÓN AUTENTICADA CON VALIDEZ LEGAL",
+      "b": "CREAR COPIAS SIMPLES SIN VALIDACIÓN",
+      "c": "REGISTRAR ASISTENCIA A EVENTOS",
+      "d": "EMITIR PERMISOS ADMINISTRATIVOS"
     },
-    "respuesta_correcta": "b",
-    "fuente": "DAM. 1.9. Seguridad de la Información - Modelo doctrinario de Seguridad de la Información"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "verdadero_falso",
-    "pregunta": "LA AUTENTICACIÓN ES UN COMPONENTE IMPORTANTE DE LA SEGURIDAD DE LA INFORMACIÓN.",
     "respuesta_correcta": "a",
-    "fuente": "DAM. 1.9. Seguridad de la Información - Conceptualización de la seguridad de la información"
+    "fuente": "Documentación Naval I - Copias certificadas"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "opcion_multiple",
-    "pregunta": "¿CUÁL ES LA IMPORTANCIA DE DOCUMENTAR PROCESOS ARCHIVÍSTICOS?",
+    "pregunta": "EN MICROSOFT WORD 2016, ¿CUÁL ES LA VENTAJA DE UTILIZAR GRÁFICOS EN DOCUMENTOS?",
     "opciones": {
-      "a": "SOLO PARA CUMPLIR REQUISITOS",
-      "b": "GARANTIZAR CONSISTENCIA, TRAZABILIDAD Y CALIDAD EN LA GESTIÓN",
-      "c": "AUMENTAR TRABAJO ADMINISTRATIVO",
-      "d": "REDUCIR ACCESO A INFORMACIÓN"
+      "a": "PRESENTAR INFORMACIÓN VISUAL Y FACILITAR LA COMPRENSIÓN DE DATOS COMPLEJOS",
+      "b": "REDUCIR EL NÚMERO DE PÁGINAS",
+      "c": "ELIMINAR LA NECESIDAD DE TEXTO",
+      "d": "AUMENTAR AUTOMÁTICAMENTE EL TAMAÑO DE FUENTE"
     },
-    "respuesta_correcta": "b",
+    "respuesta_correcta": "a",
+    "fuente": "Microsoft Word 2016. Manual práctico paso a paso - Gráficos"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "verdadero_falso",
+    "pregunta": "LA ACENTUACIÓN EN ESPAÑOL DISTINGUE SIGNIFICADOS DE PALABRAS Y FACILITA LA CORRECTA PRONUNCIACIÓN.",
+    "respuesta_correcta": "a",
+    "fuente": "La ortografía del idioma español. Libro con ejercicios - La acentuación"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁL ES EL CONTENIDO PRINCIPAL DEL TÍTULO TERCERO DE LA LEY GENERAL DE ARCHIVOS?",
+    "opciones": {
+      "a": "NORMAS SOBRE VALORACIÓN Y CONSERVACIÓN DE ARCHIVOS",
+      "b": "PROCEDIMIENTOS PARA ELIMINAR DOCUMENTOS",
+      "c": "AUTORIDADES RESPONSABLES DE ARCHIVOS",
+      "d": "SANCIONES POR INCUMPLIMIENTO"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Ley General de Archivos - Libro I, Título Tercero: De la valoración y conservación de los archivos"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "EN EXCEL BÁSICO, ¿CUÁL ES LA DIFERENCIA ENTRE UNA LISTA DE DATOS Y UNA TABLA SIMPLE?",
+    "opciones": {
+      "a": "LA LISTA DE DATOS PERMITE FILTRAR Y ORDENAR INFORMACIÓN MIENTRAS QUE LA TABLA SIMPLE NO",
+      "b": "AMBAS SON IDÉNTICAS EN FUNCIONALIDAD",
+      "c": "LA TABLA SIMPLE TIENE MÁS FUNCIONES",
+      "d": "LA LISTA DE DATOS SOLO FUNCIONA CON NÚMEROS"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Manual de Excel Básico - Listas de datos"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "verdadero_falso",
+    "pregunta": "EN POWER POINT BÁSICO 2016, LAS VISTAS PROPORCIONAN DIFERENTES PERSPECTIVAS PARA VISUALIZAR Y EDITAR DIAPOSITIVAS.",
+    "respuesta_correcta": "a",
+    "fuente": "Power Point Básico 2016. Manual Actualización Tecnológica - Las vistas"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁL ES LA IMPORTANCIA DE LA ORTOGRAFÍA DE LAS LETRAS EN ESPAÑOL?",
+    "opciones": {
+      "a": "GARANTIZAR LA CORRECTA ESCRITURA Y COMPRENSIÓN DE PALABRAS",
+      "b": "DECORAR EL TEXTO CON ELEMENTOS VISUALES",
+      "c": "AUMENTAR EL NÚMERO DE PALABRAS",
+      "d": "REEMPLAZAR SIGNOS DE PUNTUACIÓN"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "La ortografía del idioma español. Libro con ejercicios - Ortografía de las letras"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "EN MICROSOFT WORD 2016, ¿CUÁL ES EL PROCESO PARA INSERTAR UN GRÁFICO EN UN DOCUMENTO?",
+    "opciones": {
+      "a": "ACCEDER AL MENÚ INSERTAR, SELECCIONAR GRÁFICO Y PERSONALIZAR CON DATOS",
+      "b": "COPIAR DIRECTAMENTE DE OTRA APLICACIÓN",
+      "c": "USAR SOLO GRÁFICOS PREDEFINIDOS",
+      "d": "INSERTAR SOLO IMÁGENES ESTÁTICAS"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Microsoft Word 2016. Manual práctico paso a paso - Gráficos"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "verdadero_falso",
+    "pregunta": "LA GESTIÓN DE SOCIALIZACIÓN DE LA INFORMACIÓN BUSCA DIFUNDIR CONOCIMIENTO INSTITUCIONAL ENTRE EL PERSONAL DE LA SECRETARÍA DE MARINA.",
+    "respuesta_correcta": "a",
+    "fuente": "Manual de Gestión de la Información de la Secretaría de Marina – Armada de México - Gestión de socialización de la información de la institución"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁL ES EL PROPÓSITO PRINCIPAL DE LA ADMINISTRACIÓN ARCHIVÍSTICA?",
+    "opciones": {
+      "a": "ORGANIZAR, CONSERVAR Y FACILITAR ACCESO A DOCUMENTOS DE FORMA SISTEMÁTICA",
+      "b": "ELIMINAR DOCUMENTOS PARA LIBERAR ESPACIO",
+      "c": "CENTRALIZAR TODOS LOS ARCHIVOS",
+      "d": "TRANSFERIR ARCHIVOS A TERCEROS"
+    },
+    "respuesta_correcta": "a",
     "fuente": "Manual de Administración Archivística - Definición de los procesos técnicos archivísticos"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "opcion_multiple",
-    "pregunta": "¿QUÉ DEBE CONSIDERARSE AL ESTABLECER PLAZOS DE RETENCIÓN?",
+    "pregunta": "EN EXCEL BÁSICO, ¿CUÁL ES LA UTILIDAD PRINCIPAL DE LOS GRÁFICOS?",
     "opciones": {
-      "a": "SOLO EL ESPACIO DISPONIBLE",
-      "b": "REQUISITOS LEGALES, ADMINISTRATIVOS E HISTÓRICOS",
-      "c": "SOLO LA ANTIGÜEDAD DEL DOCUMENTO",
-      "d": "LA PREFERENCIA DEL PERSONAL"
+      "a": "REPRESENTAR VISUALMENTE DATOS PARA FACILITAR SU ANÁLISIS E INTERPRETACIÓN",
+      "b": "ELIMINAR DATOS DUPLICADOS",
+      "c": "CONVERTIR FÓRMULAS EN VALORES",
+      "d": "PROTEGER CELDAS"
     },
-    "respuesta_correcta": "b",
-    "fuente": "Manual de Administración Archivística - Valoración documental"
+    "respuesta_correcta": "a",
+    "fuente": "Manual de Excel Básico - Gráficos"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "verdadero_falso",
-    "pregunta": "LA GESTIÓN DE INFORMACIÓN DEBE CONSIDERAR TANTO FUENTES INTERNAS COMO EXTERNAS.",
+    "pregunta": "EN POWER POINT BÁSICO 2016, TRABAJAR CON DIAPOSITIVAS INCLUYE OPERACIONES DE CREACIÓN, DUPLICACIÓN, ELIMINACIÓN Y REORGANIZACIÓN.",
     "respuesta_correcta": "a",
-    "fuente": "Manual de Gestión de la Información de la Secretaría de Marina - Gestión de la información al interior de la institución"
+    "fuente": "Power Point Básico 2016. Manual Actualización Tecnológica - Trabajar con diapositivas"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "opcion_multiple",
-    "pregunta": "¿CUÁL ES EL VALOR DE UN PARTE RADIOTELEGRÁFICO?",
+    "pregunta": "¿CUÁL ES LA FUNCIÓN PRINCIPAL DE UN PARTE RADIOTELEGRÁFICO EN LA DOCUMENTACIÓN NAVAL?",
     "opciones": {
-      "a": "SOLO INFORMATIVO",
-      "b": "DOCUMENTO OFICIAL QUE REGISTRA COMUNICACIONES IMPORTANTES",
-      "c": "SOLO PARA ARCHIVOS HISTÓRICOS",
-      "d": "SIN VALOR LEGAL"
+      "a": "COMUNICAR INFORMACIÓN OFICIAL POR RADIO DESDE LA UNIDAD",
+      "b": "REGISTRAR ASISTENCIA A REUNIONES",
+      "c": "CERTIFICAR COMPETENCIAS PROFESIONALES",
+      "d": "AUTORIZAR PERMISOS DE VIAJE"
     },
-    "respuesta_correcta": "b",
+    "respuesta_correcta": "a",
     "fuente": "Documentación Naval I - Partes radiotelegráficos"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "opcion_multiple",
-    "pregunta": "¿CUÁNDO SE REQUIERE UNA CERTIFICACIÓN EN LUGAR DE UN CERTIFICADO?",
+    "pregunta": "EN MICROSOFT WORD 2016, ¿CUÁL ES LA VENTAJA DE PERSONALIZAR UN GRÁFICO?",
     "opciones": {
-      "a": "NUNCA, SON INTERCAMBIABLES",
-      "b": "CUANDO SE NECESITA VALIDAR LA AUTENTICIDAD DE UN DOCUMENTO COMPLETO",
-      "c": "SOLO PARA DOCUMENTOS HISTÓRICOS",
-      "d": "CUANDO EL DOCUMENTO ES RECIENTE"
+      "a": "ADAPTAR EL GRÁFICO AL CONTEXTO Y MEJORAR SU PRESENTACIÓN VISUAL",
+      "b": "CAMBIAR AUTOMÁTICAMENTE LOS DATOS",
+      "c": "ELIMINAR ELEMENTOS DEL DOCUMENTO",
+      "d": "CONVERTIR EN IMAGEN ESTÁTICA"
     },
-    "respuesta_correcta": "b",
-    "fuente": "Documentación Naval I - Certificación"
+    "respuesta_correcta": "a",
+    "fuente": "Microsoft Word 2016. Manual práctico paso a paso - Gráficos"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "verdadero_falso",
-    "pregunta": "LAS ACTAS DEBEN ARCHIVARSE COMO DOCUMENTOS OFICIALES PERMANENTES.",
+    "pregunta": "LA LEY GENERAL DE ARCHIVOS ESTABLECE NORMAS PARA LA ORGANIZACIÓN Y ADMINISTRACIÓN HOMOGÉNEA DE ARCHIVOS.",
     "respuesta_correcta": "a",
-    "fuente": "Documentación Naval I - Actas"
+    "fuente": "Ley General de Archivos - Libro I. De la Organización y administración homogénea de los archivos"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "opcion_multiple",
-    "pregunta": "¿CUÁL ES LA VENTAJA DE USAR GRÁFICOS DINÁMICOS EN WORD?",
+    "pregunta": "¿CUÁL ES EL OBJETIVO PRINCIPAL DE LA DIRECTIVA DIGADMON SOBRE PASAJES Y VIÁTICOS?",
     "opciones": {
-      "a": "SOLO DECORACIÓN",
-      "b": "ACTUALIZARSE AUTOMÁTICAMENTE CUANDO CAMBIAN LOS DATOS FUENTE",
-      "c": "REDUCIR EL TAMAÑO DEL ARCHIVO",
-      "d": "FACILITAR LA IMPRESIÓN"
+      "a": "ESTABLECER NORMAS PARA LA ASIGNACIÓN ORDENADA DE RECURSOS DE VIAJE",
+      "b": "PROHIBIR DESPLAZAMIENTOS DEL PERSONAL",
+      "c": "CENTRALIZAR FONDOS SIN CONTROL",
+      "d": "ELIMINAR PRESUPUESTO DE TRANSPORTE"
     },
-    "respuesta_correcta": "b",
-    "fuente": "Microsoft Word 2016. Manual Práctico Paso a Paso - Gráficos"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CUÁL ES LA REGLA PARA ACENTUAR DIPTONGOS?",
-    "opciones": {
-      "a": "NUNCA SE ACENTÚAN",
-      "b": "SIEMPRE SE ACENTÚAN",
-      "c": "SE ACENTÚAN SEGÚN LAS REGLAS GENERALES DE ACENTUACIÓN",
-      "d": "SOLO EN PALABRAS EXTRANJERAS"
-    },
-    "respuesta_correcta": "c",
-    "fuente": "La Ortografía del Idioma Español - La acentuación"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CUÁL ES LA FUNCIÓN DE LAS COMILLAS EN LA PUNTUACIÓN?",
-    "opciones": {
-      "a": "SEPARAR PÁRRAFOS",
-      "b": "ENCERRAR CITAS TEXTUALES O PALABRAS CON SIGNIFICADO ESPECIAL",
-      "c": "INDICAR ÉNFASIS",
-      "d": "REEMPLAZAR PARÉNTESIS"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "La Ortografía del Idioma Español - Signos de puntuación y signos auxiliares"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "verdadero_falso",
-    "pregunta": "LOS VERBOS TRANSITIVOS SIEMPRE REQUIEREN UN COMPLEMENTO DIRECTO.",
     "respuesta_correcta": "a",
-    "fuente": "La Ortografía del Idioma Español - El verbo"
+    "fuente": "Directiva.-DIGADMON.-DEP.-SCC.-DPV.-001/2023. Directiva para la Asignación de Recursos Financieros de Pasajes y Viáticos de la Secretaría de Marina"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "opcion_multiple",
-    "pregunta": "¿CUÁNDO SE UTILIZA LA LETRA 'X' EN ESPAÑOL?",
+    "pregunta": "EN EXCEL BÁSICO, ¿CUÁL ES LA FUNCIÓN PRINCIPAL DE LAS FÓRMULAS EN UNA HOJA DE CÁLCULO?",
     "opciones": {
-      "a": "SOLO EN PALABRAS DE ORIGEN GRIEGO",
-      "b": "EN PALABRAS QUE COMIENZAN CON 'EX-' O EN PALABRAS ESPECÍFICAS",
-      "c": "NUNCA, ES UNA LETRA OBSOLETA",
-      "d": "SOLO EN NOMBRES PROPIOS"
+      "a": "REALIZAR CÁLCULOS AUTOMÁTICOS Y PROCESAMIENTO DE DATOS",
+      "b": "CAMBIAR COLOR DE CELDAS",
+      "c": "INSERTAR IMÁGENES",
+      "d": "PROTEGER HOJAS"
     },
-    "respuesta_correcta": "b",
-    "fuente": "La Ortografía del Idioma Español - Ortografía de las letras"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿QUÉ PERMITE HACER LA FUNCIÓN SI EN EXCEL?",
-    "opciones": {
-      "a": "SUMAR VALORES",
-      "b": "EJECUTAR ACCIONES DIFERENTES SEGÚN UNA CONDICIÓN",
-      "c": "CONTAR CELDAS",
-      "d": "BUSCAR VALORES"
-    },
-    "respuesta_correcta": "b",
+    "respuesta_correcta": "a",
     "fuente": "Manual de Excel Básico - Uso de fórmulas"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "verdadero_falso",
-    "pregunta": "EN EXCEL, LOS GRÁFICOS PUEDEN MOVERSE Y REDIMENSIONARSE LIBREMENTE.",
+    "pregunta": "EN POWER POINT BÁSICO 2016, MANEJAR OBJETOS INCLUYE FUNCIONES PARA INSERTAR, MOVER Y PERSONALIZAR ELEMENTOS VISUALES.",
     "respuesta_correcta": "a",
-    "fuente": "Manual de Excel Básico - Gráficos"
+    "fuente": "Power Point Básico 2016. Manual Actualización Tecnológica - Manejar objetos"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "opcion_multiple",
-    "pregunta": "¿CUÁL ES EL GRÁFICO MÁS APROPIADO PARA COMPARAR PARTES DE UN TODO?",
+    "pregunta": "¿CUÁL ES LA FUNCIÓN PRINCIPAL DE UN CERTIFICADO EN LA DOCUMENTACIÓN NAVAL?",
     "opciones": {
-      "a": "GRÁFICO DE LÍNEAS",
-      "b": "GRÁFICO CIRCULAR",
-      "c": "GRÁFICO DE DISPERSIÓN",
-      "d": "GRÁFICO DE BARRAS"
+      "a": "CERTIFICA UN HECHO O CIRCUNSTANCIA ESPECÍFICA OCURRIDA EN LA UNIDAD",
+      "b": "COMUNICA INFORMACIÓN POR RADIO",
+      "c": "REGISTRA ASISTENCIA A REUNIONES",
+      "d": "AUTORIZA PERMISOS DE VIAJE"
     },
-    "respuesta_correcta": "b",
-    "fuente": "Manual de Excel Básico - Gráficos"
+    "respuesta_correcta": "a",
+    "fuente": "Documentación Naval I - Certificado"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "opcion_multiple",
-    "pregunta": "¿CUÁL ES LA FUNCIÓN DE LA ORDENACIÓN EN UNA LISTA DE DATOS?",
+    "pregunta": "EN MICROSOFT WORD 2016, ¿CUÁLES SON LOS ELEMENTOS BÁSICOS DE UN GRÁFICO?",
     "opciones": {
-      "a": "ELIMINAR DATOS",
-      "b": "ORGANIZAR DATOS EN ORDEN ASCENDENTE O DESCENDENTE",
-      "c": "COPIAR DATOS",
-      "d": "CAMBIAR EL TIPO DE DATO"
+      "a": "DATOS, EJES, LEYENDA, TÍTULO Y ETIQUETAS",
+      "b": "SOLO NÚMEROS",
+      "c": "IMÁGENES PREDEFINIDAS",
+      "d": "TEXTO SIMPLE"
     },
-    "respuesta_correcta": "b",
+    "respuesta_correcta": "a",
+    "fuente": "Microsoft Word 2016. Manual práctico paso a paso - Gráficos"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "verdadero_falso",
+    "pregunta": "LA GESTIÓN DE LA INFORMACIÓN EN LA SECRETARÍA DE MARINA INCLUYE PROCESOS DE ORGANIZACIÓN, PROTECCIÓN Y DISTRIBUCIÓN.",
+    "respuesta_correcta": "a",
+    "fuente": "Manual de Gestión de la Información de la Secretaría de Marina – Armada de México - Gestión de la información al interior de la institución"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁL ES EL PROPÓSITO PRINCIPAL DE LA VALORACIÓN DOCUMENTAL?",
+    "opciones": {
+      "a": "DETERMINAR EL VALOR Y TIEMPO DE CONSERVACIÓN DE DOCUMENTOS",
+      "b": "ELIMINAR TODOS LOS DOCUMENTOS ANTIGUOS",
+      "c": "TRANSFERIR ARCHIVOS A TERCEROS",
+      "d": "DIGITALIZAR SOLO DOCUMENTOS RECIENTES"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Manual de Administración Archivística - Valoración documental"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "EN EXCEL BÁSICO, ¿CUÁL ES LA UTILIDAD DE EDITAR UNA HOJA DE CÁLCULO?",
+    "opciones": {
+      "a": "MODIFICAR, INSERTAR Y ELIMINAR DATOS PARA MANTENER INFORMACIÓN ACTUALIZADA",
+      "b": "ELIMINAR PERMANENTEMENTE TODOS LOS DATOS",
+      "c": "CONVERTIR EN DOCUMENTO DE SOLO LECTURA",
+      "d": "TRANSFERIR INFORMACIÓN A OTRA APLICACIÓN"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Manual de Excel Básico - Edición de una hoja de cálculo"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "verdadero_falso",
+    "pregunta": "EN POWER POINT BÁSICO 2016, LAS VISTAS PERMITEN DIFERENTES FORMAS DE VISUALIZAR Y EDITAR DIAPOSITIVAS.",
+    "respuesta_correcta": "a",
+    "fuente": "Power Point Básico 2016. Manual Actualización Tecnológica - Las vistas"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁL ES LA FUNCIÓN PRINCIPAL DE UNA CERTIFICACIÓN EN LA DOCUMENTACIÓN NAVAL?",
+    "opciones": {
+      "a": "VALIDA OFICIALMENTE UN DOCUMENTO MEDIANTE FIRMA Y SELLO AUTORIZADO",
+      "b": "CREA COPIAS SIMPLES DE DOCUMENTOS",
+      "c": "REGISTRA ASISTENCIA A EVENTOS",
+      "d": "EMITE PERMISOS ADMINISTRATIVOS"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Documentación Naval I - Certificación"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "EN MICROSOFT WORD 2016, ¿CUÁL ES LA VENTAJA DE UTILIZAR GRÁFICOS EN DOCUMENTOS?",
+    "opciones": {
+      "a": "PRESENTA INFORMACIÓN VISUAL Y FACILITA COMPRENSIÓN DE DATOS COMPLEJOS",
+      "b": "REDUCE EL NÚMERO DE PÁGINAS",
+      "c": "ELIMINA LA NECESIDAD DE TEXTO",
+      "d": "AUMENTA AUTOMÁTICAMENTE TAMAÑO DE FUENTE"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Microsoft Word 2016. Manual práctico paso a paso - Gráficos"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "verdadero_falso",
+    "pregunta": "LA ACENTUACIÓN EN ESPAÑOL DISTINGUE SIGNIFICADOS DE PALABRAS Y FACILITA PRONUNCIACIÓN CORRECTA.",
+    "respuesta_correcta": "a",
+    "fuente": "La ortografía del idioma español. Libro con ejercicios - La acentuación"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁL ES EL CONTENIDO PRINCIPAL DEL TÍTULO SEGUNDO DE LA LEY GENERAL DE ARCHIVOS?",
+    "opciones": {
+      "a": "NORMAS SOBRE GESTIÓN DOCUMENTAL Y ADMINISTRACIÓN DE ARCHIVOS",
+      "b": "PROCEDIMIENTOS PARA ELIMINAR DOCUMENTOS",
+      "c": "AUTORIDADES RESPONSABLES DE ARCHIVOS",
+      "d": "SANCIONES POR INCUMPLIMIENTO"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Ley General de Archivos - Libro I, Título Segundo: De la gestión documental y administración de archivos"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "EN EXCEL BÁSICO, ¿CUÁL ES LA DIFERENCIA ENTRE UNA LISTA DE DATOS Y UNA TABLA SIMPLE?",
+    "opciones": {
+      "a": "LA LISTA DE DATOS PERMITE FILTRAR Y ORDENAR INFORMACIÓN",
+      "b": "AMBAS SON IDÉNTICAS EN FUNCIONALIDAD",
+      "c": "LA TABLA SIMPLE TIENE MÁS FUNCIONES",
+      "d": "LA LISTA DE DATOS SOLO FUNCIONA CON NÚMEROS"
+    },
+    "respuesta_correcta": "a",
     "fuente": "Manual de Excel Básico - Listas de datos"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "verdadero_falso",
-    "pregunta": "EN POWERPOINT, LOS TEMAS PREDEFINIDOS PUEDEN PERSONALIZARSE.",
+    "pregunta": "EN POWER POINT BÁSICO 2016, TRABAJAR CON DIAPOSITIVAS PERMITE CREAR, DUPLICAR, ELIMINAR Y REORGANIZAR.",
     "respuesta_correcta": "a",
     "fuente": "Power Point Básico 2016. Manual Actualización Tecnológica - Trabajar con diapositivas"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "opcion_multiple",
-    "pregunta": "¿CUÁL ES LA FUNCIÓN DE LAS TRANSICIONES EN POWERPOINT?",
+    "pregunta": "¿CUÁL ES LA IMPORTANCIA DE LA ORTOGRAFÍA DE LAS LETRAS EN ESPAÑOL?",
     "opciones": {
-      "a": "CAMBIAR EL CONTENIDO DE LAS DIAPOSITIVAS",
-      "b": "CREAR EFECTOS DE MOVIMIENTO ENTRE DIAPOSITIVAS",
-      "c": "INSERTAR IMÁGENES",
-      "d": "CAMBIAR EL TAMAÑO DE FUENTE"
+      "a": "GARANTIZA LA CORRECTA ESCRITURA Y COMPRENSIÓN DE PALABRAS",
+      "b": "DECORA EL TEXTO CON ELEMENTOS VISUALES",
+      "c": "AUMENTA EL NÚMERO DE PALABRAS",
+      "d": "REEMPLAZA SIGNOS DE PUNTUACIÓN"
     },
-    "respuesta_correcta": "b",
-    "fuente": "Power Point Básico 2016. Manual Actualización Tecnológica - Trabajar con diapositivas"
+    "respuesta_correcta": "a",
+    "fuente": "La ortografía del idioma español. Libro con ejercicios - Ortografía de las letras"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "opcion_multiple",
-    "pregunta": "¿CUÁL ES LA FUNCIÓN DE LAS ANIMACIONES EN POWERPOINT?",
+    "pregunta": "EN MICROSOFT WORD 2016, ¿CUÁL ES EL PROCESO PARA INSERTAR UN GRÁFICO?",
     "opciones": {
-      "a": "SOLO DECORACIÓN",
-      "b": "CREAR EFECTOS DE MOVIMIENTO PARA OBJETOS DENTRO DE DIAPOSITIVAS",
-      "c": "CAMBIAR EL DISEÑO",
-      "d": "INSERTAR VIDEOS"
+      "a": "ACCEDER AL MENÚ INSERTAR, SELECCIONAR GRÁFICO Y PERSONALIZAR CON DATOS",
+      "b": "COPIAR DIRECTAMENTE DE OTRA APLICACIÓN",
+      "c": "USAR SOLO GRÁFICOS PREDEFINIDOS",
+      "d": "INSERTAR SOLO IMÁGENES ESTÁTICAS"
     },
-    "respuesta_correcta": "b",
-    "fuente": "Power Point Básico 2016. Manual Actualización Tecnológica - Manejar objetos"
+    "respuesta_correcta": "a",
+    "fuente": "Microsoft Word 2016. Manual práctico paso a paso - Gráficos"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "verdadero_falso",
-    "pregunta": "LA SEGURIDAD DE LA INFORMACIÓN ES RESPONSABILIDAD EXCLUSIVA DEL DEPARTAMENTO DE TECNOLOGÍA.",
-    "respuesta_correcta": "b",
-    "fuente": "DAM. 1.9. Seguridad de la Información - Conceptualización de la seguridad de la información"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CUÁL ES LA IMPORTANCIA DE LA CAPACITACIÓN EN SEGURIDAD DE LA INFORMACIÓN?",
-    "opciones": {
-      "a": "SOLO CUMPLIR REQUISITOS",
-      "b": "CREAR CONCIENCIA Y COMPETENCIAS PARA PROTEGER INFORMACIÓN",
-      "c": "AUMENTAR COSTOS",
-      "d": "REDUCIR PRODUCTIVIDAD"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "DAM. 1.9. Seguridad de la Información - Modelo doctrinario de Seguridad de la Información"
+    "pregunta": "LA GESTIÓN DE SOCIALIZACIÓN DE LA INFORMACIÓN BUSCA DIFUNDIR CONOCIMIENTO INSTITUCIONAL ENTRE EL PERSONAL.",
+    "respuesta_correcta": "a",
+    "fuente": "Manual de Gestión de la Información de la Secretaría de Marina – Armada de México - Gestión de socialización de la información de la institución"
   }
 ]
