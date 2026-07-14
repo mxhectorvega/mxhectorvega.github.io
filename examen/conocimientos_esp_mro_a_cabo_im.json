@@ -2,15 +2,15 @@
   {
     "tema": "Conocimientos Especificos",
     "tipo": "opcion_multiple",
-    "pregunta": "¿CUÁL ES LA MISIÓN PRINCIPAL DE LA INFANTERÍA DE MARINA COMO FUERZA DE LA ARMADA DE MÉXICO?",
+    "pregunta": "¿CUÁL ES EL PROPÓSITO PRINCIPAL DEL MANUAL PARA LA INTEGRACIÓN DEL MEMORIAL DE SERVICIOS DEL PERSONAL DE CLASES Y MARINERÍA DE LA ARMADA DE MÉXICO?",
     "opciones": {
-      "a": "CONDUCIR OPERACIONES QUE TENGAN COMO ESPACIO DE BATALLA EL ESCENARIO TERRESTRE Y ANFIBIO",
-      "b": "PROTEGER EXCLUSIVAMENTE LAS COSTAS DEL TERRITORIO MEXICANO",
-      "c": "REALIZAR OPERACIONES AÉREAS DE COMBATE CONTRA OBJETIVOS NAVALES",
-      "d": "MANTENER EL CONTROL DEL TRÁFICO MARÍTIMO EN PUERTOS NACIONALES"
+      "a": "ESTABLECER LOS PRINCIPIOS, NORMAS, TÉCNICAS Y PROCEDIMIENTOS PARA LA INTEGRACIÓN, CAPTURA Y EVALUACIÓN DE LOS MEMORIALES DE SERVICIOS",
+      "b": "DEFINIR LOS SALARIOS Y PRESTACIONES DEL PERSONAL NAVAL",
+      "c": "ORGANIZAR LAS OPERACIONES MILITARES EN TIEMPO DE GUERRA",
+      "d": "ESTABLECER LOS HORARIOS DE TRABAJO DEL PERSONAL NAVAL"
     },
     "respuesta_correcta": "a",
-    "fuente": "DAM 1.3.3 - Fundamentos de las Operaciones de la Infantería de Marina"
+    "fuente": "Manual para la Integración del Memorial de Servicios - Introducción"
   },
   {
     "tema": "Conocimientos Especificos",
@@ -22,825 +22,1538 @@
   {
     "tema": "Conocimientos Especificos",
     "tipo": "opcion_multiple",
-    "pregunta": "¿CUÁL ES LA UNIDAD MÍNIMA E INDIVISIBLE DE COMBATE EN LA INFANTERÍA DE MARINA?",
+    "pregunta": "¿CUÁL ES LA MISIÓN PRINCIPAL DEL CUERPO DE INFANTERÍA DE MARINA COMO FUERZA DE LA ARMADA DE MÉXICO?",
     "opciones": {
-      "a": "LA SECCIÓN",
-      "b": "LA ESCUADRA",
-      "c": "EL PELOTÓN",
-      "d": "LA COMPAÑÍA"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "DAM 1.3.3.1.5 - Táctica Terrestre de la Escuadra y Pelotón"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CUÁL DE LOS SIGUIENTES ELEMENTOS CONSTITUYE EL TRIÁNGULO DEL FUEGO?",
-    "opciones": {
-      "a": "OXÍGENO, CALOR Y COMBUSTIBLE",
-      "b": "OXÍGENO, CALOR Y REACCIÓN EN CADENA",
-      "c": "COMBUSTIBLE, CALOR Y AIRE COMPRIMIDO",
-      "d": "OXÍGENO, PRESIÓN Y COMBUSTIBLE"
+      "a": "CONDUCIR TODAS AQUELLAS OPERACIONES QUE TENGAN COMO ESPACIO DE BATALLA EL ESCENARIO TERRESTRE Y ANFIBIO",
+      "b": "MANTENER EL ORDEN EN LAS CIUDADES COSTERAS",
+      "c": "ADMINISTRAR LOS PUERTOS NACIONALES",
+      "d": "CONTROLAR EL TRÁFICO AÉREO NACIONAL"
     },
     "respuesta_correcta": "a",
-    "fuente": "DAM 1.3.1.3.5 - Teoría de la Combustión"
+    "fuente": "Operaciones de la Infantería de Marina - Concepto"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "verdadero_falso",
-    "pregunta": "EL TETRAEDRO DEL FUEGO AÑADE UN CUARTO ELEMENTO AL TRIÁNGULO DEL FUEGO: LA REACCIÓN EN CADENA.",
+    "pregunta": "LA ESCUADRA DE INFANTERÍA DE MARINA ES UNA UNIDAD MÍNIMA E INDIVISIBLE DE COMBATE COMPUESTA POR TRES ELEMENTOS BAJO EL MANDO DE UN CABO.",
     "respuesta_correcta": "a",
-    "fuente": "DAM 1.3.1.3.5 - Química del Fuego"
+    "fuente": "Operaciones de la Infantería de Marina - Organización Administrativa"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "opcion_multiple",
-    "pregunta": "¿CUÁL ES EL AGENTE EXTINGUIDOR MÁS RECOMENDABLE PARA COMBATIR UN FUEGO CLASE A?",
+    "pregunta": "¿CUÁL ES LA COMPOSICIÓN BÁSICA DE UN PELOTÓN DE INFANTERÍA DE MARINA?",
     "opciones": {
-      "a": "DIÓXIDO DE CARBONO",
+      "a": "UN COMANDANTE DE PELOTÓN Y TRES ESCUADRAS, SUMANDO UN TOTAL DE 13 ELEMENTOS",
+      "b": "UN COMANDANTE Y CINCO ESCUADRAS, SUMANDO UN TOTAL DE 20 ELEMENTOS",
+      "c": "DOS COMANDANTES Y CUATRO ESCUADRAS, SUMANDO UN TOTAL DE 15 ELEMENTOS",
+      "d": "UN COMANDANTE Y DOS ESCUADRAS, SUMANDO UN TOTAL DE 10 ELEMENTOS"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Táctica Terrestre de la Escuadra y Pelotón de Infantería de Marina - Organización"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁLES SON LOS NUEVE PRINCIPIOS UNIVERSALES DE LA GUERRA QUE RECONOCE LA TÁCTICA DE INFANTERÍA DE MARINA?",
+    "opciones": {
+      "a": "UNIDAD DE OBJETIVO, ACCIÓN OFENSIVA, CONCENTRACIÓN Y ECONOMÍA DE FUERZAS, MANIOBRA, SEGURIDAD, SORPRESA, SENCILLEZ, COORDINACIÓN Y COOPERACIÓN, Y UNIDAD DE MANDO",
+      "b": "DEFENSA, ATAQUE, RETIRADA, MOVILIDAD, FUEGO, CONTROL, DISCIPLINA, LOGÍSTICA Y COMUNICACIÓN",
+      "c": "VELOCIDAD, POTENCIA, PRECISIÓN, FLEXIBILIDAD, DURABILIDAD, RESISTENCIA, ADAPTABILIDAD, EFICIENCIA Y EFECTIVIDAD",
+      "d": "ORDEN, CAOS, EQUILIBRIO, DESEQUILIBRIO, ACCIÓN, REACCIÓN, INICIATIVA, RESPUESTA Y EVALUACIÓN"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Táctica Terrestre de la Infantería de Marina - Principios"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "verdadero_falso",
+    "pregunta": "EL TRIÁNGULO DEL FUEGO REPRESENTA LOS ELEMENTOS IMPRESCINDIBLES PARA QUE SE PRODUZCA LA COMBUSTIÓN: OXÍGENO, CALOR Y COMBUSTIBLE.",
+    "respuesta_correcta": "a",
+    "fuente": "Contraincendios para Establecimientos Navales - Química del Fuego"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁL ES LA DIFERENCIA PRINCIPAL ENTRE EL TRIÁNGULO DEL FUEGO Y EL TETRAEDRO DEL FUEGO?",
+    "opciones": {
+      "a": "EL TETRAEDRO INCLUYE UN CUARTO ELEMENTO: LA REACCIÓN EN CADENA",
+      "b": "EL TETRAEDRO ELIMINA EL ELEMENTO DEL CALOR",
+      "c": "EL TRIÁNGULO INCLUYE EL OXÍGENO MIENTRAS QUE EL TETRAEDRO NO",
+      "d": "NO HAY DIFERENCIA SIGNIFICATIVA ENTRE AMBOS"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Contraincendios para Establecimientos Navales - Tetraedro del Fuego"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁL ES EL PORCENTAJE DE OXÍGENO CONTENIDO EN LA ATMÓSFERA A PRESIÓN ATMOSFÉRICA?",
+    "opciones": {
+      "a": "21% DE OXÍGENO, 78% DE NITRÓGENO Y 1% DE OTROS GASES",
+      "b": "15% DE OXÍGENO, 80% DE NITRÓGENO Y 5% DE OTROS GASES",
+      "c": "25% DE OXÍGENO, 70% DE NITRÓGENO Y 5% DE OTROS GASES",
+      "d": "20% DE OXÍGENO, 75% DE NITRÓGENO Y 5% DE OTROS GASES"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Contraincendios para Establecimientos Navales - El Oxígeno"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "verdadero_falso",
+    "pregunta": "LOS LÍQUIDOS INFLAMABLES SON AQUELLOS QUE TIENEN SU PUNTO DE INFLAMACIÓN INFERIOR A 38°C Y PRESIÓN DE VAPOR QUE NO SUPERA LOS 40 PSI A 38°C.",
+    "respuesta_correcta": "a",
+    "fuente": "Contraincendios para Establecimientos Navales - Líquidos Inflamables"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁLES SON LAS MEDIDAS DE SEGURIDAD PARA PREVENIR UN INCENDIO A BORDO DE UN BUQUE?",
+    "opciones": {
+      "a": "CONOCER LOS MATERIALES COMBUSTIBLES, LOCALIZAR Y COMBATIR EL FUEGO EN SU FASE INICIAL, SUPRIMIR EL FUEGO, CONFINAR EL INCENDIO Y REALIZAR INSPECCIONES DE PREVENCIÓN",
+      "b": "SOLO USAR AGUA PARA APAGAR CUALQUIER INCENDIO",
+      "c": "EVITAR TODA ACTIVIDAD EN EL BUQUE",
+      "d": "MANTENER TODAS LAS PUERTAS ABIERTAS EN TODO MOMENTO"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Contraincendios para Establecimientos Navales - Medidas de Seguridad"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁL ES EL AGENTE EXTINGUIDOR MÁS RECOMENDABLE PARA FUEGO CLASE A?",
+    "opciones": {
+      "a": "EL AGUA",
       "b": "POLVO QUÍMICO SECO",
-      "c": "AGUA",
-      "d": "ACETATO DE POTASIO"
+      "c": "BIÓXIDO DE CARBONO",
+      "d": "ESPUMA MECÁNICA"
     },
-    "respuesta_correcta": "c",
-    "fuente": "DAM 1.3.1.3.5 - Uso de Agentes Extinguidores"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿A QUÉ TEMPERATURA APROXIMADAMENTE SE ENCUENTRA LA LLAMA EN LA FASE INCIPIENTE DEL FUEGO?",
-    "opciones": {
-      "a": "APROXIMADAMENTE 300°C",
-      "b": "APROXIMADAMENTE 538°C",
-      "c": "APROXIMADAMENTE 700°C",
-      "d": "APROXIMADAMENTE 1000°C"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "DAM 1.3.1.3.5 - Fases del Fuego"
+    "respuesta_correcta": "a",
+    "fuente": "Contraincendios para Establecimientos Navales - Fuego Clase A"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "verdadero_falso",
-    "pregunta": "LA FASE LATENTE DEL FUEGO ES AQUELLA EN LA CUAL LA LLAMA DEJA DE EXISTIR SI EL COMPARTIMENTO SE ENCUENTRA CERRADO.",
-    "respuesta_correcta": "a",
-    "fuente": "DAM 1.3.1.3.5 - Fases del Fuego"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CUÁL DE LAS SIGUIENTES MEDIDAS NO ES UNA MEDIDA DE SEGURIDAD PARA PREVENIR UN INCENDIO A BORDO?",
-    "opciones": {
-      "a": "CONOCER LOS MATERIALES COMBUSTIBLES QUE SE ALMACENAN EN LOS COMPARTIMENTOS",
-      "b": "LOCALIZAR Y COMBATIR EL FUEGO EN SU FASE INICIAL",
-      "c": "AUMENTAR LA CONCENTRACIÓN DE OXÍGENO EN LAS ÁREAS DE TRABAJO",
-      "d": "MANTENER ORDENADA Y LIMPIA LA MAQUINARIA"
-    },
-    "respuesta_correcta": "c",
-    "fuente": "DAM 1.3.1.3.5 - Causas y Prevención de Incendios"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CUÁL ES LA ESCALA DE PUNTUACIÓN QUE DEBE CONCEDER EL EVALUADOR EN EL RUBRO DE CONDUCTA?",
-    "opciones": {
-      "a": "DE 1 AL 5",
-      "b": "DE 0 AL 5",
-      "c": "DE 1 AL 10",
-      "d": "DE 0 AL 10"
-    },
+    "pregunta": "EL FUEGO CLASE B SE PRODUCE CON MATERIALES COMBUSTIBLES SÓLIDOS COMUNES TALES COMO MADERA, PAPEL Y TEXTILES.",
     "respuesta_correcta": "b",
-    "fuente": "Manual para la Integración del Memorial de Servicios - Metodología"
+    "fuente": "Contraincendios para Establecimientos Navales - Clasificación de Incendios"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁL ES EL AGENTE EXTINGUIDOR MÁS RECOMENDADO PARA FUEGO CLASE C?",
+    "opciones": {
+      "a": "POLVO QUÍMICO SECO, BIÓXIDO DE CARBONO Y AGUA DESTILADA PULVERIZADA",
+      "b": "AGUA COMÚN",
+      "c": "ESPUMA QUÍMICA",
+      "d": "CLORURO DE SODIO"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Contraincendios para Establecimientos Navales - Fuego Clase C"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁL ES LA FASE INICIAL DE UN INCENDIO TAMBIÉN DENOMINADA FASE INCIPIENTE?",
+    "opciones": {
+      "a": "AQUELLA EN LA QUE EL INCENDIO ES PEQUEÑO Y CONTROLABLE",
+      "b": "LA FASE EN LA QUE EL INCENDIO ESTÁ COMPLETAMENTE FUERA DE CONTROL",
+      "c": "LA FASE FINAL DEL INCENDIO",
+      "d": "LA FASE EN LA QUE EL INCENDIO SE PROPAGA RÁPIDAMENTE"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Contraincendios para Establecimientos Navales - Clasificación de Incendios"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "verdadero_falso",
-    "pregunta": "EL REVISOR ES EL ALMIRANTE, CAPITÁN U OFICIAL EN SERVICIO ACTIVO INMEDIATO SUPERIOR ORGÁNICO DEL EVALUADOR.",
+    "pregunta": "EN LA FASE INCIPIENTE DEL FUEGO, EL CONTENIDO DE OXÍGENO EN EL COMPARTIMENTO ES DE ALREDEDOR DE 20 Y 21 PORCIENTO.",
     "respuesta_correcta": "a",
-    "fuente": "Manual para la Integración del Memorial de Servicios - Capítulo V"
+    "fuente": "Contraincendios para Establecimientos Navales - Fase Incipiente"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "opcion_multiple",
-    "pregunta": "¿CUÁL ES UNA DE LAS FUNCIONES PRINCIPALES DE LOS REVISORES EN EL PROCESO DE EVALUACIÓN?",
+    "pregunta": "¿CUÁLES SON LAS CARACTERÍSTICAS DE LA FASE LIBRE DEL FUEGO?",
     "opciones": {
-      "a": "ASIGNAR CALIFICACIONES FINALES AL PERSONAL",
-      "b": "REVISAR QUE EL INFORME DE VIDA SE ENCUENTRE DEBIDAMENTE CAPTURADO Y CALIFICADO",
-      "c": "CAPACITAR AL PERSONAL EN NUEVAS TÉCNICAS DE TRABAJO",
-      "d": "REALIZAR INSPECCIONES DE SEGURIDAD EN LAS UNIDADES"
+      "a": "SE PRESENTA LA LIBRE COMBUSTIÓN, LA TEMPERATURA DE LA LLAMA ES APROXIMADAMENTE 700°C Y EL CONTENIDO DE OXÍGENO ES MENOR DE 19.5 PORCIENTO",
+      "b": "EL FUEGO ESTÁ COMPLETAMENTE EXTINGUIDO",
+      "c": "LA TEMPERATURA ES BAJA Y EL FUEGO SE CONTROLA FÁCILMENTE",
+      "d": "NO HAY PRESENCIA DE HUMO NI GASES"
     },
-    "respuesta_correcta": "b",
-    "fuente": "Manual para la Integración del Memorial de Servicios - Capítulo V"
+    "respuesta_correcta": "a",
+    "fuente": "Contraincendios para Establecimientos Navales - Fase Libre"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "opcion_multiple",
-    "pregunta": "¿CUÁL ES EL CONCEPTO DE SEGURIDAD FÍSICA ESTABLECIDO EN LA DOCTRINA DE LA ARMADA?",
+    "pregunta": "¿QUÉ ES UN EXTINTOR SEGÚN LA DEFINICIÓN EN EL MANUAL DE CONTRAINCENDIOS?",
     "opciones": {
-      "a": "SOLO LA VIGILANCIA DE INSTALACIONES MILITARES",
-      "b": "LAS MEDIDAS QUE SE ADOPTAN PARA EVITAR LESIÓN O PÉRDIDAS DE VIDAS Y DAÑO A BIENES",
-      "c": "LA PROTECCIÓN EXCLUSIVA DEL PERSONAL MILITAR",
-      "d": "EL CONTROL DE ACCESO A PUERTOS Y COSTAS"
+      "a": "UN APARATO COMPUESTO POR UN RECIPIENTE METÁLICO DE FORMA CILÍNDRICA QUE CONTIENE AGENTE EXTINGUIDOR EXPULSADO BAJO PRESIÓN",
+      "b": "UNA MANGUERA CONECTADA A UNA BOMBA DE AGUA",
+      "c": "UN SISTEMA DE ROCIADORES AUTOMÁTICOS",
+      "d": "UNA PUERTA CORTAFUEGO"
     },
-    "respuesta_correcta": "b",
-    "fuente": "DAM 1.3.4.6 - Concepto de Seguridad Física"
+    "respuesta_correcta": "a",
+    "fuente": "Contraincendios para Establecimientos Navales - Extintores"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "verdadero_falso",
-    "pregunta": "LA GUARDIA EN PREVENCIÓN ES UNO DE LOS SERVICIOS DE GUARDIA QUE REALIZA LA PRINCIPAL FUNCIÓN DE SEGURIDAD FÍSICA EN LAS UNIDADES NAVALES.",
+    "pregunta": "LOS EXTINTORES DE DIÓXIDO DE CARBONO LOGRAN LA EXTINCIÓN POR ENFRIAMIENTO Y SOFOCACIÓN.",
     "respuesta_correcta": "a",
-    "fuente": "DAM 1.3.4.6 - Servicios de Guardia"
+    "fuente": "Contraincendios para Establecimientos Navales - Extintores de CO2"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "opcion_multiple",
-    "pregunta": "¿CUÁL DE LOS SIGUIENTES FACTORES AFECTA LA SEGURIDAD FÍSICA DE LAS UNIDADES NAVALES?",
+    "pregunta": "¿CUÁL ES EL TIEMPO DE DESCARGA DE LOS EXTINTORES PORTÁTILES DE 15 Y 20 LIBRAS DE CO2?",
     "opciones": {
-      "a": "ÚNICAMENTE EL TAMAÑO DE LA UNIDAD",
-      "b": "TAMAÑO, NATURALEZA, MISIÓN, VULNERABILIDAD Y UBICACIÓN GEOGRÁFICA",
-      "c": "SOLO LA SITUACIÓN ECONÓMICA DEL PAÍS",
-      "d": "EXCLUSIVAMENTE LAS CAPACIDADES DEL ENEMIGO"
+      "a": "APROXIMADAMENTE 40 SEGUNDOS",
+      "b": "APROXIMADAMENTE 10 SEGUNDOS",
+      "c": "APROXIMADAMENTE 60 SEGUNDOS",
+      "d": "APROXIMADAMENTE 30 SEGUNDOS"
     },
-    "respuesta_correcta": "b",
-    "fuente": "DAM 1.3.4.6 - Factores que Afectan la Seguridad Física"
+    "respuesta_correcta": "a",
+    "fuente": "Contraincendios para Establecimientos Navales - Extintores de CO2"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "opcion_multiple",
-    "pregunta": "¿QUÉ SON LOS RIESGOS ANTROPOGÉNICOS EN MATERIA DE SEGURIDAD FÍSICA?",
+    "pregunta": "¿CUÁL ES LA REGLA GENERAL PARA USAR UN EXTINTOR EN CASO DE INCENDIO?",
     "opciones": {
-      "a": "SOLO LOS FENÓMENOS NATURALES COMO TERREMOTOS",
-      "b": "DESCUIDOS HUMANOS Y ACTOS INTENCIONALES DE COMISIÓN U OMISIÓN",
-      "c": "ÚNICAMENTE LOS INCENDIOS PROVOCADOS",
-      "d": "LOS DESASTRES NATURALES QUE NO PUEDEN PREVENIRSE"
+      "a": "AL PERCATARSE DE UN INCENDIO DAR AVISO INMEDIATAMENTE, CONSERVAR LA CALMA, TOMAR EL EXTINTOR MÁS CERCANO Y COMBATIR EL FUEGO A LA BASE DE LAS FLAMAS",
+      "b": "SOLO USAR EL EXTINTOR SI EL FUEGO ES PEQUEÑO",
+      "c": "APUNTAR HACIA LA PARTE SUPERIOR DE LAS LLAMAS",
+      "d": "USAR CUALQUIER EXTINTOR SIN IMPORTAR EL TIPO DE FUEGO"
     },
-    "respuesta_correcta": "b",
-    "fuente": "DAM 1.3.4.6 - Clasificación de Riesgos"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CUÁL ES EL OBJETIVO PRINCIPAL DEL ADIESTRAMIENTO EN LA ARMADA DE MÉXICO?",
-    "opciones": {
-      "a": "SOLO IMPARTIR CONOCIMIENTOS TEÓRICOS AL PERSONAL",
-      "b": "PREPARAR Y EVALUAR AL PERSONAL PARA CUMPLIR MISIONES CON EFICIENCIA Y EFICACIA",
-      "c": "ÚNICAMENTE CAPACITAR EN ARMAS Y EQUIPOS MILITARES",
-      "d": "ENTRENAR SOLO A LOS OFICIALES DE LA INSTITUCIÓN"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "DAM 1.10 - Alcance del Adiestramiento"
+    "respuesta_correcta": "a",
+    "fuente": "Contraincendios para Establecimientos Navales - Reglas Generales para el Uso de Extintores"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "verdadero_falso",
-    "pregunta": "EL ADIESTRAMIENTO DE LA ARMADA DE MÉXICO ESTÁ BASADO EN CINCO NIVELES QUE VAN DESDE EL ADIESTRAMIENTO INDIVIDUAL BÁSICO HASTA EL TÁCTICO DE CONJUNTO.",
+    "pregunta": "LOS EXTINTORES DEBEN REVISARSE AL MOMENTO DE SU INSTALACIÓN Y POSTERIORMENTE A INTERVALOS NO MAYORES DE UN MES.",
     "respuesta_correcta": "a",
-    "fuente": "DAM 1.10 - Niveles de Adiestramiento"
+    "fuente": "Contraincendios para Establecimientos Navales - Revisión de Extintores"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "opcion_multiple",
-    "pregunta": "¿CUÁL ES LA MISIÓN DE LA INFANTERÍA DE MARINA EN LA OFENSIVA?",
+    "pregunta": "¿QUÉ ELEMENTOS DEBEN VERIFICARSE EN LA REVISIÓN VISUAL DE LOS EXTINTORES?",
     "opciones": {
-      "a": "MANTENER UNA POSICIÓN DEFENSIVA PERMANENTE",
-      "b": "LOCALIZAR, ACERCARSE, ATACAR Y DESTRUIR AL ENEMIGO MEDIANTE FUEGO Y MANIOBRA",
-      "c": "ÚNICAMENTE PROPORCIONAR APOYO LOGÍSTICO",
-      "d": "REALIZAR PATRULLAS DE RECONOCIMIENTO SIN COMBATIR"
+      "a": "UBICACIÓN, ACCESO, LEGIBILIDAD DE INSTRUCCIONES, SELLOS DE INVIOLABILIDAD, LECTURAS DEL MANÓMETRO Y AUSENCIA DE DAÑO FÍSICO",
+      "b": "SOLO EL COLOR DEL EXTINTOR",
+      "c": "SOLO EL PESO DEL EXTINTOR",
+      "d": "SOLO LA FECHA DE FABRICACIÓN"
     },
-    "respuesta_correcta": "b",
-    "fuente": "DAM 1.3.3.1 - Misión General de la Infantería de Marina"
+    "respuesta_correcta": "a",
+    "fuente": "Contraincendios para Establecimientos Navales - Revisión Visual de Extintores"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "opcion_multiple",
-    "pregunta": "¿CUÁLES SON LOS ELEMENTOS CONSTITUTIVOS DE LA INFANTERÍA DE MARINA?",
+    "pregunta": "¿CUÁL ES EL CONCEPTO DE SEGURIDAD FÍSICA SEGÚN EL MANUAL DAM 1.3.4.6?",
     "opciones": {
-      "a": "SOLO PERSONAL Y ARMAMENTO",
-      "b": "PERSONAL, ARMAMENTO Y MATERIAL",
-      "c": "ÚNICAMENTE EQUIPOS DE COMUNICACIÓN",
-      "d": "SOLO VEHÍCULOS Y MATERIAL LOGÍSTICO"
+      "a": "SON LAS MEDIDAS QUE SE ADOPTAN PARA EVITAR LESIÓN O PÉRDIDAS DE VIDAS, DAÑO O DESORGANIZACIÓN, DESTRUCCIÓN DE BIENES MUEBLES E INMUEBLES DE LA NACIÓN",
+      "b": "ES SOLO LA VIGILANCIA CON ARMAS",
+      "c": "ES ÚNICAMENTE EL CIERRE DE PUERTAS Y VENTANAS",
+      "d": "ES LA PROHIBICIÓN DE ENTRADA A LAS INSTALACIONES"
     },
-    "respuesta_correcta": "b",
-    "fuente": "DAM 1.3.3.1 - Elementos Constitutivos"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CUÁL ES LA FORMACIÓN BÁSICA DEL MOVIMIENTO DE LA ESCUADRA?",
-    "opciones": {
-      "a": "LA COLUMNA",
-      "b": "LA LÍNEA",
-      "c": "LA CUÑA",
-      "d": "LA ESCARAMUZA"
-    },
-    "respuesta_correcta": "c",
-    "fuente": "DAM 1.3.3.1.5 - Formaciones de la Escuadra"
+    "respuesta_correcta": "a",
+    "fuente": "Seguridad Física de las Unidades y Establecimientos - Concepto"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "verdadero_falso",
-    "pregunta": "EN LA FORMACIÓN EN CUÑA, EL INTERVALO NORMAL ENTRE HOMBRES ES DE 10 METROS.",
+    "pregunta": "LA RESPONSABILIDAD DE LA SEGURIDAD DE UNA UNIDAD O ESTABLECIMIENTO RECAE EN EL COMANDANTE O DIRECTOR DE LA UNIDAD O ESTABLECIMIENTO.",
     "respuesta_correcta": "a",
-    "fuente": "DAM 1.3.3.1.5 - Formaciones de la Escuadra"
+    "fuente": "Seguridad Física de las Unidades y Establecimientos - Organización"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "opcion_multiple",
-    "pregunta": "¿CUÁL ES LA FORMACIÓN MÁS RECOMENDABLE PARA EL FUEGO EN MOVIMIENTO Y EL ASALTO?",
+    "pregunta": "¿CUÁLES SON LOS FACTORES QUE AFECTAN LA SEGURIDAD FÍSICA DE LAS UNIDADES O ESTABLECIMIENTOS?",
     "opciones": {
-      "a": "LA COLUMNA",
-      "b": "LA ESCARAMUZA",
-      "c": "LA CUÑA",
-      "d": "LA ESCALONADA"
+      "a": "TAMAÑO Y NATURALEZA, MISIÓN, VULNERABILIDAD, UBICACIÓN GEOGRÁFICA, SITUACIÓN ECONÓMICA Y POLÍTICA DEL ÁREA, FACTIBILIDAD DE APOYO EXTERNO Y CAPACIDADES PROPIAS Y DEL ENEMIGO",
+      "b": "SOLO EL TAMAÑO DE LA UNIDAD",
+      "c": "SOLO LA UBICACIÓN GEOGRÁFICA",
+      "d": "SOLO LOS RECURSOS ECONÓMICOS"
     },
-    "respuesta_correcta": "b",
-    "fuente": "DAM 1.3.3.1.5 - Formaciones de la Escuadra"
+    "respuesta_correcta": "a",
+    "fuente": "Seguridad Física de las Unidades y Establecimientos - Factores"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁL ES LA DEFINICIÓN DE RIESGO EN EL CONTEXTO DE SEGURIDAD FÍSICA?",
+    "opciones": {
+      "a": "LA PROBABILIDAD DE QUE SE PRODUZCA UN EVENTO Y SUS CONSECUENCIAS NEGATIVAS, TENIENDO COMO FACTORES LA AMENAZA Y LA VULNERABILIDAD",
+      "b": "LA CERTEZA DE QUE OCURRIRÁ UN EVENTO POSITIVO",
+      "c": "LA AUSENCIA TOTAL DE PELIGRO",
+      "d": "LA CAPACIDAD DE DEFENSA PERFECTA"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Seguridad Física de las Unidades y Establecimientos - Riesgos"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "verdadero_falso",
+    "pregunta": "LOS RIESGOS NATURALES SON GENERALMENTE CONSECUENCIA DE FENÓMENOS NATURALES, AUNQUE ALGUNOS PUEDEN SER INDUCIDOS POR ACCIÓN HUMANA.",
+    "respuesta_correcta": "a",
+    "fuente": "Seguridad Física de las Unidades y Establecimientos - Clasificación de Riesgos"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁLES SON LOS RECURSOS HUMANOS PARA GARANTIZAR LA SEGURIDAD DE LAS UNIDADES Y ESTABLECIMIENTOS NAVALES?",
+    "opciones": {
+      "a": "JEFE DE SEGURIDAD, OFICIAL DE VIGILANCIA, OFICIAL DE CUARTEL, OFICIAL DE DÍA, GUARDIA EN PREVENCIÓN, FUERZA DE REACCIÓN INMEDIATA Y SERVICIOS DE APOYO",
+      "b": "SOLO PERSONAL ARMADO",
+      "c": "SOLO PERSONAL ADMINISTRATIVO",
+      "d": "SOLO PERSONAL DE MANTENIMIENTO"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Seguridad Física de las Unidades y Establecimientos - Recursos Humanos"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁLES SON LOS RECURSOS MATERIALES PARA OPTIMIZAR LA SEGURIDAD FÍSICA?",
+    "opciones": {
+      "a": "SALA DE GUARDIA, BARRERAS PERIMÉTRICAS, ILUMINACIÓN Y SEÑALES AUDIBLES, REGISTRO Y CONTROL, Y COMUNICACIONES",
+      "b": "SOLO ARMAS DE FUEGO",
+      "c": "SOLO VEHÍCULOS BLINDADOS",
+      "d": "SOLO SISTEMAS DE VIDEO"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Seguridad Física de las Unidades y Establecimientos - Recursos Materiales"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "verdadero_falso",
+    "pregunta": "LAS BARRERAS PERIMÉTRICAS DEBEN TENER PREFERENTEMENTE RESGUARDO DE CONCERTINA O ALAMBRE DE PÚAS EN LA PARTE SUPERIOR.",
+    "respuesta_correcta": "a",
+    "fuente": "Seguridad Física de las Unidades y Establecimientos - Barreras Perimétricas"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁL ES EL ALCANCE DEL ADIESTRAMIENTO DE LA ARMADA DE MÉXICO SEGÚN EL DAM 1.10?",
+    "opciones": {
+      "a": "NORMAR LOS PROCESOS DE ADIESTRAMIENTO DESDE EL GRADO DE MARINERO HASTA ALMIRANTE QUE PERMITA ACTUAR EN UN LUGAR Y TIEMPO DETERMINADO A LA BREVEDAD POSIBLE",
+      "b": "SOLO ENTRENAR A MARINEROS",
+      "c": "SOLO PREPARAR PARA COMBATE NAVAL",
+      "d": "SOLO DESARROLLAR HABILIDADES ADMINISTRATIVAS"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Adiestramiento de la Armada de México - Alcance"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "verdadero_falso",
+    "pregunta": "EL ADIESTRAMIENTO DE LA ARMADA DE MÉXICO ESTÁ BASADO EN CINCO NIVELES QUE INICIAN CON UN ADIESTRAMIENTO INDIVIDUAL BÁSICO Y CULMINA CON UN ADIESTRAMIENTO TÁCTICO DE CONJUNTO.",
+    "respuesta_correcta": "a",
+    "fuente": "Adiestramiento de la Armada de México - Niveles"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁL ES EL NIVEL I DEL ADIESTRAMIENTO DE LA ARMADA DE MÉXICO?",
+    "opciones": {
+      "a": "EL ADIESTRAMIENTO BÁSICO INDIVIDUAL PARA PERSONAL DE NUEVO INGRESO",
+      "b": "EL ADIESTRAMIENTO ESPECIALIZADO",
+      "c": "EL ADIESTRAMIENTO DE UNIDAD",
+      "d": "EL ADIESTRAMIENTO AVANZADO"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Adiestramiento de la Armada de México - Nivel I"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁL ES EL NIVEL II DEL ADIESTRAMIENTO DE LA ARMADA DE MÉXICO?",
+    "opciones": {
+      "a": "EL ADIESTRAMIENTO ESPECIALIZADO INDIVIDUAL PARA PREPARAR AL ELEMENTO EN SU FUNCIÓN ESPECÍFICA",
+      "b": "EL ADIESTRAMIENTO BÁSICO DE UNIDAD",
+      "c": "EL ADIESTRAMIENTO AVANZADO DE UNIDAD",
+      "d": "EL ADIESTRAMIENTO TÁCTICO DE CONJUNTO"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Adiestramiento de la Armada de México - Nivel II"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿QUÉ OBJETIVO TIENE EL NIVEL III DEL ADIESTRAMIENTO?",
+    "opciones": {
+      "a": "LOGRAR QUE TODAS LAS PARTES COMPONENTES SE INTEGREN COMO UNA SOLA UNIDAD BAJO UN TRABAJO COLECTIVO",
+      "b": "PREPARAR AL PERSONAL PARA COMBATE INDIVIDUAL",
+      "c": "ENTRENAR SOLO EN OPERACIONES AÉREAS",
+      "d": "DESARROLLAR HABILIDADES ADMINISTRATIVAS"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Adiestramiento de la Armada de México - Nivel III"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "verdadero_falso",
+    "pregunta": "EL NIVEL IV DEL ADIESTRAMIENTO SE LLEVA A CABO ENTRE UNIDADES DE UNA FUERZA O MANDO NAVAL PARA PREPARAR A LAS UNIDADES Y OPERAR COMO GRUPO DE TAREA.",
+    "respuesta_correcta": "a",
+    "fuente": "Adiestramiento de la Armada de México - Nivel IV"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁL ES EL NIVEL V DEL ADIESTRAMIENTO DE LA ARMADA DE MÉXICO?",
+    "opciones": {
+      "a": "ADIESTRAMIENTO TÁCTICO DE CONJUNTO CUANDO DIFERENTES UNIDADES SE INTEGREN COMO FUERZA DE TAREA",
+      "b": "ADIESTRAMIENTO INDIVIDUAL BÁSICO",
+      "c": "ADIESTRAMIENTO ESPECIALIZADO",
+      "d": "ADIESTRAMIENTO DE UNIDAD BÁSICO"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Adiestramiento de la Armada de México - Nivel V"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁL ES LA DEFINICIÓN DEL CUERPO DE INFANTERÍA DE MARINA COMO GRAN UNIDAD SUPERIOR?",
+    "opciones": {
+      "a": "LA GRAN UNIDAD SUPERIOR COMPUESTA DE DOS O MÁS GRANDES UNIDADES ELEMENTALES MÁS RESERVAS DEL SERVICIO MILITAR NACIONAL",
+      "b": "UNA UNIDAD TÁCTICA PEQUEÑA",
+      "c": "UNA UNIDAD ADMINISTRATIVA ÚNICAMENTE",
+      "d": "UNA UNIDAD DE ENTRENAMIENTO"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Operaciones de la Infantería de Marina - El Cuerpo de IM"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "verdadero_falso",
+    "pregunta": "EN TIEMPO DE PAZ, LA INFANTERÍA DE MARINA ESTÁ ORGANIZADA COMO UN CUERPO DEL CUAL DEPENDEN ADMINISTRATIVA Y LOGÍSTICAMENTE UNIDADES TÁCTICAS DE TIPO BRIGADA O BATALLONES.",
+    "respuesta_correcta": "a",
+    "fuente": "Operaciones de la Infantería de Marina - Organización Administrativa"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁL ES LA COMPOSICIÓN BÁSICA DE UNA ESCUADRA DE INFANTERÍA DE MARINA?",
+    "opciones": {
+      "a": "UN COMANDANTE DE ESCUADRA/GRANADERO, UN FUSILERO AMETRALLADOR Y DOS FUSILEROS",
+      "b": "UN COMANDANTE Y TRES FUSILEROS",
+      "c": "DOS COMANDANTES Y CUATRO FUSILEROS",
+      "d": "UN COMANDANTE, DOS AMETRALLADORES Y DOS FUSILEROS"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Táctica Terrestre de la Escuadra y Pelotón de Infantería de Marina - Organización"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁL ES LA MISIÓN DEL FUSILERO AMETRALLADOR EN UNA ESCUADRA DE INFANTERÍA DE MARINA?",
+    "opciones": {
+      "a": "SUMINISTRA UNA BASE DE FUEGO INTERNA CON HABILIDAD PARA ENVIAR FUEGO SUPRESOR SOSTENIDO",
+      "b": "SOLO REALIZAR TAREAS ADMINISTRATIVAS",
+      "c": "CONDUCIR LA ESCUADRA",
+      "d": "MANTENER EL EQUIPO DE COMUNICACIONES"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Táctica Terrestre de la Escuadra y Pelotón de Infantería de Marina - Fusilero Ametrallador"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "verdadero_falso",
+    "pregunta": "EL GRANADERO EN UNA ESCUADRA PROVEE FUEGO INDIRECTO DE ALTO EXPLOSIVO PARA AMBOS, OBJETIVO PUNTUAL Y DE ÁREA.",
+    "respuesta_correcta": "a",
+    "fuente": "Táctica Terrestre de la Escuadra y Pelotón de Infantería de Marina - Granadero"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁL ES LA FUNCIÓN DEL COMANDANTE DE ESCUADRA?",
+    "opciones": {
+      "a": "PROPORCIONA MANDO Y CONTROL A TRAVÉS DEL DON DE MANDO",
+      "b": "SOLO DISPARAR ARMAS",
+      "c": "ÚNICAMENTE LLEVAR REGISTROS ADMINISTRATIVOS",
+      "d": "SOLO COMUNICARSE CON OTRAS UNIDADES"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Táctica Terrestre de la Escuadra y Pelotón de Infantería de Marina - Comandante de Escuadra"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁLES SON LAS SEIS FORMACIONES QUE PUEDE ADOPTAR UNA ESCUADRA DE INFANTERÍA DE MARINA?",
+    "opciones": {
+      "a": "LA CUÑA, LA COLUMNA, ESCARAMUZA A LA IZQUIERDA, ESCARAMUZA A LA DERECHA, ESCALONADA A LA IZQUIERDA Y ESCALONADA A LA DERECHA",
+      "b": "SOLO CUÑA Y COLUMNA",
+      "c": "SOLO LÍNEA RECTA Y CIRCULAR",
+      "d": "SOLO FORMACIONES ABIERTAS"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Táctica Terrestre de la Escuadra y Pelotón de Infantería de Marina - Formaciones"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "verdadero_falso",
+    "pregunta": "LA FORMACIÓN EN CUÑA ES LA FORMACIÓN BÁSICA DEL MOVIMIENTO DE LA ESCUADRA Y PERMITE EL RÁPIDO DESPLIEGUE AL DISPOSITIVO DE COMBATE DE ESCARAMUZA.",
+    "respuesta_correcta": "a",
+    "fuente": "Táctica Terrestre de la Escuadra y Pelotón de Infantería de Marina - Escuadra en Cuña"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁL ES LA VENTAJA PRINCIPAL DE LA FORMACIÓN EN COLUMNA DE UNA ESCUADRA?",
+    "opciones": {
+      "a": "PERMITE UN MOVIMIENTO RÁPIDO Y DE FÁCIL CONTROL, ASÍ COMO PRONTA MANIOBRA Y FUEGO HACIA LOS FLANCOS",
+      "b": "PROPORCIONA MÁXIMO PODER DE FUEGO AL FRENTE",
+      "c": "PROTEGE COMPLETAMENTE DE TODO FUEGO ENEMIGO",
+      "d": "PERMITE MOVIMIENTO SILENCIOSO GARANTIZADO"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Táctica Terrestre de la Escuadra y Pelotón de Infantería de Marina - Escuadra en Columna"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁL ES LA DESVENTAJA PRINCIPAL DE LA FORMACIÓN EN COLUMNA?",
+    "opciones": {
+      "a": "ESTÁ EXPUESTA AL FUEGO ENEMIGO FRONTAL DEBIDO A QUE LA HABILIDAD PARA DISPARAR HACIA EL FRENTE ES LIMITADA",
+      "b": "NO PERMITE MOVIMIENTO RÁPIDO",
+      "c": "IMPIDE TODA COMUNICACIÓN",
+      "d": "REQUIERE MÁS PERSONAL QUE OTRAS FORMACIONES"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Táctica Terrestre de la Escuadra y Pelotón de Infantería de Marina - Escuadra en Columna"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "verdadero_falso",
+    "pregunta": "LA FORMACIÓN EN ESCARAMUZA PERMITE UN MÁXIMO PODER DE FUEGO HACIA EL FRENTE Y ES LA MÁS RECOMENDABLE PARA EL FUEGO EN MOVIMIENTO Y EL ASALTO.",
+    "respuesta_correcta": "a",
+    "fuente": "Táctica Terrestre de la Escuadra y Pelotón de Infantería de Marina - Escuadra en Escaramuza"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁLES SON LAS CUATRO FORMACIONES QUE PUEDE ADOPTAR UN PELOTÓN DE INFANTERÍA DE MARINA?",
+    "opciones": {
+      "a": "LA COLUMNA, LA LÍNEA, ESCALONADO A LA DERECHA Y ESCALONADO A LA IZQUIERDA",
+      "b": "SOLO COLUMNA Y LÍNEA",
+      "c": "SOLO FORMACIONES ABIERTAS",
+      "d": "SOLO CUÑA Y ESCARAMUZA"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Táctica Terrestre de la Escuadra y Pelotón de Infantería de Marina - Formaciones del Pelotón"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "verdadero_falso",
+    "pregunta": "CUANDO EL PELOTÓN SE MUEVE COMO PARTE DE LA SECCIÓN, EL COMANDANTE DE ÉSTA DECIDE QUE FORMACIÓN USARÁN LOS PELOTONES.",
+    "respuesta_correcta": "a",
+    "fuente": "Táctica Terrestre de la Escuadra y Pelotón de Infantería de Marina - Formaciones del Pelotón"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "opcion_multiple",
     "pregunta": "¿CUÁL ES LA FORMACIÓN PRINCIPAL PARA EL DESPLAZAMIENTO DEL PELOTÓN?",
     "opciones": {
-      "a": "LA LÍNEA",
-      "b": "LA COLUMNA",
-      "c": "EL ESCALONADO",
-      "d": "LA CUÑA"
+      "a": "LA COLUMNA DEL PELOTÓN, QUE PROPORCIONA BUENA DISPERSIÓN LATERAL Y EN PROFUNDIDAD SIN SACRIFICAR EL CONTROL",
+      "b": "SOLO LA LÍNEA",
+      "c": "SOLO EL ESCALONADO",
+      "d": "SOLO LA CUÑA"
     },
-    "respuesta_correcta": "b",
-    "fuente": "DAM 1.3.3.1.5 - Formaciones del Pelotón"
+    "respuesta_correcta": "a",
+    "fuente": "Táctica Terrestre de la Escuadra y Pelotón de Infantería de Marina - Pelotón en Columna"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "verdadero_falso",
-    "pregunta": "LA FORMACIÓN EN LÍNEA DEL PELOTÓN PERMITE EL MÁXIMO PODER DE FUEGO HACIA EL FRENTE.",
+    "pregunta": "LA FORMACIÓN EN LÍNEA DEL PELOTÓN ES BÁSICA DURANTE EL ASALTO Y SE FORMA COLOCANDO LAS ESCUADRAS DESPLEGADAS EN UNA LÍNEA AL FRENTE.",
     "respuesta_correcta": "a",
-    "fuente": "DAM 1.3.3.1.5 - Formaciones del Pelotón"
+    "fuente": "Táctica Terrestre de la Escuadra y Pelotón de Infantería de Marina - Pelotón en Línea"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "opcion_multiple",
-    "pregunta": "¿CUÁL ES LA FUNCIÓN PRINCIPAL DEL COMANDANTE DE PELOTÓN?",
+    "pregunta": "¿CUÁL ES LA VENTAJA PRINCIPAL DE LA FORMACIÓN EN LÍNEA DEL PELOTÓN?",
     "opciones": {
-      "a": "DIRIGIR A SUS COMANDANTES DE ESCUADRA POR MEDIO DEL EJEMPLO",
-      "b": "REALIZAR TODAS LAS TAREAS DE COMBATE",
-      "c": "ÚNICAMENTE TRANSMITIR ÓRDENES DEL ESCALÓN SUPERIOR",
-      "d": "PROPORCIONAR SOLO APOYO LOGÍSTICO"
+      "a": "PERMITE EL MÁXIMO PODER DE FUEGO HACIA EL FRENTE",
+      "b": "FACILITA EL CONTROL DE LAS UNIDADES",
+      "c": "PROPORCIONA PROTECCIÓN CONTRA TODOS LOS ATAQUES",
+      "d": "PERMITE MOVIMIENTO RÁPIDO GARANTIZADO"
     },
     "respuesta_correcta": "a",
-    "fuente": "DAM 1.3.3.1.5 - Funciones del Comandante de Pelotón"
+    "fuente": "Táctica Terrestre de la Escuadra y Pelotón de Infantería de Marina - Pelotón en Línea"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "opcion_multiple",
-    "pregunta": "¿CUÁL ES UNA DE LAS PRINCIPALES CARACTERÍSTICAS DE LA INFANTERÍA DE MARINA?",
+    "pregunta": "¿CUÁL ES LA DESVENTAJA PRINCIPAL DE LA FORMACIÓN EN LÍNEA DEL PELOTÓN?",
     "opciones": {
-      "a": "LA FLEXIBILIDAD, RAPIDEZ, MOVILIDAD Y POTENCIA DE FUEGO",
-      "b": "SOLO LA CAPACIDAD DE FUEGO PESADO",
-      "c": "ÚNICAMENTE LA MOVILIDAD EN TERRENO PLANO",
-      "d": "SOLO LA CAPACIDAD DEFENSIVA"
+      "a": "DIFICULTA EL CONTROL Y LA MANIOBRA, DEJANDO EXPUESTO EL FLANCO AL ENEMIGO",
+      "b": "NO PERMITE DISPARAR AL FRENTE",
+      "c": "REQUIERE DEMASIADO PERSONAL",
+      "d": "IMPIDE TODA COMUNICACIÓN"
     },
     "respuesta_correcta": "a",
-    "fuente": "DAM 1.3.3.1 - Características de la Infantería de Marina"
+    "fuente": "Táctica Terrestre de la Escuadra y Pelotón de Infantería de Marina - Pelotón en Línea"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "verdadero_falso",
-    "pregunta": "LA INFANTERÍA DE MARINA ES EL ARMA MÁS FÁCIL DE FORMAR, EQUIPAR Y ADIESTRAR Y LA MÁS VERSÁTIL EN CUANTO A SU UTILIZACIÓN.",
+    "pregunta": "LA FORMACIÓN ESCALONADA DEL PELOTÓN SE LOGRA CON LAS ESCUADRAS DIAGONALES HACIA ATRÁS Y SE EMPLEA PARA PROTEGER UN FLANCO EXPUESTO.",
     "respuesta_correcta": "a",
-    "fuente": "DAM 1.3.3.1 - Características de la Infantería de Marina"
+    "fuente": "Táctica Terrestre de la Escuadra y Pelotón de Infantería de Marina - Pelotón Escalonado"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "opcion_multiple",
-    "pregunta": "¿CUÁL ES UNA LIMITACIÓN DE LA INFANTERÍA DE MARINA?",
+    "pregunta": "¿CUÁL ES EL LEMA DEL ESPÍRITU DE LA INFANTERÍA DE MARINA?",
     "opciones": {
-      "a": "PUEDE MANIOBRAR EN TERRENO DIFÍCIL SIN LIMITACIONES",
-      "b": "CUANDO COMBATE EN FORMA AISLADA SIN APOYOS, SU ACCIÓN ES LIMITADA EN ALCANCE Y TIEMPO",
-      "c": "TIENE CAPACIDAD ILIMITADA DE FUEGO INDIRECTO",
-      "d": "PUEDE MANTENER OPERACIONES INDEFINIDAMENTE SIN DESCANSO"
+      "a": "¡SER INFANTE DE MARINA ES UN ORGULLO, SABER SERLO ES UN DEBER!",
+      "b": "¡SIEMPRE LISTOS PARA COMBATIR!",
+      "c": "¡HONOR Y GLORIA!",
+      "d": "¡VICTORIA O MUERTE!"
     },
-    "respuesta_correcta": "b",
-    "fuente": "DAM 1.3.3.1 - Limitaciones de la Infantería de Marina"
+    "respuesta_correcta": "a",
+    "fuente": "Táctica Terrestre de la Escuadra y Pelotón de Infantería de Marina - Mando y Control"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "opcion_multiple",
-    "pregunta": "¿CUÁL ES EL MODO DE ACCIÓN QUE DESMORALIZA AL ENEMIGO Y LO NEUTRALIZA EN LA INFANTERÍA DE MARINA?",
+    "pregunta": "¿CUÁLES SON LOS COMPONENTES VITALES DEL MANDO Y CONTROL?",
     "opciones": {
-      "a": "EL MOVIMIENTO",
-      "b": "LA ORGANIZACIÓN DEL TERRENO",
-      "c": "EL FUEGO",
-      "d": "EL ATAQUE"
+      "a": "LA TOMA DE DECISIONES Y EL LIDERAZGO",
+      "b": "SOLO LA COMUNICACIÓN",
+      "c": "SOLO LA DISCIPLINA",
+      "d": "SOLO LA LOGÍSTICA"
     },
-    "respuesta_correcta": "c",
-    "fuente": "DAM 1.3.3.1 - Modos de Acción"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CUÁL DE LOS SIGUIENTES PRINCIPIOS DE LA GUERRA SE REFIERE A LA IMPOSICIÓN DE LA VOLUNTAD SOBRE EL ADVERSARIO?",
-    "opciones": {
-      "a": "CONCENTRACIÓN Y ECONOMÍA DE FUERZAS",
-      "b": "ACCIÓN OFENSIVA",
-      "c": "MANIOBRA",
-      "d": "SORPRESA"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "DAM 1.3.3.1 - Principios de la Guerra"
+    "respuesta_correcta": "a",
+    "fuente": "Táctica Terrestre de la Escuadra y Pelotón de Infantería de Marina - Mando y Control"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "verdadero_falso",
-    "pregunta": "EL PRINCIPIO DE SORPRESA CONSISTE EN GOLPEAR AL ENEMIGO EN EL MOMENTO Y LUGAR QUE NO SE LO ESPERE.",
+    "pregunta": "EL LIDERAZGO SIGNIFICA TENER INFLUENCIA SOBRE LAS PERSONAS AL PROPORCIONAR EL PROPÓSITO, LA DIRECCIÓN Y LA MOTIVACIÓN PARA CUMPLIR CON LA MISIÓN.",
     "respuesta_correcta": "a",
-    "fuente": "DAM 1.3.3.1 - Principios de la Guerra"
+    "fuente": "Táctica Terrestre de la Escuadra y Pelotón de Infantería de Marina - Liderazgo"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "opcion_multiple",
-    "pregunta": "¿CUÁL ES EL OBJETIVO DEL PRINCIPIO DE SENCILLEZ EN LAS OPERACIONES MILITARES?",
+    "pregunta": "¿CUÁLES SON LOS TRES ELEMENTOS QUE NECESITA UN LÍDER?",
     "opciones": {
-      "a": "HACER LOS PLANES MÁS COMPLICADOS POSIBLE",
-      "b": "QUE LOS PLANES Y ÓRDENES SEAN CONCISOS, DIRECTOS Y CLAROS",
-      "c": "UTILIZAR SOLO ÓRDENES VERBALES",
-      "d": "MINIMIZAR LA COMUNICACIÓN ENTRE MANDOS"
+      "a": "PROPÓSITO, DIRECCIÓN Y MOTIVACIÓN",
+      "b": "SOLO AUTORIDAD Y PODER",
+      "c": "SOLO RECURSOS Y DINERO",
+      "d": "SOLO EXPERIENCIA Y EDAD"
     },
-    "respuesta_correcta": "b",
-    "fuente": "DAM 1.3.3.1 - Principios de la Guerra"
+    "respuesta_correcta": "a",
+    "fuente": "Táctica Terrestre de la Escuadra y Pelotón de Infantería de Marina - Liderazgo"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "opcion_multiple",
-    "pregunta": "¿CUÁL ES LA CLASIFICACIÓN DE LAS MARCHAS TÁCTICAS SEGÚN LA DISTANCIA A QUE SE ENCUENTRA EL ENEMIGO?",
+    "pregunta": "¿CUÁL ES EL PROCEDIMIENTO DE CONDUCCIÓN DE TROPAS IDENTIFICADO CON EL ACRÓNIMO REFIECES?",
     "opciones": {
-      "a": "NORMALES Y FORZADAS",
-      "b": "DE DÍA Y DE NOCHE",
-      "c": "LEJOS DEL ENEMIGO Y CERCA DEL ENEMIGO",
-      "d": "A PIE Y A MOTOR"
+      "a": "RECIBIR LA MISIÓN, EXPEDIR ORDEN PREPARATORIA, FORMULAR PLAN TENTATIVO, INICIAR MOVIMIENTO, EFECTUAR RECONOCIMIENTO, COMPLETAR PLAN, EXPEDIR ORDEN DE OPERACIONES Y SUPERVISAR",
+      "b": "SOLO PLANEAR Y EJECUTAR",
+      "c": "SOLO ATACAR Y DEFENDER",
+      "d": "SOLO COMUNICAR Y COORDINAR"
     },
-    "respuesta_correcta": "c",
-    "fuente": "DAM 1.3.3.1 - Clasificación de las Marchas"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿CUÁL ES EL ELEMENTO DE SEGURIDAD QUE SE DESPLAZA AL FRENTE DEL GRUESO DE LA UNIDAD?",
-    "opciones": {
-      "a": "LA RETAGUARDIA",
-      "b": "EL GUARDAFLANCO",
-      "c": "LA VANGUARDIA",
-      "d": "EL ELEMENTO DE RECONOCIMIENTO"
-    },
-    "respuesta_correcta": "c",
-    "fuente": "DAM 1.3.3.1 - Seguridad en las Marchas"
+    "respuesta_correcta": "a",
+    "fuente": "Táctica Terrestre de la Escuadra y Pelotón de Infantería de Marina - Procedimiento de Conducción de Tropas"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "verdadero_falso",
-    "pregunta": "LA VANGUARDIA SE DIVIDE EN UN ESCALÓN DE RECONOCIMIENTO Y UN ESCALÓN DE COMBATE.",
+    "pregunta": "LA MISIÓN PUEDE RECIBIRSE EN FORMA DE ORDEN PREPARATORIA O DE ALERTA, ORDEN DE OPERACIONES U ORDEN FRAGMENTARIA.",
     "respuesta_correcta": "a",
-    "fuente": "DAM 1.3.3.1 - Seguridad en las Marchas"
+    "fuente": "Táctica Terrestre de la Escuadra y Pelotón de Infantería de Marina - Recibir la Misión"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "opcion_multiple",
-    "pregunta": "¿CUÁL ES LA FUNCIÓN DE LOS GUARDAFLANCOS DURANTE LAS MARCHAS?",
+    "pregunta": "¿CUÁL ES LA FINALIDAD DE UNA ORDEN PREPARATORIA?",
     "opciones": {
-      "a": "PROTEGER AL GRUESO CONTRA ATAQUES SORPRESIVOS POR EL FLANCO",
-      "b": "REALIZAR EL RECONOCIMIENTO DEL TERRENO",
-      "c": "PROPORCIONAR APOYO LOGÍSTICO",
-      "d": "ÚNICAMENTE MANTENER LA DISCIPLINA"
+      "a": "PERMITE A LAS UNIDADES PREPARARSE PARA EL COMBATE LO MÁS PRONTO POSIBLE",
+      "b": "SOLO INFORMAR DEL ENEMIGO",
+      "c": "SOLO ESTABLECER HORARIOS",
+      "d": "SOLO DISTRIBUIR RECURSOS"
     },
     "respuesta_correcta": "a",
-    "fuente": "DAM 1.3.3.1 - Seguridad en las Marchas"
+    "fuente": "Táctica Terrestre de la Escuadra y Pelotón de Infantería de Marina - Orden Preparatoria"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "opcion_multiple",
-    "pregunta": "¿CUÁL DE LOS SIGUIENTES TIPOS DE ESTACIONAMIENTO PROPORCIONA LA MEJOR FORMA DEBIDO A LA COMODIDAD E HIGIENE?",
+    "pregunta": "¿QUÉ SIGNIFICA METT-TL EN EL CONTEXTO DE ESTIMACIÓN DE LA SITUACIÓN?",
     "opciones": {
-      "a": "VIVAC",
-      "b": "CAMPAMENTO",
-      "c": "ACANTONAMIENTO",
-      "d": "ÁREA DE REUNIÓN"
+      "a": "MISIÓN, ENEMIGO, TERRENO Y CONDICIONES METEOROLÓGICAS, TROPAS Y FUEGO DE APOYO DISPONIBLE, TIEMPO Y ESPACIO DISPONIBLES Y LA LOGÍSTICA",
+      "b": "SOLO MISIÓN Y ENEMIGO",
+      "c": "SOLO TERRENO Y TIEMPO",
+      "d": "SOLO TROPAS Y LOGÍSTICA"
     },
-    "respuesta_correcta": "c",
-    "fuente": "DAM 1.3.3.1 - Estacionamiento de Unidades"
+    "respuesta_correcta": "a",
+    "fuente": "Táctica Terrestre de la Escuadra y Pelotón de Infantería de Marina - Estimación de la Situación"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "verdadero_falso",
-    "pregunta": "EL VIVAC ES UN ESTACIONAMIENTO EN EL CAMPO UTILIZANDO LOS MEDIOS DE CAMPAÑA ORGÁNICOS DE LA UNIDAD.",
+    "pregunta": "UNA PATRULLA DE INFANTERÍA DE MARINA ES UNA FRACCIÓN O DESTACAMENTO DE TROPAS ENVIADA DE SU UNIDAD MATRIZ PARA CUMPLIR MISIONES DE COMBATE O DE RECONOCIMIENTO.",
     "respuesta_correcta": "a",
-    "fuente": "DAM 1.3.3.1 - Estacionamiento de Unidades"
+    "fuente": "Táctica de Patrullas de Infantería de Marina - Definición"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "opcion_multiple",
-    "pregunta": "¿CUÁL ES LA MISIÓN PRINCIPAL DE LOS PUESTOS AVANZADOS DE COMBATE DURANTE EL ESTACIONAMIENTO?",
+    "pregunta": "¿CUÁL ES EL PROPÓSITO DEL PATRULLAJE?",
     "opciones": {
-      "a": "PROPORCIONAR COMODIDAD AL PERSONAL",
-      "b": "PROPORCIONAR ALERTA OPORTUNA SOBRE LA APROXIMACIÓN DEL ENEMIGO",
-      "c": "REALIZAR TRABAJOS DE MANTENIMIENTO",
-      "d": "ÚNICAMENTE GUARDAR EL EQUIPO"
+      "a": "OBTENER INFORMACIÓN ACTUALIZADA DEL ENEMIGO Y DEL TERRENO, Y EJECUTAR MISIONES DE HOSTIGAMIENTO, DESTRUCCIÓN, CAPTURA Y SEGURIDAD",
+      "b": "SOLO TRANSPORTAR CARGA",
+      "c": "SOLO REALIZAR ACTIVIDADES ADMINISTRATIVAS",
+      "d": "SOLO ESTABLECER CAMPAMENTOS"
     },
-    "respuesta_correcta": "b",
-    "fuente": "DAM 1.3.3.1 - Seguridad Durante el Estacionamiento"
+    "respuesta_correcta": "a",
+    "fuente": "Táctica de Patrullas de Infantería de Marina - Propósito"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "opcion_multiple",
-    "pregunta": "¿CUÁL ES LA MISIÓN DE LA INFANTERÍA DE MARINA EN LA DEFENSIVA?",
+    "pregunta": "¿CUÁLES SON LAS DOS CATEGORÍAS PRINCIPALES DE PATRULLAS?",
     "opciones": {
-      "a": "ATACAR AL ENEMIGO CONTINUAMENTE",
-      "b": "MANTENER UN ÁREA NEGÁNDOSELA AL ENEMIGO Y RECHAZANDO SUS ATAQUES",
-      "c": "ÚNICAMENTE RETIRARSE DEL TERRENO",
-      "d": "REALIZAR OPERACIONES OFENSIVAS LIMITADAS"
+      "a": "PATRULLAS DE RECONOCIMIENTO Y PATRULLAS DE COMBATE",
+      "b": "SOLO PATRULLAS OFENSIVAS",
+      "c": "SOLO PATRULLAS DEFENSIVAS",
+      "d": "SOLO PATRULLAS ADMINISTRATIVAS"
     },
-    "respuesta_correcta": "b",
-    "fuente": "DAM 1.3.3.1 - Combate Defensivo"
+    "respuesta_correcta": "a",
+    "fuente": "Táctica de Patrullas de Infantería de Marina - Clasificación"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "verdadero_falso",
-    "pregunta": "EN EL COMBATE DEFENSIVO, LA DEFENSA DEBE SER SOLO UNA CONDICIÓN TRANSITORIA HASTA CONTAR CON MEDIOS PARA PASAR A LA OFENSIVA.",
+    "pregunta": "LAS PATRULLAS DE RECONOCIMIENTO ACTÚAN FURTIVAMENTE Y SE EMPEÑAN EN COMBATE SOLO CUANDO ES ABSOLUTAMENTE NECESARIO PARA CUMPLIR LA MISIÓN O DEFENDER SU INTEGRIDAD FÍSICA.",
     "respuesta_correcta": "a",
-    "fuente": "DAM 1.3.3.1 - Combate Defensivo"
+    "fuente": "Táctica de Patrullas de Infantería de Marina - Patrullas de Reconocimiento"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "opcion_multiple",
-    "pregunta": "¿CUÁL ES EL PROPÓSITO DEL PATRULLAJE EN LA INFANTERÍA DE MARINA?",
+    "pregunta": "¿CUÁLES SON LOS DOS TIPOS DE PATRULLAS DE RECONOCIMIENTO?",
     "opciones": {
-      "a": "SOLO REALIZAR EJERCICIOS DE ENTRENAMIENTO",
-      "b": "OBTENER INFORMACIÓN ACTUALIZADA DEL ENEMIGO Y DEL TERRENO",
-      "c": "ÚNICAMENTE MANTENER LA DISCIPLINA",
-      "d": "REALIZAR SOLO OPERACIONES LOGÍSTICAS"
+      "a": "PATRULLAS DE RECONOCIMIENTO DE PUNTO Y PATRULLAS DE RECONOCIMIENTO DE ÁREA",
+      "b": "SOLO PATRULLAS NOCTURNAS",
+      "c": "SOLO PATRULLAS DIURNAS",
+      "d": "SOLO PATRULLAS MOTORIZADAS"
     },
-    "respuesta_correcta": "b",
-    "fuente": "DAM 1.3.3.1.6 - Propósito del Patrullaje"
+    "respuesta_correcta": "a",
+    "fuente": "Táctica de Patrullas de Infantería de Marina - Tipos de Patrullas de Reconocimiento"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "opcion_multiple",
-    "pregunta": "¿CUÁL ES LA CLASIFICACIÓN DE LAS PATRULLAS SEGÚN SU MISIÓN?",
+    "pregunta": "¿CUÁL ES LA MISIÓN DE UNA PATRULLA DE RECONOCIMIENTO DE PUNTO?",
     "opciones": {
-      "a": "PATRULLAS DIURNAS Y NOCTURNAS",
-      "b": "PATRULLAS DE RECONOCIMIENTO Y PATRULLAS DE COMBATE",
-      "c": "PATRULLAS A PIE Y MOTORIZADAS",
-      "d": "PATRULLAS CORTAS Y LARGAS"
+      "a": "OBTENER INFORMACIÓN DE UN PUNTO, PORCIÓN DE TERRENO, INSTALACIÓN O BLANCO ESPECÍFICO",
+      "b": "ATACAR OBJETIVOS ENEMIGOS",
+      "c": "ESTABLECER BASES PERMANENTES",
+      "d": "SOLO REALIZAR ACTIVIDADES LOGÍSTICAS"
     },
-    "respuesta_correcta": "b",
-    "fuente": "DAM 1.3.3.1.6 - Clasificación de las Patrullas"
+    "respuesta_correcta": "a",
+    "fuente": "Táctica de Patrullas de Infantería de Marina - Patrulla de Reconocimiento de Punto"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "verdadero_falso",
-    "pregunta": "LAS PATRULLAS DE RECONOCIMIENTO ACTÚAN FURTIVAMENTE Y SE EMPEÑAN EN COMBATE SOLO CUANDO ES ABSOLUTAMENTE NECESARIO.",
+    "pregunta": "LAS PATRULLAS DE RECONOCIMIENTO DE ÁREA OBTIENEN INFORMACIÓN SOBRE UN ÁREA EXTENSA DE TERRENO O UNA SERIE DE BLANCOS.",
     "respuesta_correcta": "a",
-    "fuente": "DAM 1.3.3.1.6 - Patrullas de Reconocimiento"
+    "fuente": "Táctica de Patrullas de Infantería de Marina - Patrulla de Reconocimiento de Área"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "opcion_multiple",
-    "pregunta": "¿CUÁL DE LOS SIGUIENTES TIPOS DE PATRULLAS ESTÁ FUERTEMENTE ARMADA Y TIENE MISIONES DE DESTRUIR O CAPTURAR?",
+    "pregunta": "¿CUÁL ES LA MISIÓN PRINCIPAL DE LAS PATRULLAS DE COMBATE?",
     "opciones": {
-      "a": "PATRULLA DE RECONOCIMIENTO",
-      "b": "PATRULLA DE EMBOSCADA",
-      "c": "PATRULLA DE COMBATE",
-      "d": "PATRULLA DE CONTACTO"
+      "a": "EMPEÑARSE DIRECTAMENTE EN COMBATE CON EL ENEMIGO PARA DESTRUIR O CAPTURAR PERSONAL, MATERIAL E INSTALACIONES",
+      "b": "SOLO OBTENER INFORMACIÓN",
+      "c": "SOLO TRANSPORTAR SUMINISTROS",
+      "d": "SOLO REALIZAR LABORES ADMINISTRATIVAS"
     },
-    "respuesta_correcta": "c",
-    "fuente": "DAM 1.3.3.1.6 - Patrullas de Combate"
+    "respuesta_correcta": "a",
+    "fuente": "Táctica de Patrullas de Infantería de Marina - Patrullas de Combate"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "opcion_multiple",
-    "pregunta": "¿CUÁL ES LA PATRULLA EMPLEADA PARA EJECUTAR ATAQUES SORPRESIVOS Y VIOLENTOS DESDE UNA POSICIÓN ESTÁTICA?",
+    "pregunta": "¿CUÁLES SON LOS TIPOS DE PATRULLAS DE COMBATE?",
     "opciones": {
-      "a": "PATRULLA DE INCURSIÓN",
-      "b": "PATRULLA DE EMBOSCADA",
-      "c": "PATRULLA DE SEGURIDAD",
-      "d": "PATRULLA DE CONTACTO"
+      "a": "PATRULLA DE INCURSIÓN, PATRULLA DE EMBOSCADA, PATRULLAS DE SEGURIDAD Y PATRULLA DE CONTACTO",
+      "b": "SOLO PATRULLAS OFENSIVAS",
+      "c": "SOLO PATRULLAS DEFENSIVAS",
+      "d": "SOLO PATRULLAS NOCTURNAS"
     },
-    "respuesta_correcta": "b",
-    "fuente": "DAM 1.3.3.1.6 - Patrullas de Combate"
+    "respuesta_correcta": "a",
+    "fuente": "Táctica de Patrullas de Infantería de Marina - Tipos de Patrullas de Combate"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "verdadero_falso",
-    "pregunta": "UNO DE LOS PRINCIPIOS DEL PATRULLAJE ES EL PLANEAMIENTO DETALLADO CONSIDERANDO CUALQUIER POSIBLE CONTINGENCIA.",
+    "pregunta": "UNA PATRULLA DE INCURSIÓN ES DESPLEGADA PARA DESTRUIR O SABOTEAR INSTALACIONES, CAPTURAR MATERIAL O PERSONAL ENEMIGO.",
     "respuesta_correcta": "a",
-    "fuente": "DAM 1.3.3.1.6 - Principios del Patrullaje"
+    "fuente": "Táctica de Patrullas de Infantería de Marina - Patrulla de Incursión"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "opcion_multiple",
-    "pregunta": "¿CUÁL DE LOS SIGUIENTES ELEMENTOS ES COMÚN A TODAS LAS PATRULLAS?",
+    "pregunta": "¿CUÁL ES LA FINALIDAD DE UNA PATRULLA DE EMBOSCADA?",
     "opciones": {
-      "a": "SOLO ELEMENTOS DE COMBATE",
-      "b": "MANDO Y GRUPO DE COMANDO",
-      "c": "ÚNICAMENTE EQUIPO DE RECONOCIMIENTO",
-      "d": "SOLO ELEMENTOS DE SEGURIDAD"
+      "a": "EJECUTAR ATAQUES SORPRESIVOS Y VIOLENTOS DESDE UNA POSICIÓN ESTÁTICA SOBRE BLANCOS EN MOVIMIENTO O EN ALTO TEMPORAL",
+      "b": "SOLO RECONOCER EL TERRENO",
+      "c": "SOLO ESTABLECER COMUNICACIONES",
+      "d": "SOLO TRANSPORTAR EQUIPO"
     },
-    "respuesta_correcta": "b",
-    "fuente": "DAM 1.3.3.1.6 - Organización de las Patrullas"
+    "respuesta_correcta": "a",
+    "fuente": "Táctica de Patrullas de Infantería de Marina - Patrulla de Emboscada"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "opcion_multiple",
-    "pregunta": "¿CUÁL ES LA FUNCIÓN DEL NAVEGANTE EN UNA PATRULLA?",
+    "pregunta": "¿CUÁL ES LA MISIÓN DE LAS PATRULLAS DE SEGURIDAD?",
     "opciones": {
-      "a": "PROPORCIONAR SEGURIDAD AL FRENTE",
-      "b": "LLEVAR LA NAVEGACIÓN Y ASEGURAR QUE EL PUNTERO MANTENGA LA RUTA",
-      "c": "REALIZAR EL RECONOCIMIENTO DEL OBJETIVO",
-      "d": "ÚNICAMENTE TRANSPORTAR EQUIPO"
+      "a": "DETECTAR, IMPEDIR O ENTORPECER LA INFILTRACIÓN DEL ENEMIGO Y PREVENIR DE ATAQUES POR SORPRESA O DE EMBOSCADAS",
+      "b": "SOLO ATACAR OBJETIVOS",
+      "c": "SOLO OBTENER INFORMACIÓN",
+      "d": "SOLO REALIZAR LABORES LOGÍSTICAS"
     },
-    "respuesta_correcta": "b",
-    "fuente": "DAM 1.3.3.1.6 - Organización de las Patrullas"
+    "respuesta_correcta": "a",
+    "fuente": "Táctica de Patrullas de Infantería de Marina - Patrullas de Seguridad"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "verdadero_falso",
+    "pregunta": "LA PATRULLA DE CONTACTO ES EMPLEADA PARA BUSCAR ESTABLECER Y MANTENER EL CONTACTO CON FUERZAS AMIGAS O ENEMIGAS.",
+    "respuesta_correcta": "a",
+    "fuente": "Táctica de Patrullas de Infantería de Marina - Patrulla de Contacto"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁLES SON LOS CINCO PRINCIPIOS BÁSICOS DEL PATRULLAJE?",
+    "opciones": {
+      "a": "PLANEAMIENTO DETALLADO, RECONOCIMIENTO EXTENSIVO, CONTROL, SEGURIDAD A LOS 360° Y ENSAYOS REALISTAS",
+      "b": "SOLO PLANEAMIENTO Y EJECUCIÓN",
+      "c": "SOLO ATAQUE Y DEFENSA",
+      "d": "SOLO COMUNICACIÓN Y COORDINACIÓN"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Táctica de Patrullas de Infantería de Marina - Principios del Patrullaje"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "verdadero_falso",
+    "pregunta": "LA SEGURIDAD PERIMÉTRICA DEBE MANTENERSE EN TODO MOMENTO DURANTE EL PATRULLAJE, PARTICULARMENTE CUANDO SE ESTÁ CERCA DEL FINAL.",
+    "respuesta_correcta": "a",
+    "fuente": "Táctica de Patrullas de Infantería de Marina - Seguridad a los 360°"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁLES SON LAS HABILIDADES NECESARIAS PARA EL PATRULLAJE EFECTIVO?",
+    "opciones": {
+      "a": "ENTRENAMIENTO EN ARMAMENTO, CAPACIDAD DE OBSERVACIÓN, DISCIPLINA DE FUEGO, MEMORIA, ORIENTACIÓN Y LIDERAZGO",
+      "b": "SOLO FUERZA FÍSICA",
+      "c": "SOLO VELOCIDAD",
+      "d": "SOLO RESISTENCIA"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Táctica de Patrullas de Infantería de Marina - Necesidades de Adiestramiento"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁLES SON LOS ELEMENTOS COMUNES A TODAS LAS PATRULLAS?",
+    "opciones": {
+      "a": "MANDO Y GRUPO DE COMANDO, NAVEGANTE, PUNTERO, EQUIPO DE PRIMEROS AUXILIOS Y TRANSPORTE, EQUIPO DE PRISIONEROS Y PERSONAL RESTANTE",
+      "b": "SOLO MANDO Y COMBATIENTES",
+      "c": "SOLO LOGÍSTICA Y COMUNICACIONES",
+      "d": "SOLO EQUIPO MÉDICO"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Táctica de Patrullas de Infantería de Marina - Elementos Comunes"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "verdadero_falso",
+    "pregunta": "EL NAVEGANTE ES EL ELEMENTO DESIGNADO PARA LLEVAR LA NAVEGACIÓN Y SE ASEGURA DE QUE EL PUNTERO MANTENGA LA RUTA DE LA PATRULLA.",
+    "respuesta_correcta": "a",
+    "fuente": "Táctica de Patrullas de Infantería de Marina - Navegante"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "opcion_multiple",
     "pregunta": "¿CUÁL ES LA FUNCIÓN DEL PUNTERO EN UNA PATRULLA?",
     "opciones": {
-      "a": "MANTENER LA SEGURIDAD TRASERA",
-      "b": "LLEVAR LA VANGUARDIA Y MANTENER LA RUTA",
-      "c": "REALIZAR COMUNICACIONES POR RADIO",
-      "d": "ÚNICAMENTE PROPORCIONAR PRIMEROS AUXILIOS"
+      "a": "ES EL ELEMENTO DESIGNADO PARA LLEVAR LA VANGUARDIA Y MANTENER LA RUTA DE LA PATRULLA",
+      "b": "SOLO LLEVAR EQUIPO MÉDICO",
+      "c": "SOLO COMUNICARSE CON LA BASE",
+      "d": "SOLO REALIZAR LABORES ADMINISTRATIVAS"
     },
-    "respuesta_correcta": "b",
-    "fuente": "DAM 1.3.3.1.6 - Organización de las Patrullas"
+    "respuesta_correcta": "a",
+    "fuente": "Táctica de Patrullas de Infantería de Marina - Puntero"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "opcion_multiple",
-    "pregunta": "¿CUÁL DE LAS SIGUIENTES FORMACIONES DE PATRULLA PROPORCIONA MÁXIMO PODER DE FUEGO AL FRENTE Y LOS FLANCOS?",
+    "pregunta": "¿CUÁLES SON LAS FORMACIONES QUE PUEDE ADOPTAR UNA PATRULLA DURANTE EL MOVIMIENTO?",
     "opciones": {
-      "a": "FORMACIÓN EN COLUMNA",
-      "b": "FORMACIÓN EN CRUZ",
-      "c": "FORMACIÓN DE DOBLE CUÑA",
-      "d": "FORMACIÓN DE PUNTA DE FLECHA"
+      "a": "FORMACIÓN EN COLUMNA, FORMACIÓN DE PUNTA DE FLECHA, FORMACIÓN DE DOBLE CUÑA Y FORMACIÓN EN CRUZ",
+      "b": "SOLO COLUMNA Y LÍNEA",
+      "c": "SOLO CÍRCULO Y CUADRADO",
+      "d": "SOLO FORMACIONES ABIERTAS"
     },
-    "respuesta_correcta": "c",
-    "fuente": "DAM 1.3.3.1.6 - Formaciones de Patrulla"
+    "respuesta_correcta": "a",
+    "fuente": "Táctica de Patrullas de Infantería de Marina - Formaciones"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "verdadero_falso",
-    "pregunta": "LA FORMACIÓN EN COLUMNA FACILITA EL CONTROL EN TERRENO CON VEGETACIÓN MUY CERRADA.",
+    "pregunta": "LA FORMACIÓN EN COLUMNA FACILITA EL CONTROL, NORMALMENTE ES UTILIZADA EN TERRENO CON VEGETACIÓN MUY CERRADA Y DURANTE LA NOCHE.",
     "respuesta_correcta": "a",
-    "fuente": "DAM 1.3.3.1.6 - Formaciones de Patrulla"
+    "fuente": "Táctica de Patrullas de Infantería de Marina - Formación en Columna"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "opcion_multiple",
-    "pregunta": "¿CUÁL ES EL PUNTO DE REORGANIZACIÓN UBICADO FUERA DE LAS LÍNEAS AMIGAS?",
+    "pregunta": "¿CUÁLES SON LAS VENTAJAS DE LA FORMACIÓN DE PUNTA DE FLECHA?",
     "opciones": {
-      "a": "PUNTO DE PARTIDA",
-      "b": "PUNTO DE REORGANIZACIÓN INICIAL",
-      "c": "PUNTO DE DISLOQUE",
-      "d": "PUNTO DE REENTRADA"
+      "a": "DE FÁCIL CONTROL, TIENE BUENA DISPERSIÓN, PROFUNDIDAD Y SEGURIDAD A LOS FLANCOS",
+      "b": "SOLO PERMITE MOVIMIENTO RÁPIDO",
+      "c": "SOLO PROPORCIONA MÁXIMO FUEGO AL FRENTE",
+      "d": "SOLO FACILITA LA COMUNICACIÓN"
     },
-    "respuesta_correcta": "b",
-    "fuente": "DAM 1.3.3.1.6 - Medidas de Control"
+    "respuesta_correcta": "a",
+    "fuente": "Táctica de Patrullas de Infantería de Marina - Formación de Punta de Flecha"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "opcion_multiple",
-    "pregunta": "¿CUÁL ES EL PUNTO DE REORGANIZACIÓN EN EL OBJETIVO?",
+    "pregunta": "¿CUÁLES SON LAS MEDIDAS DE CONTROL TÁCTICO MÁS COMÚNMENTE EMPLEADAS EN PATRULLAS?",
     "opciones": {
-      "a": "PUNTO DE PARTIDA",
-      "b": "PUNTO DE REORGANIZACIÓN INICIAL",
-      "c": "PUNTO DE REORGANIZACIÓN EN EL OBJETIVO",
-      "d": "PUNTO DE REENTRADA"
+      "a": "ÁREA DE REUNIÓN, PUNTO DE PARTIDA, PUNTO DE REORGANIZACIÓN INICIAL, PUNTOS DE REORGANIZACIÓN EN RUTA Y PUNTO DE REORGANIZACIÓN EN EL OBJETIVO",
+      "b": "SOLO PUNTOS DE DESCANSO",
+      "c": "SOLO ZONAS DE COMBATE",
+      "d": "SOLO ÁREAS DE LOGÍSTICA"
     },
-    "respuesta_correcta": "c",
-    "fuente": "DAM 1.3.3.1.6 - Medidas de Control"
+    "respuesta_correcta": "a",
+    "fuente": "Táctica de Patrullas de Infantería de Marina - Medidas de Control Táctico"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "verdadero_falso",
-    "pregunta": "LA BASE DE PATRULLAS ES EL ÁREA GEOGRÁFICA DONDE SE DEJA TODO EL EQUIPO NO REQUERIDO PARA CUMPLIR LA MISIÓN.",
+    "pregunta": "EL ÁREA DE REUNIÓN ES AQUELLA ÁREA EN LA CUAL UN MANDO HACE SUS PREPARATIVOS PARA CONTINUAR LAS ACCIONES.",
     "respuesta_correcta": "a",
-    "fuente": "DAM 1.3.3.1.6 - Medidas de Control"
+    "fuente": "Táctica de Patrullas de Infantería de Marina - Área de Reunión"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "opcion_multiple",
-    "pregunta": "¿CUÁL DE LAS SIGUIENTES ÁREAS DE PELIGRO REQUIERE MAYOR CUIDADO AL CRUZARLA?",
+    "pregunta": "¿CUÁL ES LA FUNCIÓN DEL PUNTO DE PARTIDA EN UNA PATRULLA?",
     "opciones": {
-      "a": "ÁREA DE PELIGRO LINEAL",
-      "b": "ÁREA DE PELIGRO COMPUESTA",
-      "c": "ÁREA DE PELIGRO SIMPLE",
-      "d": "ÁREA DE PELIGRO ABIERTA"
+      "a": "ES UN PUNTO BIEN DEFINIDO E IDENTIFICADO EN UNA RUTA QUE SIRVE AL COMANDANTE PARA SU CONTROL",
+      "b": "SOLO MARCAR EL FINAL DE LA PATRULLA",
+      "c": "SOLO ESTABLECER CAMPAMENTOS",
+      "d": "SOLO REALIZAR LABORES ADMINISTRATIVAS"
     },
-    "respuesta_correcta": "b",
-    "fuente": "DAM 1.3.3.1.6 - Áreas de Peligro"
+    "respuesta_correcta": "a",
+    "fuente": "Táctica de Patrullas de Infantería de Marina - Punto de Partida"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁL ES LA FUNCIÓN DEL PUNTO DE REORGANIZACIÓN INICIAL?",
+    "opciones": {
+      "a": "ES EL PRIMER PUNTO DE REORGANIZACIÓN UBICADO FUERA DE LAS LÍNEAS AMIGAS PARA AJUSTAR LA NAVEGACIÓN",
+      "b": "SOLO ESTABLECER LA BASE PRINCIPAL",
+      "c": "SOLO REALIZAR ATAQUES",
+      "d": "SOLO DESCANSAR INDEFINIDAMENTE"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Táctica de Patrullas de Infantería de Marina - Punto de Reorganización Inicial"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "verdadero_falso",
-    "pregunta": "LAS ÁREAS DE PELIGRO NO PUEDEN SER IGNORADAS DELIBERADAMENTE EN UNA PATRULLA.",
+    "pregunta": "LOS PUNTOS DE REORGANIZACIÓN EN RUTA SON PUNTOS EN EL TERRENO SELECCIONADOS DURANTE EL PLANEAMIENTO PARA LA REORGANIZACIÓN DE LA PATRULLA.",
     "respuesta_correcta": "a",
-    "fuente": "DAM 1.3.3.1.6 - Reglas Generales en Áreas de Peligro"
+    "fuente": "Táctica de Patrullas de Infantería de Marina - Puntos de Reorganización en Ruta"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "opcion_multiple",
-    "pregunta": "¿CUÁL DE LOS SIGUIENTES MÉTODOS DE MOVIMIENTO EN RUTA AYUDA A EVITAR SER DETECTADO POR EL ENEMIGO?",
+    "pregunta": "¿CUÁL ES LA FUNCIÓN DEL PUNTO DE REORGANIZACIÓN EN EL OBJETIVO?",
     "opciones": {
-      "a": "SOLO MOVIMIENTO EN LÍNEA RECTA",
-      "b": "MÉTODO DE LA CAJA, FIGURA OCHO, ÁNGULOS Y SALTO LATERAL",
-      "c": "ÚNICAMENTE MOVIMIENTO RÁPIDO",
-      "d": "SOLO MOVIMIENTO POR CAMINOS PRINCIPALES"
+      "a": "ES EL LUGAR DONDE LA PATRULLA SE DETIENE PARA PREPARARSE A EJECUTAR LAS ACCIONES EN EL OBJETIVO",
+      "b": "SOLO MARCAR EL INICIO DE LA PATRULLA",
+      "c": "SOLO ESTABLECER COMUNICACIONES",
+      "d": "SOLO REALIZAR LABORES LOGÍSTICAS"
     },
-    "respuesta_correcta": "b",
-    "fuente": "DAM 1.3.3.1.6 - Métodos de Movimiento en Ruta"
+    "respuesta_correcta": "a",
+    "fuente": "Táctica de Patrullas de Infantería de Marina - Punto de Reorganización en el Objetivo"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "opcion_multiple",
-    "pregunta": "¿QUÉ SON LAS COORDENADAS GEOGRÁFICAS?",
+    "pregunta": "¿CUÁLES SON LOS MÉTODOS DE MOVIMIENTO EN RUTA EMPLEADOS POR LAS PATRULLAS?",
     "opciones": {
-      "a": "UN CONJUNTO DE LÍNEAS IMAGINARIAS QUE PERMITEN UBICAR CON EXACTITUD UN LUGAR",
-      "b": "SOLO LAS LÍNEAS DE LOS CAMINOS",
-      "c": "ÚNICAMENTE LAS LÍNEAS DE LOS RÍOS",
-      "d": "SOLO LAS LÍNEAS DE LAS FRONTERAS"
+      "a": "MÉTODO DE LA CAJA, MÉTODO DE FIGURA OCHO, MÉTODO DE ÁNGULOS, MÉTODO DE ESCALONES Y MÉTODO DEL SALTO LATERAL",
+      "b": "SOLO MOVIMIENTO EN LÍNEA RECTA",
+      "c": "SOLO MOVIMIENTO EN CÍRCULO",
+      "d": "SOLO MOVIMIENTO RÁPIDO"
     },
     "respuesta_correcta": "a",
-    "fuente": "DAM 1.3.3.6.18 - Sistema de Coordenadas"
+    "fuente": "Táctica de Patrullas de Infantería de Marina - Métodos de Movimiento"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "verdadero_falso",
-    "pregunta": "LOS MERIDIANOS SON SEMICÍRCULOS MÁXIMOS QUE SE NUMERAN DE 0° A 180° A PARTIR DEL MERIDIANO DE GREENWICH.",
+    "pregunta": "EL MÉTODO DE LA CAJA ES UN MÉTODO SIMPLE Y EFECTIVO QUE TOMA POCA PRÁCTICA PARA APRENDERLO.",
     "respuesta_correcta": "a",
-    "fuente": "DAM 1.3.3.6.18 - Coordenadas Geográficas"
+    "fuente": "Táctica de Patrullas de Infantería de Marina - Método de la Caja"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "opcion_multiple",
-    "pregunta": "¿CUÁL ES LA EQUIDISTANCIA VERTICAL ENTRE CURVAS DE NIVEL EN UNA CARTA TOPOGRÁFICA?",
+    "pregunta": "¿CUÁL ES LA FUNCIÓN DEL MÉTODO DE LA CAJA EN LAS PATRULLAS?",
     "opciones": {
-      "a": "SIEMPRE 5 METROS",
-      "b": "SIEMPRE 50 METROS",
-      "c": "VARÍA SEGÚN LA ESCALA Y SE INDICA EN LA INFORMACIÓN MARGINAL",
-      "d": "SIEMPRE 100 METROS"
+      "a": "PERMITE A LA PATRULLA EMBOSCAR A POSIBLES PERSEGUIDORES O DESPISTARLOS EN RELACIÓN A LA DIRECCIÓN DE MOVIMIENTO",
+      "b": "SOLO ACELERAR EL MOVIMIENTO",
+      "c": "SOLO ESTABLECER CAMPAMENTOS",
+      "d": "SOLO REALIZAR ATAQUES DIRECTOS"
     },
-    "respuesta_correcta": "c",
-    "fuente": "DAM 1.3.3.6.18 - Cartas Topográficas"
+    "respuesta_correcta": "a",
+    "fuente": "Táctica de Patrullas de Infantería de Marina - Método de la Caja"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "opcion_multiple",
-    "pregunta": "¿CUÁL DE LOS SIGUIENTES COLORES EN UNA CARTA TOPOGRÁFICA REPRESENTA EL AGUA?",
+    "pregunta": "¿CUÁL ES EL PROPÓSITO DEL MÉTODO DE FIGURA OCHO EN LAS PATRULLAS?",
     "opciones": {
-      "a": "NEGRO",
-      "b": "VERDE",
-      "c": "AZUL",
-      "d": "SEPIA"
+      "a": "ES MUY SIMILAR A LA TÉCNICA DE CAJA, PERO HACIENDO CÍRCULOS EN VEZ DE CUADROS",
+      "b": "SOLO ACELERAR LA MARCHA",
+      "c": "SOLO ESTABLECER BASES",
+      "d": "SOLO REALIZAR ATAQUES"
     },
-    "respuesta_correcta": "c",
-    "fuente": "DAM 1.3.3.6.18 - Simbología Topográfica"
+    "respuesta_correcta": "a",
+    "fuente": "Táctica de Patrullas de Infantería de Marina - Método de Figura Ocho"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "verdadero_falso",
-    "pregunta": "EL COLOR SEPIA EN UNA CARTA TOPOGRÁFICA REPRESENTA TODAS LAS CARACTERÍSTICAS DEL RELIEVE.",
+    "pregunta": "EL MÉTODO DE ÁNGULOS ES UN MÉTODO EFECTIVO PARA EVADIRSE Y TOMA POCO TIEMPO DE PRÁCTICA.",
     "respuesta_correcta": "a",
-    "fuente": "DAM 1.3.3.6.18 - Simbología Topográfica"
+    "fuente": "Táctica de Patrullas de Infantería de Marina - Método de Ángulos"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "opcion_multiple",
-    "pregunta": "¿CUÁL ES LA ESCALA GRÁFICA EN UNA CARTA TOPOGRÁFICA?",
+    "pregunta": "¿CUÁL ES LA DEFINICIÓN DE NAVEGACIÓN TERRESTRE?",
     "opciones": {
-      "a": "UNA FÓRMULA MATEMÁTICA",
-      "b": "UNA REGLA IMPRESA EN LA CARTA PARA MEDIR DISTANCIAS REALES",
-      "c": "SOLO UN NÚMERO EN EL MARGEN",
-      "d": "UNA LISTA DE SÍMBOLOS"
+      "a": "LA HABILIDAD PARA DETERMINAR LA POSICIÓN Y DIRECCIÓN DE MOVIMIENTO SOBRE EL TERRENO UTILIZANDO CARTAS, BRÚJULA Y OTROS MEDIOS",
+      "b": "SOLO CAMINAR EN LÍNEA RECTA",
+      "c": "SOLO USAR MAPAS ANTIGUOS",
+      "d": "SOLO SEGUIR CAMINOS MARCADOS"
     },
-    "respuesta_correcta": "b",
-    "fuente": "DAM 1.3.3.6.18 - Escalas en las Cartas"
+    "respuesta_correcta": "a",
+    "fuente": "Navegación Terrestre - Sistema de Coordenadas"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "opcion_multiple",
-    "pregunta": "¿QUÉ REPRESENTA UNA CURVA DE NIVEL EN UNA CARTA TOPOGRÁFICA?",
+    "pregunta": "¿CUÁLES SON LAS ZONAS MARINAS MEXICANAS SEGÚN LA LEY FEDERAL DEL MAR?",
     "opciones": {
-      "a": "UNA LÍNEA QUE REPRESENTA UN CAMINO",
-      "b": "UNA LÍNEA IMAGINARIA QUE PASA POR PUNTOS A LA MISMA ALTURA",
-      "c": "ÚNICAMENTE UNA FRONTERA ENTRE PAÍSES",
-      "d": "SOLO UNA LÍNEA DE COMUNICACIÓN"
+      "a": "MAR TERRITORIAL, AGUAS MARINAS INTERIORES, ZONA CONTIGUA, ZONA ECONÓMICA EXCLUSIVA Y PLATAFORMA CONTINENTAL",
+      "b": "SOLO AGUAS TERRITORIALES",
+      "c": "SOLO PUERTOS NACIONALES",
+      "d": "SOLO COSTAS PROTEGIDAS"
     },
-    "respuesta_correcta": "b",
-    "fuente": "DAM 1.3.3.6.18 - Elevaciones y Relieves"
+    "respuesta_correcta": "a",
+    "fuente": "Concepto Operacional de Infantería de Marina en Funciones de Guardia Costera - Zonas Marinas"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "verdadero_falso",
-    "pregunta": "LAS CURVAS DE NIVEL NUNCA SE CRUZAN ENTRE SÍ EN UNA CARTA TOPOGRÁFICA.",
+    "pregunta": "LA ARMADA DE MÉXICO TIENE LA RESPONSABILIDAD DE EJERCER FUNCIONES DE GUARDIA COSTERA PARA MANTENER EL ESTADO DE DERECHO EN LAS ZONAS MARINAS MEXICANAS.",
     "respuesta_correcta": "a",
-    "fuente": "DAM 1.3.3.6.18 - Curva de Nivel"
+    "fuente": "Concepto Operacional de Infantería de Marina en Funciones de Guardia Costera - Funciones"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "opcion_multiple",
-    "pregunta": "¿CUÁL ES LA CARACTERÍSTICA DEL TERRENO CUANDO LAS CURVAS DE NIVEL ESTÁN UNIFORMEMENTE ESPACIADAS Y SEPARADAS?",
+    "pregunta": "¿CUÁL ES LA DEFINICIÓN DE FUNCIONES DE GUARDIA COSTERA?",
     "opciones": {
-      "a": "PENDIENTE EMPINADA",
-      "b": "PENDIENTE SUAVE Y UNIFORME",
-      "c": "PENDIENTE CÓNCAVA",
-      "d": "PENDIENTE CONVEXA"
+      "a": "EL CONJUNTO DE ACTIVIDADES OPERATIVAS QUE REALIZA EL PERSONAL DE LA ARMADA PARA COADYUVAR EN EL MANTENIMIENTO DEL ESTADO DE DERECHO",
+      "b": "SOLO PATRULLAR LAS COSTAS",
+      "c": "SOLO PROTEGER PUERTOS",
+      "d": "SOLO VIGILAR PLAYAS"
     },
-    "respuesta_correcta": "b",
-    "fuente": "DAM 1.3.3.6.18 - Tipos de Pendientes"
+    "respuesta_correcta": "a",
+    "fuente": "Concepto Operacional de Infantería de Marina en Funciones de Guardia Costera - Definición"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "opcion_multiple",
-    "pregunta": "¿CUÁL ES UN ACCIDENTE MAYOR DEL TERRENO?",
+    "pregunta": "¿CUÁLES SON LAS FUNCIONES PRINCIPALES DE GUARDIA COSTERA QUE REALIZA LA ARMADA?",
     "opciones": {
-      "a": "CAÑADA",
-      "b": "ESPOLÓN",
-      "c": "COLINA",
-      "d": "CORTE"
+      "a": "COOPERAR CON EL MANTENIMIENTO DEL ORDEN, INSPECCIONAR Y PATRULLAR, PREVENIR CONTAMINACIÓN MARINA, PROTEGER RECURSOS MARÍTIMOS Y PRESERVAR ÁREAS NATURALES PROTEGIDAS",
+      "b": "SOLO COMBATIR ENEMIGOS",
+      "c": "SOLO REALIZAR EJERCICIOS MILITARES",
+      "d": "SOLO TRANSPORTAR CARGA"
     },
-    "respuesta_correcta": "c",
-    "fuente": "DAM 1.3.3.6.18 - Características Mayores del Terreno"
+    "respuesta_correcta": "a",
+    "fuente": "Concepto Operacional de Infantería de Marina en Funciones de Guardia Costera - Funciones"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "verdadero_falso",
-    "pregunta": "UN ACANTILADO O RISCO SE REPRESENTA EN LA CARTA POR CURVAS DE NIVEL MUY CERCANAS CASI TOCÁNDOSE.",
+    "pregunta": "LA ARMADA DE MÉXICO TIENE LA AUTORIDAD PARA EJERCER FUNCIONES DE GUARDIA COSTERA EN LAS ZONAS MARINAS MEXICANAS EN MATERIA DE CUMPLIMIENTO DEL ORDEN JURÍDICO NACIONAL.",
     "respuesta_correcta": "a",
-    "fuente": "DAM 1.3.3.6.18 - Características Suplementarias"
+    "fuente": "Concepto Operacional de Infantería de Marina en Funciones de Guardia Costera - Autoridad"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "opcion_multiple",
-    "pregunta": "¿CUÁL ES LA DISTANCIA MEDIDA ENTRE DOS PUNTOS SOBRE LA CARTA SIN CONSIDERAR EL RELIEVE?",
+    "pregunta": "¿CUÁL ES EL OBJETIVO PRINCIPAL DEL MEMORIAL DE SERVICIOS?",
     "opciones": {
-      "a": "DISTANCIA REAL",
-      "b": "DISTANCIA REDUCIDA",
-      "c": "DISTANCIA GEOMÉTRICA",
-      "d": "DISTANCIA NATURAL"
+      "a": "REGISTRAR LOS DATOS BIOGRÁFICOS, DATOS DEL SERVICIO Y NOTAS DE LAS ACTIVIDADES DEL PERSONAL",
+      "b": "SOLO ESTABLECER SALARIOS",
+      "c": "SOLO ORGANIZAR HORARIOS",
+      "d": "SOLO DISTRIBUIR RECURSOS"
     },
-    "respuesta_correcta": "b",
-    "fuente": "DAM 1.3.3.6.18 - Distancia en el Terreno"
-  },
-  {
-    "tema": "Conocimientos Especificos",
-    "tipo": "opcion_multiple",
-    "pregunta": "¿QUÉ ES EL MÍLITS EN NAVEGACIÓN?",
-    "opciones": {
-      "a": "UNA UNIDAD DE DISTANCIA",
-      "b": "UNA UNIDAD DE MEDIDA ANGULAR DE UN CÍRCULO DIVIDIDO EN 6,400 UNIDADES",
-      "c": "SOLO UNA MEDIDA DE TIEMPO",
-      "d": "UNA MEDIDA DE VELOCIDAD"
-    },
-    "respuesta_correcta": "b",
-    "fuente": "DAM 1.3.3.6.18 - El Mílits"
+    "respuesta_correcta": "a",
+    "fuente": "Manual para la Integración del Memorial de Servicios - Definición y Objetivo"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "verdadero_falso",
-    "pregunta": "UN GRADO EQUIVALE A 17.8 MÍLITS APROXIMADAMENTE.",
+    "pregunta": "EL MEMORIAL DE SERVICIOS ES UN DOCUMENTO CON VALIDEZ LEGAL EN EL CUAL SE CONCEPTÚA LA ACTUACIÓN DEL PERSONAL DE CLASES Y MARINERÍA.",
     "respuesta_correcta": "a",
-    "fuente": "DAM 1.3.3.6.18 - Relación entre Grados y Mílits"
+    "fuente": "Manual para la Integración del Memorial de Servicios - Definición"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "opcion_multiple",
-    "pregunta": "¿CUÁL ES LA FÓRMULA DEL ARTILLERO PARA CALCULAR DISTANCIAS?",
+    "pregunta": "¿DE CUÁLES COMPONENTES SE INTEGRA EL MEMORIAL DE SERVICIOS?",
     "opciones": {
-      "a": "DK = FM / PML",
-      "b": "FM = DK X PML",
-      "c": "PML = FM / DK",
-      "d": "DK = FM X PML"
+      "a": "INFORME DE VIDA, CARTILLA DE CALIFICACIONES E INFORME DE EVALUACIÓN",
+      "b": "SOLO DATOS PERSONALES",
+      "c": "SOLO INFORMACIÓN LABORAL",
+      "d": "SOLO REGISTROS ADMINISTRATIVOS"
     },
     "respuesta_correcta": "a",
-    "fuente": "DAM 1.3.3.6.18 - Fórmula del Artillero"
+    "fuente": "Manual para la Integración del Memorial de Servicios - Componentes"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "opcion_multiple",
-    "pregunta": "¿CUÁLES SON LAS FUNCIONES PRINCIPALES DE GUARDIA COSTERA DE LA ARMADA DE MÉXICO?",
+    "pregunta": "¿CUÁL ES LA FUNCIÓN DEL INFORME DE VIDA EN EL MEMORIAL DE SERVICIOS?",
     "opciones": {
-      "a": "SOLO PATRULLAR LAS COSTAS",
-      "b": "INSPECCIONAR, PATRULLAR, RECONOCIMIENTO, VIGILANCIA Y COMBATE A DELITOS MARÍTIMOS",
-      "c": "ÚNICAMENTE RESCATAR EMBARCACIONES",
-      "d": "SOLO PROTEGER INSTALACIONES PORTUARIAS"
+      "a": "REGISTRAR DE MANERA ORDENADA LA INFORMACIÓN BÁSICA Y DATOS SIGNIFICATIVOS DEL DESEMPEÑO EN EL SERVICIO",
+      "b": "SOLO ESTABLECER OBJETIVOS",
+      "c": "SOLO DISTRIBUIR RECURSOS",
+      "d": "SOLO ORGANIZAR HORARIOS"
     },
-    "respuesta_correcta": "b",
-    "fuente": "DAM 1.3.4.7 - Funciones de Guardia Costera"
+    "respuesta_correcta": "a",
+    "fuente": "Manual para la Integración del Memorial de Servicios - Informe de Vida"
   },
   {
     "tema": "Conocimientos Especificos",
     "tipo": "verdadero_falso",
-    "pregunta": "LA ARMADA DE MÉXICO TIENE RESPONSABILIDAD EN EL COMBATE AL TERRORISMO, CONTRABANDO Y TRÁFICO ILEGAL EN ZONAS MARINAS.",
+    "pregunta": "LA INFORMACIÓN EN EL INFORME DE VIDA ESTÁ FUNDAMENTADA EN HECHOS CONCRETOS Y NO EN APRECIACIONES ABSTRACTAS O SUBJETIVAS.",
     "respuesta_correcta": "a",
-    "fuente": "DAM 1.3.4.7 - Funciones de Guardia Costera"
+    "fuente": "Manual para la Integración del Memorial de Servicios - Informe de Vida"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁLES SON LAS DOS SECCIONES PRINCIPALES DEL INFORME DE VIDA?",
+    "opciones": {
+      "a": "INFORMACIÓN BÁSICA Y DATOS DEL SERVICIO",
+      "b": "SOLO INFORMACIÓN PERSONAL",
+      "c": "SOLO DATOS LABORALES",
+      "d": "SOLO REGISTROS ADMINISTRATIVOS"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Manual para la Integración del Memorial de Servicios - Secciones del Informe de Vida"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁLES SON LOS CONCEPTOS PRINCIPALES QUE CONFORMAN LOS DATOS DEL SERVICIO?",
+    "opciones": {
+      "a": "PUESTOS Y COMISIONES DESEMPEÑADOS, ABONOS AL TIEMPO DE SERVICIOS, CURSOS, PREMIOS Y RECOMPENSAS, CORRECTIVOS DISCIPLINARIOS Y AUSENCIAS TEMPORALES",
+      "b": "SOLO PUESTOS DESEMPEÑADOS",
+      "c": "SOLO CURSOS REALIZADOS",
+      "d": "SOLO PREMIOS RECIBIDOS"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Manual para la Integración del Memorial de Servicios - Datos del Servicio"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "verdadero_falso",
+    "pregunta": "LA CERTIFICACIÓN ES EL PROCEDIMIENTO ADMINISTRATIVO MEDIANTE EL CUAL SE LEGALIZA EL INFORME DE VIDA.",
+    "respuesta_correcta": "a",
+    "fuente": "Manual para la Integración del Memorial de Servicios - Certificación"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿QUIÉN DEBE FIRMAR LA CERTIFICACIÓN DEL INFORME DE VIDA?",
+    "opciones": {
+      "a": "EL JEFE DE LA OFICINA DEL DETALL CON EL VISTO BUENO DEL COMANDANTE, JEFE DE UNIDAD O DIRECTOR",
+      "b": "SOLO EL COMANDANTE",
+      "c": "SOLO EL PERSONAL EVALUADO",
+      "d": "SOLO EL OFICIAL ADMINISTRATIVO"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Manual para la Integración del Memorial de Servicios - Certificación"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁL ES LA FUNCIÓN DE LA CARTILLA DE CALIFICACIONES?",
+    "opciones": {
+      "a": "REGISTRAR LAS CALIFICACIONES QUE SON ASIGNADAS A CADA SUBCONCEPTO DEL INFORME DE EVALUACIÓN",
+      "b": "SOLO ESTABLECER OBJETIVOS",
+      "c": "SOLO DISTRIBUIR RECURSOS",
+      "d": "SOLO ORGANIZAR HORARIOS"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Manual para la Integración del Memorial de Servicios - Cartilla de Calificaciones"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "verdadero_falso",
+    "pregunta": "LA GUÍA DE CONCEPTOS DE EVALUACIÓN DESCRIBE LOS CONCEPTOS Y SUBCONCEPTOS Y SE UTILIZA ÚNICAMENTE COMO REFERENCIA PARA EL LLENADO DE LA CARTILLA.",
+    "respuesta_correcta": "a",
+    "fuente": "Manual para la Integración del Memorial de Servicios - Guía de Conceptos"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁNTOS CONCEPTOS Y SUBCONCEPTOS CONSTA LA GUÍA DE CONCEPTOS DE EVALUACIÓN?",
+    "opciones": {
+      "a": "CUATRO CONCEPTOS CON SUS CORRESPONDIENTES SUBCONCEPTOS",
+      "b": "SOLO DOS CONCEPTOS",
+      "c": "SOLO TRES CONCEPTOS",
+      "d": "SOLO CINCO CONCEPTOS"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Manual para la Integración del Memorial de Servicios - Conceptos y Subconceptos"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁL ES EL PRIMER CONCEPTO EN LA EVALUACIÓN DEL DESEMPEÑO?",
+    "opciones": {
+      "a": "APTITUD EN SU EMPLEO",
+      "b": "CARACTERÍSTICAS INDIVIDUALES",
+      "c": "DISCIPLINA",
+      "d": "DESEMPEÑO POTENCIAL"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Manual para la Integración del Memorial de Servicios - Aptitud en su Empleo"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁL ES LA DEFINICIÓN DE APTITUD EN SU EMPLEO?",
+    "opciones": {
+      "a": "HABILIDAD PARA DESARROLLAR SU TRABAJO Y ALCANZAR LOS OBJETIVOS ESTABLECIDOS",
+      "b": "SOLO CAPACIDAD FÍSICA",
+      "c": "SOLO CONOCIMIENTO TEÓRICO",
+      "d": "SOLO EXPERIENCIA LABORAL"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Manual para la Integración del Memorial de Servicios - Aptitud en su Empleo"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁLES SON LOS SUBCONCEPTOS DE APTITUD EN SU EMPLEO?",
+    "opciones": {
+      "a": "CONFIABILIDAD, DOMINIO Y CONOCIMIENTO, TRABAJO EN EQUIPO, INICIATIVA, ADMINISTRACIÓN RACIONAL, LOGRO DE OBJETIVOS, REACCIÓN ANTE SITUACIONES NO RUTINARIAS Y SOLUCIÓN DE PROBLEMAS",
+      "b": "SOLO CONFIABILIDAD Y DOMINIO",
+      "c": "SOLO INICIATIVA Y LOGRO",
+      "d": "SOLO TRABAJO EN EQUIPO"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Manual para la Integración del Memorial de Servicios - Subconceptos de Aptitud"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "verdadero_falso",
+    "pregunta": "LA CONFIABILIDAD EN SU TRABAJO ES LA CAPACIDAD DE REALIZAR CON ÉXITO SU TRABAJO Y COMISIONES NOMBRADAS.",
+    "respuesta_correcta": "a",
+    "fuente": "Manual para la Integración del Memorial de Servicios - Confiabilidad"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁL ES LA DEFINICIÓN DE DOMINIO Y CONOCIMIENTO DE LAS ACTIVIDADES ASIGNADAS?",
+    "opciones": {
+      "a": "GRADO DE CONOCIMIENTO, ENTENDIMIENTO Y CAPACIDAD PRÁCTICA EN LA EJECUCIÓN DE LAS ACTIVIDADES",
+      "b": "SOLO TEORÍA ACADÉMICA",
+      "c": "SOLO EXPERIENCIA LABORAL",
+      "d": "SOLO CAPACIDAD FÍSICA"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Manual para la Integración del Memorial de Servicios - Dominio y Conocimiento"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁL ES LA DEFINICIÓN DE TRABAJO EN EQUIPO?",
+    "opciones": {
+      "a": "ACTITUD DE SERVICIO CON EL ESPÍRITU DEL GRUPO PARA UN FIN COMÚN EXTERIOR AL EQUIPO",
+      "b": "SOLO TRABAJO INDIVIDUAL",
+      "c": "SOLO COMPETENCIA PERSONAL",
+      "d": "SOLO AUTONOMÍA EN EL TRABAJO"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Manual para la Integración del Memorial de Servicios - Trabajo en Equipo"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "verdadero_falso",
+    "pregunta": "LA INICIATIVA ES LA FACULTAD DE ENCONTRAR SOLUCIÓN INMEDIATA A UN PROBLEMA ACTUANDO POR SÍ MISMO EN FORMA APROPIADA.",
+    "respuesta_correcta": "a",
+    "fuente": "Manual para la Integración del Memorial de Servicios - Iniciativa"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁL ES EL SEGUNDO CONCEPTO EN LA EVALUACIÓN DEL DESEMPEÑO?",
+    "opciones": {
+      "a": "CARACTERÍSTICAS INDIVIDUALES",
+      "b": "APTITUD EN SU EMPLEO",
+      "c": "DISCIPLINA",
+      "d": "DESEMPEÑO POTENCIAL"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Manual para la Integración del Memorial de Servicios - Características Individuales"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁL ES LA DEFINICIÓN DE CARACTERÍSTICAS INDIVIDUALES?",
+    "opciones": {
+      "a": "DETERMINAN LAS CUALIDADES QUE MUESTRAN EL CARÁCTER DE LA PERSONA",
+      "b": "SOLO CAPACIDAD FÍSICA",
+      "c": "SOLO EXPERIENCIA LABORAL",
+      "d": "SOLO CONOCIMIENTO TEÓRICO"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Manual para la Integración del Memorial de Servicios - Características Individuales"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁLES SON LOS SUBCONCEPTOS DE CARACTERÍSTICAS INDIVIDUALES?",
+    "opciones": {
+      "a": "NIVEL DE COMPRENSIÓN, EXPRESIÓN ORAL, EXPRESIÓN ESCRITA, JUICIO EN SUS OPINIONES, COMPAÑERISMO, DISCRECIÓN, RECONOCIMIENTO DE ERRORES Y ESTABILIDAD EMOCIONAL",
+      "b": "SOLO EXPRESIÓN ORAL Y ESCRITA",
+      "c": "SOLO COMPAÑERISMO Y DISCRECIÓN",
+      "d": "SOLO JUICIO Y ESTABILIDAD"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Manual para la Integración del Memorial de Servicios - Subconceptos de Características"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "verdadero_falso",
+    "pregunta": "EL NIVEL DE COMPRENSIÓN DE LAS ÓRDENES ES LA CAPACIDAD PARA ENTENDER LAS ÓRDENES RECIBIDAS Y LLEVARLAS A SU CORRECTA EJECUCIÓN.",
+    "respuesta_correcta": "a",
+    "fuente": "Manual para la Integración del Memorial de Servicios - Comprensión de Órdenes"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁL ES LA DEFINICIÓN DE EXPRESIÓN ORAL?",
+    "opciones": {
+      "a": "CAPACIDAD PARA DARSE A ENTENDER MEDIANTE LA PALABRA",
+      "b": "SOLO CAPACIDAD PARA ESCRIBIR",
+      "c": "SOLO CAPACIDAD PARA LEER",
+      "d": "SOLO CAPACIDAD FÍSICA"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Manual para la Integración del Memorial de Servicios - Expresión Oral"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁL ES EL TERCER CONCEPTO EN LA EVALUACIÓN DEL DESEMPEÑO?",
+    "opciones": {
+      "a": "DISCIPLINA",
+      "b": "APTITUD EN SU EMPLEO",
+      "c": "CARACTERÍSTICAS INDIVIDUALES",
+      "d": "DESEMPEÑO POTENCIAL"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Manual para la Integración del Memorial de Servicios - Disciplina"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁL ES LA DEFINICIÓN DE DISCIPLINA?",
+    "opciones": {
+      "a": "MEDICIÓN DE LA ACEPTACIÓN Y CUMPLIMIENTO DE LAS NORMAS DE CONDUCTA, DEBERES Y OBLIGACIONES",
+      "b": "SOLO CASTIGO Y SANCIÓN",
+      "c": "SOLO OBEDIENCIA CIEGA",
+      "d": "SOLO CUMPLIMIENTO DE HORARIOS"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Manual para la Integración del Memorial de Servicios - Disciplina"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁLES SON LOS SUBCONCEPTOS DE DISCIPLINA?",
+    "opciones": {
+      "a": "PRESENTACIÓN PERSONAL, RESPETO HACIA SUPERIORES, RESPETO HACIA COMPAÑEROS Y SUBALTERNOS, VOCACIÓN DE SERVICIO, IDENTIFICACIÓN CON LA INSTITUCIÓN Y CONDUCTA CIVIL Y MILITAR",
+      "b": "SOLO PRESENTACIÓN PERSONAL Y RESPETO",
+      "c": "SOLO VOCACIÓN Y CONDUCTA",
+      "d": "SOLO IDENTIFICACIÓN Y RESPETO"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Manual para la Integración del Memorial de Servicios - Subconceptos de Disciplina"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "verdadero_falso",
+    "pregunta": "LA PRESENTACIÓN PERSONAL ES LA IMPRESIÓN CAUSADA A LOS DEMÁS POR LA MANERA DE VESTIR, ASEO Y CABELLO.",
+    "respuesta_correcta": "a",
+    "fuente": "Manual para la Integración del Memorial de Servicios - Presentación Personal"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁL ES LA DEFINICIÓN DE VOCACIÓN DE SERVICIO?",
+    "opciones": {
+      "a": "ACTITUD PARA DEMOSTRAR DISPOSICIÓN Y ENTUSIASMO BAJO CUALQUIER CIRCUNSTANCIA PARA EL ÉXITO DE LA MISIÓN",
+      "b": "SOLO CAPACIDAD FÍSICA",
+      "c": "SOLO EXPERIENCIA LABORAL",
+      "d": "SOLO CONOCIMIENTO TEÓRICO"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Manual para la Integración del Memorial de Servicios - Vocación de Servicio"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁL ES EL CUARTO CONCEPTO EN LA EVALUACIÓN DEL DESEMPEÑO?",
+    "opciones": {
+      "a": "DESEMPEÑO POTENCIAL",
+      "b": "APTITUD EN SU EMPLEO",
+      "c": "CARACTERÍSTICAS INDIVIDUALES",
+      "d": "DISCIPLINA"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Manual para la Integración del Memorial de Servicios - Desempeño Potencial"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁL ES LA DEFINICIÓN DE DESEMPEÑO POTENCIAL?",
+    "opciones": {
+      "a": "DETERMINA LA CAPACIDAD QUE TIENE EL INDIVIDUO PARA TENER UN DESARROLLO SOSTENIDO DENTRO DE SU CUERPO O SERVICIO",
+      "b": "SOLO CAPACIDAD FÍSICA ACTUAL",
+      "c": "SOLO EXPERIENCIA LABORAL PASADA",
+      "d": "SOLO CONOCIMIENTO TEÓRICO PRESENTE"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Manual para la Integración del Memorial de Servicios - Desempeño Potencial"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁLES SON LOS SUBCONCEPTOS DE DESEMPEÑO POTENCIAL?",
+    "opciones": {
+      "a": "CAPACIDAD DE APRENDIZAJE, CAPACIDAD PARA ASUMIR MAYORES RESPONSABILIDADES, DISPONIBILIDAD PARA LAS NECESIDADES DEL SERVICIO, COMPROMETE SUS METAS PERSONALES Y CAPACIDAD PARA MEJORAR RESPONSABILIDADES",
+      "b": "SOLO APRENDIZAJE Y RESPONSABILIDADES",
+      "c": "SOLO DISPONIBILIDAD Y COMPROMISO",
+      "d": "SOLO CAPACIDAD Y METAS"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Manual para la Integración del Memorial de Servicios - Subconceptos de Desempeño Potencial"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "verdadero_falso",
+    "pregunta": "LA CAPACIDAD DE APRENDIZAJE ES LA FACILIDAD PARA ASIMILAR NUEVOS CONOCIMIENTOS Y RETENER ESE CONOCIMIENTO A TRAVÉS DEL TIEMPO.",
+    "respuesta_correcta": "a",
+    "fuente": "Manual para la Integración del Memorial de Servicios - Capacidad de Aprendizaje"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁL ES LA DEFINICIÓN DE DISPONIBILIDAD PARA LAS NECESIDADES DEL SERVICIO?",
+    "opciones": {
+      "a": "DEMUESTRA COOPERACIÓN EN TODO MOMENTO, SIN PONER OBJECIONES, LLEGANDO INCLUSO A SACRIFICIOS PERSONALES",
+      "b": "SOLO CUMPLIMIENTO DE HORARIOS",
+      "c": "SOLO OBEDIENCIA CIEGA",
+      "d": "SOLO CAPACIDAD FÍSICA"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Manual para la Integración del Memorial de Servicios - Disponibilidad"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁL ES LA FUNCIÓN DEL INFORME DE EVALUACIÓN?",
+    "opciones": {
+      "a": "REFLEJAR DE MANERA GENERAL, A TRAVÉS DE NIVELES DE CALIDAD EL PERFIL DEL EVALUADO",
+      "b": "SOLO ESTABLECER OBJETIVOS",
+      "c": "SOLO DISTRIBUIR RECURSOS",
+      "d": "SOLO ORGANIZAR HORARIOS"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Manual para la Integración del Memorial de Servicios - Informe de Evaluación"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "verdadero_falso",
+    "pregunta": "EL INFORME DE EVALUACIÓN SE REPRESENTA MEDIANTE UNA TABLA DE PERFIL EN LA CUAL SE IDENTIFICA EL RANGO DENTRO DEL CUAL SE ENCUENTRA CADA UNO DE LOS CONCEPTOS EVALUADOS.",
+    "respuesta_correcta": "a",
+    "fuente": "Manual para la Integración del Memorial de Servicios - Informe de Evaluación"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁL ES LA FINALIDAD DEL INFORME DE EVALUACIÓN?",
+    "opciones": {
+      "a": "PROPORCIONAR AL MANDO UNA REFERENCIA VÁLIDA PARA LA TOMA DE DECISIONES",
+      "b": "SOLO ESTABLECER HORARIOS",
+      "c": "SOLO DISTRIBUIR RECURSOS",
+      "d": "SOLO ORGANIZAR ACTIVIDADES"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Manual para la Integración del Memorial de Servicios - Finalidad del Informe de Evaluación"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿DE CUÁLES APARTADOS SE INTEGRA EL INFORME DE EVALUACIÓN?",
+    "opciones": {
+      "a": "APRECIACIONES PARA EL GRADO INMEDIATO SUPERIOR Y OBSERVACIONES",
+      "b": "SOLO DATOS PERSONALES",
+      "c": "SOLO INFORMACIÓN LABORAL",
+      "d": "SOLO REGISTROS ADMINISTRATIVOS"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Manual para la Integración del Memorial de Servicios - Apartados del Informe de Evaluación"
   }
 ]
