@@ -165,6 +165,7 @@ button.action:disabled{opacity:.4;cursor:not-allowed;}
 <script>
 const TEMAS = ["Conocimientos Marineros","Legislacion Naval","Conocimientos Especificos"];
 const EXAMEN_DURACION_MIN = 60; // <-- ajustar aquí la duración del examen en minutos
+const STATS_WEBHOOK_URL = "https://script.google.com/macros/s/AKfycbz-IrtYeXANBO1F5nsD9ByfPxdC6TofT7fw4wo4p_72-dOVWT2571PfKlwb7MrHm4cN/exec"; // <-- pega aquí la URL de tu Google Apps Script Web App. Vacío = no envía nada.
 let banco = [];
 let historial = [];
 let usuario = { grado:"", nombre:"", matricula:"" };
@@ -322,8 +323,7 @@ function render(){
 const CODIGOS_BANCO = {
   "104729": "conocimientos_marineros.json",
   "205831": "legislacion_naval.json",
-  "306942": "conocimientos_especificos.json",
-  "668754": "conocimientos_esp_mro_a_cabo_im.json"
+  "306942": "conocimientos_especificos.json"
 };
 
 function procesarJSON(texto, msgEl){
@@ -573,6 +573,26 @@ function avanzarSesion(){
   render();
 }
 
+function enviarEstadistica(entry){
+  if(!STATS_WEBHOOK_URL) return; // no configurado, no hace nada
+  const payload = {
+    fecha: entry.fecha,
+    usuario: entry.usuario,
+    total: entry.total,
+    correctas: entry.correctas,
+    porcentaje: Math.round(entry.correctas/entry.total*100),
+    porTema: entry.porTema
+  };
+  try{
+    fetch(STATS_WEBHOOK_URL, {
+      method: 'POST',
+      mode: 'no-cors', // Apps Script no responde con CORS normal; esto solo envía, no lee respuesta
+      headers: { 'Content-Type': 'text/plain' },
+      body: JSON.stringify(payload)
+    }).catch(()=>{ /* silencioso: si falla, no afecta al usuario */ });
+  }catch(e){ /* silencioso */ }
+}
+
 function finalizarExamen(){
   detenerTemporizador();
   sesion.terminado=true;
@@ -587,6 +607,7 @@ function finalizarExamen(){
   });
   historial.unshift({ fecha:new Date().toLocaleString('es-MX'), total, correctas, porTema, usuario: {...usuario}, detalle });
   guardarHistorial();
+  enviarEstadistica(historial[0]);
   render();
 }
 
