@@ -1,0 +1,992 @@
+[
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁL ES EL OBJETIVO PRINCIPAL DE LA ADMINISTRACIÓN DE COSTOS DESDE UNA PERSPECTIVA ESTRATÉGICA EN LAS ORGANIZACIONES MODERNAS?",
+    "opciones": {
+      "a": "REDUCIR ÚNICAMENTE LOS GASTOS OPERATIVOS SIN CONSIDERAR LA CALIDAD DEL PRODUCTO",
+      "b": "PROPORCIONAR INFORMACIÓN DE COSTOS PARA TOMAR DECISIONES ESTRATÉGICAS Y MEJORAR LA COMPETITIVIDAD",
+      "c": "ELIMINAR TODOS LOS COSTOS INDIRECTOS DE LA PRODUCCIÓN",
+      "d": "AUMENTAR LOS PRECIOS DE VENTA AL CONSUMIDOR FINAL"
+    },
+    "respuesta_correcta": "b",
+    "fuente": "Administración de costos - Introducción a la administración de costos"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "verdadero_falso",
+    "pregunta": "EN LA ADMINISTRACIÓN DE COSTOS, LOS COSTOS VARIABLES SON AQUELLOS QUE PERMANECEN CONSTANTES INDEPENDIENTEMENTE DEL VOLUMEN DE PRODUCCIÓN O ACTIVIDAD REALIZADA.",
+    "respuesta_correcta": "b",
+    "fuente": "Administración de costos - Conceptos básicos de la administración de costos"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "EN EL ANÁLISIS DE COSTOS DE CLIENTES PRESENTADO EN EL CASO DE WINSOME OFFICE SUPPLY, ¿CUÁL DE LOS SIGUIENTES CLIENTES GENERÓ EL MAYOR COSTO TOTAL PARA LA EMPRESA?",
+    "opciones": {
+      "a": "GERECO CON UN COSTO TOTAL DE $1,555",
+      "b": "HOMESERV INC. CON UN COSTO TOTAL DE $4,585",
+      "c": "ADVANCE TEK CON UN COSTO TOTAL DE $10,795",
+      "d": "TODOS LOS CLIENTES GENERARON COSTOS EQUIVALENTES"
+    },
+    "respuesta_correcta": "c",
+    "fuente": "Administración de costos - Análisis del costo de los clientes"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁL ES LA FÓRMULA FUNDAMENTAL UTILIZADA EN EL MÉTODO PUNTO ALTO-PUNTO BAJO PARA DETERMINAR EL COSTO VARIABLE POR UNIDAD?",
+    "opciones": {
+      "a": "COSTO VARIABLE = (COSTO ALTO - COSTO BAJO) DIVIDIDO ENTRE (ACTIVIDAD ALTA - ACTIVIDAD BAJA)",
+      "b": "COSTO VARIABLE = COSTO ALTO MULTIPLICADO POR ACTIVIDAD BAJA",
+      "c": "COSTO VARIABLE = COSTO BAJO DIVIDIDO ENTRE ACTIVIDAD ALTA",
+      "d": "COSTO VARIABLE = (COSTO ALTO + COSTO BAJO) DIVIDIDO ENTRE DOS"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Administración de costos - Método punto alto-punto bajo"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "verdadero_falso",
+    "pregunta": "LOS COSTOS INDIRECTOS DE FABRICACIÓN INCLUYEN GASTOS COMO PREPARACIÓN DE MÁQUINAS, MANEJO DE MATERIALES Y CONTROL DE CALIDAD EN LOS PROCESOS PRODUCTIVOS.",
+    "respuesta_correcta": "a",
+    "fuente": "Administración de costos - Costos indirectos de fabricación"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "EN EL CONTEXTO DEL COMPORTAMIENTO ORGANIZACIONAL, ¿QUÉ ASPECTO ES FUNDAMENTAL PARA ENTENDER LA DINÁMICA DEL ÉXITO EN LAS ORGANIZACIONES?",
+    "opciones": {
+      "a": "ÚNICAMENTE LA ESTRUCTURA JERÁRQUICA Y LOS ORGANIGRAMAS",
+      "b": "EL CONTEXTO AMBIENTAL Y CÓMO LAS PERSONAS INTERACTÚAN DENTRO DE LA ORGANIZACIÓN",
+      "c": "SOLAMENTE LOS SISTEMAS TECNOLÓGICOS IMPLEMENTADOS",
+      "d": "EXCLUSIVAMENTE LOS PROCESOS FINANCIEROS Y CONTABLES"
+    },
+    "respuesta_correcta": "b",
+    "fuente": "Comportamiento organizacional - El contexto ambiental y organizacional"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁL ES EL PAPEL PRINCIPAL DE LA MOTIVACIÓN EN EL COMPORTAMIENTO ORGANIZACIONAL DESDE LA PERSPECTIVA DE LA MICROPERSPECTIVA DEL CO?",
+    "opciones": {
+      "a": "DETERMINAR ÚNICAMENTE LOS SALARIOS Y PRESTACIONES DE LOS EMPLEADOS",
+      "b": "IMPULSAR EL DESEMPEÑO Y COMPROMISO DE LAS PERSONAS HACIA LOS OBJETIVOS ORGANIZACIONALES",
+      "c": "CONTROLAR Y SUPERVISAR TODAS LAS ACTIVIDADES DEL PERSONAL",
+      "d": "ELIMINAR LA NECESIDAD DE COMUNICACIÓN ENTRE DEPARTAMENTOS"
+    },
+    "respuesta_correcta": "b",
+    "fuente": "Comportamiento organizacional - Motivación"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "verdadero_falso",
+    "pregunta": "LA TECNOLOGÍA DE INFORMACIÓN ES UN ELEMENTO CLAVE PARA LA COORDINACIÓN Y EL CONTROL EN EL DISEÑO ORGANIZACIONAL MODERNO.",
+    "respuesta_correcta": "a",
+    "fuente": "Teoría y diseño organizacional - Uso de la tecnología de información"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁL ES LA DIFERENCIA FUNDAMENTAL ENTRE ESTADO Y GOBIERNO EN EL CONTEXTO DE LA ADMINISTRACIÓN PÚBLICA MEXICANA?",
+    "opciones": {
+      "a": "EL ESTADO ES LA INSTITUCIÓN PERMANENTE Y EL GOBIERNO ES LA ADMINISTRACIÓN TEMPORAL DE ESE ESTADO",
+      "b": "NO EXISTE DIFERENCIA ENTRE AMBOS CONCEPTOS",
+      "c": "EL GOBIERNO ES MÁS IMPORTANTE QUE EL ESTADO",
+      "d": "EL ESTADO SOLO EXISTE EN CONTEXTOS INTERNACIONALES"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Introducción a la Administración Pública Mexicana - Estado, gobierno y división de poderes"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁL ES EL CONCEPTO FUNDAMENTAL DE LA ADMINISTRACIÓN PÚBLICA EN MÉXICO?",
+    "opciones": {
+      "a": "LA GESTIÓN EXCLUSIVA DE RECURSOS PRIVADOS PARA BENEFICIO PERSONAL",
+      "b": "LA GESTIÓN DE RECURSOS PÚBLICOS PARA SATISFACER LAS NECESIDADES COLECTIVAS DE LA SOCIEDAD",
+      "c": "LA ELIMINACIÓN TOTAL DE LA BUROCRACIA GUBERNAMENTAL",
+      "d": "LA PRIVATIZACIÓN DE TODOS LOS SERVICIOS ESTATALES"
+    },
+    "respuesta_correcta": "b",
+    "fuente": "Introducción a la Administración Pública Mexicana - Administración pública"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁL ES EL OBJETIVO PRINCIPAL DE LA PLANEACIÓN DE RECURSOS HUMANOS EN UNA ORGANIZACIÓN?",
+    "opciones": {
+      "a": "REDUCIR EL NÚMERO DE EMPLEADOS SIN IMPORTAR LA CALIDAD DEL SERVICIO",
+      "b": "ASEGURAR QUE LA ORGANIZACIÓN CUENTE CON EL PERSONAL ADECUADO EN CANTIDAD Y CALIDAD PARA LOGRAR SUS OBJETIVOS",
+      "c": "ELIMINAR TODOS LOS PROGRAMAS DE CAPACITACIÓN Y DESARROLLO",
+      "d": "CONTRATAR ÚNICAMENTE PERSONAL CON EXPERIENCIA PREVIA"
+    },
+    "respuesta_correcta": "b",
+    "fuente": "Administración - Un enfoque basado en competencias - Planeación de recursos humanos"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "verdadero_falso",
+    "pregunta": "EL PROCESO DE CONTRATACIÓN EN ADMINISTRACIÓN DE RECURSOS HUMANOS INCLUYE ETAPAS COMO RECLUTAMIENTO, SELECCIÓN Y ORIENTACIÓN DEL NUEVO PERSONAL.",
+    "respuesta_correcta": "a",
+    "fuente": "Administración - Un enfoque basado en competencias - El proceso de contratación"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁL ES LA IMPORTANCIA DE LA CAPACITACIÓN Y DESARROLLO EN LA ADMINISTRACIÓN DE RECURSOS HUMANOS?",
+    "opciones": {
+      "a": "MEJORAR LAS COMPETENCIAS Y HABILIDADES DEL PERSONAL PARA AUMENTAR SU PRODUCTIVIDAD Y DESEMPEÑO",
+      "b": "CASTIGAR A LOS EMPLEADOS POR ERRORES COMETIDOS",
+      "c": "REDUCIR LOS SALARIOS DEL PERSONAL",
+      "d": "ELIMINAR LA NECESIDAD DE EVALUACIONES DE DESEMPEÑO"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Administración - Un enfoque basado en competencias - Capacitación y desarrollo"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁL ES EL PROPÓSITO PRINCIPAL DE LA EVALUACIÓN DEL DESEMPEÑO EN LA ADMINISTRACIÓN DE RECURSOS HUMANOS?",
+    "opciones": {
+      "a": "MEDIR Y VALORAR EL CUMPLIMIENTO DE OBJETIVOS Y COMPETENCIAS DEL PERSONAL",
+      "b": "JUSTIFICAR EL DESPIDO DE EMPLEADOS",
+      "c": "AUMENTAR AUTOMÁTICAMENTE LOS SALARIOS SIN CRITERIOS OBJETIVOS",
+      "d": "ELIMINAR LA COMUNICACIÓN ENTRE SUPERVISORES Y SUBORDINADOS"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Administración - Un enfoque basado en competencias - Evaluación del desempeño"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "verdadero_falso",
+    "pregunta": "EL TRABAJO EN EQUIPO ES UN ELEMENTO ESENCIAL DEL LIDERAZGO EN LAS ORGANIZACIONES MODERNAS PARA LOGRAR OBJETIVOS COMUNES.",
+    "respuesta_correcta": "a",
+    "fuente": "Administración - Un enfoque basado en competencias - Trabajo en equipo"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁLES SON LOS ELEMENTOS ESENCIALES QUE DEBE INCLUIR UN PLAN ESTRATÉGICO EN LA ETAPA DE PLANEACIÓN?",
+    "opciones": {
+      "a": "ÚNICAMENTE OBJETIVOS FINANCIEROS A CORTO PLAZO",
+      "b": "OBJETIVOS, ESTRATEGIAS, POLÍTICAS Y PREMISAS DE PLANEACIÓN CLARAMENTE DEFINIDAS",
+      "c": "SOLO DECISIONES OPERATIVAS DEL DÍA A DÍA",
+      "d": "EXCLUSIVAMENTE ANÁLISIS DEL PASADO SIN PROYECCIONES FUTURAS"
+    },
+    "respuesta_correcta": "b",
+    "fuente": "Administración - Una perspectiva global y empresarial - Elementos esenciales de la planeación"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿QUÉ SON LAS ESTRATEGIAS, POLÍTICAS Y PREMISAS DE PLANEACIÓN EN EL CONTEXTO ADMINISTRATIVO?",
+    "opciones": {
+      "a": "DOCUMENTOS LEGALES QUE NO TIENEN RELACIÓN CON LA OPERACIÓN",
+      "b": "DIRECTRICES Y SUPUESTOS QUE GUÍAN LA TOMA DE DECISIONES Y LA EJECUCIÓN DE PLANES",
+      "c": "ÚNICAMENTE NORMAS DE COMPORTAMIENTO PERSONAL",
+      "d": "RESTRICCIONES IMPUESTAS POR ORGANISMOS EXTERNOS"
+    },
+    "respuesta_correcta": "b",
+    "fuente": "Administración - Una perspectiva global y empresarial - Estrategias, políticas y premisas"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "verdadero_falso",
+    "pregunta": "LA COMUNICACIÓN ES UN ELEMENTO FUNDAMENTAL EN LA FUNCIÓN DE DIRECCIÓN PARA TRANSMITIR INFORMACIÓN, INSTRUCCIONES Y RETROALIMENTACIÓN EN LA ORGANIZACIÓN.",
+    "respuesta_correcta": "a",
+    "fuente": "Administración - Una perspectiva global y empresarial - Comunicación"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁL ES EL PROPÓSITO DEL PROCESO ADMINISTRATIVO EN LA GESTIÓN ORGANIZACIONAL?",
+    "opciones": {
+      "a": "ESTABLECER UN CONJUNTO DE FUNCIONES COORDINADAS PARA LOGRAR LOS OBJETIVOS ORGANIZACIONALES",
+      "b": "ELIMINAR LA NECESIDAD DE TOMAR DECISIONES",
+      "c": "CENTRALIZAR TODO EL PODER EN UNA SOLA PERSONA",
+      "d": "EVITAR CUALQUIER TIPO DE CAMBIO EN LA ORGANIZACIÓN"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Administración - Gestión organizacional - Proceso Administrativo"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁL ES LA IMPORTANCIA DE LA ORGANIZACIÓN COMO FUNCIÓN ADMINISTRATIVA?",
+    "opciones": {
+      "a": "ESTRUCTURAR LOS RECURSOS Y ESTABLECER RELACIONES ENTRE ELLOS PARA EJECUTAR LOS PLANES",
+      "b": "ÚNICAMENTE CREAR ORGANIGRAMAS SIN FUNCIONES ESPECÍFICAS",
+      "c": "ELIMINAR LA COORDINACIÓN ENTRE DEPARTAMENTOS",
+      "d": "CONCENTRAR TODAS LAS DECISIONES EN LA ALTA DIRECCIÓN"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Administración - Gestión organizacional - Organización"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "verdadero_falso",
+    "pregunta": "LOS RECURSOS HUMANOS, FINANZAS, PRODUCCIÓN, ADMINISTRACIÓN DE MATERIALES Y SISTEMAS SON ÁREAS FUNCIONALES CLAVE EN LA ESTRUCTURA DE UNA EMPRESA.",
+    "respuesta_correcta": "a",
+    "fuente": "Administración - Gestión organizacional - Áreas funcionales de la empresa"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁL ES EL OBJETIVO PRINCIPAL DEL ÁREA DE RECURSOS HUMANOS EN UNA ORGANIZACIÓN?",
+    "opciones": {
+      "a": "GESTIONAR ÚNICAMENTE LOS SALARIOS Y NÓMINAS",
+      "b": "ATRAER, DESARROLLAR Y RETENER EL TALENTO HUMANO NECESARIO PARA LOGRAR LOS OBJETIVOS ORGANIZACIONALES",
+      "c": "CONTROLAR Y SUPERVISAR EXCLUSIVAMENTE LAS FALTAS DE ASISTENCIA",
+      "d": "ELIMINAR TODOS LOS BENEFICIOS PARA LOS EMPLEADOS"
+    },
+    "respuesta_correcta": "b",
+    "fuente": "Administración - Gestión organizacional - Recursos Humanos"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁL ES LA FUNCIÓN PRINCIPAL DEL ÁREA DE FINANZAS EN UNA EMPRESA?",
+    "opciones": {
+      "a": "GESTIONAR ÚNICAMENTE LOS GASTOS OPERATIVOS",
+      "b": "OBTENER, ASIGNAR Y CONTROLAR LOS RECURSOS FINANCIEROS PARA FINANCIAR LAS OPERACIONES Y OBJETIVOS",
+      "c": "ELIMINAR TODOS LOS COSTOS DE PRODUCCIÓN",
+      "d": "AUMENTAR INDEFINIDAMENTE LOS PRECIOS DE LOS PRODUCTOS"
+    },
+    "respuesta_correcta": "b",
+    "fuente": "Administración - Gestión organizacional - Finanzas"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "verdadero_falso",
+    "pregunta": "EL ÁREA DE PRODUCCIÓN ES RESPONSABLE DE TRANSFORMAR LAS MATERIAS PRIMAS EN PRODUCTOS TERMINADOS MEDIANTE PROCESOS EFICIENTES Y DE CALIDAD.",
+    "respuesta_correcta": "a",
+    "fuente": "Administración - Gestión organizacional - Producción"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁL ES EL OBJETIVO DE LA ADMINISTRACIÓN DE MATERIALES EN UNA ORGANIZACIÓN?",
+    "opciones": {
+      "a": "COMPRAR LA MAYOR CANTIDAD DE MATERIALES SIN CONSIDERAR LA DEMANDA",
+      "b": "GESTIONAR EFICIENTEMENTE LA ADQUISICIÓN, ALMACENAMIENTO Y DISTRIBUCIÓN DE MATERIALES NECESARIOS",
+      "c": "ELIMINAR COMPLETAMENTE EL INVENTARIO DE LA EMPRESA",
+      "d": "MANTENER COSTOS ALTOS DE ALMACENAMIENTO"
+    },
+    "respuesta_correcta": "b",
+    "fuente": "Administración - Gestión organizacional - Administración de materiales"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁL ES LA IMPORTANCIA DEL ÁREA DE SISTEMAS EN LA ADMINISTRACIÓN MODERNA?",
+    "opciones": {
+      "a": "ÚNICAMENTE MANTENER COMPUTADORAS EN FUNCIONAMIENTO",
+      "b": "PROPORCIONAR INFRAESTRUCTURA TECNOLÓGICA Y SISTEMAS DE INFORMACIÓN PARA APOYAR TODAS LAS OPERACIONES",
+      "c": "ELIMINAR LA NECESIDAD DE COMUNICACIÓN ENTRE DEPARTAMENTOS",
+      "d": "REEMPLAZAR COMPLETAMENTE EL TRABAJO HUMANO"
+    },
+    "respuesta_correcta": "b",
+    "fuente": "Administración - Gestión organizacional - Sistemas"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "verdadero_falso",
+    "pregunta": "LOS RECURSOS FINANCIEROS SON ACTIVOS MONETARIOS Y EQUIVALENTES QUE UNA ORGANIZACIÓN UTILIZA PARA FINANCIAR SUS OPERACIONES Y PROYECTOS.",
+    "respuesta_correcta": "a",
+    "fuente": "DAM 1.1.3 - Recursos financieros"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁL ES EL PROPÓSITO DEL MACROPROCESO DE ADQUISICIONES EN LA ADMINISTRACIÓN PÚBLICA?",
+    "opciones": {
+      "a": "COMPRAR PRODUCTOS SIN CONSIDERAR CALIDAD NI PRECIO",
+      "b": "OBTENER BIENES Y SERVICIOS DE MANERA EFICIENTE, TRANSPARENTE Y CONFORME A LA NORMATIVIDAD",
+      "c": "FAVORECER A PROVEEDORES ESPECÍFICOS SIN LICITACIÓN",
+      "d": "ELIMINAR TODOS LOS CONTROLES EN LAS COMPRAS PÚBLICAS"
+    },
+    "respuesta_correcta": "b",
+    "fuente": "DAM 1.1.3.1 - Macroproceso de adquisiciones"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "EN EL CONTEXTO DE LA EVALUACIÓN DEL DESEMPEÑO DEL PERSONAL NAVAL, ¿CUÁL ES EL PROPÓSITO DE LA HOJA DE ACTUACIÓN?",
+    "opciones": {
+      "a": "REGISTRAR ÚNICAMENTE LAS FALTAS DEL PERSONAL",
+      "b": "DOCUMENTAR Y EVALUAR EL DESEMPEÑO, CONDUCTA Y COMPETENCIAS DEL PERSONAL MILITAR",
+      "c": "JUSTIFICAR DESPIDOS ARBITRARIOS",
+      "d": "ELIMINAR LA NECESIDAD DE RETROALIMENTACIÓN"
+    },
+    "respuesta_correcta": "b",
+    "fuente": "Manual para la integración de la hoja de actuación - Generalidades"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "verdadero_falso",
+    "pregunta": "EL MEMORIAL DE SERVICIOS DEL PERSONAL DE CLASES Y MARINERÍA REGISTRA EL HISTORIAL COMPLETO DE SERVICIOS PRESTADOS Y EVALUACIONES DE DESEMPEÑO.",
+    "respuesta_correcta": "a",
+    "fuente": "Manual para la integración del memorial de servicios - Generalidades"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁL ES EL CONCEPTO FUNDAMENTAL DEL TRIÁNGULO DEL FUEGO EN LA TEORÍA DE LA COMBUSTIÓN?",
+    "opciones": {
+      "a": "TRES ELEMENTOS NECESARIOS PARA QUE OCURRA LA COMBUSTIÓN: COMBUSTIBLE, OXÍGENO Y CALOR",
+      "b": "UNA FORMA GEOMÉTRICA SIN RELACIÓN CON EL FUEGO",
+      "c": "ÚNICAMENTE LA PRESENCIA DE LLAMAS VISIBLES",
+      "d": "LA COMBINACIÓN DE AGUA Y AIRE"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "DAM 1.3.1.3.5 - Elementos del triángulo del fuego"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁLES SON LAS PRINCIPALES FUENTES DE IGNICIÓN QUE PUEDEN PROVOCAR INCENDIOS EN ESTABLECIMIENTOS NAVALES?",
+    "opciones": {
+      "a": "ÚNICAMENTE LA LUZ SOLAR DIRECTA",
+      "b": "CHISPAS, LLAMAS ABIERTAS, SUPERFICIES CALIENTES Y FRICCIÓN ENTRE MATERIALES",
+      "c": "SOLO LA PRESENCIA DE AGUA",
+      "d": "EXCLUSIVAMENTE EL VIENTO"
+    },
+    "respuesta_correcta": "b",
+    "fuente": "DAM 1.3.1.3.5 - Fuentes de ignición"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "verdadero_falso",
+    "pregunta": "LOS INCENDIOS CLASE A INCLUYEN FUEGOS EN MATERIALES COMBUSTIBLES ORDINARIOS COMO MADERA, PAPEL Y TEXTILES.",
+    "respuesta_correcta": "a",
+    "fuente": "DAM 1.3.1.3.5 - Clasificación de los incendios"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁL ES EL AGENTE EXTINTOR MÁS APROPIADO PARA COMBATIR INCENDIOS CLASE B?",
+    "opciones": {
+      "a": "AGUA A PRESIÓN",
+      "b": "ESPUMA, POLVO QUÍMICO SECO O DIÓXIDO DE CARBONO",
+      "c": "ÚNICAMENTE AIRE COMPRIMIDO",
+      "d": "ARENA MOJADA"
+    },
+    "respuesta_correcta": "b",
+    "fuente": "DAM 1.3.1.3.5 - Uso de Agentes Extinguidores"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁLES SON LOS MÉTODOS PRINCIPALES DE EXTINCIÓN DE INCENDIOS SEGÚN LA TEORÍA DE LA COMBUSTIÓN?",
+    "opciones": {
+      "a": "ÚNICAMENTE USAR AGUA EN TODAS LAS SITUACIONES",
+      "b": "ENFRIAMIENTO, SOFOCACIÓN, INHIBICIÓN QUÍMICA Y REMOCIÓN DEL COMBUSTIBLE",
+      "c": "SOLO EVACUAR EL ÁREA SIN INTENTAR EXTINGUIR",
+      "d": "ESPERAR A QUE EL FUEGO SE APAGUE NATURALMENTE"
+    },
+    "respuesta_correcta": "b",
+    "fuente": "DAM 1.3.1.3.5 - Métodos de extinción de incendios"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "verdadero_falso",
+    "pregunta": "LAS FASES DEL FUEGO INCLUYEN IGNICIÓN, CRECIMIENTO, DESARROLLO COMPLETO Y DECAIMIENTO O EXTINCIÓN.",
+    "respuesta_correcta": "a",
+    "fuente": "DAM 1.3.1.3.5 - Fases del fuego"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁLES SON LOS MÉTODOS DE TRANSFERENCIA DE CALOR QUE DEBEN CONSIDERARSE EN LA PREVENCIÓN DE INCENDIOS?",
+    "opciones": {
+      "a": "CONDUCCIÓN, CONVECCIÓN Y RADIACIÓN",
+      "b": "ÚNICAMENTE CONDUCCIÓN",
+      "c": "SOLO RADIACIÓN SOLAR",
+      "d": "EXCLUSIVAMENTE CONVECCIÓN NATURAL"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "DAM 1.3.1.3.5 - Métodos de transferencia de calor"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁL ES LA FUNCIÓN PRINCIPAL DE LOS EXTINTORES EN LA PREVENCIÓN Y CONTROL DE INCENDIOS?",
+    "opciones": {
+      "a": "ÚNICAMENTE DECORAR LOS ESPACIOS",
+      "b": "PROPORCIONAR UN MEDIO RÁPIDO Y ACCESIBLE PARA EXTINGUIR INCENDIOS INCIPIENTES",
+      "c": "PREVENIR COMPLETAMENTE CUALQUIER TIPO DE FUEGO",
+      "d": "REEMPLAZAR LOS SISTEMAS DE DETECCIÓN"
+    },
+    "respuesta_correcta": "b",
+    "fuente": "DAM 1.3.1.3.5 - Extintores y agentes extinguidores"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "verdadero_falso",
+    "pregunta": "LA SEGURIDAD FÍSICA DE LAS UNIDADES Y ESTABLECIMIENTOS NAVALES INCLUYE MEDIDAS PARA PROTEGER PERSONAS, BIENES E INFORMACIÓN CONTRA AMENAZAS.",
+    "respuesta_correcta": "a",
+    "fuente": "DAM 1.3.4.6 - Seguridad física"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁL ES EL ALCANCE DEL ADIESTRAMIENTO EN LA ARMADA DE MÉXICO SEGÚN LA NORMATIVIDAD VIGENTE?",
+    "opciones": {
+      "a": "ÚNICAMENTE ENTRENAR A OFICIALES DE ALTO RANGO",
+      "b": "DESARROLLAR COMPETENCIAS Y HABILIDADES EN TODO EL PERSONAL PARA CUMPLIR MISIONES",
+      "c": "ENTRENAR SOLO EN PERÍODOS DE CONFLICTO",
+      "d": "ELIMINAR LA NECESIDAD DE CAPACITACIÓN CONTINUA"
+    },
+    "respuesta_correcta": "b",
+    "fuente": "DAM 1.10 - Alcance del adiestramiento"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "EN EL ANÁLISIS DE COSTOS, ¿QUÉ REPRESENTA EL COSTO FIJO EN LA FÓRMULA DE COMPORTAMIENTO DE COSTOS?",
+    "opciones": {
+      "a": "EL GASTO QUE VARÍA PROPORCIONALMENTE CON EL VOLUMEN DE PRODUCCIÓN",
+      "b": "EL GASTO QUE PERMANECE CONSTANTE INDEPENDIENTEMENTE DEL NIVEL DE ACTIVIDAD",
+      "c": "UN COSTO QUE SOLO EXISTE EN PERÍODOS DE CRISIS",
+      "d": "EL PRECIO DE VENTA DEL PRODUCTO"
+    },
+    "respuesta_correcta": "b",
+    "fuente": "Administración de costos - Conceptos básicos"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "verdadero_falso",
+    "pregunta": "EN EL PRESUPUESTO DE EFECTIVO, LOS DESEMBOLSOS TOTALES INCLUYEN PAGOS POR MATERIALES DIRECTOS, SALARIOS, COSTOS INDIRECTOS Y GASTOS OPERATIVOS.",
+    "respuesta_correcta": "a",
+    "fuente": "Administración de costos - Presupuesto de efectivo"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁL ES EL PROPÓSITO DE ANALIZAR EL COSTO POR CLIENTE EN UNA EMPRESA DE SERVICIOS?",
+    "opciones": {
+      "a": "DETERMINAR CUÁLES CLIENTES SON MÁS RENTABLES Y CUÁLES GENERAN MAYORES COSTOS",
+      "b": "COBRAR PRECIOS IGUALES A TODOS LOS CLIENTES SIN EXCEPCIÓN",
+      "c": "ELIMINAR A LOS CLIENTES QUE GENERAN COSTOS",
+      "d": "IGNORAR LOS COSTOS OPERATIVOS ASOCIADOS A CADA CLIENTE"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Administración de costos - Análisis del costo de los clientes"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿QUÉ COMPONENTES INCLUYE EL COSTO DEL CLIENTE A NIVEL DE UNIDAD EN EL ANÁLISIS DE COSTOS?",
+    "opciones": {
+      "a": "ÚNICAMENTE EL COSTO DE MATERIALES DIRECTOS",
+      "b": "PROCESAMIENTO DE PEDIDOS Y REABASTECIMIENTO RELACIONADOS CON CADA UNIDAD",
+      "c": "SOLO LOS SALARIOS DEL PERSONAL",
+      "d": "EXCLUSIVAMENTE LOS GASTOS ADMINISTRATIVOS"
+    },
+    "respuesta_correcta": "b",
+    "fuente": "Administración de costos - Costo del cliente a nivel de unidad"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "verdadero_falso",
+    "pregunta": "EL COSTO DEL CLIENTE A NIVEL DE LOTE INCLUYE ACTIVIDADES COMO TOMA DE PEDIDOS, PROCESAMIENTO, ENTREGA Y DEVOLUCIONES.",
+    "respuesta_correcta": "a",
+    "fuente": "Administración de costos - Costo del cliente a nivel de lote"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁL ES LA IMPORTANCIA DE IDENTIFICAR LOS GENERADORES DE COSTOS EN EL ANÁLISIS DE COSTOS INDIRECTOS?",
+    "opciones": {
+      "a": "ASIGNAR ADECUADAMENTE LOS COSTOS INDIRECTOS A LOS PRODUCTOS O SERVICIOS BASÁNDOSE EN EL CONSUMO REAL",
+      "b": "ELIMINAR TODOS LOS COSTOS INDIRECTOS DE LA PRODUCCIÓN",
+      "c": "DISTRIBUIR EQUITATIVAMENTE LOS COSTOS SIN CONSIDERAR LA ACTIVIDAD",
+      "d": "IGNORAR LOS COSTOS INDIRECTOS EN LA TOMA DE DECISIONES"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Administración de costos - Generadores de costos"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "EN EL CASO DE CCO, ¿CUÁL ES LA DIFERENCIA PRINCIPAL ENTRE LOS PRODUCTOS P5 Y G23 EN TÉRMINOS DE COMPLEJIDAD DE PRODUCCIÓN?",
+    "opciones": {
+      "a": "P5 REQUIERE MÁS PREPARACIONES DE MÁQUINAS QUE G23",
+      "b": "G23 REQUIERE SIGNIFICATIVAMENTE MÁS PREPARACIONES Y INSPECCIONES QUE P5",
+      "c": "AMBOS PRODUCTOS REQUIEREN EXACTAMENTE LOS MISMOS RECURSOS",
+      "d": "P5 REQUIERE MÁS HORAS MÁQUINA QUE G23"
+    },
+    "respuesta_correcta": "b",
+    "fuente": "Administración de costos - Caso CCO"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "verdadero_falso",
+    "pregunta": "EN LA ADMINISTRACIÓN DE COSTOS, EL MÉTODO DE COSTEO BASADO EN ACTIVIDADES PERMITE UNA ASIGNACIÓN MÁS PRECISA DE LOS COSTOS INDIRECTOS.",
+    "respuesta_correcta": "a",
+    "fuente": "Administración de costos - Costeo basado en actividades"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁL ES EL IMPACTO DE LA MOTIVACIÓN EN LA PRODUCTIVIDAD Y EL DESEMPEÑO DEL PERSONAL EN UNA ORGANIZACIÓN?",
+    "opciones": {
+      "a": "NO TIENE NINGÚN IMPACTO EN EL DESEMPEÑO",
+      "b": "AUMENTA SIGNIFICATIVAMENTE LA PRODUCTIVIDAD Y EL COMPROMISO CON LOS OBJETIVOS",
+      "c": "REDUCE LA CALIDAD DEL TRABAJO",
+      "d": "SOLO AFECTA A LOS EMPLEADOS DE NIVEL BAJO"
+    },
+    "respuesta_correcta": "b",
+    "fuente": "Comportamiento organizacional - Motivación y desempeño"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁL ES EL PAPEL DE LA COMUNICACIÓN EFECTIVA EN LA FUNCIÓN DE DIRECCIÓN?",
+    "opciones": {
+      "a": "ÚNICAMENTE TRANSMITIR ÓRDENES SIN ESCUCHAR",
+      "b": "FACILITAR EL FLUJO DE INFORMACIÓN, INSTRUCCIONES Y RETROALIMENTACIÓN ENTRE NIVELES",
+      "c": "ELIMINAR LA NECESIDAD DE REUNIONES",
+      "d": "CENTRALIZAR TODA LA INFORMACIÓN EN UNA SOLA PERSONA"
+    },
+    "respuesta_correcta": "b",
+    "fuente": "Administración - Una perspectiva global - Comunicación en la dirección"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "verdadero_falso",
+    "pregunta": "LA ADMINISTRACIÓN POR OBJETIVOS ES UN ENFOQUE QUE ESTABLECE METAS CLARAS Y MEDIBLES PARA EVALUAR EL DESEMPEÑO ORGANIZACIONAL.",
+    "respuesta_correcta": "a",
+    "fuente": "Administración - Una perspectiva global - Administración por objetivos"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁL ES LA RELACIÓN ENTRE LA ESTRUCTURA ORGANIZACIONAL Y LA EFECTIVIDAD DE LA COORDINACIÓN?",
+    "opciones": {
+      "a": "NO EXISTE RELACIÓN ENTRE AMBAS",
+      "b": "UNA ESTRUCTURA CLARA FACILITA LA COORDINACIÓN Y COMUNICACIÓN ENTRE DEPARTAMENTOS",
+      "c": "LA ESTRUCTURA ORGANIZACIONAL SOLO AFECTA A LA ALTA DIRECCIÓN",
+      "d": "LA COORDINACIÓN ES INDEPENDIENTE DE CÓMO SE ORGANICE LA EMPRESA"
+    },
+    "respuesta_correcta": "b",
+    "fuente": "Administración - Gestión organizacional - Estructura y coordinación"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁL ES EL OBJETIVO DE LA ADMINISTRACIÓN DE MATERIALES EN RELACIÓN CON LOS COSTOS OPERATIVOS?",
+    "opciones": {
+      "a": "AUMENTAR INDEFINIDAMENTE EL INVENTARIO",
+      "b": "OPTIMIZAR EL BALANCE ENTRE DISPONIBILIDAD Y COSTO DE ALMACENAMIENTO",
+      "c": "ELIMINAR COMPLETAMENTE EL INVENTARIO",
+      "d": "COMPRAR SOLO CUANDO HAYA CRISIS DE SUMINISTRO"
+    },
+    "respuesta_correcta": "b",
+    "fuente": "Administración - Gestión organizacional - Administración de materiales"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "verdadero_falso",
+    "pregunta": "LOS SISTEMAS DE INFORMACIÓN SON HERRAMIENTAS ESENCIALES PARA INTEGRAR Y COORDINAR LAS OPERACIONES DE TODAS LAS ÁREAS FUNCIONALES.",
+    "respuesta_correcta": "a",
+    "fuente": "Administración - Gestión organizacional - Sistemas de información"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁL ES LA IMPORTANCIA DE LA TRANSPARENCIA EN LA ADMINISTRACIÓN DE RECURSOS FINANCIEROS PÚBLICOS?",
+    "opciones": {
+      "a": "OCULTAR INFORMACIÓN PARA EVITAR CRÍTICAS",
+      "b": "GARANTIZAR RENDICIÓN DE CUENTAS Y CONFIANZA PÚBLICA EN LA GESTIÓN",
+      "c": "FACILITAR LA CORRUPCIÓN Y EL MAL USO DE FONDOS",
+      "d": "ELIMINAR LA NECESIDAD DE AUDITORÍAS"
+    },
+    "respuesta_correcta": "b",
+    "fuente": "Administración Pública Mexicana - Transparencia en recursos"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁL ES EL PROPÓSITO DE LA EVALUACIÓN DEL DESEMPEÑO EN LA ADMINISTRACIÓN PÚBLICA?",
+    "opciones": {
+      "a": "ÚNICAMENTE JUSTIFICAR DESPIDOS",
+      "b": "MEDIR RESULTADOS, IDENTIFICAR FORTALEZAS Y ÁREAS DE MEJORA DEL PERSONAL",
+      "c": "CASTIGAR A LOS EMPLEADOS POR ERRORES",
+      "d": "ELIMINAR LA NECESIDAD DE CAPACITACIÓN"
+    },
+    "respuesta_correcta": "b",
+    "fuente": "Administración Pública Mexicana - Evaluación del desempeño"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "verdadero_falso",
+    "pregunta": "LA DIVISIÓN DE PODERES EN MÉXICO INCLUYE PODER EJECUTIVO, LEGISLATIVO Y JUDICIAL PARA GARANTIZAR EQUILIBRIO Y CONTROL.",
+    "respuesta_correcta": "a",
+    "fuente": "Administración Pública Mexicana - División de poderes"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁL ES LA DIFERENCIA ENTRE PLANEACIÓN ESTRATÉGICA Y PLANEACIÓN OPERATIVA?",
+    "opciones": {
+      "a": "NO EXISTE DIFERENCIA ENTRE AMBAS",
+      "b": "LA ESTRATÉGICA ES A LARGO PLAZO Y LA OPERATIVA ES A CORTO PLAZO CON ACCIONES ESPECÍFICAS",
+      "c": "LA OPERATIVA ES MÁS IMPORTANTE QUE LA ESTRATÉGICA",
+      "d": "SOLO LA ESTRATÉGICA REQUIERE ANÁLISIS"
+    },
+    "respuesta_correcta": "b",
+    "fuente": "Administración - Una perspectiva global - Planeación estratégica y operativa"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁL ES EL IMPACTO DE LA TECNOLOGÍA EN LA COORDINACIÓN Y CONTROL ORGANIZACIONAL?",
+    "opciones": {
+      "a": "LA TECNOLOGÍA NO TIENE IMPACTO EN LA COORDINACIÓN",
+      "b": "FACILITA LA COMUNICACIÓN, INTEGRACIÓN DE DATOS Y TOMA DE DECISIONES EN TIEMPO REAL",
+      "c": "SOLO AFECTA A LAS GRANDES EMPRESAS",
+      "d": "REEMPLAZA COMPLETAMENTE LA NECESIDAD DE COORDINACIÓN HUMANA"
+    },
+    "respuesta_correcta": "b",
+    "fuente": "Teoría y diseño organizacional - Tecnología de información"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "verdadero_falso",
+    "pregunta": "EL CONTEXTO AMBIENTAL EXTERNO INFLUYE SIGNIFICATIVAMENTE EN LAS DECISIONES Y ESTRATEGIAS DE UNA ORGANIZACIÓN.",
+    "respuesta_correcta": "a",
+    "fuente": "Comportamiento organizacional - Contexto ambiental"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁL ES LA IMPORTANCIA DEL TRABAJO EN EQUIPO EN EL LIDERAZGO MODERNO?",
+    "opciones": {
+      "a": "EL TRABAJO EN EQUIPO NO ES IMPORTANTE EN EL LIDERAZGO",
+      "b": "FACILITA LA COLABORACIÓN, INNOVACIÓN Y LOGRO DE OBJETIVOS COMUNES",
+      "c": "SOLO ES IMPORTANTE EN EMPRESAS PEQUEÑAS",
+      "d": "REDUCE LA RESPONSABILIDAD INDIVIDUAL"
+    },
+    "respuesta_correcta": "b",
+    "fuente": "Administración - Un enfoque basado en competencias - Trabajo en equipo"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁL ES EL PROPÓSITO DE LA CAPACITACIÓN CONTINUA EN UNA ORGANIZACIÓN?",
+    "opciones": {
+      "a": "ÚNICAMENTE CUMPLIR CON REQUISITOS LEGALES",
+      "b": "MANTENER Y MEJORAR LAS COMPETENCIAS DEL PERSONAL ANTE CAMBIOS TECNOLÓGICOS Y DE MERCADO",
+      "c": "CASTIGAR A LOS EMPLEADOS POR BAJO DESEMPEÑO",
+      "d": "ELIMINAR LA NECESIDAD DE EVALUACIONES"
+    },
+    "respuesta_correcta": "b",
+    "fuente": "Administración - Un enfoque basado en competencias - Capacitación continua"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "verdadero_falso",
+    "pregunta": "LA RETENCIÓN DE TALENTO ES UN OBJETIVO CLAVE DE LA ADMINISTRACIÓN DE RECURSOS HUMANOS PARA MANTENER LA ESTABILIDAD ORGANIZACIONAL.",
+    "respuesta_correcta": "a",
+    "fuente": "Administración - Un enfoque basado en competencias - Retención de talento"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁL ES EL PAPEL DE LOS INDICADORES DE DESEMPEÑO EN LA EVALUACIÓN ORGANIZACIONAL?",
+    "opciones": {
+      "a": "NO TIENEN UTILIDAD EN LA EVALUACIÓN",
+      "b": "MEDIR OBJETIVAMENTE EL LOGRO DE OBJETIVOS Y FACILITAR LA TOMA DE DECISIONES",
+      "c": "SOLO SIRVEN PARA JUSTIFICAR DESPIDOS",
+      "d": "REEMPLAZAR COMPLETAMENTE LA EVALUACIÓN CUALITATIVA"
+    },
+    "respuesta_correcta": "b",
+    "fuente": "Administración - Gestión organizacional - Indicadores de desempeño"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁL ES LA IMPORTANCIA DE LA RETROALIMENTACIÓN EN EL PROCESO DE EVALUACIÓN DEL DESEMPEÑO?",
+    "opciones": {
+      "a": "LA RETROALIMENTACIÓN NO ES IMPORTANTE",
+      "b": "PERMITE AL EMPLEADO CONOCER SUS FORTALEZAS Y ÁREAS DE MEJORA PARA DESARROLLARSE",
+      "c": "SOLO SIRVE PARA CRITICAR AL PERSONAL",
+      "d": "ELIMINA LA NECESIDAD DE CAPACITACIÓN"
+    },
+    "respuesta_correcta": "b",
+    "fuente": "Administración - Un enfoque basado en competencias - Retroalimentación"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "verdadero_falso",
+    "pregunta": "LA CULTURA ORGANIZACIONAL INFLUYE EN EL COMPORTAMIENTO, VALORES Y DESEMPEÑO DE LOS MIEMBROS DE UNA ORGANIZACIÓN.",
+    "respuesta_correcta": "a",
+    "fuente": "Comportamiento organizacional - Cultura organizacional"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁL ES EL OBJETIVO DE LA GESTIÓN DEL CAMBIO EN UNA ORGANIZACIÓN?",
+    "opciones": {
+      "a": "EVITAR CUALQUIER TIPO DE CAMBIO",
+      "b": "FACILITAR LA ADAPTACIÓN ORDENADA A NUEVAS CIRCUNSTANCIAS Y MINIMIZAR RESISTENCIA",
+      "c": "IMPONER CAMBIOS SIN CONSULTAR AL PERSONAL",
+      "d": "MANTENER LAS COSAS EXACTAMENTE COMO ESTÁN"
+    },
+    "respuesta_correcta": "b",
+    "fuente": "Administración - Gestión organizacional - Gestión del cambio"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁL ES LA RELACIÓN ENTRE LA ESTRATEGIA EMPRESARIAL Y LA ADMINISTRACIÓN DE COSTOS?",
+    "opciones": {
+      "a": "NO EXISTE RELACIÓN ENTRE AMBAS",
+      "b": "LA INFORMACIÓN DE COSTOS APOYA LA FORMULACIÓN Y EJECUCIÓN DE ESTRATEGIAS",
+      "c": "LA ESTRATEGIA NO CONSIDERA LOS COSTOS",
+      "d": "LOS COSTOS SON IRRELEVANTES PARA LA ESTRATEGIA"
+    },
+    "respuesta_correcta": "b",
+    "fuente": "Administración de costos - Administración de costos y estrategia"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "verdadero_falso",
+    "pregunta": "EL ANÁLISIS DE RENTABILIDAD POR CLIENTE AYUDA A IDENTIFICAR CUÁLES CLIENTES SON MÁS VALIOSOS PARA LA EMPRESA.",
+    "respuesta_correcta": "a",
+    "fuente": "Administración de costos - Análisis de rentabilidad"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁL ES EL PROPÓSITO DE LOS PRESUPUESTOS EN LA ADMINISTRACIÓN FINANCIERA?",
+    "opciones": {
+      "a": "ÚNICAMENTE REGISTRAR GASTOS PASADOS",
+      "b": "PLANIFICAR Y CONTROLAR LOS RECURSOS FINANCIEROS PARA LOGRAR OBJETIVOS",
+      "c": "ELIMINAR LA NECESIDAD DE AUDITORÍAS",
+      "d": "GARANTIZAR GANANCIAS SIN ESFUERZO"
+    },
+    "respuesta_correcta": "b",
+    "fuente": "Administración - Gestión organizacional - Presupuestos"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁL ES LA IMPORTANCIA DE LA AUDITORÍA EN LA ADMINISTRACIÓN PÚBLICA?",
+    "opciones": {
+      "a": "NO TIENE IMPORTANCIA",
+      "b": "VERIFICAR LA LEGALIDAD, EFICIENCIA Y EFECTIVIDAD DEL USO DE RECURSOS PÚBLICOS",
+      "c": "SOLO BUSCA ENCONTRAR CULPABLES",
+      "d": "REEMPLAZAR LA RESPONSABILIDAD DE LOS FUNCIONARIOS"
+    },
+    "respuesta_correcta": "b",
+    "fuente": "Administración Pública Mexicana - Auditoría"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "verdadero_falso",
+    "pregunta": "LA RENDICIÓN DE CUENTAS ES UN PRINCIPIO FUNDAMENTAL DE LA ADMINISTRACIÓN PÚBLICA DEMOCRÁTICA.",
+    "respuesta_correcta": "a",
+    "fuente": "Administración Pública Mexicana - Rendición de cuentas"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁL ES EL IMPACTO DE LA INNOVACIÓN EN LA COMPETITIVIDAD ORGANIZACIONAL?",
+    "opciones": {
+      "a": "LA INNOVACIÓN NO AFECTA LA COMPETITIVIDAD",
+      "b": "GENERA VENTAJAS COMPETITIVAS Y PERMITE ADAPTARSE A CAMBIOS DEL MERCADO",
+      "c": "SOLO ES IMPORTANTE EN EMPRESAS TECNOLÓGICAS",
+      "d": "REDUCE LA EFICIENCIA OPERATIVA"
+    },
+    "respuesta_correcta": "b",
+    "fuente": "Administración - Gestión organizacional - Innovación"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁL ES EL OBJETIVO DE LA SEGURIDAD FÍSICA EN ESTABLECIMIENTOS NAVALES?",
+    "opciones": {
+      "a": "ÚNICAMENTE CONTROLAR EL ACCESO DE VISITANTES",
+      "b": "PROTEGER PERSONAS, BIENES E INFORMACIÓN CONTRA AMENAZAS Y RIESGOS",
+      "c": "ELIMINAR COMPLETAMENTE EL ACCESO A LAS INSTALACIONES",
+      "d": "CREAR UN AMBIENTE RESTRICTIVO SIN FUNCIONALIDAD"
+    },
+    "respuesta_correcta": "b",
+    "fuente": "DAM 1.3.4.6 - Seguridad física"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "verdadero_falso",
+    "pregunta": "LA PREVENCIÓN DE INCENDIOS EN ESTABLECIMIENTOS NAVALES REQUIERE IDENTIFICAR FUENTES DE IGNICIÓN Y ELIMINAR CONDICIONES QUE FAVOREZCAN LA COMBUSTIÓN.",
+    "respuesta_correcta": "a",
+    "fuente": "DAM 1.3.1.3.5 - Prevención de incendios"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁL ES LA IMPORTANCIA DE LA CAPACITACIÓN EN SEGURIDAD PARA EL PERSONAL NAVAL?",
+    "opciones": {
+      "a": "NO ES IMPORTANTE",
+      "b": "DESARROLLAR CONOCIMIENTOS Y HABILIDADES PARA PREVENIR ACCIDENTES Y RESPONDER A EMERGENCIAS",
+      "c": "SOLO PARA CUMPLIR REQUISITOS ADMINISTRATIVOS",
+      "d": "REEMPLAZAR LA EXPERIENCIA PRÁCTICA"
+    },
+    "respuesta_correcta": "b",
+    "fuente": "DAM 1.10 - Capacitación en seguridad"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁL ES EL PROPÓSITO DEL MEMORIAL DE SERVICIOS EN LA CARRERA MILITAR?",
+    "opciones": {
+      "a": "ÚNICAMENTE REGISTRAR FALTAS Y SANCIONES",
+      "b": "DOCUMENTAR EL HISTORIAL COMPLETO DE SERVICIOS, EVALUACIONES Y MÉRITOS DEL PERSONAL",
+      "c": "JUSTIFICAR DESPIDOS ARBITRARIOS",
+      "d": "ELIMINAR LA NECESIDAD DE EVALUACIONES PERIÓDICAS"
+    },
+    "respuesta_correcta": "b",
+    "fuente": "Manual para la integración del memorial de servicios - Memorial de servicios"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "verdadero_falso",
+    "pregunta": "EL PROCESO DE EVALUACIÓN DEL PERSONAL NAVAL INCLUYE PERÍODOS DEFINIDOS, EVALUADORES ESPECÍFICOS Y PROCEDIMIENTOS DE ACLARACIÓN.",
+    "respuesta_correcta": "a",
+    "fuente": "Manual para la integración de la hoja de actuación - Del proceso"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁL ES EL PAPEL DEL REVISOR EN EL PROCESO DE EVALUACIÓN DEL PERSONAL MILITAR?",
+    "opciones": {
+      "a": "ÚNICAMENTE APROBAR TODAS LAS EVALUACIONES SIN REVISIÓN",
+      "b": "VERIFICAR LA OBJETIVIDAD Y JUSTICIA DE LAS EVALUACIONES REALIZADAS",
+      "c": "CAMBIAR ARBITRARIAMENTE LAS CALIFICACIONES",
+      "d": "ELIMINAR LA RESPONSABILIDAD DEL EVALUADOR"
+    },
+    "respuesta_correcta": "b",
+    "fuente": "Manual para la integración de la hoja de actuación - Revisor"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁL ES EL OBJETIVO DEL PROCEDIMIENTO DE ACLARACIÓN EN LA EVALUACIÓN DEL DESEMPEÑO?",
+    "opciones": {
+      "a": "PERMITIR QUE EL EVALUADO CUESTIONE Y ACLARE ASPECTOS DE SU EVALUACIÓN",
+      "b": "JUSTIFICAR CUALQUIER CALIFICACIÓN SIN IMPORTAR LA EVIDENCIA",
+      "c": "ELIMINAR LA POSIBILIDAD DE RECURSO",
+      "d": "AUMENTAR ARBITRARIAMENTE LAS CALIFICACIONES"
+    },
+    "respuesta_correcta": "a",
+    "fuente": "Manual para la integración de la hoja de actuación - Procedimiento de aclaración"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "verdadero_falso",
+    "pregunta": "LA RESPONSABILIDAD DE LAS ACLARACIONES EN LA EVALUACIÓN RECAE EN EL EVALUADO, REVISOR Y COMANDANTE DE MANERA COORDINADA.",
+    "respuesta_correcta": "a",
+    "fuente": "Manual para la integración de la hoja de actuación - Responsables de aclaraciones"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁL ES LA IMPORTANCIA DE LA CULTURA NAVAL EN LA FORMACIÓN DEL PERSONAL MILITAR?",
+    "opciones": {
+      "a": "NO TIENE IMPORTANCIA EN LA FORMACIÓN",
+      "b": "TRANSMITIR VALORES, TRADICIONES Y PRINCIPIOS QUE DEFINEN LA IDENTIDAD MILITAR",
+      "c": "SOLO PARA CEREMONIAS Y ACTOS PROTOCOLARIOS",
+      "d": "REEMPLAZAR LA CAPACITACIÓN TÉCNICA"
+    },
+    "respuesta_correcta": "b",
+    "fuente": "Síntesis de Cultura Naval - Cultura Naval"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁL ES EL PROPÓSITO DE LA DOCTRINA EN LA ARMADA DE MÉXICO?",
+    "opciones": {
+      "a": "ÚNICAMENTE ESTABLECER REGLAS DISCIPLINARIAS",
+      "b": "PROPORCIONAR PRINCIPIOS Y DIRECTRICES PARA LA CONDUCCIÓN DE OPERACIONES Y ADMINISTRACIÓN",
+      "c": "ELIMINAR LA INICIATIVA DEL PERSONAL",
+      "d": "REEMPLAZAR LAS LEYES CIVILES"
+    },
+    "respuesta_correcta": "b",
+    "fuente": "Manual para la integración de la hoja de actuación - Doctrina"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "verdadero_falso",
+    "pregunta": "LOS COSTOS VARIABLES AUMENTAN O DISMINUYEN PROPORCIONALMENTE CON EL VOLUMEN DE PRODUCCIÓN O ACTIVIDAD.",
+    "respuesta_correcta": "a",
+    "fuente": "Administración de costos - Costos variables"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁL ES LA DIFERENCIA ENTRE COSTOS DIRECTOS E INDIRECTOS EN LA ADMINISTRACIÓN DE COSTOS?",
+    "opciones": {
+      "a": "NO EXISTE DIFERENCIA ENTRE AMBOS",
+      "b": "LOS DIRECTOS SE ASIGNAN DIRECTAMENTE AL PRODUCTO Y LOS INDIRECTOS REQUIEREN PRORRATEO",
+      "c": "LOS INDIRECTOS SON MÁS IMPORTANTES QUE LOS DIRECTOS",
+      "d": "SOLO EXISTEN LOS COSTOS DIRECTOS"
+    },
+    "respuesta_correcta": "b",
+    "fuente": "Administración de costos - Costos directos e indirectos"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁL ES EL OBJETIVO DE LA ADMINISTRACIÓN DE ADQUISICIONES EN LA SECTOR PÚBLICO?",
+    "opciones": {
+      "a": "COMPRAR AL PROVEEDOR MÁS BARATO SIN CONSIDERAR CALIDAD",
+      "b": "OBTENER BIENES Y SERVICIOS DE CALIDAD AL MEJOR PRECIO MEDIANTE PROCESOS TRANSPARENTES",
+      "c": "FAVORECER A PROVEEDORES ESPECÍFICOS",
+      "d": "ELIMINAR TODOS LOS CONTROLES EN LAS COMPRAS"
+    },
+    "respuesta_correcta": "b",
+    "fuente": "DAM 1.1.3.1 - Macroproceso de adquisiciones"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "verdadero_falso",
+    "pregunta": "LA ADMINISTRACIÓN ESTRATÉGICA CONSIDERA EL ANÁLISIS DEL ENTORNO EXTERNO E INTERNO PARA FORMULAR ESTRATEGIAS COMPETITIVAS.",
+    "respuesta_correcta": "a",
+    "fuente": "Administración - Una perspectiva global - Administración estratégica"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁL ES LA IMPORTANCIA DE LA RESPONSABILIDAD SOCIAL CORPORATIVA EN LAS ORGANIZACIONES MODERNAS?",
+    "opciones": {
+      "a": "NO TIENE IMPORTANCIA",
+      "b": "CONTRIBUIR AL BIENESTAR SOCIAL Y AMBIENTAL MIENTRAS SE GENERAN GANANCIAS",
+      "c": "SOLO PARA MEJORAR LA IMAGEN PÚBLICA",
+      "d": "REEMPLAZAR LA RESPONSABILIDAD LEGAL"
+    },
+    "respuesta_correcta": "b",
+    "fuente": "Administración - Gestión organizacional - Responsabilidad social"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "opcion_multiple",
+    "pregunta": "¿CUÁL ES EL IMPACTO DE LA GLOBALIZACIÓN EN LA ADMINISTRACIÓN CONTEMPORÁNEA?",
+    "opciones": {
+      "a": "NO TIENE IMPACTO",
+      "b": "REQUIERE ADAPTACIÓN A MERCADOS INTERNACIONALES Y COMPETENCIA GLOBAL",
+      "c": "SOLO AFECTA A GRANDES CORPORACIONES",
+      "d": "ELIMINA LA NECESIDAD DE ESTRATEGIA LOCAL"
+    },
+    "respuesta_correcta": "b",
+    "fuente": "Administración - Una perspectiva global - Globalización"
+  },
+  {
+    "tema": "Conocimientos Especificos",
+    "tipo": "verdadero_falso",
+    "pregunta": "LA ÉTICA EN LOS NEGOCIOS ES FUNDAMENTAL PARA MANTENER LA CONFIANZA Y LA REPUTACIÓN ORGANIZACIONAL.",
+    "respuesta_correcta": "a",
+    "fuente": "Administración - Gestión organizacional - Ética empresarial"
+  }
+]
