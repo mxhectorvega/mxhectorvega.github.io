@@ -433,7 +433,7 @@ function renderConfigExamen(){
         <label>${t}</label>
         <div style="display:flex;align-items:center;gap:10px;">
           <span class="avail">${c[t]} disponibles</span>
-          <input type="number" class="temaQty" data-tema="${t}" min="0" max="${c[t]}" value="${Math.min(c[t],10)}" ${c[t]===0?'disabled':''}>
+          <input type="number" class="temaQty" data-tema="${t}" min="0" max="${c[t]}" value="${c[t]}" ${c[t]===0?'disabled':''}>
         </div>
       </div>`).join('')}
     <div style="margin-top:14px;">
